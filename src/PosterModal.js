@@ -153,7 +153,7 @@ export function MiniBarChart({ data, color = "bg-rose-500", numColor, numStyle, 
   const nc = numColor || "text-rose-600";
   const vc = valColor || "text-gray-500";
   const lc = labelColor || "text-gray-400";
-  const containerH = "h-[68px]";
+  const containerH = "h-[72px]";
   if (data.length === 1) {
     return (
       <div className={`flex items-end gap-2 ${containerH}`}>
@@ -204,12 +204,12 @@ export default function PosterModal({ movie, onClose, theme = "current", trendDa
   return (
     <div
       className="animate-fadeIn"
-      style={{ position: 'fixed', inset: 0, zIndex: 9999, display: 'flex', alignItems: 'center', justifyContent: 'center', backgroundColor: t.overlay, backdropFilter: 'blur(4px)', overflow: 'auto', padding: '24px 0' }}
+      style={{ position: 'fixed', inset: 0, zIndex: 9999, display: 'flex', flexDirection: 'column', alignItems: 'center', backgroundColor: t.overlay, backdropFilter: 'blur(4px)', overflowY: 'auto', WebkitOverflowScrolling: 'touch', padding: '24px 0 80px' }}
       onClick={onClose}
     >
       <div
-        className={`relative rounded-2xl shadow-2xl max-w-4xl w-full mx-3 sm:mx-4 animate-scaleIn my-auto ${t.textColor}`}
-        style={{ padding: '16px', background: t.cardBg, border: t.cardBorder }}
+        className={`relative rounded-2xl shadow-2xl max-w-4xl w-full mx-3 sm:mx-4 animate-scaleIn ${t.textColor}`}
+        style={{ padding: '16px', background: t.cardBg, border: t.cardBorder, flexShrink: 0 }}
         onClick={(e) => e.stopPropagation()}
       >
         <button
@@ -224,7 +224,7 @@ export default function PosterModal({ movie, onClose, theme = "current", trendDa
 
         <div className="flex flex-col md:flex-row gap-4 md:gap-5 md:items-stretch">
           <div className="shrink-0 md:w-80">
-            <img src={hiResPoster} alt={movie.title} className="w-full max-h-[50vh] md:max-h-none md:h-full object-cover rounded-xl" />
+            <img src={hiResPoster} alt={movie.title} className="w-full md:h-full object-contain md:object-cover rounded-xl" />
           </div>
 
           <div className="flex-1 flex flex-col justify-between md:pr-4 min-h-0">
@@ -299,7 +299,7 @@ export default function PosterModal({ movie, onClose, theme = "current", trendDa
             </div>
 
             <div className="mt-3">
-              <p className={`text-[10px] ${t.labelColor} uppercase tracking-wider mb-3`}>Weekly Trend ($M)</p>
+              <p className={`text-[10px] ${t.labelColor} uppercase tracking-wider mb-4`}>Weekly Trend ($M)</p>
               <MiniBarChart
                 data={trend}
                 color={t.trendBar}

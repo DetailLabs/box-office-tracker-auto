@@ -3,7 +3,7 @@ import { formatMoney, formatMoneyFull } from "./data";
 import PosterModal, { MiniBarChart, trendData as defaultTrendData } from "./PosterModal";
 import Analytics from "./AnalyticsBase";
 
-function RTBadge({ score, type = "critics" }) {
+function RTBadge({ score, type = "critics", hideIcon = false }) {
   if (score === null || score === undefined) return null;
   const isFresh = score >= 60;
   const icon = type === "critics"
@@ -14,7 +14,7 @@ function RTBadge({ score, type = "critics" }) {
     : "text-amber-400";
   return (
     <span className={`inline-flex items-center gap-0.5 text-xs font-semibold ${color}`}>
-      <span className="text-[11px]">{icon}</span>
+      {!hideIcon && <span className="text-[11px]">{icon}</span>}
       {score}%
     </span>
   );
@@ -85,14 +85,15 @@ export default function Midnight({ darkToggle, page, setPage, weekends, selected
       <>
       {/* Hero */}
       <div className="max-w-6xl mx-auto px-4 md:px-6 pt-8 pb-8">
-        <div className="rounded-2xl md:h-[500px]" style={{ background: '#1a1a1a', border: '1px solid #262626' }}>
-          <div className="flex flex-col md:flex-row gap-4 md:gap-6 p-4 md:p-6 h-full overflow-hidden">
-            <img
-              src={topMovie.poster.replace("/w500/", "/w780/")}
-              alt={topMovie.title}
-              className="w-full max-h-[55vh] md:max-h-none md:w-72 rounded-xl shrink-0"
-              style={{ objectFit: 'cover' }}
-            />
+        <div className="rounded-2xl" style={{ background: '#1a1a1a', border: '1px solid #262626' }}>
+          <div className="flex flex-col md:flex-row md:items-stretch gap-4 md:gap-6 p-4 md:p-6">
+            <div className="shrink-0 md:w-72">
+              <img
+                src={topMovie.poster.replace("/w500/", "/w780/")}
+                alt={topMovie.title}
+                className="w-full md:h-full rounded-xl object-contain md:object-cover"
+              />
+            </div>
             <div className="flex-1 flex flex-col justify-between min-h-0">
               <div>
                 <div className="flex items-center gap-2 mb-2">
@@ -112,31 +113,37 @@ export default function Midnight({ darkToggle, page, setPage, weekends, selected
                 <p className="text-sm text-gray-500 mb-3">
                   {topMovie.rating} · {topMovie.genre}{topMovie.runtime ? ` · ${Math.floor(topMovie.runtime / 60)}h ${topMovie.runtime % 60}m` : ''}
                 </p>
-                <a href={topMovie.rottentomatoes} target="_blank" rel="noopener noreferrer" className="inline-flex items-center gap-4 mb-3 hover:opacity-70 transition-opacity">
-                  <div className="flex items-center gap-1">
-                    <span className="text-base">🍅</span>
-                    <span className="text-sm font-bold">{topMovie.rt.critics}%</span>
-                  </div>
-                  {topMovie.rt.audience && (
-                    <div className="flex items-center gap-1">
-                      <span className="text-base">🍿</span>
-                      <span className="text-sm font-bold">{topMovie.rt.audience}%</span>
+                <div className="flex items-center gap-4 mb-3 pb-3" style={{ borderBottom: '1px solid #333' }}>
+                  <a href={topMovie.rottentomatoes} target="_blank" rel="noopener noreferrer" className="flex items-center gap-1 hover:opacity-70 transition-opacity">
+                    <span className="text-lg">🍅</span>
+                    <div>
+                      <p className="text-sm font-bold">{topMovie.rt.critics}%</p>
+                      <p className="text-[10px] text-gray-500">Critics</p>
                     </div>
+                  </a>
+                  {topMovie.rt.audience && (
+                    <a href={topMovie.rottentomatoes} target="_blank" rel="noopener noreferrer" className="flex items-center gap-1 hover:opacity-70 transition-opacity">
+                      <span className="text-lg">🍿</span>
+                      <div>
+                        <p className="text-sm font-bold">{topMovie.rt.audience}%</p>
+                        <p className="text-[10px] text-gray-500">Audience</p>
+                      </div>
+                    </a>
                   )}
-                </a>
+                </div>
                 {topMovie.reviews && (
-                  <div className="space-y-1">
+                  <div className="space-y-1.5 mb-3 pb-3" style={{ borderBottom: '1px solid #333' }}>
                     {topMovie.reviews.slice(0, 3).map((r, i) => (
-                      <a key={i} href={topMovie.rottentomatoes ? `${topMovie.rottentomatoes}/reviews` : '#'} target="_blank" rel="noopener noreferrer" className="block text-sm text-gray-400 italic hover:text-amber-400 transition-colors leading-snug">
-                        "{r.quote}" <span className="text-gray-500 not-italic text-xs font-medium">— {r.source}</span>
+                      <a key={i} href={topMovie.rottentomatoes ? `${topMovie.rottentomatoes}/reviews` : '#'} target="_blank" rel="noopener noreferrer" className="block text-xs text-gray-400 italic leading-relaxed hover:text-amber-400 transition-colors">
+                        "{r.quote}" <span className="text-gray-500 not-italic font-medium">— {r.source}</span>
                       </a>
                     ))}
                   </div>
                 )}
               </div>
               <div>
-                <a href={topMovie.boxofficemojo} target="_blank" rel="noopener noreferrer" className="block hover:opacity-80 -mx-1 px-1 rounded-lg transition-colors">
-                  <div className="grid grid-cols-2 gap-x-6 gap-y-2 pt-3 mb-2" style={{ borderTop: '1px solid #262626' }}>
+                <a href={topMovie.boxofficemojo} target="_blank" rel="noopener noreferrer" className="block hover:opacity-80 rounded-lg transition-colors">
+                  <div className="grid grid-cols-2 gap-x-6 gap-y-2 pt-3 mb-2">
                     <div>
                       <p className="text-[10px] text-gray-500 uppercase tracking-wider">Weekend Gross</p>
                       <p className="text-lg font-bold" style={{ color: '#f59e0b' }}>{formatMoneyFull(topMovie.weekend)}</p>
@@ -160,8 +167,8 @@ export default function Midnight({ darkToggle, page, setPage, weekends, selected
                   const allWeeks = entry ? entry.domestic : [+(topMovie.weekend / 1_000_000).toFixed(1)];
                   const dom = allWeeks.slice(0, topMovie.weeks);
                   return (
-                    <div className="mt-2 h-[84px]">
-                      <p className="text-[10px] text-gray-500 uppercase tracking-wider mb-3">Weekly Trend ($M)</p>
+                    <div className="mt-2">
+                      <p className="text-[10px] text-gray-500 uppercase tracking-wider mb-4">Weekly Trend ($M)</p>
                       <MiniBarChart data={dom} color="bg-amber-500" numStyle={{ color: "#f59e0b" }} valColor="text-gray-400" labelColor="text-gray-500" />
                     </div>
                   );
@@ -178,10 +185,10 @@ export default function Midnight({ darkToggle, page, setPage, weekends, selected
           <span className="w-8 h-px" style={{ background: '#333' }} />
           Full Top 10
         </h2>
-        <div className="rounded-2xl overflow-x-auto" style={{ background: '#1a1a1a', border: '1px solid #262626' }}>
+        <div className="rounded-2xl" style={{ background: '#1a1a1a', border: '1px solid #262626' }}>
           <table className="w-full">
             <thead>
-              <tr className="text-xs text-gray-500 uppercase tracking-wider" style={{ borderBottom: '1px solid #262626' }}>
+              <tr className="text-xs text-gray-500 uppercase tracking-wider sticky top-[49px] md:top-[57px] z-10" style={{ borderBottom: '1px solid #262626', background: '#1a1a1a' }}>
                 <th className="text-left pl-3 md:pl-6 py-3 font-medium">#</th>
                 <th className="text-left py-3 font-medium">Film</th>
                 <th className="text-left py-3 font-medium hidden md:table-cell">Studio</th>
@@ -213,9 +220,9 @@ export default function Midnight({ darkToggle, page, setPage, weekends, selected
                   </td>
                   <td className="py-3 text-xs text-gray-500 hidden md:table-cell">{movie.studio}</td>
                   <td className="py-3 text-xs text-gray-500 hidden md:table-cell">{movie.genre}</td>
-                  <td className="py-3 text-center hidden md:table-cell"><RTBadge score={movie.rt.critics} type="critics" /></td>
+                  <td className="py-3 text-center hidden md:table-cell"><RTBadge score={movie.rt.critics} type="critics" hideIcon /></td>
                   <td className="py-3 text-center hidden md:table-cell">
-                    {movie.rt.audience ? <RTBadge score={movie.rt.audience} type="audience" /> : <span className="text-xs text-gray-600">—</span>}
+                    {movie.rt.audience ? <RTBadge score={movie.rt.audience} type="audience" hideIcon /> : <span className="text-xs text-gray-600">—</span>}
                   </td>
                   <td className="py-3 text-right font-semibold text-sm text-gray-200">{formatMoney(movie.weekend)}</td>
                   <td className="py-3 text-right hidden md:table-cell">

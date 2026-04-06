@@ -3,7 +3,7 @@ import { movies, weekendDate, formatMoney, formatMoneyFull } from "./data";
 import PosterModal, { MiniBarChart, trendData } from "./PosterModal";
 import Analytics from "./AnalyticsBase";
 
-function RTBadge({ score, type = "critics" }) {
+function RTBadge({ score, type = "critics", hideIcon = false }) {
   if (score === null || score === undefined) return null;
   const isFresh = score >= 60;
   const icon = type === "critics"
@@ -14,7 +14,7 @@ function RTBadge({ score, type = "critics" }) {
     : "text-amber-400";
   return (
     <span className={`inline-flex items-center gap-0.5 text-xs font-semibold ${color}`}>
-      <span className="text-[11px]">{icon}</span>
+      {!hideIcon && <span className="text-[11px]">{icon}</span>}
       {score}%
     </span>
   );
@@ -189,9 +189,9 @@ export default function Noir() {
                   </td>
                   <td className="py-3 text-xs text-gray-600">{movie.studio}</td>
                   <td className="py-3 text-xs text-gray-600">{movie.genre}</td>
-                  <td className="py-3 text-center"><RTBadge score={movie.rt.critics} type="critics" /></td>
+                  <td className="py-3 text-center"><RTBadge score={movie.rt.critics} type="critics" hideIcon /></td>
                   <td className="py-3 text-center">
-                    {movie.rt.audience ? <RTBadge score={movie.rt.audience} type="audience" /> : <span className="text-xs text-gray-700">—</span>}
+                    {movie.rt.audience ? <RTBadge score={movie.rt.audience} type="audience" hideIcon /> : <span className="text-xs text-gray-700">—</span>}
                   </td>
                   <td className="py-3 text-right font-bold text-sm text-gray-200">{formatMoney(movie.weekend)}</td>
                   <td className="py-3 text-right">
