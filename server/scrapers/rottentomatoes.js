@@ -93,8 +93,15 @@ async function getScoresAndReviews(titles) {
       console.log(`[RT] Scores for "${title}": Critics=${critics}, Audience=${audience}`);
 
       // Extract critic reviews from the main movie page
-      const reviews = extractCriticReviews($, html);
+      let reviews = extractCriticReviews($, html);
       console.log(`[RT] Found ${reviews.length} critic reviews for "${title}"`);
+
+      // Fall back to audience reviews if not enough critic reviews
+      if (reviews.length < 3) {
+        const audienceReviews = extractAudienceReviews($, html);
+        console.log(`[RT] Found ${audienceReviews.length} audience reviews for "${title}" (fallback)`);
+        reviews = reviews.concat(audienceReviews).slice(0, 3);
+      }
 
       results[title] = { critics, audience, rottentomatoes: rtUrl, reviews };
 
@@ -198,6 +205,52 @@ function extractCriticReviews($, html) {
     // Match pubs with contents (they appear in order on the page)
     for (let i = 0; i < Math.min(pubs.length, contents.length) && reviews.length < 3; i++) {
       addReview(pubs[i], contents[i]);
+    }
+  }
+
+  return reviews;
+}
+
+/**
+ * Extract audience reviews as fallback when critic reviews are scarce.
+ * Audience review cards lack "approved-critic"/"top-critic" attributes.
+ */
+function extractAudienceReviews($, html) {
+  const reviews = [];
+  const seen = new Set();
+
+  function addReview(quote) {
+    if (reviews.length >= 3) return false;
+    quote = (quote || '').trim().replace(/\s+/g, ' ');
+    if (!quote || quote.length < 20 || quote.length > 300) return false;
+    const key = quote.substring(0, 50).toLowerCase();
+    if (seen.has(key)) return false;
+    seen.add(key);
+    reviews.push({ source: 'Audience', quote: truncateQuote(quote) });
+    return true;
+  }
+
+  // Look for review-card elements that are NOT critic reviews
+  $('review-card').each((_, el) => {
+    if (reviews.length >= 3) return;
+    const card = $(el);
+    const cardHtml = $.html(card);
+    if (cardHtml.includes('approved-critic') || cardHtml.includes('top-critic')) return;
+
+    let quote = card.find('[slot="content"]').text().trim();
+    if (!quote) {
+      quote = card.find('[slot="review"]').text().trim();
+    }
+    addReview(quote);
+  });
+
+  // Regex fallback for audience review content
+  if (reviews.length < 3) {
+    const contentRegex = /slot="content">\s*([\s\S]*?)\s*<\/span>/g;
+    let m;
+    while ((m = contentRegex.exec(html)) !== null && reviews.length < 3) {
+      const text = m[1].trim().replace(/\s+/g, ' ');
+      addReview(text);
     }
   }
 
