@@ -1,0 +1,30 @@
+{
+  "name": "box-office-tracker-auto",
+  "version": "1.0.0",
+  "private": true,
+  "proxy": "http://localhost:3001",
+  "dependencies": {
+    "@tailwindcss/postcss": "^4.2.2",
+    "axios": "^1.7.0",
+    "cheerio": "^1.0.0",
+    "express": "^4.21.0",
+    "node-cron": "^3.0.3",
+    "postcss": "^8.5.8",
+    "react": "^19.2.4",
+    "react-dom": "^19.2.4",
+    "react-scripts": "5.0.1",
+    "recharts": "^3.8.1",
+    "tailwindcss": "^4.2.2"
+  },
+  "scripts": {
+    "start": "node server/index.js",
+    "dev": "react-scripts start",
+    "build": "react-scripts build",
+    "refresh": "node -e \"require('./server/refresh').refreshAll().then(() => console.log('Done')).catch(console.error)\"",
+    "test": "react-scripts test"
+  },
+  "browserslist": {
+    "production": [">0.2%", "not dead", "not op_mini all"],
+    "development": ["last 1 chrome version", "last 1 firefox version", "last 1 safari version"]
+  }
+}
