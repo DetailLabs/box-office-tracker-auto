@@ -71,14 +71,7 @@ async function refreshAll() {
     };
   });
 
-  // Build new weekend entry
-  const weekendEntry = {
-    id: getWeekendId(now),
-    label: getWeekendLabel(now),
-    movies,
-  };
-
-  // Load existing data
+  // Load existing data (needed for review carry-forward)
   let weekends = [];
   if (fs.existsSync(WEEKENDS_FILE)) {
     try {
@@ -88,6 +81,35 @@ async function refreshAll() {
       weekends = [];
     }
   }
+
+  // Carry forward reviews from previous weekends if the current scrape has fewer
+  // Build a map of title -> best reviews across all existing weekends
+  const prevBestReviews = {};
+  for (const w of weekends) {
+    for (const m of w.movies) {
+      const existing = prevBestReviews[m.title];
+      const reviews = m.reviews || [];
+      if (!existing || reviews.length > existing.length) {
+        prevBestReviews[m.title] = reviews;
+      }
+    }
+  }
+
+  for (const movie of movies) {
+    const currentReviews = movie.reviews || [];
+    const prev = prevBestReviews[movie.title];
+    if (currentReviews.length < 3 && prev && prev.length > currentReviews.length) {
+      movie.reviews = prev;
+      console.log(`[REFRESH] Carried forward ${prev.length} reviews for "${movie.title}" (scrape had ${currentReviews.length})`);
+    }
+  }
+
+  // Build new weekend entry
+  const weekendEntry = {
+    id: getWeekendId(now),
+    label: getWeekendLabel(now),
+    movies,
+  };
 
   // Check if this weekend already exists (avoid duplicates)
   const existingIdx = weekends.findIndex(w => w.id === weekendEntry.id);
