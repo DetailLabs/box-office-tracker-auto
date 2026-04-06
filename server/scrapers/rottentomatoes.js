@@ -92,9 +92,20 @@ async function getScoresAndReviews(titles) {
 
       console.log(`[RT] Scores for "${title}": Critics=${critics}, Audience=${audience}`);
 
-      // Extract critic reviews from the main movie page
-      let reviews = extractCriticReviews($, html);
-      console.log(`[RT] Found ${reviews.length} critic reviews for "${title}"`);
+      // Extract emsId for API-based review fetching
+      const emsMatch = html.match(/emsId["':]+\s*["']([a-f0-9-]+)/);
+      let reviews = [];
+
+      if (emsMatch) {
+        // Use RT reviews API for better top-critic coverage
+        reviews = await fetchReviewsFromAPI(emsMatch[1], title);
+      }
+
+      // Fall back to HTML scraping if API fails
+      if (reviews.length === 0) {
+        reviews = extractCriticReviews($, html);
+        console.log(`[RT] Found ${reviews.length} critic reviews from HTML for "${title}"`);
+      }
 
       // Fall back to audience reviews if not enough critic reviews
       if (reviews.length < 3) {
@@ -121,6 +132,85 @@ async function getScoresAndReviews(titles) {
 }
 
 /**
+ * Fetch top critic reviews via RT's internal API, prioritizing US top critics.
+ * Returns up to 3 reviews sorted by: US top-critic > non-US top-critic.
+ */
+async function fetchReviewsFromAPI(emsId, title) {
+  try {
+    const url = `https://www.rottentomatoes.com/napi/rtcf/v1/movies/${emsId}/reviews`;
+    const { data } = await axios.get(url, {
+      headers: {
+        ...HEADERS,
+        Accept: 'application/json',
+        Referer: `https://www.rottentomatoes.com/m/`,
+      },
+      params: { type: 'critic', topOnly: true, pageCount: 20 },
+      timeout: 15000,
+      validateStatus: (status) => status < 500,
+    });
+
+    if (!data?.reviews?.length) {
+      console.log(`[RT] API returned 0 top-critic reviews for "${title}"`);
+      return [];
+    }
+
+    // Separate US vs non-US top critics
+    const usReviews = [];
+    const otherReviews = [];
+
+    for (const r of data.reviews) {
+      const quote = (r.reviewQuote || '').replace(/&#\d+;/g, c => {
+        const code = parseInt(c.slice(2, -1), 10);
+        return String.fromCharCode(code);
+      }).trim().replace(/\s+/g, ' ');
+      const pub = r.publication?.name?.trim();
+      if (!quote || quote.length < 20 || quote.length > 300 || !pub) continue;
+
+      const review = { source: pub, quote: truncateQuote(quote) };
+      if (isUSPublication(pub)) {
+        usReviews.push(review);
+      } else {
+        otherReviews.push(review);
+      }
+    }
+
+    // Combine: US first, then others, take top 3
+    const reviews = [...usReviews, ...otherReviews].slice(0, 3);
+    console.log(`[RT] API found ${reviews.length} top-critic reviews for "${title}" (${usReviews.length} US, ${otherReviews.length} other)`);
+    return reviews;
+  } catch (err) {
+    console.warn(`[RT] API review fetch failed for "${title}": ${err.message}`);
+    return [];
+  }
+}
+
+// Major US-based publications for prioritizing American critics
+const US_PUBLICATIONS = new Set([
+  'the new york times', 'the washington post', 'los angeles times', 'chicago tribune',
+  'chicago sun-times', 'the wall street journal', 'usa today', 'new york post',
+  'boston globe', 'san francisco chronicle', 'variety', 'the hollywood reporter',
+  'deadline', 'indiewire', 'vulture', 'the wrap', 'entertainment weekly',
+  'rolling stone', 'time magazine', 'time', 'the new yorker', 'vanity fair',
+  'esquire', 'gq', 'vogue', 'the atlantic', 'slate', 'salon', 'the daily beast',
+  'the a.v. club', 'rogerebert.com', 'collider', 'screen rant', 'cinemablend',
+  'ign', 'gamespot', 'polygon', 'the verge', 'mashable', 'buzzfeed',
+  'associated press', 'npr', 'cnn', 'forbes', 'newsweek', 'the ringer',
+  'paste magazine', 'consequence', 'slant magazine', 'film threat',
+  'moviefreak.com', 'screen daily', 'the playlist', 'awards daily',
+  'the film stage', 'we live entertainment', 'joblo', 'flickering myth',
+  'birth.movies.death', 'film inquiry', 'the austin chronicle', 'village voice',
+  'new york magazine', 'the observer', 'the seattle times', 'detroit news',
+  'arizona republic', 'miami herald', 'dallas morning news', 'houston chronicle',
+  'philadelphia inquirer', 'minneapolis star tribune', 'st. louis post-dispatch',
+  'denver post', 'pittsburgh post-gazette', 'time out new york',
+]);
+
+function isUSPublication(pub) {
+  if (!pub) return false;
+  return US_PUBLICATIONS.has(pub.toLowerCase());
+}
+
+/**
  * Extract critic reviews from the main RT movie page.
  * RT uses <review-card> web components with specific slot attributes.
  */
@@ -142,26 +232,41 @@ function extractCriticReviews($, html) {
   }
 
   // Strategy 1: Parse <review-card> elements (RT's current structure)
-  // Critic review cards have attributes like "approved-critic" or "top-critic"
-  $('review-card').each((_, el) => {
-    if (reviews.length >= 3) return;
-    const card = $(el);
-    const cardHtml = $.html(card);
-
-    // Only process critic reviews (have approved-critic or top-critic attribute)
-    if (!cardHtml.includes('approved-critic') && !cardHtml.includes('top-critic')) return;
-
-    // Extract publication from rt-link[slot="publication"]
+  // Priority: US top-critic > non-US top-critic > US approved-critic > non-US approved-critic
+  function extractCardReview(card) {
     const publication = card.find('[slot="publication"]').text().trim();
-
-    // Extract review text from drawer-more[slot="review"] > span[slot="content"]
     let quote = card.find('[slot="review"] [slot="content"]').text().trim();
     if (!quote) {
       quote = card.find('[slot="review"]').text().trim();
     }
+    return { publication, quote };
+  }
 
-    addReview(publication, quote);
+  // Collect all critic cards into buckets by priority
+  const buckets = { usTop: [], nonUsTop: [], usApproved: [], nonUsApproved: [] };
+  $('review-card').each((_, el) => {
+    const card = $(el);
+    const cardHtml = $.html(card);
+    const isTop = cardHtml.includes('top-critic');
+    const isApproved = cardHtml.includes('approved-critic');
+    if (!isTop && !isApproved) return;
+    const { publication, quote } = extractCardReview(card);
+    if (!publication || !quote) return;
+    const isUS = isUSPublication(publication);
+    if (isTop && isUS) buckets.usTop.push({ publication, quote });
+    else if (isTop) buckets.nonUsTop.push({ publication, quote });
+    else if (isUS) buckets.usApproved.push({ publication, quote });
+    else buckets.nonUsApproved.push({ publication, quote });
   });
+
+  // Add reviews in priority order
+  for (const bucket of [buckets.usTop, buckets.nonUsTop, buckets.usApproved, buckets.nonUsApproved]) {
+    if (reviews.length >= 3) break;
+    for (const { publication, quote } of bucket) {
+      if (reviews.length >= 3) break;
+      addReview(publication, quote);
+    }
+  }
 
   // Strategy 2: Look for review-quote data-qa elements
   if (reviews.length < 3) {
@@ -175,16 +280,19 @@ function extractCriticReviews($, html) {
     });
   }
 
-  // Strategy 3: Regex-based extraction from raw HTML
-  // Match the pattern: slot="publication"...>Publication Name</rt-link> ... slot="content">Review text</span>
+  // Strategy 3: Regex-based extraction from raw HTML (top-critic first, then approved-critic)
   if (reviews.length < 3) {
-    // Find all critic review card blocks
-    const cardPattern = /approved-critic[\s\S]*?slot="publication"[^>]*>([\s\S]*?)<\/rt-link>[\s\S]*?slot="content">([\s\S]*?)<\/span>/g;
+    const topCriticPattern = /top-critic[\s\S]*?slot="publication"[^>]*>([\s\S]*?)<\/rt-link>[\s\S]*?slot="content">([\s\S]*?)<\/span>/g;
     let match;
-    while ((match = cardPattern.exec(html)) !== null && reviews.length < 3) {
-      const publication = match[1].trim();
-      const quote = match[2].trim().replace(/\s+/g, ' ');
-      addReview(publication, quote);
+    while ((match = topCriticPattern.exec(html)) !== null && reviews.length < 3) {
+      addReview(match[1].trim(), match[2].trim().replace(/\s+/g, ' '));
+    }
+  }
+  if (reviews.length < 3) {
+    const approvedCriticPattern = /approved-critic[\s\S]*?slot="publication"[^>]*>([\s\S]*?)<\/rt-link>[\s\S]*?slot="content">([\s\S]*?)<\/span>/g;
+    let match;
+    while ((match = approvedCriticPattern.exec(html)) !== null && reviews.length < 3) {
+      addReview(match[1].trim(), match[2].trim().replace(/\s+/g, ' '));
     }
   }
 

@@ -34,8 +34,8 @@
             "quote": "We all have a finite amount of time on this Earth, and I cannot think of a single reason why you should spend any of you..."
           },
           {
-            "source": "The Travers Take",
-            "quote": "Peachy for fans and painful for newbies, this animated joyride is on the run for box-office glory."
+            "source": "Associated Press",
+            "quote": "Mario creator Shigeru Miyamoto and Illumination founder Chris Meledandri..."
           }
         ]
       },
@@ -62,16 +62,16 @@
         "rottentomatoes": "https://www.rottentomatoes.com/m/project_hail_mary",
         "reviews": [
           {
-            "source": "(All (Parentheses)) (Substack)",
-            "quote": "Among the many things I didn’t need in my life was a stealth sequel to Half Nelson…in space."
-          },
-          {
             "source": "The Atlantic",
             "quote": "This film is not quite the masterpiece its grand visual scale sometimes suggests it’s shooting for."
           },
           {
             "source": "TIME Magazine",
             "quote": "This is the most ambitious picture, in terms of structure and spectacle, that the filmmaking duo of Lord and Miller have..."
+          },
+          {
+            "source": "MovieFreak.com",
+            "quote": "As far as rousing, interstellar science fiction pulp adventures are concerned, directors Phil Lord and Christopher Mille..."
           }
         ]
       },
@@ -91,23 +91,23 @@
         "genre": "Romance / Comedy",
         "rt": {
           "critics": 80,
-          "audience": 78
+          "audience": 77
         },
         "imdb": "https://www.imdb.com/title/tt33071426/",
         "boxofficemojo": "https://www.boxofficemojo.com/release/rl1676574721/",
         "rottentomatoes": "https://www.rottentomatoes.com/m/the_drama",
         "reviews": [
           {
-            "source": "Baltimore Magazine",
-            "quote": "By embracing an outlier and taking the premise to such an extreme, the film lost its grip—both on reality and my interes..."
-          },
-          {
-            "source": "Sight & Sound",
-            "quote": "Committing to realism and relatability for the first time onscreen, Borgli keeps things accessible enough for us to wond..."
-          },
-          {
             "source": "MovieFreak.com",
             "quote": "While there’s plenty of food for thought, by the time this cinematic meal concluded, I still felt famished."
+          },
+          {
+            "source": "Mashable",
+            "quote": "But much like Dream Scenario, his actors give more than his undercooked script deserves."
+          },
+          {
+            "source": "Los Angeles Times",
+            "quote": "&quot;The Drama&quot; is the movie equivalent of a half-glass of Champagne: a toast Borgli trusts us to decide whether i..."
           }
         ]
       },
@@ -138,12 +138,12 @@
             "quote": "The movie, in actuality, is refreshingly mordant about what might really happen if prey and predators were to try bandin..."
           },
           {
-            "source": "The Age (Australia)",
-            "quote": "[The film's] serious side is so well camouflaged by the happy absurdities flitting around on its surface that it could b..."
+            "source": "Los Angeles Times",
+            "quote": "Hoppers features moments of dark humor that never fail to impress, unfolds absolutely stunning action scenes, has its he..."
           },
           {
-            "source": "The Nightly (AU)",
-            "quote": "Hoppers features big set-pieces of hijinks and shenanigans (Flying whales! Melting robot faces!) and it is a laugh riot ..."
+            "source": "NPR",
+            "quote": "Directed by Daniel Chong from a script by Jesse Andrews, this eco-themed sci-fi farce may not be vintage or all-time-gre..."
           }
         ]
       },
@@ -170,16 +170,16 @@
         "rottentomatoes": "https://www.rottentomatoes.com/m/reminders_of_him",
         "reviews": [
           {
-            "source": "Empire Magazine",
-            "quote": "It’s easy on the eye, and indeed the brain, but this is nowhere near as sharply written or plotted as it should be to br..."
+            "source": "Boston Globe",
+            "quote": "If the movie gods are remotely merciful, this horrible adaptation of a 2022 Colleen Hoover novel will top my 10 worst li..."
           },
           {
-            "source": "The Movie Cricket",
-            "quote": "The problem is the script, by Hoover and co-writer Lauren Levine, which puts the actors in situations that only happen i..."
+            "source": "RogerEbert.com",
+            "quote": "It is so preoccupied with tragedy that the romance becomes secondary."
           },
           {
-            "source": "WBAL-TV (Baltimore)",
-            "quote": "Maika Monroe can have chemistry with anyone okay."
+            "source": "San Francisco Chronicle",
+            "quote": "What’s beautiful and impressive about Monroe in this film is her range "
           }
         ]
       },
@@ -199,7 +199,7 @@
         "genre": "Drama / History",
         "rt": {
           "critics": 97,
-          "audience": 96
+          "audience": 95
         },
         "imdb": "https://www.imdb.com/title/tt33305882/",
         "boxofficemojo": "https://www.boxofficemojo.com/release/rl3751116801/",
@@ -210,12 +210,12 @@
             "quote": "It’s an earnest account of a religious movement that still resonates."
           },
           {
-            "source": "Behind The Lens",
-            "quote": "A Great Awakening arrives not merely as a historical drama, but as a cinematic excavation of a spiritual movement that h..."
+            "source": "Audience",
+            "quote": "The message overpowers everything else in A Great Awakening."
           },
           {
-            "source": "Fox 4 Kansas City",
-            "quote": "It is highly effective entertainment."
+            "source": "Audience",
+            "quote": "The faith-based and hagiographic historical drama \"A Great Awakening\" tells Calvinist Methodist preacher George Whitefie..."
           }
         ]
       },
@@ -246,12 +246,12 @@
             "quote": "They Will Kill You isn’t without its issues, but it still manages to slay the majority of them with a crooked smile, a w..."
           },
           {
-            "source": "The Movie Cricket",
-            "quote": "Sokolov seems to find inspiration in everything from \"Oldboy\" to \"Kill Bill\" to \"From Dusk Till Dawn\" "
+            "source": "San Francisco Chronicle",
+            "quote": "This mainly feels like a Radio Silence rehash."
           },
           {
-            "source": "The Reader (Omaha, NE)",
-            "quote": "There’s a long sequence where a detached eyeball goes for a stroll. Heather Graham and Draco Malfoy show up."
+            "source": "The Hollywood Reporter",
+            "quote": "What it is armed for is violence -- lots and lots and lots of violence, so brutally nasty it comes all the way back arou..."
           }
         ]
       },
@@ -278,16 +278,16 @@
         "rottentomatoes": "https://www.rottentomatoes.com/m/dhurandhar_the_revenge",
         "reviews": [
           {
-            "source": "Screen-Space (Substack)",
-            "quote": "I can’t recall a film that utilises a scarred national conscience as a means to justify its hero’s sociopathic proclivit..."
+            "source": "New York Times",
+            "quote": "It’s a movie of the current moment, which isn’t exactly a comfort."
           },
           {
-            "source": "JoySauce.com",
-            "quote": "Overlong, gratuitously violent, and brimming with a self-indulgence that borders on arrogance, Dhurandhar: The Revenge o..."
+            "source": "Audience",
+            "quote": "It’s a movie of the current moment, which isn’t exactly a comfort."
           },
           {
-            "source": "Upper Stall",
-            "quote": "Dhurandhar: The Revenge settles into a groove, where part visceral action spectacle, and part ideologically drives the n..."
+            "source": "Audience",
+            "quote": "Much like the first film, Aditya Dhar's action sequel is a montage of gore and violence, guns and grenades."
           }
         ]
       },
@@ -314,16 +314,16 @@
         "rottentomatoes": "https://www.rottentomatoes.com/m/ready_or_not_2_here_i_come",
         "reviews": [
           {
-            "source": "Cambridge Day",
-            "quote": "Once \"Here I Come\" finally gets going, there’s good, bloody fun to be had."
+            "source": "MovieFreak.com",
+            "quote": "Even if it does take a bit to justify its existence, Ready or Not 2 still ends up being a suitably fun night out at the ..."
           },
           {
-            "source": "Cambridge Day",
-            "quote": "Once &quot;Here I Come&quot; finally gets going, there’s good, bloody fun to be had."
+            "source": "The Daily Beast",
+            "quote": "Thanks to a host of colorful performances and an emphasis on over-the-top violence, they mostly pull off their double-di..."
           },
           {
-            "source": "Seattle Times",
-            "quote": "These aren’t kitchen-sink movies; they’re garbage disposal rejects, alloys composed of leftover scraps."
+            "source": "Mashable",
+            "quote": "Ready or Not 2 goes harder than the original."
           }
         ]
       },
@@ -350,16 +350,16 @@
         "rottentomatoes": "https://www.rottentomatoes.com/m/undertone",
         "reviews": [
           {
-            "source": "Tribune News Service",
-            "quote": "Tuason conducts \"Undertone\" to a fever pitch, a maelstrom of sound and fury that is spookily effective, if frustratingly..."
+            "source": "Detroit News",
+            "quote": "\"Undertone\" does successfully establish Tuason as a skilled filmmaker who can do a lot with a little."
           },
           {
-            "source": "THN",
-            "quote": "Undertone shines a light on just how important sound design is at creating atmosphere, whilst also instilling negative s..."
+            "source": "Mashable",
+            "quote": "I was more impressed by Undertone&apos;s concept than I was entertained by its execution."
           },
           {
-            "source": "Spectrum Culture",
-            "quote": "What makes all this so effective is the overwhelming patience."
+            "source": "MovieFreak.com",
+            "quote": "I will see films in 2025 that I will dislike far more than I do writer-director Ian Tuason’s undertone."
           }
         ]
       }
@@ -392,16 +392,16 @@
         "rottentomatoes": "https://www.rottentomatoes.com/m/project_hail_mary",
         "reviews": [
           {
-            "source": "(All (Parentheses)) (Substack)",
-            "quote": "Among the many things I didn’t need in my life was a stealth sequel to Half Nelson…in space."
-          },
-          {
             "source": "The Atlantic",
             "quote": "This film is not quite the masterpiece its grand visual scale sometimes suggests it’s shooting for."
           },
           {
             "source": "TIME Magazine",
             "quote": "This is the most ambitious picture, in terms of structure and spectacle, that the filmmaking duo of Lord and Miller have..."
+          },
+          {
+            "source": "MovieFreak.com",
+            "quote": "As far as rousing, interstellar science fiction pulp adventures are concerned, directors Phil Lord and Christopher Mille..."
           }
         ]
       },
@@ -432,12 +432,12 @@
             "quote": "The movie, in actuality, is refreshingly mordant about what might really happen if prey and predators were to try bandin..."
           },
           {
-            "source": "The Age (Australia)",
-            "quote": "[The film's] serious side is so well camouflaged by the happy absurdities flitting around on its surface that it could b..."
+            "source": "Los Angeles Times",
+            "quote": "Hoppers features moments of dark humor that never fail to impress, unfolds absolutely stunning action scenes, has its he..."
           },
           {
-            "source": "The Nightly (AU)",
-            "quote": "Hoppers features big set-pieces of hijinks and shenanigans (Flying whales! Melting robot faces!) and it is a laugh riot ..."
+            "source": "NPR",
+            "quote": "Directed by Daniel Chong from a script by Jesse Andrews, this eco-themed sci-fi farce may not be vintage or all-time-gre..."
           }
         ]
       },
@@ -468,12 +468,12 @@
             "quote": "They Will Kill You isn’t without its issues, but it still manages to slay the majority of them with a crooked smile, a w..."
           },
           {
-            "source": "The Movie Cricket",
-            "quote": "Sokolov seems to find inspiration in everything from \"Oldboy\" to \"Kill Bill\" to \"From Dusk Till Dawn\" "
+            "source": "San Francisco Chronicle",
+            "quote": "This mainly feels like a Radio Silence rehash."
           },
           {
-            "source": "The Reader (Omaha, NE)",
-            "quote": "There’s a long sequence where a detached eyeball goes for a stroll. Heather Graham and Draco Malfoy show up."
+            "source": "The Hollywood Reporter",
+            "quote": "What it is armed for is violence -- lots and lots and lots of violence, so brutally nasty it comes all the way back arou..."
           }
         ]
       },
@@ -500,16 +500,16 @@
         "rottentomatoes": "https://www.rottentomatoes.com/m/reminders_of_him",
         "reviews": [
           {
-            "source": "Empire Magazine",
-            "quote": "It’s easy on the eye, and indeed the brain, but this is nowhere near as sharply written or plotted as it should be to br..."
+            "source": "Boston Globe",
+            "quote": "If the movie gods are remotely merciful, this horrible adaptation of a 2022 Colleen Hoover novel will top my 10 worst li..."
           },
           {
-            "source": "The Movie Cricket",
-            "quote": "The problem is the script, by Hoover and co-writer Lauren Levine, which puts the actors in situations that only happen i..."
+            "source": "RogerEbert.com",
+            "quote": "It is so preoccupied with tragedy that the romance becomes secondary."
           },
           {
-            "source": "WBAL-TV (Baltimore)",
-            "quote": "Maika Monroe can have chemistry with anyone okay."
+            "source": "San Francisco Chronicle",
+            "quote": "What’s beautiful and impressive about Monroe in this film is her range "
           }
         ]
       },
@@ -536,16 +536,16 @@
         "rottentomatoes": "https://www.rottentomatoes.com/m/dhurandhar_the_revenge",
         "reviews": [
           {
-            "source": "Screen-Space (Substack)",
-            "quote": "I can’t recall a film that utilises a scarred national conscience as a means to justify its hero’s sociopathic proclivit..."
+            "source": "New York Times",
+            "quote": "It’s a movie of the current moment, which isn’t exactly a comfort."
           },
           {
-            "source": "JoySauce.com",
-            "quote": "Overlong, gratuitously violent, and brimming with a self-indulgence that borders on arrogance, Dhurandhar: The Revenge o..."
+            "source": "Audience",
+            "quote": "It’s a movie of the current moment, which isn’t exactly a comfort."
           },
           {
-            "source": "Upper Stall",
-            "quote": "Dhurandhar: The Revenge settles into a groove, where part visceral action spectacle, and part ideologically drives the n..."
+            "source": "Audience",
+            "quote": "Much like the first film, Aditya Dhar's action sequel is a montage of gore and violence, guns and grenades."
           }
         ]
       },
@@ -572,16 +572,16 @@
         "rottentomatoes": "https://www.rottentomatoes.com/m/ready_or_not_2_here_i_come",
         "reviews": [
           {
-            "source": "Cambridge Day",
-            "quote": "Once \"Here I Come\" finally gets going, there’s good, bloody fun to be had."
+            "source": "MovieFreak.com",
+            "quote": "Even if it does take a bit to justify its existence, Ready or Not 2 still ends up being a suitably fun night out at the ..."
           },
           {
-            "source": "Cambridge Day",
-            "quote": "Once &quot;Here I Come&quot; finally gets going, there’s good, bloody fun to be had."
+            "source": "The Daily Beast",
+            "quote": "Thanks to a host of colorful performances and an emphasis on over-the-top violence, they mostly pull off their double-di..."
           },
           {
-            "source": "Seattle Times",
-            "quote": "These aren’t kitchen-sink movies; they’re garbage disposal rejects, alloys composed of leftover scraps."
+            "source": "Mashable",
+            "quote": "Ready or Not 2 goes harder than the original."
           }
         ]
       },
@@ -608,16 +608,16 @@
         "rottentomatoes": "https://www.rottentomatoes.com/m/scream_7",
         "reviews": [
           {
-            "source": "Crooked Marquee",
-            "quote": "Scream 7 lacks any semblance of its energy on either the horror or the comedy side of things."
+            "source": "Rolling Stone",
+            "quote": "The villain is technically Ghostface per usual, but the real killer is nostalgia, which has metastasized into something ..."
           },
           {
-            "source": "Wall Street Journal",
-            "quote": "If there’s a single witty idea in the entire two-hour slog, I missed it."
+            "source": "San Francisco Chronicle",
+            "quote": "“Scream 7” is anything but cutting edge."
           },
           {
-            "source": "The Reveal",
-            "quote": "There just isn’t that much meta commentary you can supply for horror franchises this deep into their existence, except t..."
+            "source": "Detroit News",
+            "quote": "This \"Scream\" is the dregs — a cold, tired, dreary slog through overly familiar territory."
           }
         ]
       },
@@ -642,20 +642,7 @@
         "imdb": "https://www.imdb.com/title/tt27613895/",
         "boxofficemojo": "https://www.boxofficemojo.com/release/rl2725019649/",
         "rottentomatoes": "https://www.rottentomatoes.com/m/goat",
-        "reviews": [
-          {
-            "source": "The Guardian",
-            "quote": "A gorgeous, kinetic celebration of sport that plays like Ratatouille meets Rocky."
-          },
-          {
-            "source": "AV Club",
-            "quote": "Funny, warm, and absurdly rewatchable — the animated sleeper hit of the year."
-          },
-          {
-            "source": "IndieWire",
-            "quote": "GOAT does for soccer what Ratatouille did for cooking — makes you believe anyone can be great."
-          }
-        ]
+        "reviews": []
       },
       {
         "rank": 9,
@@ -680,16 +667,16 @@
         "rottentomatoes": "https://www.rottentomatoes.com/m/undertone",
         "reviews": [
           {
-            "source": "Tribune News Service",
-            "quote": "Tuason conducts \"Undertone\" to a fever pitch, a maelstrom of sound and fury that is spookily effective, if frustratingly..."
+            "source": "Detroit News",
+            "quote": "\"Undertone\" does successfully establish Tuason as a skilled filmmaker who can do a lot with a little."
           },
           {
-            "source": "THN",
-            "quote": "Undertone shines a light on just how important sound design is at creating atmosphere, whilst also instilling negative s..."
+            "source": "Mashable",
+            "quote": "I was more impressed by Undertone&apos;s concept than I was entertained by its execution."
           },
           {
-            "source": "Spectrum Culture",
-            "quote": "What makes all this so effective is the overwhelming patience."
+            "source": "MovieFreak.com",
+            "quote": "I will see films in 2025 that I will dislike far more than I do writer-director Ian Tuason’s undertone."
           }
         ]
       },
@@ -758,16 +745,16 @@
         "rottentomatoes": "https://www.rottentomatoes.com/m/project_hail_mary",
         "reviews": [
           {
-            "source": "(All (Parentheses)) (Substack)",
-            "quote": "Among the many things I didn’t need in my life was a stealth sequel to Half Nelson…in space."
-          },
-          {
             "source": "The Atlantic",
             "quote": "This film is not quite the masterpiece its grand visual scale sometimes suggests it’s shooting for."
           },
           {
             "source": "TIME Magazine",
             "quote": "This is the most ambitious picture, in terms of structure and spectacle, that the filmmaking duo of Lord and Miller have..."
+          },
+          {
+            "source": "MovieFreak.com",
+            "quote": "As far as rousing, interstellar science fiction pulp adventures are concerned, directors Phil Lord and Christopher Mille..."
           }
         ]
       },
@@ -798,12 +785,12 @@
             "quote": "The movie, in actuality, is refreshingly mordant about what might really happen if prey and predators were to try bandin..."
           },
           {
-            "source": "The Age (Australia)",
-            "quote": "[The film's] serious side is so well camouflaged by the happy absurdities flitting around on its surface that it could b..."
+            "source": "Los Angeles Times",
+            "quote": "Hoppers features moments of dark humor that never fail to impress, unfolds absolutely stunning action scenes, has its he..."
           },
           {
-            "source": "The Nightly (AU)",
-            "quote": "Hoppers features big set-pieces of hijinks and shenanigans (Flying whales! Melting robot faces!) and it is a laugh riot ..."
+            "source": "NPR",
+            "quote": "Directed by Daniel Chong from a script by Jesse Andrews, this eco-themed sci-fi farce may not be vintage or all-time-gre..."
           }
         ]
       },
@@ -830,16 +817,16 @@
         "rottentomatoes": "https://www.rottentomatoes.com/m/dhurandhar_the_revenge",
         "reviews": [
           {
-            "source": "Screen-Space (Substack)",
-            "quote": "I can’t recall a film that utilises a scarred national conscience as a means to justify its hero’s sociopathic proclivit..."
+            "source": "New York Times",
+            "quote": "It’s a movie of the current moment, which isn’t exactly a comfort."
           },
           {
-            "source": "JoySauce.com",
-            "quote": "Overlong, gratuitously violent, and brimming with a self-indulgence that borders on arrogance, Dhurandhar: The Revenge o..."
+            "source": "Audience",
+            "quote": "It’s a movie of the current moment, which isn’t exactly a comfort."
           },
           {
-            "source": "Upper Stall",
-            "quote": "Dhurandhar: The Revenge settles into a groove, where part visceral action spectacle, and part ideologically drives the n..."
+            "source": "Audience",
+            "quote": "Much like the first film, Aditya Dhar's action sequel is a montage of gore and violence, guns and grenades."
           }
         ]
       },
@@ -866,16 +853,16 @@
         "rottentomatoes": "https://www.rottentomatoes.com/m/ready_or_not_2_here_i_come",
         "reviews": [
           {
-            "source": "Cambridge Day",
-            "quote": "Once \"Here I Come\" finally gets going, there’s good, bloody fun to be had."
+            "source": "MovieFreak.com",
+            "quote": "Even if it does take a bit to justify its existence, Ready or Not 2 still ends up being a suitably fun night out at the ..."
           },
           {
-            "source": "Cambridge Day",
-            "quote": "Once &quot;Here I Come&quot; finally gets going, there’s good, bloody fun to be had."
+            "source": "The Daily Beast",
+            "quote": "Thanks to a host of colorful performances and an emphasis on over-the-top violence, they mostly pull off their double-di..."
           },
           {
-            "source": "Seattle Times",
-            "quote": "These aren’t kitchen-sink movies; they’re garbage disposal rejects, alloys composed of leftover scraps."
+            "source": "Mashable",
+            "quote": "Ready or Not 2 goes harder than the original."
           }
         ]
       },
@@ -902,16 +889,16 @@
         "rottentomatoes": "https://www.rottentomatoes.com/m/reminders_of_him",
         "reviews": [
           {
-            "source": "Empire Magazine",
-            "quote": "It’s easy on the eye, and indeed the brain, but this is nowhere near as sharply written or plotted as it should be to br..."
+            "source": "Boston Globe",
+            "quote": "If the movie gods are remotely merciful, this horrible adaptation of a 2022 Colleen Hoover novel will top my 10 worst li..."
           },
           {
-            "source": "The Movie Cricket",
-            "quote": "The problem is the script, by Hoover and co-writer Lauren Levine, which puts the actors in situations that only happen i..."
+            "source": "RogerEbert.com",
+            "quote": "It is so preoccupied with tragedy that the romance becomes secondary."
           },
           {
-            "source": "WBAL-TV (Baltimore)",
-            "quote": "Maika Monroe can have chemistry with anyone okay."
+            "source": "San Francisco Chronicle",
+            "quote": "What’s beautiful and impressive about Monroe in this film is her range "
           }
         ]
       },
@@ -938,16 +925,16 @@
         "rottentomatoes": "https://www.rottentomatoes.com/m/scream_7",
         "reviews": [
           {
-            "source": "Crooked Marquee",
-            "quote": "Scream 7 lacks any semblance of its energy on either the horror or the comedy side of things."
+            "source": "Rolling Stone",
+            "quote": "The villain is technically Ghostface per usual, but the real killer is nostalgia, which has metastasized into something ..."
           },
           {
-            "source": "Wall Street Journal",
-            "quote": "If there’s a single witty idea in the entire two-hour slog, I missed it."
+            "source": "San Francisco Chronicle",
+            "quote": "“Scream 7” is anything but cutting edge."
           },
           {
-            "source": "The Reveal",
-            "quote": "There just isn’t that much meta commentary you can supply for horror franchises this deep into their existence, except t..."
+            "source": "Detroit News",
+            "quote": "This \"Scream\" is the dregs — a cold, tired, dreary slog through overly familiar territory."
           }
         ]
       },
@@ -972,20 +959,7 @@
         "imdb": "https://www.imdb.com/title/tt27613895/",
         "boxofficemojo": "https://www.boxofficemojo.com/release/rl2725019649/",
         "rottentomatoes": "https://www.rottentomatoes.com/m/goat",
-        "reviews": [
-          {
-            "source": "The Guardian",
-            "quote": "A gorgeous, kinetic celebration of sport that plays like Ratatouille meets Rocky."
-          },
-          {
-            "source": "AV Club",
-            "quote": "Funny, warm, and absurdly rewatchable — the animated sleeper hit of the year."
-          },
-          {
-            "source": "IndieWire",
-            "quote": "GOAT does for soccer what Ratatouille did for cooking — makes you believe anyone can be great."
-          }
-        ]
+        "reviews": []
       },
       {
         "rank": 8,
@@ -1010,16 +984,16 @@
         "rottentomatoes": "https://www.rottentomatoes.com/m/undertone",
         "reviews": [
           {
-            "source": "Tribune News Service",
-            "quote": "Tuason conducts \"Undertone\" to a fever pitch, a maelstrom of sound and fury that is spookily effective, if frustratingly..."
+            "source": "Detroit News",
+            "quote": "\"Undertone\" does successfully establish Tuason as a skilled filmmaker who can do a lot with a little."
           },
           {
-            "source": "THN",
-            "quote": "Undertone shines a light on just how important sound design is at creating atmosphere, whilst also instilling negative s..."
+            "source": "Mashable",
+            "quote": "I was more impressed by Undertone&apos;s concept than I was entertained by its execution."
           },
           {
-            "source": "Spectrum Culture",
-            "quote": "What makes all this so effective is the overwhelming patience."
+            "source": "MovieFreak.com",
+            "quote": "I will see films in 2025 that I will dislike far more than I do writer-director Ian Tuason’s undertone."
           }
         ]
       },
@@ -1050,12 +1024,12 @@
             "quote": "This animated tale of a grumpy finboy is as bland as blueberries, yet some wonder if sad Mr."
           },
           {
-            "source": "The Movie Cricket",
-            "quote": "I could imagine \"The Pout-Pout Fish\" as acceptable entertainment for little children, as it provides pleasant colors and..."
+            "source": "San Jose Mercury News",
+            "quote": "“The Pout-Pout Fish” takes full advantage of the underwater population and has a clever-enough screenplay and a terrific..."
           },
           {
-            "source": "Seattle's Child",
-            "quote": "While the film aims to expand the hero’s journey and liven it with new characters, action, and plot, it muddies the wond..."
+            "source": "Audience",
+            "quote": "“The Pout-Pout Fish” takes full advantage of the underwater population and has a clever-enough screenplay and a terrific..."
           }
         ]
       },
@@ -1082,16 +1056,16 @@
         "rottentomatoes": "https://www.rottentomatoes.com/m/wuthering_heights",
         "reviews": [
           {
-            "source": "Time Out",
-            "quote": "A valiant attempt at compressing a novel as complex as Bronte&#39;s into under 2 hours, but &#39;valiant&#39; shouldn&#3..."
+            "source": "Variety",
+            "quote": "...weakened by a wobbly central perf by Gallic thesp Juliette Binoche."
           },
           {
-            "source": "Espinof",
+            "source": "Empire Magazine",
+            "quote": "A valiant attempt at compressing a novel as complex as Bronte's into under 2 hours, but 'valiant' shouldn't be mistaken ..."
+          },
+          {
+            "source": "Independent (UK)",
             "quote": "Ralph Fiennes makes a demonic Heathcliff, his startlingly blue eyes the only concession to a matinee audience."
-          },
-          {
-            "source": "Radio Times",
-            "quote": "A brave stab, but it doesn&#39;t always pierce the heart."
           }
         ]
       }
@@ -1128,12 +1102,12 @@
             "quote": "The movie, in actuality, is refreshingly mordant about what might really happen if prey and predators were to try bandin..."
           },
           {
-            "source": "The Age (Australia)",
-            "quote": "[The film's] serious side is so well camouflaged by the happy absurdities flitting around on its surface that it could b..."
+            "source": "Los Angeles Times",
+            "quote": "Hoppers features moments of dark humor that never fail to impress, unfolds absolutely stunning action scenes, has its he..."
           },
           {
-            "source": "The Nightly (AU)",
-            "quote": "Hoppers features big set-pieces of hijinks and shenanigans (Flying whales! Melting robot faces!) and it is a laugh riot ..."
+            "source": "NPR",
+            "quote": "Directed by Daniel Chong from a script by Jesse Andrews, this eco-themed sci-fi farce may not be vintage or all-time-gre..."
           }
         ]
       },
@@ -1160,16 +1134,16 @@
         "rottentomatoes": "https://www.rottentomatoes.com/m/reminders_of_him",
         "reviews": [
           {
-            "source": "Empire Magazine",
-            "quote": "It’s easy on the eye, and indeed the brain, but this is nowhere near as sharply written or plotted as it should be to br..."
+            "source": "Boston Globe",
+            "quote": "If the movie gods are remotely merciful, this horrible adaptation of a 2022 Colleen Hoover novel will top my 10 worst li..."
           },
           {
-            "source": "The Movie Cricket",
-            "quote": "The problem is the script, by Hoover and co-writer Lauren Levine, which puts the actors in situations that only happen i..."
+            "source": "RogerEbert.com",
+            "quote": "It is so preoccupied with tragedy that the romance becomes secondary."
           },
           {
-            "source": "WBAL-TV (Baltimore)",
-            "quote": "Maika Monroe can have chemistry with anyone okay."
+            "source": "San Francisco Chronicle",
+            "quote": "What’s beautiful and impressive about Monroe in this film is her range "
           }
         ]
       },
@@ -1196,16 +1170,16 @@
         "rottentomatoes": "https://www.rottentomatoes.com/m/undertone",
         "reviews": [
           {
-            "source": "Tribune News Service",
-            "quote": "Tuason conducts \"Undertone\" to a fever pitch, a maelstrom of sound and fury that is spookily effective, if frustratingly..."
+            "source": "Detroit News",
+            "quote": "\"Undertone\" does successfully establish Tuason as a skilled filmmaker who can do a lot with a little."
           },
           {
-            "source": "THN",
-            "quote": "Undertone shines a light on just how important sound design is at creating atmosphere, whilst also instilling negative s..."
+            "source": "Mashable",
+            "quote": "I was more impressed by Undertone&apos;s concept than I was entertained by its execution."
           },
           {
-            "source": "Spectrum Culture",
-            "quote": "What makes all this so effective is the overwhelming patience."
+            "source": "MovieFreak.com",
+            "quote": "I will see films in 2025 that I will dislike far more than I do writer-director Ian Tuason’s undertone."
           }
         ]
       },
@@ -1232,16 +1206,16 @@
         "rottentomatoes": "https://www.rottentomatoes.com/m/scream_7",
         "reviews": [
           {
-            "source": "Crooked Marquee",
-            "quote": "Scream 7 lacks any semblance of its energy on either the horror or the comedy side of things."
+            "source": "Rolling Stone",
+            "quote": "The villain is technically Ghostface per usual, but the real killer is nostalgia, which has metastasized into something ..."
           },
           {
-            "source": "Wall Street Journal",
-            "quote": "If there’s a single witty idea in the entire two-hour slog, I missed it."
+            "source": "San Francisco Chronicle",
+            "quote": "“Scream 7” is anything but cutting edge."
           },
           {
-            "source": "The Reveal",
-            "quote": "There just isn’t that much meta commentary you can supply for horror franchises this deep into their existence, except t..."
+            "source": "Detroit News",
+            "quote": "This \"Scream\" is the dregs — a cold, tired, dreary slog through overly familiar territory."
           }
         ]
       },
@@ -1266,20 +1240,7 @@
         "imdb": "https://www.imdb.com/title/tt27613895/",
         "boxofficemojo": "https://www.boxofficemojo.com/release/rl2725019649/",
         "rottentomatoes": "https://www.rottentomatoes.com/m/goat",
-        "reviews": [
-          {
-            "source": "The Guardian",
-            "quote": "A gorgeous, kinetic celebration of sport that plays like Ratatouille meets Rocky."
-          },
-          {
-            "source": "AV Club",
-            "quote": "Funny, warm, and absurdly rewatchable — the animated sleeper hit of the year."
-          },
-          {
-            "source": "IndieWire",
-            "quote": "GOAT does for soccer what Ratatouille did for cooking — makes you believe anyone can be great."
-          }
-        ]
+        "reviews": []
       },
       {
         "rank": 6,
@@ -1327,16 +1288,16 @@
         "rottentomatoes": "https://www.rottentomatoes.com/m/kikis_delivery_service",
         "reviews": [
           {
-            "source": "Austin Chronicle",
-            "quote": "Miyazaki conjures a pubescent fable out of whole cloth that both kids and adults will enjoy immensely, and with the late..."
-          },
-          {
             "source": "IndieWire",
             "quote": "Even by Hayao Miyazaki's elevated standard, Kiki's Delivery Service is a singularly charming film."
           },
           {
-            "source": "AV Club",
-            "quote": "Kiki's slow pace and light-on-conflict plot may surprise kids..."
+            "source": "Variety",
+            "quote": "Top-drawer kiddie fare for both fans of the exotic and mainstream family auds."
+          },
+          {
+            "source": "Austin Chronicle",
+            "quote": "Miyazaki conjures a pubescent fable out of whole cloth that both kids and adults will enjoy immensely, and with the late..."
           }
         ]
       },
@@ -1363,16 +1324,16 @@
         "rottentomatoes": "https://www.rottentomatoes.com/m/wuthering_heights",
         "reviews": [
           {
-            "source": "Time Out",
-            "quote": "A valiant attempt at compressing a novel as complex as Bronte&#39;s into under 2 hours, but &#39;valiant&#39; shouldn&#3..."
+            "source": "Variety",
+            "quote": "...weakened by a wobbly central perf by Gallic thesp Juliette Binoche."
           },
           {
-            "source": "Espinof",
+            "source": "Empire Magazine",
+            "quote": "A valiant attempt at compressing a novel as complex as Bronte's into under 2 hours, but 'valiant' shouldn't be mistaken ..."
+          },
+          {
+            "source": "Independent (UK)",
             "quote": "Ralph Fiennes makes a demonic Heathcliff, his startlingly blue eyes the only concession to a matinee audience."
-          },
-          {
-            "source": "Radio Times",
-            "quote": "A brave stab, but it doesn&#39;t always pierce the heart."
           }
         ]
       },
@@ -1397,7 +1358,20 @@
         "imdb": "https://www.imdb.com/title/tt0103060/",
         "boxofficemojo": "https://www.boxofficemojo.com/release/rl4137254913/",
         "rottentomatoes": "https://www.rottentomatoes.com/m/teenage_mutant_ninja_turtles_ii_the_secret_of_the_ooze",
-        "reviews": []
+        "reviews": [
+          {
+            "source": "Entertainment Weekly",
+            "quote": "Really, the result is first-class throughout."
+          },
+          {
+            "source": "Arizona Republic",
+            "quote": "It may not be something we've never seen before, but it's something we can benefit from seeing again."
+          },
+          {
+            "source": "RogerEbert.com",
+            "quote": "The most purely entertaining zombie film in some time, finding echoes of George Romero's and Danny Boyle's work, but del..."
+          }
+        ]
       },
       {
         "rank": 10,
@@ -1468,12 +1442,12 @@
             "quote": "The movie, in actuality, is refreshingly mordant about what might really happen if prey and predators were to try bandin..."
           },
           {
-            "source": "The Age (Australia)",
-            "quote": "[The film's] serious side is so well camouflaged by the happy absurdities flitting around on its surface that it could b..."
+            "source": "Los Angeles Times",
+            "quote": "Hoppers features moments of dark humor that never fail to impress, unfolds absolutely stunning action scenes, has its he..."
           },
           {
-            "source": "The Nightly (AU)",
-            "quote": "Hoppers features big set-pieces of hijinks and shenanigans (Flying whales! Melting robot faces!) and it is a laugh riot ..."
+            "source": "NPR",
+            "quote": "Directed by Daniel Chong from a script by Jesse Andrews, this eco-themed sci-fi farce may not be vintage or all-time-gre..."
           }
         ]
       },
@@ -1500,16 +1474,16 @@
         "rottentomatoes": "https://www.rottentomatoes.com/m/scream_7",
         "reviews": [
           {
-            "source": "Crooked Marquee",
-            "quote": "Scream 7 lacks any semblance of its energy on either the horror or the comedy side of things."
+            "source": "Rolling Stone",
+            "quote": "The villain is technically Ghostface per usual, but the real killer is nostalgia, which has metastasized into something ..."
           },
           {
-            "source": "Wall Street Journal",
-            "quote": "If there’s a single witty idea in the entire two-hour slog, I missed it."
+            "source": "San Francisco Chronicle",
+            "quote": "“Scream 7” is anything but cutting edge."
           },
           {
-            "source": "The Reveal",
-            "quote": "There just isn’t that much meta commentary you can supply for horror franchises this deep into their existence, except t..."
+            "source": "Detroit News",
+            "quote": "This \"Scream\" is the dregs — a cold, tired, dreary slog through overly familiar territory."
           }
         ]
       },
@@ -1557,20 +1531,7 @@
         "imdb": "https://www.imdb.com/title/tt27613895/",
         "boxofficemojo": "https://www.boxofficemojo.com/release/rl2725019649/",
         "rottentomatoes": "https://www.rottentomatoes.com/m/goat",
-        "reviews": [
-          {
-            "source": "The Guardian",
-            "quote": "A gorgeous, kinetic celebration of sport that plays like Ratatouille meets Rocky."
-          },
-          {
-            "source": "AV Club",
-            "quote": "Funny, warm, and absurdly rewatchable — the animated sleeper hit of the year."
-          },
-          {
-            "source": "IndieWire",
-            "quote": "GOAT does for soccer what Ratatouille did for cooking — makes you believe anyone can be great."
-          }
-        ]
+        "reviews": []
       },
       {
         "rank": 5,
@@ -1595,16 +1556,16 @@
         "rottentomatoes": "https://www.rottentomatoes.com/m/wuthering_heights",
         "reviews": [
           {
-            "source": "Time Out",
-            "quote": "A valiant attempt at compressing a novel as complex as Bronte&#39;s into under 2 hours, but &#39;valiant&#39; shouldn&#3..."
+            "source": "Variety",
+            "quote": "...weakened by a wobbly central perf by Gallic thesp Juliette Binoche."
           },
           {
-            "source": "Espinof",
+            "source": "Empire Magazine",
+            "quote": "A valiant attempt at compressing a novel as complex as Bronte's into under 2 hours, but 'valiant' shouldn't be mistaken ..."
+          },
+          {
+            "source": "Independent (UK)",
             "quote": "Ralph Fiennes makes a demonic Heathcliff, his startlingly blue eyes the only concession to a matinee audience."
-          },
-          {
-            "source": "Radio Times",
-            "quote": "A brave stab, but it doesn&#39;t always pierce the heart."
           }
         ]
       },
@@ -1667,16 +1628,16 @@
         "rottentomatoes": "https://www.rottentomatoes.com/m/epic_elvis_presley_in_concert",
         "reviews": [
           {
-            "source": "Observer (UK)",
-            "quote": "While it is unlikely to tell you much you don’t already know, this is a must-see for Presley fans and a boisterously enj..."
-          },
-          {
             "source": "Boston Globe",
             "quote": "It works well as a documentary, and I can’t deny that Presley gave 110 percent to his audience at every show."
           },
           {
-            "source": "AARP Movies for Grownups",
-            "quote": "It’s crammed with Elvis in performance, an experience that could have you dancing in the aisles of the IMAX theater (if ..."
+            "source": "RogerEbert.com",
+            "quote": "Baz Luhrmann, the current Poet Laureate of Elvis, wants to not only bridge the gap between the image and the man, but to..."
+          },
+          {
+            "source": "TIME Magazine",
+            "quote": "This newfound footage, painstakingly restored, forms the fabric of EPiC, which, despite Luhrmann’s penchant for hurtling..."
           }
         ]
       },
@@ -1707,12 +1668,12 @@
             "quote": "The moral to the story? Don’t disrespect, ridicule, or look down on the Linda Liddle’s of the world."
           },
           {
-            "source": "Pop Culture Happy Hour (NPR Podcast)",
-            "quote": "If you like to see somebody spite and punish her terrible boss, you might enjoy Send Help."
+            "source": "The Atlantic",
+            "quote": "All credit to Raimi -- he’s still able to deliver on a smaller scale, which his contemporaries might now struggle to do."
           },
           {
-            "source": "Observer (UK)",
-            "quote": "It’s enjoyably lurid stuff, and McAdams is a blast."
+            "source": "Detroit News",
+            "quote": "As a genre experiment, it's a down-the-middle good time at the movies that offers thrills, chills and gross outs galore."
           }
         ]
       },
@@ -1739,16 +1700,16 @@
         "rottentomatoes": "https://www.rottentomatoes.com/m/i_can_only_imagine_2",
         "reviews": [
           {
-            "source": "AV Club",
-            "quote": "A busy but lifeless follow-up to the 2018 bio-drama about singer-songwriter Bart Millard (John Michael Finley) and how h..."
-          },
-          {
-            "source": "FilmWeek (LAist)",
-            "quote": "I am not the target audience for this, but I think it does what it needs to do for the audience it's serving."
-          },
-          {
             "source": "Variety",
             "quote": "Even if you go into “I Can Only Imagine 2” feeling immersed in the Bart Millard saga, the new movie is a bit of an odd d..."
+          },
+          {
+            "source": "RogerEbert.com",
+            "quote": "Those who are already fans will appreciate this chance to share Millard&apos;s and Timmons&apos; story, but those who do..."
+          },
+          {
+            "source": "The Hollywood Reporter",
+            "quote": "Laborious and dull, I Can Only Imagine 2 only comes to life in the comedic scenes featuring Ventimiglia, who buries his ..."
           }
         ]
       },
@@ -1775,16 +1736,16 @@
         "rottentomatoes": "https://www.rottentomatoes.com/m/demon_slayer_kimetsu_no_yaiba_infinity_castle",
         "reviews": [
           {
-            "source": "New York Times",
-            "quote": "For the casual fan, the chief reason to seek out “Infinity Castle” is for its visuals, which position passionately emoti..."
+            "source": "RogerEbert.com",
+            "quote": "&apos;Demon Slayer: Kimetsu no Yaiba Infinity Castle’ iis a flashy, frenetic, and thoroughly entertaining action anime t..."
           },
           {
-            "source": "JVS Media & Productions/Team JVS",
-            "quote": "High-octane craziness. This movie feels like four episodes of pure spectacle."
+            "source": "Variety",
+            "quote": "Beyond the sheer inventiveness of the movie’s made-up martial arts, that leaves the tragic elements, which can be disarm..."
           },
           {
-            "source": "FilmWeek (LAist)",
-            "quote": "Anyone who likes this very popular franchise is just going to have a ball."
+            "source": "San Francisco Chronicle",
+            "quote": "While the plot is simple, the visual imagery and the emotions are complex."
           }
         ]
       }
@@ -1809,24 +1770,24 @@
         "rating": "R",
         "genre": "Horror / Thriller",
         "rt": {
-          "critics": 31,
-          "audience": 76
+          "critics": 75,
+          "audience": 69
         },
         "imdb": "https://www.imdb.com/title/tt27047903/",
         "boxofficemojo": "https://www.boxofficemojo.com/release/rl1359839233/",
         "rottentomatoes": "https://www.rottentomatoes.com/m/scream_7",
         "reviews": [
           {
-            "source": "Variety",
-            "quote": "The franchise is running on fumes — the meta-commentary has become the thing it once mocked."
+            "source": "Rolling Stone",
+            "quote": "The villain is technically Ghostface per usual, but the real killer is nostalgia, which has metastasized into something ..."
           },
           {
-            "source": "Bloody Disgusting",
-            "quote": "Messy but fun enough for die-hard Ghostface fans to justify the ticket price."
+            "source": "San Francisco Chronicle",
+            "quote": "“Scream 7” is anything but cutting edge."
           },
           {
-            "source": "The Hollywood Reporter",
-            "quote": "Williamson's return behind the camera brings craft, if not the freshness the series desperately needs."
+            "source": "Detroit News",
+            "quote": "This \"Scream\" is the dregs — a cold, tired, dreary slog through overly familiar territory."
           }
         ]
       },
@@ -1845,26 +1806,13 @@
         "rating": "PG",
         "genre": "Animation / Sports",
         "rt": {
-          "critics": 84,
-          "audience": 93
+          "critics": null,
+          "audience": null
         },
         "imdb": "https://www.imdb.com/title/tt27613895/",
         "boxofficemojo": "https://www.boxofficemojo.com/release/rl2725019649/",
-        "rottentomatoes": "https://www.rottentomatoes.com/m/goat_2026",
-        "reviews": [
-          {
-            "source": "The Guardian",
-            "quote": "A gorgeous, kinetic celebration of sport that plays like Ratatouille meets Rocky."
-          },
-          {
-            "source": "AV Club",
-            "quote": "Funny, warm, and absurdly rewatchable — the animated sleeper hit of the year."
-          },
-          {
-            "source": "IndieWire",
-            "quote": "GOAT does for soccer what Ratatouille did for cooking — makes you believe anyone can be great."
-          }
-        ]
+        "rottentomatoes": "https://www.rottentomatoes.com/m/goat",
+        "reviews": []
       },
       {
         "rank": 3,
@@ -1881,24 +1829,24 @@
         "rating": "R",
         "genre": "Romance / Drama",
         "rt": {
-          "critics": 71,
-          "audience": 84
+          "critics": 66,
+          "audience": 66
         },
         "imdb": "https://www.imdb.com/title/tt32897959/",
         "boxofficemojo": "https://www.boxofficemojo.com/title/tt32897959/",
-        "rottentomatoes": "https://www.rottentomatoes.com/m/wuthering_heights_2026",
+        "rottentomatoes": "https://www.rottentomatoes.com/m/wuthering_heights",
         "reviews": [
           {
-            "source": "The Hollywood Reporter",
-            "quote": "Pulpy, provocative, and drenched in blazing color and opulent design."
+            "source": "Variety",
+            "quote": "...weakened by a wobbly central perf by Gallic thesp Juliette Binoche."
           },
           {
-            "source": "The Atlantic",
-            "quote": "A heaving, rip-snortingly carnal good time."
+            "source": "Empire Magazine",
+            "quote": "A valiant attempt at compressing a novel as complex as Bronte's into under 2 hours, but 'valiant' shouldn't be mistaken ..."
           },
           {
-            "source": "The Guardian",
-            "quote": "An emotionally hollow, bodice-ripping misfire."
+            "source": "Independent (UK)",
+            "quote": "Ralph Fiennes makes a demonic Heathcliff, his startlingly blue eyes the only concession to a matinee audience."
           }
         ]
       },
@@ -1917,7 +1865,7 @@
         "rating": "NR",
         "genre": "Music / Documentary",
         "rt": {
-          "critics": 96,
+          "critics": 100,
           "audience": 99
         },
         "imdb": "https://www.imdb.com/title/tt39315536/",
@@ -1925,8 +1873,16 @@
         "rottentomatoes": "https://www.rottentomatoes.com/m/twenty_one_pilots_more_than_we_ever_imagined",
         "reviews": [
           {
-            "source": "Variety",
-            "quote": "Blends cinematic high-energy performance footage with intimate behind-the-scenes access."
+            "source": "Audience",
+            "quote": "I love TOP and went to both breach and Clancy and this movie made me emotional thinking back to all the memories made at..."
+          },
+          {
+            "source": "Audience",
+            "quote": "Got that penny loafer squeak, across linoleum Big flex, complex, Napoleon I say whatever and whatever that I want Sip a ..."
+          },
+          {
+            "source": "Audience",
+            "quote": "Great concert movie with thoughtful filming and editing. We love the band, and they never disappoint!"
           }
         ]
       },
@@ -1945,24 +1901,24 @@
         "rating": "PG-13",
         "genre": "Music / Documentary",
         "rt": {
-          "critics": 96,
-          "audience": 99
+          "critics": 98,
+          "audience": 97
         },
         "imdb": "https://www.imdb.com/title/tt35003538/",
         "boxofficemojo": "https://www.boxofficemojo.com/release/rl1535148033/",
         "rottentomatoes": "https://www.rottentomatoes.com/m/epic_elvis_presley_in_concert",
         "reviews": [
           {
-            "source": "Variety",
-            "quote": "One of the most exciting concert films you've ever seen — Elvis in the raw."
-          },
-          {
-            "source": "The Wrap",
-            "quote": "Combines offstage and onstage Elvis into an Elvispalooza fit for a king."
+            "source": "Boston Globe",
+            "quote": "It works well as a documentary, and I can’t deny that Presley gave 110 percent to his audience at every show."
           },
           {
             "source": "RogerEbert.com",
-            "quote": "Baz Luhrmann blends the King's self and image beautifully."
+            "quote": "Baz Luhrmann, the current Poet Laureate of Elvis, wants to not only bridge the gap between the image and the man, but to..."
+          },
+          {
+            "source": "TIME Magazine",
+            "quote": "This newfound footage, painstakingly restored, forms the fabric of EPiC, which, despite Luhrmann’s penchant for hurtling..."
           }
         ]
       },
@@ -1981,24 +1937,24 @@
         "rating": "R",
         "genre": "Crime / Thriller",
         "rt": {
-          "critics": 88,
-          "audience": 85
+          "critics": 59,
+          "audience": 59
         },
         "imdb": "https://www.imdb.com/title/tt32430579/",
         "boxofficemojo": "https://www.boxofficemojo.com/release/rl797671425/",
-        "rottentomatoes": "https://www.rottentomatoes.com/m/crime_101_2026",
+        "rottentomatoes": "https://www.rottentomatoes.com/m/crime_101",
         "reviews": [
           {
-            "source": "RogerEbert.com",
-            "quote": "Several cuts above the usual movie with DNA from Heat."
+            "source": "Dennis Schwartz Movie Reviews",
+            "quote": "Mildly amusing in spots."
           },
           {
-            "source": "NPR",
-            "quote": "This old-fashioned heist film pays off handsomely."
+            "source": "eFilmCritic.com",
+            "quote": "Has more highs than lows and earns some bravery points for having the stones to go 'ugly' once in a while."
           },
           {
-            "source": "Variety",
-            "quote": "Sleek action set pieces and vivid characterizations define this L.A. noir."
+            "source": "Audience",
+            "quote": "Peak movie that wonderfully weaves comedy in with down to earth characters and themes."
           }
         ]
       },
@@ -2017,24 +1973,24 @@
         "rating": "PG",
         "genre": "Drama / Music",
         "rt": {
-          "critics": 63,
-          "audience": 99
+          "critics": 99,
+          "audience": 97
         },
         "imdb": "https://www.imdb.com/title/tt34888646/",
         "boxofficemojo": "https://www.boxofficemojo.com/release/rl221872129/",
         "rottentomatoes": "https://www.rottentomatoes.com/m/i_can_only_imagine_2",
         "reviews": [
           {
-            "source": "AV Club",
-            "quote": "A busy but lifeless follow-up to the 2018 bio-drama about singer-songwriter Bart Millard (John Michael Finley) and how h..."
-          },
-          {
-            "source": "FilmWeek (LAist)",
-            "quote": "I am not the target audience for this, but I think it does what it needs to do for the audience it's serving."
-          },
-          {
             "source": "Variety",
             "quote": "Even if you go into “I Can Only Imagine 2” feeling immersed in the Bart Millard saga, the new movie is a bit of an odd d..."
+          },
+          {
+            "source": "RogerEbert.com",
+            "quote": "Those who are already fans will appreciate this chance to share Millard&apos;s and Timmons&apos; story, but those who do..."
+          },
+          {
+            "source": "The Hollywood Reporter",
+            "quote": "Laborious and dull, I Can Only Imagine 2 only comes to life in the comedic scenes featuring Ventimiglia, who buries his ..."
           }
         ]
       },
@@ -2053,24 +2009,24 @@
         "rating": "R",
         "genre": "Horror / Comedy",
         "rt": {
-          "critics": 93,
-          "audience": 87
+          "critics": 87,
+          "audience": 83
         },
         "imdb": "https://www.imdb.com/title/tt8036976/",
         "boxofficemojo": "https://www.boxofficemojo.com/title/tt8036976/",
         "rottentomatoes": "https://www.rottentomatoes.com/m/send_help",
         "reviews": [
           {
-            "source": "Deadline",
-            "quote": "The first movie gem of 2026, a devilish treat and welcome respite from the real world."
+            "source": "MovieFreak.com",
+            "quote": "The moral to the story? Don’t disrespect, ridicule, or look down on the Linda Liddle’s of the world."
           },
           {
-            "source": "The New York Times",
-            "quote": "Raimi at his most gleeful and twisted — darkly humorous with playfully yucky effects."
+            "source": "The Atlantic",
+            "quote": "All credit to Raimi -- he’s still able to deliver on a smaller scale, which his contemporaries might now struggle to do."
           },
           {
-            "source": "Variety",
-            "quote": "Doesn't need any assistance in thrills — a wickedly entertaining ride."
+            "source": "Detroit News",
+            "quote": "As a genre experiment, it's a down-the-middle good time at the movies that offers thrills, chills and gross outs galore."
           }
         ]
       },
@@ -2089,24 +2045,24 @@
         "rating": "PG",
         "genre": "Animation / Adventure",
         "rt": {
-          "critics": 93,
-          "audience": 95
+          "critics": 95,
+          "audience": 93
         },
         "imdb": "https://www.imdb.com/title/tt26443597/",
         "boxofficemojo": "https://www.boxofficemojo.com/title/tt26443597/",
         "rottentomatoes": "https://www.rottentomatoes.com/m/zootopia_2",
         "reviews": [
           {
-            "source": "FilmWeek (LAist)",
-            "quote": "Be as good as you can as often as you can, but you have to try sometimes."
+            "source": "Slate",
+            "quote": "Though Zootopia 2 is not quite as funny as the first, it’s still got a banger new song by Shakira and many rapid-fire ga..."
           },
           {
-            "source": "Pop Culture Happy Hour (NPR Podcast)",
-            "quote": "Although I appreciated where I think it's coming from on some of these issues..."
+            "source": "Boston Globe",
+            "quote": "Ke Huy Quan brings sympathy and good will to his voicing of Gary; he’s the film’s heart and soul."
           },
           {
-            "source": "Wall Street Journal",
-            "quote": "Alone among the major studios, the Mouse House is invested in an ongoing project to, as they say on campus, interrogate,..."
+            "source": "New York Post",
+            "quote": "It’s more along the lines of a perfectly enjoyable TV police procedural; the season finale of “Claw and Order."
           }
         ]
       },
@@ -2125,24 +2081,24 @@
         "rating": "R",
         "genre": "Comedy / Thriller",
         "rt": {
-          "critics": 44,
-          "audience": 75
+          "critics": 77,
+          "audience": 69
         },
         "imdb": "https://www.imdb.com/title/tt4357198/",
         "boxofficemojo": "https://www.boxofficemojo.com/title/tt4357198/",
         "rottentomatoes": "https://www.rottentomatoes.com/m/how_to_make_a_killing_2026",
         "reviews": [
           {
-            "source": "Observer (UK)",
-            "quote": "With How to Make a Killing, Powell, who has thus far coasted on impeccable bone structure and affable cheesiness -- he a..."
+            "source": "Newsweek",
+            "quote": "&quot;How to Make a Killing&quot; feels as though it&apos;s trying to do too much, and ultimately delivers on none of it..."
           },
           {
-            "source": "Kermode and Mayo's Take (YouTube)",
-            "quote": "You would be so much better off watching the original."
+            "source": "Detroit News",
+            "quote": "It's slick but empty and barely manages to leave a mark, let alone make a killing."
           },
           {
-            "source": "Impulse Gamer",
-            "quote": "How to Make a Killing is a lacklustre effort at making a dark comedy."
+            "source": "MovieFreak.com",
+            "quote": "If one wanted a case study on how far a charming ensemble can carry an otherwise mediocre motion picture, writer-directo..."
           }
         ]
       }
@@ -2167,26 +2123,13 @@
         "rating": "PG",
         "genre": "Animation / Sports",
         "rt": {
-          "critics": 84,
-          "audience": 93
+          "critics": null,
+          "audience": null
         },
         "imdb": "https://www.imdb.com/title/tt27613895/",
         "boxofficemojo": "https://www.boxofficemojo.com/release/rl2725019649/",
-        "rottentomatoes": "https://www.rottentomatoes.com/m/goat_2026",
-        "reviews": [
-          {
-            "source": "The Guardian",
-            "quote": "A gorgeous, kinetic celebration of sport that plays like Ratatouille meets Rocky."
-          },
-          {
-            "source": "AV Club",
-            "quote": "Funny, warm, and absurdly rewatchable — the animated sleeper hit of the year."
-          },
-          {
-            "source": "IndieWire",
-            "quote": "GOAT does for soccer what Ratatouille did for cooking — makes you believe anyone can be great."
-          }
-        ]
+        "rottentomatoes": "https://www.rottentomatoes.com/m/goat",
+        "reviews": []
       },
       {
         "rank": 2,
@@ -2203,24 +2146,24 @@
         "rating": "R",
         "genre": "Romance / Drama",
         "rt": {
-          "critics": 71,
-          "audience": 84
+          "critics": 66,
+          "audience": 66
         },
         "imdb": "https://www.imdb.com/title/tt32897959/",
         "boxofficemojo": "https://www.boxofficemojo.com/title/tt32897959/",
-        "rottentomatoes": "https://www.rottentomatoes.com/m/wuthering_heights_2026",
+        "rottentomatoes": "https://www.rottentomatoes.com/m/wuthering_heights",
         "reviews": [
           {
-            "source": "The Hollywood Reporter",
-            "quote": "Pulpy, provocative, and drenched in blazing color and opulent design."
+            "source": "Variety",
+            "quote": "...weakened by a wobbly central perf by Gallic thesp Juliette Binoche."
           },
           {
-            "source": "The Atlantic",
-            "quote": "A heaving, rip-snortingly carnal good time."
+            "source": "Empire Magazine",
+            "quote": "A valiant attempt at compressing a novel as complex as Bronte's into under 2 hours, but 'valiant' shouldn't be mistaken ..."
           },
           {
-            "source": "The Guardian",
-            "quote": "An emotionally hollow, bodice-ripping misfire."
+            "source": "Independent (UK)",
+            "quote": "Ralph Fiennes makes a demonic Heathcliff, his startlingly blue eyes the only concession to a matinee audience."
           }
         ]
       },
@@ -2239,24 +2182,24 @@
         "rating": "PG",
         "genre": "Drama / Music",
         "rt": {
-          "critics": 63,
-          "audience": 99
+          "critics": 99,
+          "audience": 97
         },
         "imdb": "https://www.imdb.com/title/tt34888646/",
         "boxofficemojo": "https://www.boxofficemojo.com/release/rl221872129/",
         "rottentomatoes": "https://www.rottentomatoes.com/m/i_can_only_imagine_2",
         "reviews": [
           {
-            "source": "AV Club",
-            "quote": "A busy but lifeless follow-up to the 2018 bio-drama about singer-songwriter Bart Millard (John Michael Finley) and how h..."
-          },
-          {
-            "source": "FilmWeek (LAist)",
-            "quote": "I am not the target audience for this, but I think it does what it needs to do for the audience it's serving."
-          },
-          {
             "source": "Variety",
             "quote": "Even if you go into “I Can Only Imagine 2” feeling immersed in the Bart Millard saga, the new movie is a bit of an odd d..."
+          },
+          {
+            "source": "RogerEbert.com",
+            "quote": "Those who are already fans will appreciate this chance to share Millard&apos;s and Timmons&apos; story, but those who do..."
+          },
+          {
+            "source": "The Hollywood Reporter",
+            "quote": "Laborious and dull, I Can Only Imagine 2 only comes to life in the comedic scenes featuring Ventimiglia, who buries his ..."
           }
         ]
       },
@@ -2275,24 +2218,24 @@
         "rating": "R",
         "genre": "Crime / Thriller",
         "rt": {
-          "critics": 88,
-          "audience": 85
+          "critics": 59,
+          "audience": 59
         },
         "imdb": "https://www.imdb.com/title/tt32430579/",
         "boxofficemojo": "https://www.boxofficemojo.com/release/rl797671425/",
-        "rottentomatoes": "https://www.rottentomatoes.com/m/crime_101_2026",
+        "rottentomatoes": "https://www.rottentomatoes.com/m/crime_101",
         "reviews": [
           {
-            "source": "RogerEbert.com",
-            "quote": "Several cuts above the usual movie with DNA from Heat."
+            "source": "Dennis Schwartz Movie Reviews",
+            "quote": "Mildly amusing in spots."
           },
           {
-            "source": "NPR",
-            "quote": "This old-fashioned heist film pays off handsomely."
+            "source": "eFilmCritic.com",
+            "quote": "Has more highs than lows and earns some bravery points for having the stones to go 'ugly' once in a while."
           },
           {
-            "source": "Variety",
-            "quote": "Sleek action set pieces and vivid characterizations define this L.A. noir."
+            "source": "Audience",
+            "quote": "Peak movie that wonderfully weaves comedy in with down to earth characters and themes."
           }
         ]
       },
@@ -2311,24 +2254,24 @@
         "rating": "R",
         "genre": "Horror / Comedy",
         "rt": {
-          "critics": 93,
-          "audience": 87
+          "critics": 87,
+          "audience": 83
         },
         "imdb": "https://www.imdb.com/title/tt8036976/",
         "boxofficemojo": "https://www.boxofficemojo.com/title/tt8036976/",
         "rottentomatoes": "https://www.rottentomatoes.com/m/send_help",
         "reviews": [
           {
-            "source": "Deadline",
-            "quote": "The first movie gem of 2026, a devilish treat and welcome respite from the real world."
+            "source": "MovieFreak.com",
+            "quote": "The moral to the story? Don’t disrespect, ridicule, or look down on the Linda Liddle’s of the world."
           },
           {
-            "source": "The New York Times",
-            "quote": "Raimi at his most gleeful and twisted — darkly humorous with playfully yucky effects."
+            "source": "The Atlantic",
+            "quote": "All credit to Raimi -- he’s still able to deliver on a smaller scale, which his contemporaries might now struggle to do."
           },
           {
-            "source": "Variety",
-            "quote": "Doesn't need any assistance in thrills — a wickedly entertaining ride."
+            "source": "Detroit News",
+            "quote": "As a genre experiment, it's a down-the-middle good time at the movies that offers thrills, chills and gross outs galore."
           }
         ]
       },
@@ -2347,24 +2290,24 @@
         "rating": "R",
         "genre": "Comedy / Thriller",
         "rt": {
-          "critics": 44,
-          "audience": 75
+          "critics": 77,
+          "audience": 69
         },
         "imdb": "https://www.imdb.com/title/tt4357198/",
         "boxofficemojo": "https://www.boxofficemojo.com/title/tt4357198/",
         "rottentomatoes": "https://www.rottentomatoes.com/m/how_to_make_a_killing_2026",
         "reviews": [
           {
-            "source": "Observer (UK)",
-            "quote": "With How to Make a Killing, Powell, who has thus far coasted on impeccable bone structure and affable cheesiness -- he a..."
+            "source": "Newsweek",
+            "quote": "&quot;How to Make a Killing&quot; feels as though it&apos;s trying to do too much, and ultimately delivers on none of it..."
           },
           {
-            "source": "Kermode and Mayo's Take (YouTube)",
-            "quote": "You would be so much better off watching the original."
+            "source": "Detroit News",
+            "quote": "It's slick but empty and barely manages to leave a mark, let alone make a killing."
           },
           {
-            "source": "Impulse Gamer",
-            "quote": "How to Make a Killing is a lacklustre effort at making a dark comedy."
+            "source": "MovieFreak.com",
+            "quote": "If one wanted a case study on how far a charming ensemble can carry an otherwise mediocre motion picture, writer-directo..."
           }
         ]
       },
@@ -2383,24 +2326,24 @@
         "rating": "PG-13",
         "genre": "Music / Documentary",
         "rt": {
-          "critics": 96,
-          "audience": 99
+          "critics": 98,
+          "audience": 97
         },
         "imdb": "https://www.imdb.com/title/tt35003538/",
         "boxofficemojo": "https://www.boxofficemojo.com/release/rl1535148033/",
         "rottentomatoes": "https://www.rottentomatoes.com/m/epic_elvis_presley_in_concert",
         "reviews": [
           {
-            "source": "Variety",
-            "quote": "One of the most exciting concert films you've ever seen — Elvis in the raw."
-          },
-          {
-            "source": "The Wrap",
-            "quote": "Combines offstage and onstage Elvis into an Elvispalooza fit for a king."
+            "source": "Boston Globe",
+            "quote": "It works well as a documentary, and I can’t deny that Presley gave 110 percent to his audience at every show."
           },
           {
             "source": "RogerEbert.com",
-            "quote": "Baz Luhrmann blends the King's self and image beautifully."
+            "quote": "Baz Luhrmann, the current Poet Laureate of Elvis, wants to not only bridge the gap between the image and the man, but to..."
+          },
+          {
+            "source": "TIME Magazine",
+            "quote": "This newfound footage, painstakingly restored, forms the fabric of EPiC, which, despite Luhrmann’s penchant for hurtling..."
           }
         ]
       },
@@ -2419,24 +2362,24 @@
         "rating": "PG",
         "genre": "Romance / Comedy",
         "rt": {
-          "critics": 83,
-          "audience": 96
+          "critics": 95,
+          "audience": 92
         },
         "imdb": "https://www.imdb.com/title/tt32306991/",
         "boxofficemojo": "https://www.boxofficemojo.com/title/tt32306991/",
         "rottentomatoes": "https://www.rottentomatoes.com/m/solo_mio",
         "reviews": [
           {
+            "source": "RogerEbert.com",
+            "quote": "The film doesn’t really have any high or low points, just sort of coasting on the kind of mediocrity that’s hard to crit..."
+          },
+          {
+            "source": "Variety",
+            "quote": "Some like their rom-coms aching or itching with desire. Others are content to celebrate the affectionate spark."
+          },
+          {
             "source": "Sydney Morning Herald",
             "quote": "It’s rare to find an American movie which approaches mature-age romance as engagingly as this one."
-          },
-          {
-            "source": "AARP Movies for Grownups",
-            "quote": "Solo Mio travels a fair distance without covering new ground, but it’s amiable and good-hearted."
-          },
-          {
-            "source": "TheWrap",
-            "quote": "If anything it’s got a staggering amount of heart."
           }
         ]
       },
@@ -2455,24 +2398,24 @@
         "rating": "PG",
         "genre": "Animation / Adventure",
         "rt": {
-          "critics": 93,
-          "audience": 95
+          "critics": 95,
+          "audience": 93
         },
         "imdb": "https://www.imdb.com/title/tt26443597/",
         "boxofficemojo": "https://www.boxofficemojo.com/title/tt26443597/",
         "rottentomatoes": "https://www.rottentomatoes.com/m/zootopia_2",
         "reviews": [
           {
-            "source": "FilmWeek (LAist)",
-            "quote": "Be as good as you can as often as you can, but you have to try sometimes."
+            "source": "Slate",
+            "quote": "Though Zootopia 2 is not quite as funny as the first, it’s still got a banger new song by Shakira and many rapid-fire ga..."
           },
           {
-            "source": "Pop Culture Happy Hour (NPR Podcast)",
-            "quote": "Although I appreciated where I think it's coming from on some of these issues..."
+            "source": "Boston Globe",
+            "quote": "Ke Huy Quan brings sympathy and good will to his voicing of Gary; he’s the film’s heart and soul."
           },
           {
-            "source": "Wall Street Journal",
-            "quote": "Alone among the major studios, the Mouse House is invested in an ongoing project to, as they say on campus, interrogate,..."
+            "source": "New York Post",
+            "quote": "It’s more along the lines of a perfectly enjoyable TV police procedural; the season finale of “Claw and Order."
           }
         ]
       },
@@ -2491,8 +2434,8 @@
         "rating": "PG-13",
         "genre": "Sci-Fi / Adventure",
         "rt": {
-          "critics": 67,
-          "audience": 91
+          "critics": 90,
+          "audience": 86
         },
         "imdb": "https://www.imdb.com/title/tt1757678/",
         "boxofficemojo": "https://www.boxofficemojo.com/title/tt1757678/",
@@ -2503,12 +2446,12 @@
             "quote": "As much as I did enjoy Avatar: Fire and Ash, I’m ready for Cameron to move on to telling new stories far removed from th..."
           },
           {
-            "source": "FilmWeek (LAist)",
-            "quote": "It's still a reductionist way of seeing native people... It's insulting."
+            "source": "Detroit News",
+            "quote": "\"Fire and Ash\" is the first \"Avatar\" to feel its length. Impressive as it is, it's overkill."
           },
           {
-            "source": "FilmWeek (LAist)",
-            "quote": "One of those grand follies, like Megalopolis, where the director is just completely into it..."
+            "source": "The Atlantic",
+            "quote": "I have no clue whether Cameron wants to keep working on the series..."
           }
         ]
       }
@@ -2533,24 +2476,24 @@
         "rating": "R",
         "genre": "Romance / Drama",
         "rt": {
-          "critics": 71,
-          "audience": 84
+          "critics": 66,
+          "audience": 66
         },
         "imdb": "https://www.imdb.com/title/tt32897959/",
         "boxofficemojo": "https://www.boxofficemojo.com/title/tt32897959/",
-        "rottentomatoes": "https://www.rottentomatoes.com/m/wuthering_heights_2026",
+        "rottentomatoes": "https://www.rottentomatoes.com/m/wuthering_heights",
         "reviews": [
           {
-            "source": "The Hollywood Reporter",
-            "quote": "Pulpy, provocative, and drenched in blazing color and opulent design."
+            "source": "Variety",
+            "quote": "...weakened by a wobbly central perf by Gallic thesp Juliette Binoche."
           },
           {
-            "source": "The Atlantic",
-            "quote": "A heaving, rip-snortingly carnal good time."
+            "source": "Empire Magazine",
+            "quote": "A valiant attempt at compressing a novel as complex as Bronte's into under 2 hours, but 'valiant' shouldn't be mistaken ..."
           },
           {
-            "source": "The Guardian",
-            "quote": "An emotionally hollow, bodice-ripping misfire."
+            "source": "Independent (UK)",
+            "quote": "Ralph Fiennes makes a demonic Heathcliff, his startlingly blue eyes the only concession to a matinee audience."
           }
         ]
       },
@@ -2569,26 +2512,13 @@
         "rating": "PG",
         "genre": "Animation / Sports",
         "rt": {
-          "critics": 84,
-          "audience": 93
+          "critics": null,
+          "audience": null
         },
         "imdb": "https://www.imdb.com/title/tt27613895/",
         "boxofficemojo": "https://www.boxofficemojo.com/release/rl2725019649/",
-        "rottentomatoes": "https://www.rottentomatoes.com/m/goat_2026",
-        "reviews": [
-          {
-            "source": "The Guardian",
-            "quote": "A gorgeous, kinetic celebration of sport that plays like Ratatouille meets Rocky."
-          },
-          {
-            "source": "AV Club",
-            "quote": "Funny, warm, and absurdly rewatchable — the animated sleeper hit of the year."
-          },
-          {
-            "source": "IndieWire",
-            "quote": "GOAT does for soccer what Ratatouille did for cooking — makes you believe anyone can be great."
-          }
-        ]
+        "rottentomatoes": "https://www.rottentomatoes.com/m/goat",
+        "reviews": []
       },
       {
         "rank": 3,
@@ -2605,24 +2535,24 @@
         "rating": "R",
         "genre": "Crime / Thriller",
         "rt": {
-          "critics": 88,
-          "audience": 85
+          "critics": 59,
+          "audience": 59
         },
         "imdb": "https://www.imdb.com/title/tt32430579/",
         "boxofficemojo": "https://www.boxofficemojo.com/release/rl797671425/",
-        "rottentomatoes": "https://www.rottentomatoes.com/m/crime_101_2026",
+        "rottentomatoes": "https://www.rottentomatoes.com/m/crime_101",
         "reviews": [
           {
-            "source": "RogerEbert.com",
-            "quote": "Several cuts above the usual movie with DNA from Heat."
+            "source": "Dennis Schwartz Movie Reviews",
+            "quote": "Mildly amusing in spots."
           },
           {
-            "source": "NPR",
-            "quote": "This old-fashioned heist film pays off handsomely."
+            "source": "eFilmCritic.com",
+            "quote": "Has more highs than lows and earns some bravery points for having the stones to go 'ugly' once in a while."
           },
           {
-            "source": "Variety",
-            "quote": "Sleek action set pieces and vivid characterizations define this L.A. noir."
+            "source": "Audience",
+            "quote": "Peak movie that wonderfully weaves comedy in with down to earth characters and themes."
           }
         ]
       },
@@ -2641,24 +2571,24 @@
         "rating": "R",
         "genre": "Horror / Comedy",
         "rt": {
-          "critics": 93,
-          "audience": 87
+          "critics": 87,
+          "audience": 83
         },
         "imdb": "https://www.imdb.com/title/tt8036976/",
         "boxofficemojo": "https://www.boxofficemojo.com/title/tt8036976/",
         "rottentomatoes": "https://www.rottentomatoes.com/m/send_help",
         "reviews": [
           {
-            "source": "Deadline",
-            "quote": "The first movie gem of 2026, a devilish treat and welcome respite from the real world."
+            "source": "MovieFreak.com",
+            "quote": "The moral to the story? Don’t disrespect, ridicule, or look down on the Linda Liddle’s of the world."
           },
           {
-            "source": "The New York Times",
-            "quote": "Raimi at his most gleeful and twisted — darkly humorous with playfully yucky effects."
+            "source": "The Atlantic",
+            "quote": "All credit to Raimi -- he’s still able to deliver on a smaller scale, which his contemporaries might now struggle to do."
           },
           {
-            "source": "Variety",
-            "quote": "Doesn't need any assistance in thrills — a wickedly entertaining ride."
+            "source": "Detroit News",
+            "quote": "As a genre experiment, it's a down-the-middle good time at the movies that offers thrills, chills and gross outs galore."
           }
         ]
       },
@@ -2677,24 +2607,24 @@
         "rating": "PG",
         "genre": "Romance / Comedy",
         "rt": {
-          "critics": 83,
-          "audience": 96
+          "critics": 95,
+          "audience": 92
         },
         "imdb": "https://www.imdb.com/title/tt32306991/",
         "boxofficemojo": "https://www.boxofficemojo.com/title/tt32306991/",
         "rottentomatoes": "https://www.rottentomatoes.com/m/solo_mio",
         "reviews": [
           {
+            "source": "RogerEbert.com",
+            "quote": "The film doesn’t really have any high or low points, just sort of coasting on the kind of mediocrity that’s hard to crit..."
+          },
+          {
+            "source": "Variety",
+            "quote": "Some like their rom-coms aching or itching with desire. Others are content to celebrate the affectionate spark."
+          },
+          {
             "source": "Sydney Morning Herald",
             "quote": "It’s rare to find an American movie which approaches mature-age romance as engagingly as this one."
-          },
-          {
-            "source": "AARP Movies for Grownups",
-            "quote": "Solo Mio travels a fair distance without covering new ground, but it’s amiable and good-hearted."
-          },
-          {
-            "source": "TheWrap",
-            "quote": "If anything it’s got a staggering amount of heart."
           }
         ]
       },
@@ -2713,24 +2643,24 @@
         "rating": "PG",
         "genre": "Animation / Adventure",
         "rt": {
-          "critics": 93,
-          "audience": 95
+          "critics": 95,
+          "audience": 93
         },
         "imdb": "https://www.imdb.com/title/tt26443597/",
         "boxofficemojo": "https://www.boxofficemojo.com/title/tt26443597/",
         "rottentomatoes": "https://www.rottentomatoes.com/m/zootopia_2",
         "reviews": [
           {
-            "source": "FilmWeek (LAist)",
-            "quote": "Be as good as you can as often as you can, but you have to try sometimes."
+            "source": "Slate",
+            "quote": "Though Zootopia 2 is not quite as funny as the first, it’s still got a banger new song by Shakira and many rapid-fire ga..."
           },
           {
-            "source": "Pop Culture Happy Hour (NPR Podcast)",
-            "quote": "Although I appreciated where I think it's coming from on some of these issues..."
+            "source": "Boston Globe",
+            "quote": "Ke Huy Quan brings sympathy and good will to his voicing of Gary; he’s the film’s heart and soul."
           },
           {
-            "source": "Wall Street Journal",
-            "quote": "Alone among the major studios, the Mouse House is invested in an ongoing project to, as they say on campus, interrogate,..."
+            "source": "New York Post",
+            "quote": "It’s more along the lines of a perfectly enjoyable TV police procedural; the season finale of “Claw and Order."
           }
         ]
       },
@@ -2749,24 +2679,24 @@
         "rating": "R",
         "genre": "Sci-Fi / Comedy",
         "rt": {
-          "critics": 83,
-          "audience": 86
+          "critics": 85,
+          "audience": 81
         },
         "imdb": "https://www.imdb.com/title/tt1341338/",
         "boxofficemojo": "https://www.boxofficemojo.com/title/tt1341338/",
         "rottentomatoes": "https://www.rottentomatoes.com/m/good_luck_have_fun_dont_die",
         "reviews": [
           {
-            "source": "Empire Magazine",
-            "quote": "This starts strong but doesn’t always have the room to explore all the ideas it crams in, even with a lengthy running ti..."
+            "source": "Houston Chronicle",
+            "quote": "(It) is a goofy blast of comedic science-fiction that humorously taps into our fear of where technology is dragging us."
           },
           {
-            "source": "The Gospel Coalition",
-            "quote": "If AI induces the apocalypse, the film suggests, it’ll be a natural result of society’s decades-long complicity in \"scro..."
+            "source": "Detroit News",
+            "quote": "At two hours and 15 minutes, \"Good Luck\" is too long, and it goes a bit haywire in its wayward third act."
           },
           {
-            "source": "Free Press Journal (India)",
-            "quote": "This is not a perfect film, nor does it pretend to be."
+            "source": "RogerEbert.com",
+            "quote": "It’s a bit haphazard in both structure and messaging, but there’s a creative spark under this one that’s missing from a ..."
           }
         ]
       },
@@ -2785,8 +2715,8 @@
         "rating": "PG-13",
         "genre": "Sci-Fi / Adventure",
         "rt": {
-          "critics": 67,
-          "audience": 91
+          "critics": 90,
+          "audience": 86
         },
         "imdb": "https://www.imdb.com/title/tt1757678/",
         "boxofficemojo": "https://www.boxofficemojo.com/title/tt1757678/",
@@ -2797,12 +2727,12 @@
             "quote": "As much as I did enjoy Avatar: Fire and Ash, I’m ready for Cameron to move on to telling new stories far removed from th..."
           },
           {
-            "source": "FilmWeek (LAist)",
-            "quote": "It's still a reductionist way of seeing native people... It's insulting."
+            "source": "Detroit News",
+            "quote": "\"Fire and Ash\" is the first \"Avatar\" to feel its length. Impressive as it is, it's overkill."
           },
           {
-            "source": "FilmWeek (LAist)",
-            "quote": "One of those grand follies, like Megalopolis, where the director is just completely into it..."
+            "source": "The Atlantic",
+            "quote": "I have no clue whether Cameron wants to keep working on the series..."
           }
         ]
       },
@@ -2821,8 +2751,8 @@
         "rating": "R",
         "genre": "Horror / Sci-Fi",
         "rt": {
-          "critics": 43,
-          "audience": 89
+          "critics": 87,
+          "audience": 90
         },
         "imdb": "https://www.imdb.com/title/tt27564844/",
         "boxofficemojo": "https://www.boxofficemojo.com/title/tt27564844/",
@@ -2837,8 +2767,8 @@
             "quote": "The movie is not quite the Cronenbergian nightmare the director wants it to be."
           },
           {
-            "source": "The Movie Sleuth",
-            "quote": "There just isn't enough meat to flesh out two hours of runtime"
+            "source": "Slate",
+            "quote": "Some sequences work better than others, but to his credit, Markiplier does deliver the intensity needed at the end, when..."
           }
         ]
       },
@@ -2857,8 +2787,8 @@
         "rating": "R",
         "genre": "Horror / Romance",
         "rt": {
-          "critics": 53,
-          "audience": 80
+          "critics": 82,
+          "audience": 77
         },
         "imdb": "https://www.imdb.com/title/tt31434030/",
         "boxofficemojo": "https://www.boxofficemojo.com/title/tt31434030/",
@@ -2873,8 +2803,8 @@
             "quote": "The cast’s deliveries on Besson’s punchlines are strong, and editor Lucas Fabiani keeps up his end of the deal when it c..."
           },
           {
-            "source": "The Travers Take",
-            "quote": "The bloodsucking Count is back again, but this time in a strangely bloodless love story that even wickedly seductive fan..."
+            "source": "Detroit News",
+            "quote": "The adaptation offers a few wrinkles on the oft-told story, so clearly sending it into the realm of camp that it's mostl..."
           }
         ]
       }
@@ -2899,24 +2829,24 @@
         "rating": "R",
         "genre": "Horror / Comedy",
         "rt": {
-          "critics": 93,
-          "audience": 87
+          "critics": 87,
+          "audience": 83
         },
         "imdb": "https://www.imdb.com/title/tt8036976/",
         "boxofficemojo": "https://www.boxofficemojo.com/title/tt8036976/",
         "rottentomatoes": "https://www.rottentomatoes.com/m/send_help",
         "reviews": [
           {
-            "source": "Deadline",
-            "quote": "The first movie gem of 2026, a devilish treat and welcome respite from the real world."
+            "source": "MovieFreak.com",
+            "quote": "The moral to the story? Don’t disrespect, ridicule, or look down on the Linda Liddle’s of the world."
           },
           {
-            "source": "The New York Times",
-            "quote": "Raimi at his most gleeful and twisted — darkly humorous with playfully yucky effects."
+            "source": "The Atlantic",
+            "quote": "All credit to Raimi -- he’s still able to deliver on a smaller scale, which his contemporaries might now struggle to do."
           },
           {
-            "source": "Variety",
-            "quote": "Doesn't need any assistance in thrills — a wickedly entertaining ride."
+            "source": "Detroit News",
+            "quote": "As a genre experiment, it's a down-the-middle good time at the movies that offers thrills, chills and gross outs galore."
           }
         ]
       },
@@ -2935,24 +2865,24 @@
         "rating": "PG",
         "genre": "Romance / Comedy",
         "rt": {
-          "critics": 83,
-          "audience": 96
+          "critics": 95,
+          "audience": 92
         },
         "imdb": "https://www.imdb.com/title/tt32306991/",
         "boxofficemojo": "https://www.boxofficemojo.com/title/tt32306991/",
         "rottentomatoes": "https://www.rottentomatoes.com/m/solo_mio",
         "reviews": [
           {
+            "source": "RogerEbert.com",
+            "quote": "The film doesn’t really have any high or low points, just sort of coasting on the kind of mediocrity that’s hard to crit..."
+          },
+          {
+            "source": "Variety",
+            "quote": "Some like their rom-coms aching or itching with desire. Others are content to celebrate the affectionate spark."
+          },
+          {
             "source": "Sydney Morning Herald",
             "quote": "It’s rare to find an American movie which approaches mature-age romance as engagingly as this one."
-          },
-          {
-            "source": "AARP Movies for Grownups",
-            "quote": "Solo Mio travels a fair distance without covering new ground, but it’s amiable and good-hearted."
-          },
-          {
-            "source": "TheWrap",
-            "quote": "If anything it’s got a staggering amount of heart."
           }
         ]
       },
@@ -2971,8 +2901,8 @@
         "rating": "R",
         "genre": "Horror / Sci-Fi",
         "rt": {
-          "critics": 43,
-          "audience": 89
+          "critics": 87,
+          "audience": 90
         },
         "imdb": "https://www.imdb.com/title/tt27564844/",
         "boxofficemojo": "https://www.boxofficemojo.com/title/tt27564844/",
@@ -2987,8 +2917,8 @@
             "quote": "The movie is not quite the Cronenbergian nightmare the director wants it to be."
           },
           {
-            "source": "The Movie Sleuth",
-            "quote": "There just isn't enough meat to flesh out two hours of runtime"
+            "source": "Slate",
+            "quote": "Some sequences work better than others, but to his credit, Markiplier does deliver the intensity needed at the end, when..."
           }
         ]
       },
@@ -3008,12 +2938,16 @@
         "genre": "Music / Documentary",
         "rt": {
           "critics": 100,
-          "audience": 100
+          "audience": 99
         },
         "imdb": "https://www.imdb.com/title/tt39216314/",
         "boxofficemojo": "https://www.boxofficemojo.com/title/tt39216314/",
         "rottentomatoes": "https://www.rottentomatoes.com/m/stray_kids_the_dominate_experience",
         "reviews": [
+          {
+            "source": "Forbes",
+            "quote": "Stray Kids: The DominATE Experience is an entertaining film that will have fans dancing on their feet and give those who..."
+          },
           {
             "source": "But Why Tho? A Geek Community",
             "quote": "Watching Stray Kids The dominATE Experience shows how far they’ve come and how much more they have to give to the world."
@@ -3021,10 +2955,6 @@
           {
             "source": "Muses of Media",
             "quote": "It’s a shame Stray Kids: The dominATE Experience isn’t available in theatres for a longer period, as it is an experience..."
-          },
-          {
-            "source": "Common Sense Media",
-            "quote": "An invitation to come for the music and STAY for the fandom, this isn't just a concert film, but an emotional immersion ..."
           }
         ]
       },
@@ -3043,8 +2973,8 @@
         "rating": "R",
         "genre": "Horror / Romance",
         "rt": {
-          "critics": 53,
-          "audience": 80
+          "critics": 82,
+          "audience": 77
         },
         "imdb": "https://www.imdb.com/title/tt31434030/",
         "boxofficemojo": "https://www.boxofficemojo.com/title/tt31434030/",
@@ -3059,8 +2989,8 @@
             "quote": "The cast’s deliveries on Besson’s punchlines are strong, and editor Lucas Fabiani keeps up his end of the deal when it c..."
           },
           {
-            "source": "The Travers Take",
-            "quote": "The bloodsucking Count is back again, but this time in a strangely bloodless love story that even wickedly seductive fan..."
+            "source": "Detroit News",
+            "quote": "The adaptation offers a few wrinkles on the oft-told story, so clearly sending it into the realm of camp that it's mostl..."
           }
         ]
       },
@@ -3079,24 +3009,24 @@
         "rating": "PG",
         "genre": "Animation / Adventure",
         "rt": {
-          "critics": 93,
-          "audience": 95
+          "critics": 95,
+          "audience": 93
         },
         "imdb": "https://www.imdb.com/title/tt26443597/",
         "boxofficemojo": "https://www.boxofficemojo.com/title/tt26443597/",
         "rottentomatoes": "https://www.rottentomatoes.com/m/zootopia_2",
         "reviews": [
           {
-            "source": "FilmWeek (LAist)",
-            "quote": "Be as good as you can as often as you can, but you have to try sometimes."
+            "source": "Slate",
+            "quote": "Though Zootopia 2 is not quite as funny as the first, it’s still got a banger new song by Shakira and many rapid-fire ga..."
           },
           {
-            "source": "Pop Culture Happy Hour (NPR Podcast)",
-            "quote": "Although I appreciated where I think it's coming from on some of these issues..."
+            "source": "Boston Globe",
+            "quote": "Ke Huy Quan brings sympathy and good will to his voicing of Gary; he’s the film’s heart and soul."
           },
           {
-            "source": "Wall Street Journal",
-            "quote": "Alone among the major studios, the Mouse House is invested in an ongoing project to, as they say on campus, interrogate,..."
+            "source": "New York Post",
+            "quote": "It’s more along the lines of a perfectly enjoyable TV police procedural; the season finale of “Claw and Order."
           }
         ]
       },
@@ -3115,24 +3045,24 @@
         "rating": "R",
         "genre": "Horror / Thriller",
         "rt": {
-          "critics": 17,
-          "audience": 49
+          "critics": 49,
+          "audience": 40
         },
         "imdb": "https://www.imdb.com/title/tt28682323/",
         "boxofficemojo": "https://www.boxofficemojo.com/title/tt28682323/",
         "rottentomatoes": "https://www.rottentomatoes.com/m/the_strangers_chapter_3",
         "reviews": [
           {
-            "source": "Empire Magazine",
-            "quote": "Renny Harlin’s bloated trilogy concludes on a chapter that shows flickers of life amid the deaths, but there’s no maskin..."
-          },
-          {
             "source": "RogerEbert.com",
             "quote": "By the end, I wasn’t rooting for the fictional Maya to survive the night as much as for the actress who plays her to mov..."
           },
           {
-            "source": "Bloody Good Horror (Podcast)",
-            "quote": "\"The Strangers: Chapter 3\" is attempting to say something about trauma, manipulation, and the lifecycle of violence "
+            "source": "Variety",
+            "quote": "It stretches material that wouldn’t overfill 90 minutes to 4."
+          },
+          {
+            "source": "Slant Magazine",
+            "quote": "It’s easy to imagine the nihilistic avenues that Chapter 3 could have gone down."
           }
         ]
       },
@@ -3151,8 +3081,8 @@
         "rating": "PG-13",
         "genre": "Sci-Fi / Adventure",
         "rt": {
-          "critics": 67,
-          "audience": 91
+          "critics": 90,
+          "audience": 86
         },
         "imdb": "https://www.imdb.com/title/tt1757678/",
         "boxofficemojo": "https://www.boxofficemojo.com/title/tt1757678/",
@@ -3163,12 +3093,12 @@
             "quote": "As much as I did enjoy Avatar: Fire and Ash, I’m ready for Cameron to move on to telling new stories far removed from th..."
           },
           {
-            "source": "FilmWeek (LAist)",
-            "quote": "It's still a reductionist way of seeing native people... It's insulting."
+            "source": "Detroit News",
+            "quote": "\"Fire and Ash\" is the first \"Avatar\" to feel its length. Impressive as it is, it's overkill."
           },
           {
-            "source": "FilmWeek (LAist)",
-            "quote": "One of those grand follies, like Megalopolis, where the director is just completely into it..."
+            "source": "The Atlantic",
+            "quote": "I have no clue whether Cameron wants to keep working on the series..."
           }
         ]
       },
@@ -3187,24 +3117,24 @@
         "rating": "R",
         "genre": "Action / Thriller",
         "rt": {
-          "critics": 65,
-          "audience": 87
+          "critics": 45,
+          "audience": 45
         },
         "imdb": "https://www.imdb.com/title/tt32357218/",
         "boxofficemojo": "https://www.boxofficemojo.com/title/tt32357218/",
-        "rottentomatoes": "https://www.rottentomatoes.com/m/shelter_2026",
+        "rottentomatoes": "https://www.rottentomatoes.com/m/shelter",
         "reviews": [
+          {
+            "source": "The Hollywood Reporter",
+            "quote": "Psychology-themed horror tale goes a little nutty in the end."
+          },
           {
             "source": "New York Post",
             "quote": "A preposterous supernatural thriller that inexplicably managed to sign up Julianne Moore to star."
           },
           {
-            "source": "SF Crowsnest",
-            "quote": "The woefully stagnant Souls-searching being performed in this face-switching frightfest is hopelessly inert and idiotic."
-          },
-          {
-            "source": "INDY Week",
-            "quote": "Even though God is actually mentioned in the closing, special-thanks credits, dude couldn't unfortunately work His/Her m..."
+            "source": "Los Angeles Times",
+            "quote": "\"6 Souls\" is regrettably sick with that familiar disease afflicting movies of this ilk: ostentatious, hollow moodiness t..."
           }
         ]
       },
@@ -3223,24 +3153,24 @@
         "rating": "PG",
         "genre": "Documentary",
         "rt": {
-          "critics": 10,
-          "audience": 99
+          "critics": 98,
+          "audience": 33
         },
         "imdb": "https://www.imdb.com/title/tt35291758/",
         "boxofficemojo": "https://www.boxofficemojo.com/title/tt35291758/",
         "rottentomatoes": "https://www.rottentomatoes.com/m/melania",
         "reviews": [
           {
-            "source": "The Travers Take",
-            "quote": "Shallow, sycophantic and absent a single unguarded moment, ‘Melania’ is a near-two-hour infomercial disguised as a docum..."
+            "source": "Detroit News",
+            "quote": "Its defining trait is that it's numbingly, agonizingly dull."
           },
           {
-            "source": "The Michael Medved Show",
-            "quote": "Despite a polished presentation, the film comes across as tedious, unconvincing, and ultimately a failed experiment that..."
+            "source": "Arizona Republic",
+            "quote": "All I can say is, no matter who made it, no matter who paid for it, no matter who it's about, \"Melania\" is a singularly ..."
           },
           {
-            "source": "Sioux City Journal",
-            "quote": "This doesn’t give as much as a Fox News Special might or — god forbid "
+            "source": "Slate",
+            "quote": "It contains nothing: no ideas, no point of view, no tension beyond whether the tailors will be able to properly alter he..."
           }
         ]
       }
@@ -3265,24 +3195,24 @@
         "rating": "R",
         "genre": "Horror / Comedy",
         "rt": {
-          "critics": 93,
-          "audience": 87
+          "critics": 87,
+          "audience": 83
         },
         "imdb": "https://www.imdb.com/title/tt8036976/",
         "boxofficemojo": "https://www.boxofficemojo.com/title/tt8036976/",
         "rottentomatoes": "https://www.rottentomatoes.com/m/send_help",
         "reviews": [
           {
-            "source": "Deadline",
-            "quote": "The first movie gem of 2026, a devilish treat and welcome respite from the real world."
+            "source": "MovieFreak.com",
+            "quote": "The moral to the story? Don’t disrespect, ridicule, or look down on the Linda Liddle’s of the world."
           },
           {
-            "source": "The New York Times",
-            "quote": "Raimi at his most gleeful and twisted — darkly humorous with playfully yucky effects."
+            "source": "The Atlantic",
+            "quote": "All credit to Raimi -- he’s still able to deliver on a smaller scale, which his contemporaries might now struggle to do."
           },
           {
-            "source": "Variety",
-            "quote": "Doesn't need any assistance in thrills — a wickedly entertaining ride."
+            "source": "Detroit News",
+            "quote": "As a genre experiment, it's a down-the-middle good time at the movies that offers thrills, chills and gross outs galore."
           }
         ]
       },
@@ -3301,8 +3231,8 @@
         "rating": "R",
         "genre": "Horror / Sci-Fi",
         "rt": {
-          "critics": 43,
-          "audience": 89
+          "critics": 87,
+          "audience": 90
         },
         "imdb": "https://www.imdb.com/title/tt27564844/",
         "boxofficemojo": "https://www.boxofficemojo.com/title/tt27564844/",
@@ -3317,8 +3247,8 @@
             "quote": "The movie is not quite the Cronenbergian nightmare the director wants it to be."
           },
           {
-            "source": "The Movie Sleuth",
-            "quote": "There just isn't enough meat to flesh out two hours of runtime"
+            "source": "Slate",
+            "quote": "Some sequences work better than others, but to his credit, Markiplier does deliver the intensity needed at the end, when..."
           }
         ]
       },
@@ -3337,24 +3267,24 @@
         "rating": "PG",
         "genre": "Documentary",
         "rt": {
-          "critics": 10,
-          "audience": 99
+          "critics": 98,
+          "audience": 33
         },
         "imdb": "https://www.imdb.com/title/tt35291758/",
         "boxofficemojo": "https://www.boxofficemojo.com/title/tt35291758/",
         "rottentomatoes": "https://www.rottentomatoes.com/m/melania",
         "reviews": [
           {
-            "source": "The Travers Take",
-            "quote": "Shallow, sycophantic and absent a single unguarded moment, ‘Melania’ is a near-two-hour infomercial disguised as a docum..."
+            "source": "Detroit News",
+            "quote": "Its defining trait is that it's numbingly, agonizingly dull."
           },
           {
-            "source": "The Michael Medved Show",
-            "quote": "Despite a polished presentation, the film comes across as tedious, unconvincing, and ultimately a failed experiment that..."
+            "source": "Arizona Republic",
+            "quote": "All I can say is, no matter who made it, no matter who paid for it, no matter who it's about, \"Melania\" is a singularly ..."
           },
           {
-            "source": "Sioux City Journal",
-            "quote": "This doesn’t give as much as a Fox News Special might or — god forbid "
+            "source": "Slate",
+            "quote": "It contains nothing: no ideas, no point of view, no tension beyond whether the tailors will be able to properly alter he..."
           }
         ]
       },
@@ -3373,24 +3303,24 @@
         "rating": "PG",
         "genre": "Animation / Adventure",
         "rt": {
-          "critics": 93,
-          "audience": 95
+          "critics": 95,
+          "audience": 93
         },
         "imdb": "https://www.imdb.com/title/tt26443597/",
         "boxofficemojo": "https://www.boxofficemojo.com/title/tt26443597/",
         "rottentomatoes": "https://www.rottentomatoes.com/m/zootopia_2",
         "reviews": [
           {
-            "source": "FilmWeek (LAist)",
-            "quote": "Be as good as you can as often as you can, but you have to try sometimes."
+            "source": "Slate",
+            "quote": "Though Zootopia 2 is not quite as funny as the first, it’s still got a banger new song by Shakira and many rapid-fire ga..."
           },
           {
-            "source": "Pop Culture Happy Hour (NPR Podcast)",
-            "quote": "Although I appreciated where I think it's coming from on some of these issues..."
+            "source": "Boston Globe",
+            "quote": "Ke Huy Quan brings sympathy and good will to his voicing of Gary; he’s the film’s heart and soul."
           },
           {
-            "source": "Wall Street Journal",
-            "quote": "Alone among the major studios, the Mouse House is invested in an ongoing project to, as they say on campus, interrogate,..."
+            "source": "New York Post",
+            "quote": "It’s more along the lines of a perfectly enjoyable TV police procedural; the season finale of “Claw and Order."
           }
         ]
       },
@@ -3409,8 +3339,8 @@
         "rating": "PG-13",
         "genre": "Sci-Fi / Adventure",
         "rt": {
-          "critics": 67,
-          "audience": 91
+          "critics": 90,
+          "audience": 86
         },
         "imdb": "https://www.imdb.com/title/tt1757678/",
         "boxofficemojo": "https://www.boxofficemojo.com/title/tt1757678/",
@@ -3421,12 +3351,12 @@
             "quote": "As much as I did enjoy Avatar: Fire and Ash, I’m ready for Cameron to move on to telling new stories far removed from th..."
           },
           {
-            "source": "FilmWeek (LAist)",
-            "quote": "It's still a reductionist way of seeing native people... It's insulting."
+            "source": "Detroit News",
+            "quote": "\"Fire and Ash\" is the first \"Avatar\" to feel its length. Impressive as it is, it's overkill."
           },
           {
-            "source": "FilmWeek (LAist)",
-            "quote": "One of those grand follies, like Megalopolis, where the director is just completely into it..."
+            "source": "The Atlantic",
+            "quote": "I have no clue whether Cameron wants to keep working on the series..."
           }
         ]
       },
@@ -3445,24 +3375,24 @@
         "rating": "R",
         "genre": "Action / Thriller",
         "rt": {
-          "critics": 65,
-          "audience": 87
+          "critics": 45,
+          "audience": 45
         },
         "imdb": "https://www.imdb.com/title/tt32357218/",
         "boxofficemojo": "https://www.boxofficemojo.com/title/tt32357218/",
-        "rottentomatoes": "https://www.rottentomatoes.com/m/shelter_2026",
+        "rottentomatoes": "https://www.rottentomatoes.com/m/shelter",
         "reviews": [
+          {
+            "source": "The Hollywood Reporter",
+            "quote": "Psychology-themed horror tale goes a little nutty in the end."
+          },
           {
             "source": "New York Post",
             "quote": "A preposterous supernatural thriller that inexplicably managed to sign up Julianne Moore to star."
           },
           {
-            "source": "SF Crowsnest",
-            "quote": "The woefully stagnant Souls-searching being performed in this face-switching frightfest is hopelessly inert and idiotic."
-          },
-          {
-            "source": "INDY Week",
-            "quote": "Even though God is actually mentioned in the closing, special-thanks credits, dude couldn't unfortunately work His/Her m..."
+            "source": "Los Angeles Times",
+            "quote": "\"6 Souls\" is regrettably sick with that familiar disease afflicting movies of this ilk: ostentatious, hollow moodiness t..."
           }
         ]
       },
@@ -3481,24 +3411,24 @@
         "rating": "PG-13",
         "genre": "Sci-Fi / Thriller",
         "rt": {
-          "critics": 25,
-          "audience": 83
+          "critics": 82,
+          "audience": 73
         },
         "imdb": "https://www.imdb.com/title/tt31050594/",
         "boxofficemojo": "https://www.boxofficemojo.com/title/tt31050594/",
         "rottentomatoes": "https://www.rottentomatoes.com/m/mercy_2026",
         "reviews": [
           {
-            "source": "Chicago Reader",
-            "quote": "A can’t-miss event for the subset of viewers fascinated by the screenlife format."
+            "source": "The Ringer",
+            "quote": "A high concept brought low by middling execution; an allegory about our tendency to rush to judgment made without convic..."
           },
           {
-            "source": "DwightBrownInk.com",
-            "quote": "Fans expecting Chris Pratt to do his superhero thing will be disappointed. He’s in time-out. Strapped to his seat."
+            "source": "NPR",
+            "quote": "A smartly choreographed chase sequence finally widens the focus and turns the last act of Mercy mercifully brisk."
           },
           {
-            "source": "Empire Magazine",
-            "quote": "It has aspirations to be RoboCop but this feels more like autopilot."
+            "source": "MovieFreak.com",
+            "quote": "At least it’s funny. I do have to give Mercy that."
           }
         ]
       },
@@ -3517,24 +3447,24 @@
         "rating": "R",
         "genre": "Mystery / Thriller",
         "rt": {
-          "critics": 75,
-          "audience": 92
+          "critics": 54,
+          "audience": 54
         },
         "imdb": "https://www.imdb.com/title/tt27543632/",
         "boxofficemojo": "https://www.boxofficemojo.com/title/tt27543632/",
-        "rottentomatoes": "https://www.rottentomatoes.com/m/the_housemaid_2025",
+        "rottentomatoes": "https://www.rottentomatoes.com/m/the_housemaid",
         "reviews": [
           {
-            "source": "New York Daily News",
-            "quote": "Im Sang-soo can't improve on Kim Ki-young's 1960 original, a jaIm Sang-soo can't improve on Kim Ki-young's 1960 original..."
+            "source": "St. Louis Post-Dispatch",
+            "quote": "The movie kowtows to the old truism that the rich are different - but it does it with a sardonic smile."
           },
           {
-            "source": "Lessons of Darkness",
-            "quote": "Exudes a surreal sense of deranged domestic privilege."
+            "source": "Detroit News",
+            "quote": "Writer-director Im Sang-Soo injects a certain sense of otherworldliness in the proceedings -- the final scene is straigh..."
           },
           {
-            "source": "Floating World",
-            "quote": "Im saves the grotesquery of the wealthy to the last minute."
+            "source": "MovieFreak.com",
+            "quote": "But nothing could prepare me for what does indeed transpire, the final scenes having a grotesque opulence that is both e..."
           }
         ]
       },
@@ -3553,24 +3483,24 @@
         "rating": "R",
         "genre": "Drama / Sport",
         "rt": {
-          "critics": 94,
-          "audience": 82
+          "critics": 82,
+          "audience": 72
         },
         "imdb": "https://www.imdb.com/title/tt32916440/",
         "boxofficemojo": "https://www.boxofficemojo.com/title/tt32916440/",
         "rottentomatoes": "https://www.rottentomatoes.com/m/marty_supreme",
         "reviews": [
           {
-            "source": "America Magazine",
-            "quote": "What’s predictable enough is how effortlessly Chalamet generates sympathy for Marty Mauser, who in the cold light of the..."
+            "source": "NPR",
+            "quote": "The movies can be a wonderfully amoral medium, and I found myself liking Marty Mauser -- and not just liking him, but ac..."
           },
           {
-            "source": "Filmspotting",
-            "quote": "Safdie transforms a sports saga into a biting portrait of ambition, class, and identity."
+            "source": "The Atlantic",
+            "quote": "Marty is vivacious, and the film around him is buzzing at the same frequency: itchy, anxious, yet unbearably exciting th..."
           },
           {
-            "source": "n+1",
-            "quote": "Timothée Chalamet wore me out with his relentlessness, and the Mad Libs casting exhausted me."
+            "source": "Boston Globe",
+            "quote": "There is nothing I dislike more than a movie that demands that you love an obnoxious, insufferable protagonist."
           }
         ]
       },
@@ -3589,24 +3519,24 @@
         "rating": "R",
         "genre": "Horror / Sci-Fi",
         "rt": {
-          "critics": 92,
-          "audience": 88
+          "critics": 88,
+          "audience": 84
         },
         "imdb": "https://www.imdb.com/title/tt32141377/",
         "boxofficemojo": "https://www.boxofficemojo.com/title/tt32141377/",
         "rottentomatoes": "https://www.rottentomatoes.com/m/28_years_later_the_bone_temple",
         "reviews": [
           {
-            "source": "Crooked Marquee",
-            "quote": "I cannot quite square how much fun this movie is while being so disturbing."
+            "source": "The Atlantic",
+            "quote": "This may be another zombie movie about the inhumanity of man, but it’s also deeply, triumphantly humane."
           },
           {
-            "source": "Mac the Movie Guy",
-            "quote": "Da costa delivers a visceral, worthy successor that blazes its own trail, setting the standard on how to continue to wor..."
+            "source": "The New Yorker",
+            "quote": "What makes your own skin crawl isn’t just the hideousness of the violence but the unblinking matter-of-factness with whi..."
           },
           {
-            "source": "CinemaDebate",
-            "quote": "28 YEARS LATER: THE BONE TEMPLE is a strong sequel that keeps true to the core themes of the franchise while expanding t..."
+            "source": "Detroit News",
+            "quote": "The care DaCosta gives the characters, and the life the actors bring to them, is soulful and enriching, even moving."
           }
         ]
       }
@@ -3631,24 +3561,24 @@
         "rating": "PG-13",
         "genre": "Sci-Fi / Thriller",
         "rt": {
-          "critics": 25,
-          "audience": 83
+          "critics": 82,
+          "audience": 73
         },
         "imdb": "https://www.imdb.com/title/tt31050594/",
         "boxofficemojo": "https://www.boxofficemojo.com/title/tt31050594/",
         "rottentomatoes": "https://www.rottentomatoes.com/m/mercy_2026",
         "reviews": [
           {
-            "source": "Chicago Reader",
-            "quote": "A can’t-miss event for the subset of viewers fascinated by the screenlife format."
+            "source": "The Ringer",
+            "quote": "A high concept brought low by middling execution; an allegory about our tendency to rush to judgment made without convic..."
           },
           {
-            "source": "DwightBrownInk.com",
-            "quote": "Fans expecting Chris Pratt to do his superhero thing will be disappointed. He’s in time-out. Strapped to his seat."
+            "source": "NPR",
+            "quote": "A smartly choreographed chase sequence finally widens the focus and turns the last act of Mercy mercifully brisk."
           },
           {
-            "source": "Empire Magazine",
-            "quote": "It has aspirations to be RoboCop but this feels more like autopilot."
+            "source": "MovieFreak.com",
+            "quote": "At least it’s funny. I do have to give Mercy that."
           }
         ]
       },
@@ -3667,8 +3597,8 @@
         "rating": "PG-13",
         "genre": "Sci-Fi / Adventure",
         "rt": {
-          "critics": 67,
-          "audience": 91
+          "critics": 90,
+          "audience": 86
         },
         "imdb": "https://www.imdb.com/title/tt1757678/",
         "boxofficemojo": "https://www.boxofficemojo.com/title/tt1757678/",
@@ -3679,12 +3609,12 @@
             "quote": "As much as I did enjoy Avatar: Fire and Ash, I’m ready for Cameron to move on to telling new stories far removed from th..."
           },
           {
-            "source": "FilmWeek (LAist)",
-            "quote": "It's still a reductionist way of seeing native people... It's insulting."
+            "source": "Detroit News",
+            "quote": "\"Fire and Ash\" is the first \"Avatar\" to feel its length. Impressive as it is, it's overkill."
           },
           {
-            "source": "FilmWeek (LAist)",
-            "quote": "One of those grand follies, like Megalopolis, where the director is just completely into it..."
+            "source": "The Atlantic",
+            "quote": "I have no clue whether Cameron wants to keep working on the series..."
           }
         ]
       },
@@ -3703,24 +3633,24 @@
         "rating": "PG",
         "genre": "Animation / Adventure",
         "rt": {
-          "critics": 93,
-          "audience": 95
+          "critics": 95,
+          "audience": 93
         },
         "imdb": "https://www.imdb.com/title/tt26443597/",
         "boxofficemojo": "https://www.boxofficemojo.com/title/tt26443597/",
         "rottentomatoes": "https://www.rottentomatoes.com/m/zootopia_2",
         "reviews": [
           {
-            "source": "FilmWeek (LAist)",
-            "quote": "Be as good as you can as often as you can, but you have to try sometimes."
+            "source": "Slate",
+            "quote": "Though Zootopia 2 is not quite as funny as the first, it’s still got a banger new song by Shakira and many rapid-fire ga..."
           },
           {
-            "source": "Pop Culture Happy Hour (NPR Podcast)",
-            "quote": "Although I appreciated where I think it's coming from on some of these issues..."
+            "source": "Boston Globe",
+            "quote": "Ke Huy Quan brings sympathy and good will to his voicing of Gary; he’s the film’s heart and soul."
           },
           {
-            "source": "Wall Street Journal",
-            "quote": "Alone among the major studios, the Mouse House is invested in an ongoing project to, as they say on campus, interrogate,..."
+            "source": "New York Post",
+            "quote": "It’s more along the lines of a perfectly enjoyable TV police procedural; the season finale of “Claw and Order."
           }
         ]
       },
@@ -3739,24 +3669,24 @@
         "rating": "R",
         "genre": "Mystery / Thriller",
         "rt": {
-          "critics": 75,
-          "audience": 92
+          "critics": 54,
+          "audience": 54
         },
         "imdb": "https://www.imdb.com/title/tt27543632/",
         "boxofficemojo": "https://www.boxofficemojo.com/title/tt27543632/",
-        "rottentomatoes": "https://www.rottentomatoes.com/m/the_housemaid_2025",
+        "rottentomatoes": "https://www.rottentomatoes.com/m/the_housemaid",
         "reviews": [
           {
-            "source": "New York Daily News",
-            "quote": "Im Sang-soo can't improve on Kim Ki-young's 1960 original, a jaIm Sang-soo can't improve on Kim Ki-young's 1960 original..."
+            "source": "St. Louis Post-Dispatch",
+            "quote": "The movie kowtows to the old truism that the rich are different - but it does it with a sardonic smile."
           },
           {
-            "source": "Lessons of Darkness",
-            "quote": "Exudes a surreal sense of deranged domestic privilege."
+            "source": "Detroit News",
+            "quote": "Writer-director Im Sang-Soo injects a certain sense of otherworldliness in the proceedings -- the final scene is straigh..."
           },
           {
-            "source": "Floating World",
-            "quote": "Im saves the grotesquery of the wealthy to the last minute."
+            "source": "MovieFreak.com",
+            "quote": "But nothing could prepare me for what does indeed transpire, the final scenes having a grotesque opulence that is both e..."
           }
         ]
       },
@@ -3775,24 +3705,24 @@
         "rating": "R",
         "genre": "Drama / Sport",
         "rt": {
-          "critics": 94,
-          "audience": 82
+          "critics": 82,
+          "audience": 72
         },
         "imdb": "https://www.imdb.com/title/tt32916440/",
         "boxofficemojo": "https://www.boxofficemojo.com/title/tt32916440/",
         "rottentomatoes": "https://www.rottentomatoes.com/m/marty_supreme",
         "reviews": [
           {
-            "source": "America Magazine",
-            "quote": "What’s predictable enough is how effortlessly Chalamet generates sympathy for Marty Mauser, who in the cold light of the..."
+            "source": "NPR",
+            "quote": "The movies can be a wonderfully amoral medium, and I found myself liking Marty Mauser -- and not just liking him, but ac..."
           },
           {
-            "source": "Filmspotting",
-            "quote": "Safdie transforms a sports saga into a biting portrait of ambition, class, and identity."
+            "source": "The Atlantic",
+            "quote": "Marty is vivacious, and the film around him is buzzing at the same frequency: itchy, anxious, yet unbearably exciting th..."
           },
           {
-            "source": "n+1",
-            "quote": "Timothée Chalamet wore me out with his relentlessness, and the Mad Libs casting exhausted me."
+            "source": "Boston Globe",
+            "quote": "There is nothing I dislike more than a movie that demands that you love an obnoxious, insufferable protagonist."
           }
         ]
       },
@@ -3811,24 +3741,24 @@
         "rating": "R",
         "genre": "Horror / Sci-Fi",
         "rt": {
-          "critics": 92,
-          "audience": 88
+          "critics": 88,
+          "audience": 84
         },
         "imdb": "https://www.imdb.com/title/tt32141377/",
         "boxofficemojo": "https://www.boxofficemojo.com/title/tt32141377/",
         "rottentomatoes": "https://www.rottentomatoes.com/m/28_years_later_the_bone_temple",
         "reviews": [
           {
-            "source": "Crooked Marquee",
-            "quote": "I cannot quite square how much fun this movie is while being so disturbing."
+            "source": "The Atlantic",
+            "quote": "This may be another zombie movie about the inhumanity of man, but it’s also deeply, triumphantly humane."
           },
           {
-            "source": "Mac the Movie Guy",
-            "quote": "Da costa delivers a visceral, worthy successor that blazes its own trail, setting the standard on how to continue to wor..."
+            "source": "The New Yorker",
+            "quote": "What makes your own skin crawl isn’t just the hideousness of the violence but the unblinking matter-of-factness with whi..."
           },
           {
-            "source": "CinemaDebate",
-            "quote": "28 YEARS LATER: THE BONE TEMPLE is a strong sequel that keeps true to the core themes of the franchise while expanding t..."
+            "source": "Detroit News",
+            "quote": "The care DaCosta gives the characters, and the life the actors bring to them, is soulful and enriching, even moving."
           }
         ]
       },
@@ -3847,8 +3777,8 @@
         "rating": "R",
         "genre": "Horror / Mystery",
         "rt": {
-          "critics": 18,
-          "audience": 29
+          "critics": 28,
+          "audience": 36
         },
         "imdb": "https://www.imdb.com/title/tt22868010/",
         "boxofficemojo": "https://www.boxofficemojo.com/title/tt22868010/",
@@ -3859,12 +3789,12 @@
             "quote": "A cautionary tale: chilling proof that borrowing legendary video game symbolism without comparable skill remains the sur..."
           },
           {
-            "source": "Subculture Entertainment",
-            "quote": "Some may feel that Return To Silent Hill just looks like a creepy screensaver while others may choose to embrace the fil..."
+            "source": "RogerEbert.com",
+            "quote": "Gans’ sequel delivers more of the same, so it likely won’t impress anyone who doesn’t already enjoy getting lost in the ..."
           },
           {
-            "source": "IndieWire",
-            "quote": "Die-hard fans may get a kick out of seeing the monstrosities of Silent Hill on the big screen."
+            "source": "Slant Magazine",
+            "quote": "Christophe Gans’s film does away with all the psychosexual nuance of Silent Hill 2."
           }
         ]
       },
@@ -3883,7 +3813,7 @@
         "rating": "PG-13",
         "genre": "Fantasy / Adventure",
         "rt": {
-          "critics": 92,
+          "critics": 95,
           "audience": 95
         },
         "imdb": "https://www.imdb.com/title/tt0120737/",
@@ -3891,16 +3821,16 @@
         "rottentomatoes": "https://www.rottentomatoes.com/m/the_lord_of_the_rings_the_fellowship_of_the_ring",
         "reviews": [
           {
-            "source": "CinemaDebate",
-            "quote": "THE LORD OF THE RINGS: The Fellowship of the Ring is a perfect film."
+            "source": "Arizona Republic",
+            "quote": "Much will be made of McKellen's performance, as it should be, considering his near perfect portrayal of the powerful spe..."
           },
           {
-            "source": "Tampa Bay Times",
-            "quote": "Jackson's film rarely moves us beyond enthusiastic technical admiration and into emotional or spiritual surrender."
+            "source": "St. Louis Post-Dispatch",
+            "quote": "It's hard to imagine this epic story done any better."
           },
           {
-            "source": "Tampa Bay Times",
-            "quote": "Jackson&#39;s film rarely moves us beyond enthusiastic technical admiration and into emotional or spiritual surrender."
+            "source": "The New Yorker",
+            "quote": "The New Zealander director Peter Jackson, who wrote the screenplay with Fran Walsh and Philippa Boyens, works with enoug..."
           }
         ]
       },
@@ -3919,13 +3849,17 @@
         "rating": "PG-13",
         "genre": "Drama / Romance",
         "rt": {
-          "critics": 87,
-          "audience": 93
+          "critics": 93,
+          "audience": 87
         },
         "imdb": "https://www.imdb.com/title/tt14905854/",
         "boxofficemojo": "https://www.boxofficemojo.com/title/tt14905854/",
         "rottentomatoes": "https://www.rottentomatoes.com/m/hamnet",
         "reviews": [
+          {
+            "source": "Detroit News",
+            "quote": "It's designed to be a tear-jerker, and it gets those tears flowing, although it's never quite as emotionally rich as it ..."
+          },
           {
             "source": "The Nightly (AU)",
             "quote": "At the risk of seeming woo-woo, Hamnet does hold you in a metaphorical embrace, one which gives you permission to feel c..."
@@ -3933,10 +3867,6 @@
           {
             "source": "The Spectator",
             "quote": "Mescal, rightly, takes a back seat while Buckley lets rip with the most astounding ferocity."
-          },
-          {
-            "source": "Sydney Morning Herald",
-            "quote": "The film’s storyline is more straightforward than the book’s and its main points are spelt out more emphatically but if ..."
           }
         ]
       },
@@ -3955,7 +3885,7 @@
         "rating": "PG-13",
         "genre": "Fantasy / Adventure",
         "rt": {
-          "critics": 93,
+          "critics": 86,
           "audience": 86
         },
         "imdb": "https://www.imdb.com/title/tt0167260/",
@@ -3967,12 +3897,12 @@
             "quote": "Here is an epic with literature's depth and opera's splendor -- and one that could be achieved only in movies."
           },
           {
-            "source": "Fort Worth Star-Telegram/DFW.com",
-            "quote": "If you liked the first two, by all means, go forth and experience rapture."
-          },
-          {
             "source": "St. Louis Post-Dispatch",
             "quote": "It turns out that the movie is a worthy heir to the throne."
+          },
+          {
+            "source": "Associated Press",
+            "quote": "Unable to settle on a finale among the many farewells and epilogues in J.R.R."
           }
         ]
       }
@@ -3997,8 +3927,8 @@
         "rating": "PG-13",
         "genre": "Sci-Fi / Adventure",
         "rt": {
-          "critics": 67,
-          "audience": 91
+          "critics": 90,
+          "audience": 86
         },
         "imdb": "https://www.imdb.com/title/tt1757678/",
         "boxofficemojo": "https://www.boxofficemojo.com/title/tt1757678/",
@@ -4009,12 +3939,12 @@
             "quote": "As much as I did enjoy Avatar: Fire and Ash, I’m ready for Cameron to move on to telling new stories far removed from th..."
           },
           {
-            "source": "FilmWeek (LAist)",
-            "quote": "It's still a reductionist way of seeing native people... It's insulting."
+            "source": "Detroit News",
+            "quote": "\"Fire and Ash\" is the first \"Avatar\" to feel its length. Impressive as it is, it's overkill."
           },
           {
-            "source": "FilmWeek (LAist)",
-            "quote": "One of those grand follies, like Megalopolis, where the director is just completely into it..."
+            "source": "The Atlantic",
+            "quote": "I have no clue whether Cameron wants to keep working on the series..."
           }
         ]
       },
@@ -4033,24 +3963,24 @@
         "rating": "R",
         "genre": "Horror / Sci-Fi",
         "rt": {
-          "critics": 92,
-          "audience": 88
+          "critics": 88,
+          "audience": 84
         },
         "imdb": "https://www.imdb.com/title/tt32141377/",
         "boxofficemojo": "https://www.boxofficemojo.com/title/tt32141377/",
         "rottentomatoes": "https://www.rottentomatoes.com/m/28_years_later_the_bone_temple",
         "reviews": [
           {
-            "source": "Crooked Marquee",
-            "quote": "I cannot quite square how much fun this movie is while being so disturbing."
+            "source": "The Atlantic",
+            "quote": "This may be another zombie movie about the inhumanity of man, but it’s also deeply, triumphantly humane."
           },
           {
-            "source": "Mac the Movie Guy",
-            "quote": "Da costa delivers a visceral, worthy successor that blazes its own trail, setting the standard on how to continue to wor..."
+            "source": "The New Yorker",
+            "quote": "What makes your own skin crawl isn’t just the hideousness of the violence but the unblinking matter-of-factness with whi..."
           },
           {
-            "source": "CinemaDebate",
-            "quote": "28 YEARS LATER: THE BONE TEMPLE is a strong sequel that keeps true to the core themes of the franchise while expanding t..."
+            "source": "Detroit News",
+            "quote": "The care DaCosta gives the characters, and the life the actors bring to them, is soulful and enriching, even moving."
           }
         ]
       },
@@ -4069,24 +3999,24 @@
         "rating": "PG",
         "genre": "Animation / Adventure",
         "rt": {
-          "critics": 93,
-          "audience": 95
+          "critics": 95,
+          "audience": 93
         },
         "imdb": "https://www.imdb.com/title/tt26443597/",
         "boxofficemojo": "https://www.boxofficemojo.com/title/tt26443597/",
         "rottentomatoes": "https://www.rottentomatoes.com/m/zootopia_2",
         "reviews": [
           {
-            "source": "FilmWeek (LAist)",
-            "quote": "Be as good as you can as often as you can, but you have to try sometimes."
+            "source": "Slate",
+            "quote": "Though Zootopia 2 is not quite as funny as the first, it’s still got a banger new song by Shakira and many rapid-fire ga..."
           },
           {
-            "source": "Pop Culture Happy Hour (NPR Podcast)",
-            "quote": "Although I appreciated where I think it's coming from on some of these issues..."
+            "source": "Boston Globe",
+            "quote": "Ke Huy Quan brings sympathy and good will to his voicing of Gary; he’s the film’s heart and soul."
           },
           {
-            "source": "Wall Street Journal",
-            "quote": "Alone among the major studios, the Mouse House is invested in an ongoing project to, as they say on campus, interrogate,..."
+            "source": "New York Post",
+            "quote": "It’s more along the lines of a perfectly enjoyable TV police procedural; the season finale of “Claw and Order."
           }
         ]
       },
@@ -4105,24 +4035,24 @@
         "rating": "R",
         "genre": "Mystery / Thriller",
         "rt": {
-          "critics": 75,
-          "audience": 92
+          "critics": 54,
+          "audience": 54
         },
         "imdb": "https://www.imdb.com/title/tt27543632/",
         "boxofficemojo": "https://www.boxofficemojo.com/title/tt27543632/",
-        "rottentomatoes": "https://www.rottentomatoes.com/m/the_housemaid_2025",
+        "rottentomatoes": "https://www.rottentomatoes.com/m/the_housemaid",
         "reviews": [
           {
-            "source": "New York Daily News",
-            "quote": "Im Sang-soo can't improve on Kim Ki-young's 1960 original, a jaIm Sang-soo can't improve on Kim Ki-young's 1960 original..."
+            "source": "St. Louis Post-Dispatch",
+            "quote": "The movie kowtows to the old truism that the rich are different - but it does it with a sardonic smile."
           },
           {
-            "source": "Lessons of Darkness",
-            "quote": "Exudes a surreal sense of deranged domestic privilege."
+            "source": "Detroit News",
+            "quote": "Writer-director Im Sang-Soo injects a certain sense of otherworldliness in the proceedings -- the final scene is straigh..."
           },
           {
-            "source": "Floating World",
-            "quote": "Im saves the grotesquery of the wealthy to the last minute."
+            "source": "MovieFreak.com",
+            "quote": "But nothing could prepare me for what does indeed transpire, the final scenes having a grotesque opulence that is both e..."
           }
         ]
       },
@@ -4141,24 +4071,24 @@
         "rating": "R",
         "genre": "Drama / Sport",
         "rt": {
-          "critics": 94,
-          "audience": 82
+          "critics": 82,
+          "audience": 72
         },
         "imdb": "https://www.imdb.com/title/tt32916440/",
         "boxofficemojo": "https://www.boxofficemojo.com/title/tt32916440/",
         "rottentomatoes": "https://www.rottentomatoes.com/m/marty_supreme",
         "reviews": [
           {
-            "source": "America Magazine",
-            "quote": "What’s predictable enough is how effortlessly Chalamet generates sympathy for Marty Mauser, who in the cold light of the..."
+            "source": "NPR",
+            "quote": "The movies can be a wonderfully amoral medium, and I found myself liking Marty Mauser -- and not just liking him, but ac..."
           },
           {
-            "source": "Filmspotting",
-            "quote": "Safdie transforms a sports saga into a biting portrait of ambition, class, and identity."
+            "source": "The Atlantic",
+            "quote": "Marty is vivacious, and the film around him is buzzing at the same frequency: itchy, anxious, yet unbearably exciting th..."
           },
           {
-            "source": "n+1",
-            "quote": "Timothée Chalamet wore me out with his relentlessness, and the Mad Libs casting exhausted me."
+            "source": "Boston Globe",
+            "quote": "There is nothing I dislike more than a movie that demands that you love an obnoxious, insufferable protagonist."
           }
         ]
       },
@@ -4177,24 +4107,24 @@
         "rating": "R",
         "genre": "Horror / Thriller",
         "rt": {
-          "critics": 78,
-          "audience": 71
+          "critics": 71,
+          "audience": 63
         },
         "imdb": "https://www.imdb.com/title/tt33028778/",
         "boxofficemojo": "https://www.boxofficemojo.com/title/tt33028778/",
         "rottentomatoes": "https://www.rottentomatoes.com/m/primate_2025",
         "reviews": [
           {
-            "source": "DwightBrownInk.com",
-            "quote": "Monkey see. Monkey kill. Monkey scare."
+            "source": "Los Angeles Times",
+            "quote": "Clearly demonstrates that, under the right conditions, [Roberts] is fully capable of delivering an unquestionably solid ..."
           },
           {
-            "source": "Mac the Movie Guy",
-            "quote": "I’m not monkeying around here. Primate is brutal, bananas, and a whole lot of fun."
+            "source": "Los Angeles Times",
+            "quote": "One chimpanzee with a typewriter could pound out the script for &quot;Primate&quot; in an hour."
           },
           {
-            "source": "Ready Steady Cut",
-            "quote": "Nothing happens in it that you won’t expect, but the way it happens still manages to surprise you, if only because of ho..."
+            "source": "Detroit News",
+            "quote": "\"Primate\" is an old-school horror thriller that uses craft and technique to deliver a face-ripping good time."
           }
         ]
       },
@@ -4213,7 +4143,7 @@
         "rating": "PG-13",
         "genre": "Fantasy / Adventure",
         "rt": {
-          "critics": 92,
+          "critics": 95,
           "audience": 95
         },
         "imdb": "https://www.imdb.com/title/tt0120737/",
@@ -4221,16 +4151,16 @@
         "rottentomatoes": "https://www.rottentomatoes.com/m/the_lord_of_the_rings_the_fellowship_of_the_ring",
         "reviews": [
           {
-            "source": "CinemaDebate",
-            "quote": "THE LORD OF THE RINGS: The Fellowship of the Ring is a perfect film."
+            "source": "Arizona Republic",
+            "quote": "Much will be made of McKellen's performance, as it should be, considering his near perfect portrayal of the powerful spe..."
           },
           {
-            "source": "Tampa Bay Times",
-            "quote": "Jackson's film rarely moves us beyond enthusiastic technical admiration and into emotional or spiritual surrender."
+            "source": "St. Louis Post-Dispatch",
+            "quote": "It's hard to imagine this epic story done any better."
           },
           {
-            "source": "Tampa Bay Times",
-            "quote": "Jackson&#39;s film rarely moves us beyond enthusiastic technical admiration and into emotional or spiritual surrender."
+            "source": "The New Yorker",
+            "quote": "The New Zealander director Peter Jackson, who wrote the screenplay with Fran Walsh and Philippa Boyens, works with enoug..."
           }
         ]
       },
@@ -4249,24 +4179,24 @@
         "rating": "PG-13",
         "genre": "Action / Thriller",
         "rt": {
-          "critics": 49,
-          "audience": 65
+          "critics": 66,
+          "audience": 54
         },
         "imdb": "https://www.imdb.com/title/tt14850054/",
         "boxofficemojo": "https://www.boxofficemojo.com/title/tt14850054/",
         "rottentomatoes": "https://www.rottentomatoes.com/m/greenland_2_migration",
         "reviews": [
           {
-            "source": "Guardian",
-            "quote": "This sequel doubles down on its predecessor’s earnestness, to the point of alternating between grimly offing side charac..."
-          },
-          {
-            "source": "Tribune News Service",
-            "quote": "Offers up a proudly, even defiantly optimistic view of what comes after disaster, which can serve for the viewer as eith..."
-          },
-          {
             "source": "Associated Press",
             "quote": "This sequel may be focused more on emotion and character -- since the whole comet thing happened long ago -- but the pro..."
+          },
+          {
+            "source": "New York Post",
+            "quote": "The inferior second part, short but not nearly short enough, proves just how ill-prepared its creators were for the orig..."
+          },
+          {
+            "source": "Detroit News",
+            "quote": "\"Greenland 2\" is a strictly second-tier affair, with neither the special effects nor the set-ups raising the pulse of th..."
           }
         ]
       },
@@ -4285,12 +4215,12 @@
         "rating": "PG-13",
         "genre": "Adventure / Comedy",
         "rt": {
-          "critics": 48,
-          "audience": 79
+          "critics": 24,
+          "audience": 24
         },
         "imdb": "https://www.imdb.com/title/tt33244668/",
         "boxofficemojo": "https://www.boxofficemojo.com/title/tt33244668/",
-        "rottentomatoes": "https://www.rottentomatoes.com/m/anaconda_2025",
+        "rottentomatoes": "https://www.rottentomatoes.com/m/anaconda",
         "reviews": [
           {
             "source": "The Ringer",
@@ -4301,8 +4231,8 @@
             "quote": "Anaconda, directed by Luis Llosa with all of the subtlety of a snake-oil salesman, is in the great tradition of cinemati..."
           },
           {
-            "source": "Sarah G Vincent Views",
-            "quote": "While the acting is uneven, the special and practical effects are shaky, and the story is over the top, it still adds up..."
+            "source": "Variety",
+            "quote": "A silly and plodding Jaws rip-off about a 40-foot man-eating snake on the prowl in the Brazilian rain forest."
           }
         ]
       },
@@ -4321,8 +4251,8 @@
         "rating": "PG",
         "genre": "Animation / Comedy",
         "rt": {
-          "critics": 80,
-          "audience": 68
+          "critics": 68,
+          "audience": 62
         },
         "imdb": "https://www.imdb.com/title/tt23572848/",
         "boxofficemojo": "https://www.boxofficemojo.com/title/tt23572848/",
@@ -4330,15 +4260,15 @@
         "reviews": [
           {
             "source": "San Francisco Chronicle",
-            "quote": "\"The SpongeBob Movie: Search for SquarePants\" may not be the series’ most inspired cinematic outing, but it’s a likable ..."
+            "quote": "&quot;The SpongeBob Movie: Search for SquarePants&quot; may not be the series’ most inspired cinematic outing, but it’s ..."
           },
           {
-            "source": "FilmWeek (LAist)",
-            "quote": "The whole movie is shaped this way: one for the kid, one for the grandparent."
+            "source": "Variety",
+            "quote": "Don Drymon, the director of “Search for SquarePants,” was one of the show’s founding creative talents, and he certainly ..."
           },
           {
-            "source": "Guardian",
-            "quote": "Whether its spitballing silliness will linger when the lights come up is debatable, but it’s a solid SpongeBob movie -- ..."
+            "source": "RogerEbert.com",
+            "quote": "There is no such thing as too many butt jokes."
           }
         ]
       }
@@ -4363,8 +4293,8 @@
         "rating": "PG-13",
         "genre": "Sci-Fi / Adventure",
         "rt": {
-          "critics": 67,
-          "audience": 91
+          "critics": 90,
+          "audience": 86
         },
         "imdb": "https://www.imdb.com/title/tt1757678/",
         "boxofficemojo": "https://www.boxofficemojo.com/title/tt1757678/",
@@ -4375,12 +4305,12 @@
             "quote": "As much as I did enjoy Avatar: Fire and Ash, I’m ready for Cameron to move on to telling new stories far removed from th..."
           },
           {
-            "source": "FilmWeek (LAist)",
-            "quote": "It's still a reductionist way of seeing native people... It's insulting."
+            "source": "Detroit News",
+            "quote": "\"Fire and Ash\" is the first \"Avatar\" to feel its length. Impressive as it is, it's overkill."
           },
           {
-            "source": "FilmWeek (LAist)",
-            "quote": "One of those grand follies, like Megalopolis, where the director is just completely into it..."
+            "source": "The Atlantic",
+            "quote": "I have no clue whether Cameron wants to keep working on the series..."
           }
         ]
       },
@@ -4399,24 +4329,24 @@
         "rating": "R",
         "genre": "Horror / Thriller",
         "rt": {
-          "critics": 78,
-          "audience": 71
+          "critics": 71,
+          "audience": 63
         },
         "imdb": "https://www.imdb.com/title/tt33028778/",
         "boxofficemojo": "https://www.boxofficemojo.com/title/tt33028778/",
         "rottentomatoes": "https://www.rottentomatoes.com/m/primate_2025",
         "reviews": [
           {
-            "source": "DwightBrownInk.com",
-            "quote": "Monkey see. Monkey kill. Monkey scare."
+            "source": "Los Angeles Times",
+            "quote": "Clearly demonstrates that, under the right conditions, [Roberts] is fully capable of delivering an unquestionably solid ..."
           },
           {
-            "source": "Mac the Movie Guy",
-            "quote": "I’m not monkeying around here. Primate is brutal, bananas, and a whole lot of fun."
+            "source": "Los Angeles Times",
+            "quote": "One chimpanzee with a typewriter could pound out the script for &quot;Primate&quot; in an hour."
           },
           {
-            "source": "Ready Steady Cut",
-            "quote": "Nothing happens in it that you won’t expect, but the way it happens still manages to surprise you, if only because of ho..."
+            "source": "Detroit News",
+            "quote": "\"Primate\" is an old-school horror thriller that uses craft and technique to deliver a face-ripping good time."
           }
         ]
       },
@@ -4435,24 +4365,24 @@
         "rating": "R",
         "genre": "Mystery / Thriller",
         "rt": {
-          "critics": 75,
-          "audience": 92
+          "critics": 54,
+          "audience": 54
         },
         "imdb": "https://www.imdb.com/title/tt27543632/",
         "boxofficemojo": "https://www.boxofficemojo.com/title/tt27543632/",
-        "rottentomatoes": "https://www.rottentomatoes.com/m/the_housemaid_2025",
+        "rottentomatoes": "https://www.rottentomatoes.com/m/the_housemaid",
         "reviews": [
           {
-            "source": "New York Daily News",
-            "quote": "Im Sang-soo can't improve on Kim Ki-young's 1960 original, a jaIm Sang-soo can't improve on Kim Ki-young's 1960 original..."
+            "source": "St. Louis Post-Dispatch",
+            "quote": "The movie kowtows to the old truism that the rich are different - but it does it with a sardonic smile."
           },
           {
-            "source": "Lessons of Darkness",
-            "quote": "Exudes a surreal sense of deranged domestic privilege."
+            "source": "Detroit News",
+            "quote": "Writer-director Im Sang-Soo injects a certain sense of otherworldliness in the proceedings -- the final scene is straigh..."
           },
           {
-            "source": "Floating World",
-            "quote": "Im saves the grotesquery of the wealthy to the last minute."
+            "source": "MovieFreak.com",
+            "quote": "But nothing could prepare me for what does indeed transpire, the final scenes having a grotesque opulence that is both e..."
           }
         ]
       },
@@ -4471,24 +4401,24 @@
         "rating": "PG",
         "genre": "Animation / Adventure",
         "rt": {
-          "critics": 93,
-          "audience": 95
+          "critics": 95,
+          "audience": 93
         },
         "imdb": "https://www.imdb.com/title/tt26443597/",
         "boxofficemojo": "https://www.boxofficemojo.com/title/tt26443597/",
         "rottentomatoes": "https://www.rottentomatoes.com/m/zootopia_2",
         "reviews": [
           {
-            "source": "FilmWeek (LAist)",
-            "quote": "Be as good as you can as often as you can, but you have to try sometimes."
+            "source": "Slate",
+            "quote": "Though Zootopia 2 is not quite as funny as the first, it’s still got a banger new song by Shakira and many rapid-fire ga..."
           },
           {
-            "source": "Pop Culture Happy Hour (NPR Podcast)",
-            "quote": "Although I appreciated where I think it's coming from on some of these issues..."
+            "source": "Boston Globe",
+            "quote": "Ke Huy Quan brings sympathy and good will to his voicing of Gary; he’s the film’s heart and soul."
           },
           {
-            "source": "Wall Street Journal",
-            "quote": "Alone among the major studios, the Mouse House is invested in an ongoing project to, as they say on campus, interrogate,..."
+            "source": "New York Post",
+            "quote": "It’s more along the lines of a perfectly enjoyable TV police procedural; the season finale of “Claw and Order."
           }
         ]
       },
@@ -4507,24 +4437,24 @@
         "rating": "PG-13",
         "genre": "Action / Thriller",
         "rt": {
-          "critics": 49,
-          "audience": 65
+          "critics": 66,
+          "audience": 54
         },
         "imdb": "https://www.imdb.com/title/tt14850054/",
         "boxofficemojo": "https://www.boxofficemojo.com/title/tt14850054/",
         "rottentomatoes": "https://www.rottentomatoes.com/m/greenland_2_migration",
         "reviews": [
           {
-            "source": "Guardian",
-            "quote": "This sequel doubles down on its predecessor’s earnestness, to the point of alternating between grimly offing side charac..."
-          },
-          {
-            "source": "Tribune News Service",
-            "quote": "Offers up a proudly, even defiantly optimistic view of what comes after disaster, which can serve for the viewer as eith..."
-          },
-          {
             "source": "Associated Press",
             "quote": "This sequel may be focused more on emotion and character -- since the whole comet thing happened long ago -- but the pro..."
+          },
+          {
+            "source": "New York Post",
+            "quote": "The inferior second part, short but not nearly short enough, proves just how ill-prepared its creators were for the orig..."
+          },
+          {
+            "source": "Detroit News",
+            "quote": "\"Greenland 2\" is a strictly second-tier affair, with neither the special effects nor the set-ups raising the pulse of th..."
           }
         ]
       },
@@ -4543,24 +4473,24 @@
         "rating": "R",
         "genre": "Drama / Sport",
         "rt": {
-          "critics": 94,
-          "audience": 82
+          "critics": 82,
+          "audience": 72
         },
         "imdb": "https://www.imdb.com/title/tt32916440/",
         "boxofficemojo": "https://www.boxofficemojo.com/title/tt32916440/",
         "rottentomatoes": "https://www.rottentomatoes.com/m/marty_supreme",
         "reviews": [
           {
-            "source": "America Magazine",
-            "quote": "What’s predictable enough is how effortlessly Chalamet generates sympathy for Marty Mauser, who in the cold light of the..."
+            "source": "NPR",
+            "quote": "The movies can be a wonderfully amoral medium, and I found myself liking Marty Mauser -- and not just liking him, but ac..."
           },
           {
-            "source": "Filmspotting",
-            "quote": "Safdie transforms a sports saga into a biting portrait of ambition, class, and identity."
+            "source": "The Atlantic",
+            "quote": "Marty is vivacious, and the film around him is buzzing at the same frequency: itchy, anxious, yet unbearably exciting th..."
           },
           {
-            "source": "n+1",
-            "quote": "Timothée Chalamet wore me out with his relentlessness, and the Mad Libs casting exhausted me."
+            "source": "Boston Globe",
+            "quote": "There is nothing I dislike more than a movie that demands that you love an obnoxious, insufferable protagonist."
           }
         ]
       },
@@ -4579,12 +4509,12 @@
         "rating": "PG-13",
         "genre": "Adventure / Comedy",
         "rt": {
-          "critics": 48,
-          "audience": 79
+          "critics": 24,
+          "audience": 24
         },
         "imdb": "https://www.imdb.com/title/tt33244668/",
         "boxofficemojo": "https://www.boxofficemojo.com/title/tt33244668/",
-        "rottentomatoes": "https://www.rottentomatoes.com/m/anaconda_2025",
+        "rottentomatoes": "https://www.rottentomatoes.com/m/anaconda",
         "reviews": [
           {
             "source": "The Ringer",
@@ -4595,8 +4525,8 @@
             "quote": "Anaconda, directed by Luis Llosa with all of the subtlety of a snake-oil salesman, is in the great tradition of cinemati..."
           },
           {
-            "source": "Sarah G Vincent Views",
-            "quote": "While the acting is uneven, the special and practical effects are shaky, and the story is over the top, it still adds up..."
+            "source": "Variety",
+            "quote": "A silly and plodding Jaws rip-off about a 40-foot man-eating snake on the prowl in the Brazilian rain forest."
           }
         ]
       },
@@ -4615,8 +4545,8 @@
         "rating": "PG",
         "genre": "Animation / Comedy",
         "rt": {
-          "critics": 80,
-          "audience": 68
+          "critics": 68,
+          "audience": 62
         },
         "imdb": "https://www.imdb.com/title/tt23572848/",
         "boxofficemojo": "https://www.boxofficemojo.com/title/tt23572848/",
@@ -4624,15 +4554,15 @@
         "reviews": [
           {
             "source": "San Francisco Chronicle",
-            "quote": "\"The SpongeBob Movie: Search for SquarePants\" may not be the series’ most inspired cinematic outing, but it’s a likable ..."
+            "quote": "&quot;The SpongeBob Movie: Search for SquarePants&quot; may not be the series’ most inspired cinematic outing, but it’s ..."
           },
           {
-            "source": "FilmWeek (LAist)",
-            "quote": "The whole movie is shaped this way: one for the kid, one for the grandparent."
+            "source": "Variety",
+            "quote": "Don Drymon, the director of “Search for SquarePants,” was one of the show’s founding creative talents, and he certainly ..."
           },
           {
-            "source": "Guardian",
-            "quote": "Whether its spitballing silliness will linger when the lights come up is debatable, but it’s a solid SpongeBob movie -- ..."
+            "source": "RogerEbert.com",
+            "quote": "There is no such thing as too many butt jokes."
           }
         ]
       },
@@ -4651,12 +4581,12 @@
         "rating": "PG-13",
         "genre": "Music / Romance",
         "rt": {
-          "critics": 77,
-          "audience": 97
+          "critics": 88,
+          "audience": 88
         },
         "imdb": "https://www.imdb.com/title/tt30343021/",
         "boxofficemojo": "https://www.boxofficemojo.com/title/tt30343021/",
-        "rottentomatoes": "https://www.rottentomatoes.com/m/song_sung_blue_2025",
+        "rottentomatoes": "https://www.rottentomatoes.com/m/song_sung_blue",
         "reviews": [
           {
             "source": "Chicago Sun-Times",
@@ -4667,8 +4597,8 @@
             "quote": "Manages to be compelling without being too much of a downer, or condescending in its view."
           },
           {
-            "source": "Sarah G Vincent Views",
-            "quote": "Even though the documentary is compelling, it is one of the rare times that the movie was easier to watch."
+            "source": "Audience",
+            "quote": "Kate Hudson was amazing. Loved this movie!!"
           }
         ]
       },
@@ -4687,24 +4617,24 @@
         "rating": "PG",
         "genre": "Animation / Drama",
         "rt": {
-          "critics": 78,
-          "audience": 98
+          "critics": 98,
+          "audience": 95
         },
         "imdb": "https://www.imdb.com/title/tt15678738/",
         "boxofficemojo": "https://www.boxofficemojo.com/title/tt15678738/",
         "rottentomatoes": "https://www.rottentomatoes.com/m/david_2025",
         "reviews": [
           {
-            "source": "HeyUGuys",
-            "quote": "This is an impressively visually polished, heartfelt and musically engaging adaptation that brings a familiar story to l..."
-          },
-          {
-            "source": "Sydney Morning Herald",
-            "quote": "The film’s strengths are in the vitality of its animation and the beauty of its settings. ..."
-          },
-          {
             "source": "Variety",
             "quote": "A proficient family entertainment that’s nonetheless a little too precision-engineered to feel truly stirring."
+          },
+          {
+            "source": "RogerEbert.com",
+            "quote": "We settle back and enjoy a well-produced, visually impressive, character-driven fable about the man who would be king."
+          },
+          {
+            "source": "HeyUGuys",
+            "quote": "This is an impressively visually polished, heartfelt and musically engaging adaptation that brings a familiar story to l..."
           }
         ]
       }
@@ -4729,8 +4659,8 @@
         "rating": "PG-13",
         "genre": "Sci-Fi / Adventure",
         "rt": {
-          "critics": 67,
-          "audience": 91
+          "critics": 90,
+          "audience": 86
         },
         "imdb": "https://www.imdb.com/title/tt1757678/",
         "boxofficemojo": "https://www.boxofficemojo.com/title/tt1757678/",
@@ -4741,12 +4671,12 @@
             "quote": "As much as I did enjoy Avatar: Fire and Ash, I’m ready for Cameron to move on to telling new stories far removed from th..."
           },
           {
-            "source": "FilmWeek (LAist)",
-            "quote": "It's still a reductionist way of seeing native people... It's insulting."
+            "source": "Detroit News",
+            "quote": "\"Fire and Ash\" is the first \"Avatar\" to feel its length. Impressive as it is, it's overkill."
           },
           {
-            "source": "FilmWeek (LAist)",
-            "quote": "One of those grand follies, like Megalopolis, where the director is just completely into it..."
+            "source": "The Atlantic",
+            "quote": "I have no clue whether Cameron wants to keep working on the series..."
           }
         ]
       },
@@ -4765,24 +4695,24 @@
         "rating": "PG",
         "genre": "Animation / Adventure",
         "rt": {
-          "critics": 93,
-          "audience": 95
+          "critics": 95,
+          "audience": 93
         },
         "imdb": "https://www.imdb.com/title/tt26443597/",
         "boxofficemojo": "https://www.boxofficemojo.com/title/tt26443597/",
         "rottentomatoes": "https://www.rottentomatoes.com/m/zootopia_2",
         "reviews": [
           {
-            "source": "FilmWeek (LAist)",
-            "quote": "Be as good as you can as often as you can, but you have to try sometimes."
+            "source": "Slate",
+            "quote": "Though Zootopia 2 is not quite as funny as the first, it’s still got a banger new song by Shakira and many rapid-fire ga..."
           },
           {
-            "source": "Pop Culture Happy Hour (NPR Podcast)",
-            "quote": "Although I appreciated where I think it's coming from on some of these issues..."
+            "source": "Boston Globe",
+            "quote": "Ke Huy Quan brings sympathy and good will to his voicing of Gary; he’s the film’s heart and soul."
           },
           {
-            "source": "Wall Street Journal",
-            "quote": "Alone among the major studios, the Mouse House is invested in an ongoing project to, as they say on campus, interrogate,..."
+            "source": "New York Post",
+            "quote": "It’s more along the lines of a perfectly enjoyable TV police procedural; the season finale of “Claw and Order."
           }
         ]
       },
@@ -4801,24 +4731,24 @@
         "rating": "R",
         "genre": "Mystery / Thriller",
         "rt": {
-          "critics": 75,
-          "audience": 92
+          "critics": 54,
+          "audience": 54
         },
         "imdb": "https://www.imdb.com/title/tt27543632/",
         "boxofficemojo": "https://www.boxofficemojo.com/title/tt27543632/",
-        "rottentomatoes": "https://www.rottentomatoes.com/m/the_housemaid_2025",
+        "rottentomatoes": "https://www.rottentomatoes.com/m/the_housemaid",
         "reviews": [
           {
-            "source": "New York Daily News",
-            "quote": "Im Sang-soo can't improve on Kim Ki-young's 1960 original, a jaIm Sang-soo can't improve on Kim Ki-young's 1960 original..."
+            "source": "St. Louis Post-Dispatch",
+            "quote": "The movie kowtows to the old truism that the rich are different - but it does it with a sardonic smile."
           },
           {
-            "source": "Lessons of Darkness",
-            "quote": "Exudes a surreal sense of deranged domestic privilege."
+            "source": "Detroit News",
+            "quote": "Writer-director Im Sang-Soo injects a certain sense of otherworldliness in the proceedings -- the final scene is straigh..."
           },
           {
-            "source": "Floating World",
-            "quote": "Im saves the grotesquery of the wealthy to the last minute."
+            "source": "MovieFreak.com",
+            "quote": "But nothing could prepare me for what does indeed transpire, the final scenes having a grotesque opulence that is both e..."
           }
         ]
       },
@@ -4837,24 +4767,24 @@
         "rating": "R",
         "genre": "Drama / Sport",
         "rt": {
-          "critics": 94,
-          "audience": 82
+          "critics": 82,
+          "audience": 72
         },
         "imdb": "https://www.imdb.com/title/tt32916440/",
         "boxofficemojo": "https://www.boxofficemojo.com/title/tt32916440/",
         "rottentomatoes": "https://www.rottentomatoes.com/m/marty_supreme",
         "reviews": [
           {
-            "source": "America Magazine",
-            "quote": "What’s predictable enough is how effortlessly Chalamet generates sympathy for Marty Mauser, who in the cold light of the..."
+            "source": "NPR",
+            "quote": "The movies can be a wonderfully amoral medium, and I found myself liking Marty Mauser -- and not just liking him, but ac..."
           },
           {
-            "source": "Filmspotting",
-            "quote": "Safdie transforms a sports saga into a biting portrait of ambition, class, and identity."
+            "source": "The Atlantic",
+            "quote": "Marty is vivacious, and the film around him is buzzing at the same frequency: itchy, anxious, yet unbearably exciting th..."
           },
           {
-            "source": "n+1",
-            "quote": "Timothée Chalamet wore me out with his relentlessness, and the Mad Libs casting exhausted me."
+            "source": "Boston Globe",
+            "quote": "There is nothing I dislike more than a movie that demands that you love an obnoxious, insufferable protagonist."
           }
         ]
       },
@@ -4873,12 +4803,12 @@
         "rating": "PG-13",
         "genre": "Adventure / Comedy",
         "rt": {
-          "critics": 48,
-          "audience": 79
+          "critics": 24,
+          "audience": 24
         },
         "imdb": "https://www.imdb.com/title/tt33244668/",
         "boxofficemojo": "https://www.boxofficemojo.com/title/tt33244668/",
-        "rottentomatoes": "https://www.rottentomatoes.com/m/anaconda_2025",
+        "rottentomatoes": "https://www.rottentomatoes.com/m/anaconda",
         "reviews": [
           {
             "source": "The Ringer",
@@ -4889,8 +4819,8 @@
             "quote": "Anaconda, directed by Luis Llosa with all of the subtlety of a snake-oil salesman, is in the great tradition of cinemati..."
           },
           {
-            "source": "Sarah G Vincent Views",
-            "quote": "While the acting is uneven, the special and practical effects are shaky, and the story is over the top, it still adds up..."
+            "source": "Variety",
+            "quote": "A silly and plodding Jaws rip-off about a 40-foot man-eating snake on the prowl in the Brazilian rain forest."
           }
         ]
       },
@@ -4909,8 +4839,8 @@
         "rating": "PG",
         "genre": "Animation / Comedy",
         "rt": {
-          "critics": 80,
-          "audience": 68
+          "critics": 68,
+          "audience": 62
         },
         "imdb": "https://www.imdb.com/title/tt23572848/",
         "boxofficemojo": "https://www.boxofficemojo.com/title/tt23572848/",
@@ -4918,15 +4848,15 @@
         "reviews": [
           {
             "source": "San Francisco Chronicle",
-            "quote": "\"The SpongeBob Movie: Search for SquarePants\" may not be the series’ most inspired cinematic outing, but it’s a likable ..."
+            "quote": "&quot;The SpongeBob Movie: Search for SquarePants&quot; may not be the series’ most inspired cinematic outing, but it’s ..."
           },
           {
-            "source": "FilmWeek (LAist)",
-            "quote": "The whole movie is shaped this way: one for the kid, one for the grandparent."
+            "source": "Variety",
+            "quote": "Don Drymon, the director of “Search for SquarePants,” was one of the show’s founding creative talents, and he certainly ..."
           },
           {
-            "source": "Guardian",
-            "quote": "Whether its spitballing silliness will linger when the lights come up is debatable, but it’s a solid SpongeBob movie -- ..."
+            "source": "RogerEbert.com",
+            "quote": "There is no such thing as too many butt jokes."
           }
         ]
       },
@@ -4945,24 +4875,24 @@
         "rating": "PG",
         "genre": "Animation / Drama",
         "rt": {
-          "critics": 78,
-          "audience": 98
+          "critics": 98,
+          "audience": 95
         },
         "imdb": "https://www.imdb.com/title/tt15678738/",
         "boxofficemojo": "https://www.boxofficemojo.com/title/tt15678738/",
         "rottentomatoes": "https://www.rottentomatoes.com/m/david_2025",
         "reviews": [
           {
-            "source": "HeyUGuys",
-            "quote": "This is an impressively visually polished, heartfelt and musically engaging adaptation that brings a familiar story to l..."
-          },
-          {
-            "source": "Sydney Morning Herald",
-            "quote": "The film’s strengths are in the vitality of its animation and the beauty of its settings. ..."
-          },
-          {
             "source": "Variety",
             "quote": "A proficient family entertainment that’s nonetheless a little too precision-engineered to feel truly stirring."
+          },
+          {
+            "source": "RogerEbert.com",
+            "quote": "We settle back and enjoy a well-produced, visually impressive, character-driven fable about the man who would be king."
+          },
+          {
+            "source": "HeyUGuys",
+            "quote": "This is an impressively visually polished, heartfelt and musically engaging adaptation that brings a familiar story to l..."
           }
         ]
       },
@@ -4981,12 +4911,12 @@
         "rating": "PG-13",
         "genre": "Music / Romance",
         "rt": {
-          "critics": 77,
-          "audience": 97
+          "critics": 88,
+          "audience": 88
         },
         "imdb": "https://www.imdb.com/title/tt30343021/",
         "boxofficemojo": "https://www.boxofficemojo.com/title/tt30343021/",
-        "rottentomatoes": "https://www.rottentomatoes.com/m/song_sung_blue_2025",
+        "rottentomatoes": "https://www.rottentomatoes.com/m/song_sung_blue",
         "reviews": [
           {
             "source": "Chicago Sun-Times",
@@ -4997,8 +4927,8 @@
             "quote": "Manages to be compelling without being too much of a downer, or condescending in its view."
           },
           {
-            "source": "Sarah G Vincent Views",
-            "quote": "Even though the documentary is compelling, it is one of the rare times that the movie was easier to watch."
+            "source": "Audience",
+            "quote": "Kate Hudson was amazing. Loved this movie!!"
           }
         ]
       },
@@ -5017,24 +4947,24 @@
         "rating": "PG",
         "genre": "Fantasy / Musical",
         "rt": {
-          "critics": 70,
-          "audience": 97
+          "critics": 92,
+          "audience": 88
         },
         "imdb": "https://www.imdb.com/title/tt19847976/",
         "boxofficemojo": "https://www.boxofficemojo.com/title/tt19847976/",
         "rottentomatoes": "https://www.rottentomatoes.com/m/wicked_for_good",
         "reviews": [
           {
-            "source": "Little White Lies",
-            "quote": "With no substance and no style to be found, all that is left in Wicked: For Good is two actresses, doing more than just ..."
+            "source": "The Atlantic",
+            "quote": "The best I can say about For Good is that its two stars, Cynthia Erivo and Ariana Grande, are strong-enough performers t..."
           },
           {
-            "source": "Perri Nemiroff (YouTube)",
-            "quote": "The mix of the film being a beautiful journey of being changed for good but also one that acknowledges the power of publ..."
+            "source": "The New Yorker",
+            "quote": "Onstage, all this narrative retconning has a breezy behind-the-scenes cleverness, as if the story were being slyly flesh..."
           },
           {
-            "source": "Fiction Machine",
-            "quote": "Clumsy, oddly anticlimactic, and a solid half-hour longer than it needs to be."
+            "source": "Slate",
+            "quote": "Any sense of disappointment that Wicked: For Good doesn’t quite live up to the first movie pops like a big pink bubble t..."
           }
         ]
       },
@@ -5053,24 +4983,24 @@
         "rating": "PG-13",
         "genre": "Horror / Thriller",
         "rt": {
-          "critics": 15,
-          "audience": 87
+          "critics": 83,
+          "audience": 83
         },
         "imdb": "https://www.imdb.com/title/tt30274401/",
         "boxofficemojo": "https://www.boxofficemojo.com/title/tt30274401/",
         "rottentomatoes": "https://www.rottentomatoes.com/m/five_nights_at_freddys_2",
         "reviews": [
           {
-            "source": "FilmWeek (LAist)",
-            "quote": "This film works -- it's better than the first film, actually."
-          },
-          {
             "source": "MovieFreak.com",
             "quote": "Five Nights at Freddy’s 2 offers up pretty much the same gateway horror delights that its predecessor did, and I don’t h..."
           },
           {
-            "source": "Mac the Movie Guy",
-            "quote": "Nonsense. This film may be critic proof, but that doesn’t make it good, nor does it make it coherent."
+            "source": "Los Angeles Times",
+            "quote": "The main problem with \"FNAF 2\" is the insistence on maintaining the PG-13 rating, when the scenes of violence (healthily..."
+          },
+          {
+            "source": "Los Angeles Times",
+            "quote": "A laughably cheesy, empty-headed follow-up that makes the mediocre prior film shine in comparison."
           }
         ]
       }
