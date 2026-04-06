@@ -1,6 +1,6 @@
 # Box Office Tracker (Auto-Refresh)
 
-A self-refreshing US weekend box office tracker that automatically scrapes data every Sunday at 3 PM EST. Built with React and Express, designed for one-click deployment on Replit.
+A self-refreshing US weekend box office tracker that automatically scrapes data every Sunday at 3 PM EST. Built with React and Express.
 
 ## How It Works
 
@@ -60,16 +60,6 @@ npm run dev
 
 This starts the React dev server on port 3000 with proxy to the Express backend on port 3001.
 
-## Deploy on Replit
-
-1. **Import from GitHub** — paste the repo URL when creating a new Replit
-2. **Set Secrets** in the Replit Secrets tab:
-   - `TMDB_API_KEY` — your TMDB API key
-   - `REFRESH_SECRET` — any random string (protects the manual refresh endpoint)
-3. **Deploy** — Replit runs `npm install && npm run build`, then `npm start`
-
-The cron job activates automatically. Data refreshes every Sunday at 3 PM EST.
-
 ## API Endpoints
 
 | Method | Endpoint | Description |
@@ -118,7 +108,7 @@ src/                    React frontend
 |----------|----------|-------------|
 | `TMDB_API_KEY` | Yes | Free API key from [themoviedb.org](https://www.themoviedb.org/settings/api) |
 | `REFRESH_SECRET` | Recommended | Protects the `POST /api/refresh` endpoint |
-| `PORT` | No | Server port (default: 3001, auto-set by Replit) |
+| `PORT` | No | Server port (default: 3001) |
 
 ## Tech Stack
 
