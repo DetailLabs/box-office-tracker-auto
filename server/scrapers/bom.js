@@ -29,19 +29,20 @@ async function scrapeWeekend(date = new Date()) {
     if (cells.length < 7) continue;
 
     const rank = parseInt($(cells[0]).text().trim(), 10);
-    const titleCell = $(cells[1]);
+
+    // BOM table has 13 columns:
+    // 0:Rank, 1:LW, 2:Release, 3:Gross, 4:%±LW, 5:Theaters, 6:TheaterChange, 7:PerTheater, 8:Total, 9:Weeks, 10:Distributor, 11-12:flags
+    const titleCell = $(cells[2]);
     const titleLink = titleCell.find('a');
     const title = titleLink.text().trim() || titleCell.text().trim();
     const releaseHref = titleLink.attr('href') || '';
 
-    // BOM columns vary but typical order:
-    // Rank, Release, Gross, %±LW, Theaters, Per Theater, Total, Weeks
-    const weekend = parseMoney($(cells[2]).text().trim());
-    const change = parsePercent($(cells[3]).text().trim());
-    const theaters = parseInt($(cells[4]).text().trim().replace(/,/g, ''), 10) || 0;
-    // cells[5] is per-theater average (skip)
-    const total = parseMoney($(cells[6]).text().trim());
-    const weeks = parseInt($(cells[7]).text().trim(), 10) || 1;
+    const weekend = parseMoney($(cells[3]).text().trim());
+    const change = parsePercent($(cells[4]).text().trim());
+    const theaters = parseInt($(cells[5]).text().trim().replace(/,/g, ''), 10) || 0;
+    // cells[6] is theater change, cells[7] is per-theater average (skip both)
+    const total = parseMoney($(cells[8]).text().trim());
+    const weeks = parseInt($(cells[9]).text().trim(), 10) || 1;
 
     const boxofficemojo = releaseHref
       ? `https://www.boxofficemojo.com${releaseHref.split('?')[0]}`

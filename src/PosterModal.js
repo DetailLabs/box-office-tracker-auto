@@ -203,12 +203,13 @@ export default function PosterModal({ movie, onClose, theme = "current", trendDa
 
   return (
     <div
-      className="animate-fadeIn"
-      style={{ position: 'fixed', inset: 0, zIndex: 9999, display: 'flex', flexDirection: 'column', alignItems: 'center', backgroundColor: t.overlay, backdropFilter: 'blur(4px)', overflowY: 'auto', WebkitOverflowScrolling: 'touch', padding: '24px 0 80px' }}
+      className="animate-fadeIn fixed inset-0 overflow-y-auto"
+      style={{ zIndex: 9999, backgroundColor: t.overlay, backdropFilter: 'blur(4px)', WebkitOverflowScrolling: 'touch' }}
       onClick={onClose}
     >
+      <div className="min-h-full flex flex-col items-center md:justify-center py-6 pb-20 md:py-8 px-3 sm:px-4">
       <div
-        className={`relative rounded-2xl shadow-2xl max-w-4xl w-full mx-3 sm:mx-4 animate-scaleIn ${t.textColor}`}
+        className={`relative rounded-2xl shadow-2xl max-w-4xl w-full animate-scaleIn ${t.textColor}`}
         style={{ padding: '16px', background: t.cardBg, border: t.cardBorder, flexShrink: 0 }}
         onClick={(e) => e.stopPropagation()}
       >
@@ -311,6 +312,7 @@ export default function PosterModal({ movie, onClose, theme = "current", trendDa
             </div>
           </div>
         </div>
+      </div>
       </div>
     </div>
   );

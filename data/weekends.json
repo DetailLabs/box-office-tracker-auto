@@ -10,7 +10,7 @@
         "studio": "Universal Pictures",
         "weekend": 130940000,
         "total": 190053455,
-        "worldwide": 372000000,
+        "worldwide": 372487455,
         "weeks": 1,
         "change": null,
         "theaters": 4252,
@@ -18,60 +18,60 @@
         "rating": "PG",
         "genre": "Animation / Adventure",
         "rt": {
-          "critics": 42,
-          "audience": 89
+          "critics": 89,
+          "audience": 88
         },
         "imdb": "https://www.imdb.com/title/tt28650488/",
         "boxofficemojo": "https://www.boxofficemojo.com/release/rl3344662529/",
         "rottentomatoes": "https://www.rottentomatoes.com/m/the_super_mario_galaxy_movie",
         "reviews": [
           {
-            "source": "The Hollywood Reporter",
-            "quote": "A good time — just don't expect it to stick with you once it's over."
+            "source": "MovieFreak.com",
+            "quote": "I found it all deeply annoying."
           },
           {
-            "source": "Variety",
-            "quote": "The film keeps throwing things at you — an orgy of video-game Easter eggs."
+            "source": "Mashable",
+            "quote": "We all have a finite amount of time on this Earth, and I cannot think of a single reason why you should spend any of you..."
           },
           {
-            "source": "Screen Rant",
-            "quote": "Turn off your brain and there's a lot of fun to be had in this colorful galaxy."
+            "source": "The Travers Take",
+            "quote": "Peachy for fans and painful for newbies, this animated joyride is on the run for box-office glory."
           }
         ]
       },
       {
         "rank": 2,
         "title": "Project Hail Mary",
-        "runtime": 137,
+        "runtime": 157,
         "studio": "Amazon MGM Studios",
         "weekend": 30653868,
         "total": 217180878,
-        "worldwide": 470000000,
+        "worldwide": 420580878,
         "weeks": 3,
         "change": -43,
         "theaters": 3907,
         "poster": "https://image.tmdb.org/t/p/w500/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
         "rating": "PG-13",
-        "genre": "Sci-Fi / Drama",
+        "genre": "Science Fiction / Adventure",
         "rt": {
-          "critics": 95,
-          "audience": 97
+          "critics": 96,
+          "audience": 94
         },
         "imdb": "https://www.imdb.com/title/tt12042730/",
-        "boxofficemojo": "https://www.boxofficemojo.com/releasegroup/gr2625458949/",
+        "boxofficemojo": "https://www.boxofficemojo.com/release/rl1993768961/",
         "rottentomatoes": "https://www.rottentomatoes.com/m/project_hail_mary",
         "reviews": [
           {
-            "source": "The Hollywood Reporter",
-            "quote": "A rare sci-fi blockbuster with real heart and breathtaking scope."
+            "source": "(All (Parentheses)) (Substack)",
+            "quote": "Among the many things I didn’t need in my life was a stealth sequel to Half Nelson…in space."
           },
           {
-            "source": "Variety",
-            "quote": "Ryan Gosling delivers a career-best performance in this interstellar triumph."
+            "source": "The Atlantic",
+            "quote": "This film is not quite the masterpiece its grand visual scale sometimes suggests it’s shooting for."
           },
           {
-            "source": "IndieWire",
-            "quote": "Smart, funny, and emotionally devastating — the best film of the year so far."
+            "source": "TIME Magazine",
+            "quote": "This is the most ambitious picture, in terms of structure and spectacle, that the filmmaking duo of Lord and Miller have..."
           }
         ]
       },
@@ -82,79 +82,79 @@
         "studio": "A24",
         "weekend": 14380197,
         "total": 14380197,
-        "worldwide": 18000000,
+        "worldwide": 26232083,
         "weeks": 1,
         "change": null,
         "theaters": 3087,
         "poster": "https://image.tmdb.org/t/p/w500/ikcNOWB6Qo1ER1H1BJL6Vf0W22s.jpg",
         "rating": "R",
-        "genre": "Comedy / Romance",
+        "genre": "Romance / Comedy",
         "rt": {
-          "critics": 76,
-          "audience": 82
+          "critics": 80,
+          "audience": 78
         },
         "imdb": "https://www.imdb.com/title/tt33071426/",
         "boxofficemojo": "https://www.boxofficemojo.com/release/rl1676574721/",
         "rottentomatoes": "https://www.rottentomatoes.com/m/the_drama",
         "reviews": [
           {
-            "source": "Variety",
-            "quote": "A half-funny squirm comedy of extreme marital jitters elevated by genuine star power."
+            "source": "Baltimore Magazine",
+            "quote": "By embracing an outlier and taking the premise to such an extreme, the film lost its grip—both on reality and my interes..."
           },
           {
-            "source": "IndieWire",
-            "quote": "Pattinson is so good as an indifferently handsome coward — Zendaya grounds every scene."
+            "source": "Sight & Sound",
+            "quote": "Committing to realism and relatability for the first time onscreen, Borgli keeps things accessible enough for us to wond..."
           },
           {
-            "source": "The Hollywood Reporter",
-            "quote": "A downbeat A24 dramedy that walks a tonal tightrope with impressive poise."
+            "source": "MovieFreak.com",
+            "quote": "While there’s plenty of food for thought, by the time this cinematic meal concluded, I still felt famished."
           }
         ]
       },
       {
         "rank": 4,
         "title": "Hoppers",
-        "runtime": 96,
-        "studio": "Walt Disney Studios",
+        "runtime": 105,
+        "studio": "Walt Disney Studios Motion Pictures",
         "weekend": 5800000,
         "total": 149624515,
-        "worldwide": 300000000,
+        "worldwide": 332224515,
         "weeks": 5,
         "change": -52,
         "theaters": 3290,
         "poster": "https://image.tmdb.org/t/p/w500/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg",
         "rating": "PG",
-        "genre": "Animation / Adventure",
+        "genre": "Animation / Family",
         "rt": {
           "critics": 94,
-          "audience": null
+          "audience": 91
         },
         "imdb": "https://www.imdb.com/title/tt26443616/",
         "boxofficemojo": "https://www.boxofficemojo.com/release/rl284918529/",
         "rottentomatoes": "https://www.rottentomatoes.com/m/hoppers",
         "reviews": [
           {
-            "source": "Variety",
-            "quote": "Pixar-level heart with a visual style all its own — Disney Animation's best in years."
+            "source": "The Atlantic",
+            "quote": "The movie, in actuality, is refreshingly mordant about what might really happen if prey and predators were to try bandin..."
           },
           {
-            "source": "The Guardian",
-            "quote": "A joyful, inventive romp that will charm audiences of every age."
+            "source": "The Age (Australia)",
+            "quote": "[The film's] serious side is so well camouflaged by the happy absurdities flitting around on its surface that it could b..."
           },
           {
-            "source": "The Hollywood Reporter",
-            "quote": "Wildly inventive animation that proves Disney still has plenty of magic left."
+            "source": "The Nightly (AU)",
+            "quote": "Hoppers features big set-pieces of hijinks and shenanigans (Flying whales! Melting robot faces!) and it is a laugh riot ..."
           }
         ]
       },
       {
         "rank": 5,
         "title": "Reminders of Him",
-        "runtime": 115,
+        "runtime": 114,
         "studio": "Universal Pictures",
         "weekend": 2200000,
         "total": 45351840,
-        "worldwide": 75000000,
+        "worldwide": 79082840,
         "weeks": 4,
         "change": -53,
         "theaters": 2361,
@@ -162,24 +162,24 @@
         "rating": "PG-13",
         "genre": "Romance / Drama",
         "rt": {
-          "critics": 59,
-          "audience": 89
+          "critics": 88,
+          "audience": 82
         },
         "imdb": "https://www.imdb.com/title/tt33714084/",
         "boxofficemojo": "https://www.boxofficemojo.com/release/rl2970583041/",
         "rottentomatoes": "https://www.rottentomatoes.com/m/reminders_of_him",
         "reviews": [
           {
-            "source": "The Hollywood Reporter",
-            "quote": "A tearjerker that earns its emotions honestly, even when the plot strains credulity."
+            "source": "Empire Magazine",
+            "quote": "It’s easy on the eye, and indeed the brain, but this is nowhere near as sharply written or plotted as it should be to br..."
           },
           {
-            "source": "RogerEbert.com",
-            "quote": "CoHo fans will swoon; everyone else may find the melodrama a touch heavy-handed."
+            "source": "The Movie Cricket",
+            "quote": "The problem is the script, by Hoover and co-writer Lauren Levine, which puts the actors in situations that only happen i..."
           },
           {
-            "source": "The Playlist",
-            "quote": "Monroe brings raw vulnerability to a role that demands it — the film's secret weapon."
+            "source": "WBAL-TV (Baltimore)",
+            "quote": "Maika Monroe can have chemistry with anyone okay."
           }
         ]
       },
@@ -190,7 +190,7 @@
         "studio": "Roadside Attractions",
         "weekend": 2113565,
         "total": 2113565,
-        "worldwide": 2500000,
+        "worldwide": 2113565,
         "weeks": 1,
         "change": null,
         "theaters": 1289,
@@ -198,24 +198,24 @@
         "rating": "PG-13",
         "genre": "Drama / History",
         "rt": {
-          "critics": 67,
-          "audience": 97
+          "critics": 97,
+          "audience": 96
         },
         "imdb": "https://www.imdb.com/title/tt33305882/",
         "boxofficemojo": "https://www.boxofficemojo.com/release/rl3751116801/",
         "rottentomatoes": "https://www.rottentomatoes.com/m/a_great_awakening",
         "reviews": [
           {
-            "source": "Movie Nation",
-            "quote": "An imposing lead performance somewhat atones for an awkwardly structured script."
+            "source": "New York Times",
+            "quote": "It’s an earnest account of a religious movement that still resonates."
           },
           {
-            "source": "Plugged In",
-            "quote": "Every so often a movie comes along you commit to buying on DVD — this is one."
+            "source": "Behind The Lens",
+            "quote": "A Great Awakening arrives not merely as a historical drama, but as a cinematic excavation of a spiritual movement that h..."
           },
           {
-            "source": "Moviefone",
-            "quote": "A sincere, old-fashioned historical drama aimed squarely at a receptive audience."
+            "source": "Fox 4 Kansas City",
+            "quote": "It is highly effective entertainment."
           }
         ]
       },
@@ -226,140 +226,140 @@
         "studio": "Warner Bros.",
         "weekend": 1930000,
         "total": 8756928,
-        "worldwide": 15000000,
+        "worldwide": 15156928,
         "weeks": 2,
         "change": -61,
         "theaters": 2778,
         "poster": "https://image.tmdb.org/t/p/w500/6oI4oQKTWMVUlr8Ivqydp28Ruu6.jpg",
-        "rating": "R",
-        "genre": "Horror / Comedy",
+        "rating": null,
+        "genre": "Horror / Action",
         "rt": {
-          "critics": 65,
-          "audience": 80
+          "critics": 77,
+          "audience": 72
         },
         "imdb": "https://www.imdb.com/title/tt31728330/",
-        "boxofficemojo": "https://www.boxofficemojo.com/release/rl3281551361/",
+        "boxofficemojo": "https://www.boxofficemojo.com/release/rl3572334593/",
         "rottentomatoes": "https://www.rottentomatoes.com/m/they_will_kill_you",
         "reviews": [
           {
-            "source": "Empire",
-            "quote": "Blood-drenched and gore-splattered, anchored by a hard-as-nails performance by Beetz."
+            "source": "MovieFreak.com",
+            "quote": "They Will Kill You isn’t without its issues, but it still manages to slay the majority of them with a crooked smile, a w..."
           },
           {
-            "source": "Little White Lies",
-            "quote": "A satisfying cartoon fantasy of sisterhood and solidarity."
+            "source": "The Movie Cricket",
+            "quote": "Sokolov seems to find inspiration in everything from \"Oldboy\" to \"Kill Bill\" to \"From Dusk Till Dawn\" "
           },
           {
-            "source": "Dread Central",
-            "quote": "Overcomes familiar storytelling with slick fight sequences and a killer lead performance."
+            "source": "The Reader (Omaha, NE)",
+            "quote": "There’s a long sequence where a detached eyeball goes for a stroll. Heather Graham and Draco Malfoy show up."
           }
         ]
       },
       {
         "rank": 8,
-        "title": "Dhurandhar: The Revenge",
-        "runtime": 148,
+        "title": "Dhurandhar The Revenge",
+        "runtime": 229,
         "studio": "Moviegoers Entertainment",
         "weekend": 1820000,
         "total": 26063969,
-        "worldwide": 95000000,
+        "worldwide": 150863969,
         "weeks": 3,
-        "change": -61,
+        "change": -60,
         "theaters": 464,
-        "poster": "https://image.tmdb.org/t/p/w500/6kD8pH9Rny649B8hSKOs50Qwdag.jpg",
-        "rating": "R",
-        "genre": "Action / Thriller",
+        "poster": "https://image.tmdb.org/t/p/w500/ov8vrRLZGoXHpYjSY9Vpv1tHJX7.jpg",
+        "rating": "NR",
+        "genre": "Action / Crime",
         "rt": {
-          "critics": 43,
-          "audience": 95
+          "critics": 95,
+          "audience": 93
         },
         "imdb": "https://www.imdb.com/title/tt39139925/",
         "boxofficemojo": "https://www.boxofficemojo.com/release/rl3281551361/",
         "rottentomatoes": "https://www.rottentomatoes.com/m/dhurandhar_the_revenge",
         "reviews": [
           {
-            "source": "The Hollywood Reporter",
-            "quote": "Relentless action sequences overcome a thin script — pure crowd-pleasing spectacle."
+            "source": "Screen-Space (Substack)",
+            "quote": "I can’t recall a film that utilises a scarred national conscience as a means to justify its hero’s sociopathic proclivit..."
           },
           {
-            "source": "Screen Daily",
-            "quote": "A crossover hit that proves Bollywood action can compete on the global stage."
+            "source": "JoySauce.com",
+            "quote": "Overlong, gratuitously violent, and brimming with a self-indulgence that borders on arrogance, Dhurandhar: The Revenge o..."
           },
           {
-            "source": "Variety",
-            "quote": "Singh is magnetic, the set pieces are jaw-dropping, but the plot buckles under its own ambition."
+            "source": "Upper Stall",
+            "quote": "Dhurandhar: The Revenge settles into a groove, where part visceral action spectacle, and part ideologically drives the n..."
           }
         ]
       },
       {
         "rank": 9,
         "title": "Ready or Not 2: Here I Come",
-        "runtime": 101,
+        "runtime": 108,
         "studio": "Searchlight Pictures",
         "weekend": 1800000,
         "total": 20173331,
-        "worldwide": 34000000,
+        "worldwide": 31373331,
         "weeks": 3,
         "change": -56,
         "theaters": 2050,
         "poster": "https://image.tmdb.org/t/p/w500/jRf89HVEtBZiSnOXXWDhZOfuTwW.jpg",
-        "rating": "R",
+        "rating": null,
         "genre": "Horror / Comedy",
         "rt": {
-          "critics": 75,
-          "audience": 90
+          "critics": 90,
+          "audience": 86
         },
         "imdb": "https://www.imdb.com/title/tt33978029/",
         "boxofficemojo": "https://www.boxofficemojo.com/release/rl2429190145/",
         "rottentomatoes": "https://www.rottentomatoes.com/m/ready_or_not_2_here_i_come",
         "reviews": [
           {
-            "source": "IndieWire",
-            "quote": "Bigger, bloodier, and somehow even funnier than the original."
+            "source": "Cambridge Day",
+            "quote": "Once \"Here I Come\" finally gets going, there’s good, bloody fun to be had."
           },
           {
-            "source": "Empire",
-            "quote": "Samara Weaving commands every frame in this wickedly entertaining sequel."
+            "source": "Cambridge Day",
+            "quote": "Once &quot;Here I Come&quot; finally gets going, there’s good, bloody fun to be had."
           },
           {
-            "source": "Variety",
-            "quote": "A razor-sharp horror comedy that knows exactly when to make you scream and when to make you laugh."
+            "source": "Seattle Times",
+            "quote": "These aren’t kitchen-sink movies; they’re garbage disposal rejects, alloys composed of leftover scraps."
           }
         ]
       },
       {
         "rank": 10,
         "title": "Undertone",
-        "runtime": 98,
+        "runtime": 94,
         "studio": "A24",
         "weekend": 1073071,
         "total": 19535392,
-        "worldwide": 22000000,
+        "worldwide": 19535392,
         "weeks": 4,
         "change": -35,
         "theaters": 370,
         "poster": "https://image.tmdb.org/t/p/w500/1wREWUEHzjDWSreNFbFLDO7YEaM.jpg",
-        "rating": "R",
-        "genre": "Drama / Thriller",
+        "rating": null,
+        "genre": "Horror / Mystery",
         "rt": {
-          "critics": 88,
-          "audience": 52
+          "critics": 50,
+          "audience": 47
         },
         "imdb": "https://www.imdb.com/title/tt35892608/",
         "boxofficemojo": "https://www.boxofficemojo.com/release/rl1978564609/",
         "rottentomatoes": "https://www.rottentomatoes.com/m/undertone",
         "reviews": [
           {
-            "source": "IndieWire",
-            "quote": "A slow-burn masterclass that rewards patience with a devastating final act."
+            "source": "Tribune News Service",
+            "quote": "Tuason conducts \"Undertone\" to a fever pitch, a maelstrom of sound and fury that is spookily effective, if frustratingly..."
           },
           {
-            "source": "The Playlist",
-            "quote": "Divisive by design — A24's most polarizing release since mother!"
+            "source": "THN",
+            "quote": "Undertone shines a light on just how important sound design is at creating atmosphere, whilst also instilling negative s..."
           },
           {
-            "source": "The Guardian",
-            "quote": "Unshakeable atmosphere and a lead performance that haunts you for days."
+            "source": "Spectrum Culture",
+            "quote": "What makes all this so effective is the overwhelming patience."
           }
         ]
       }
@@ -372,72 +372,72 @@
       {
         "rank": 1,
         "title": "Project Hail Mary",
-        "runtime": 137,
+        "runtime": 157,
         "studio": "Amazon MGM Studios",
-        "weekend": 54537596,
-        "total": 164302240,
-        "worldwide": 350000000,
+        "weekend": 54061852,
+        "total": 163826496,
+        "worldwide": 420580878,
         "weeks": 2,
-        "change": -32,
+        "change": -33,
         "theaters": 4077,
         "poster": "https://image.tmdb.org/t/p/w500/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
         "rating": "PG-13",
-        "genre": "Sci-Fi / Drama",
+        "genre": "Science Fiction / Adventure",
         "rt": {
-          "critics": 95,
-          "audience": 97
+          "critics": 96,
+          "audience": 94
         },
         "imdb": "https://www.imdb.com/title/tt12042730/",
-        "boxofficemojo": "https://www.boxofficemojo.com/releasegroup/gr2625458949/",
+        "boxofficemojo": "https://www.boxofficemojo.com/release/rl1993768961/",
         "rottentomatoes": "https://www.rottentomatoes.com/m/project_hail_mary",
         "reviews": [
           {
-            "source": "The Hollywood Reporter",
-            "quote": "A rare sci-fi blockbuster with real heart and breathtaking scope."
+            "source": "(All (Parentheses)) (Substack)",
+            "quote": "Among the many things I didn’t need in my life was a stealth sequel to Half Nelson…in space."
           },
           {
-            "source": "Variety",
-            "quote": "Ryan Gosling delivers a career-best performance in this interstellar triumph."
+            "source": "The Atlantic",
+            "quote": "This film is not quite the masterpiece its grand visual scale sometimes suggests it’s shooting for."
           },
           {
-            "source": "IndieWire",
-            "quote": "Smart, funny, and emotionally devastating — the best film of the year so far."
+            "source": "TIME Magazine",
+            "quote": "This is the most ambitious picture, in terms of structure and spectacle, that the filmmaking duo of Lord and Miller have..."
           }
         ]
       },
       {
         "rank": 2,
         "title": "Hoppers",
-        "runtime": 96,
-        "studio": "Walt Disney Studios",
-        "weekend": 12200000,
-        "total": 138558236,
-        "worldwide": 280000000,
+        "runtime": 105,
+        "studio": "Walt Disney Studios Motion Pictures",
+        "weekend": 12156317,
+        "total": 138514553,
+        "worldwide": 332224515,
         "weeks": 4,
-        "change": -31,
+        "change": -32,
         "theaters": 3650,
         "poster": "https://image.tmdb.org/t/p/w500/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg",
         "rating": "PG",
-        "genre": "Animation / Adventure",
+        "genre": "Animation / Family",
         "rt": {
           "critics": 94,
-          "audience": null
+          "audience": 91
         },
         "imdb": "https://www.imdb.com/title/tt26443616/",
         "boxofficemojo": "https://www.boxofficemojo.com/release/rl284918529/",
         "rottentomatoes": "https://www.rottentomatoes.com/m/hoppers",
         "reviews": [
           {
-            "source": "Variety",
-            "quote": "Pixar-level heart with a visual style all its own — Disney Animation's best in years."
+            "source": "The Atlantic",
+            "quote": "The movie, in actuality, is refreshingly mordant about what might really happen if prey and predators were to try bandin..."
           },
           {
-            "source": "The Guardian",
-            "quote": "A joyful, inventive romp that will charm audiences of every age."
+            "source": "The Age (Australia)",
+            "quote": "[The film's] serious side is so well camouflaged by the happy absurdities flitting around on its surface that it could b..."
           },
           {
-            "source": "The Hollywood Reporter",
-            "quote": "Wildly inventive animation that proves Disney still has plenty of magic left."
+            "source": "The Nightly (AU)",
+            "quote": "Hoppers features big set-pieces of hijinks and shenanigans (Flying whales! Melting robot faces!) and it is a laugh riot ..."
           }
         ]
       },
@@ -446,81 +446,45 @@
         "title": "They Will Kill You",
         "runtime": 94,
         "studio": "Warner Bros.",
-        "weekend": 5000000,
-        "total": 5000000,
-        "worldwide": 9000000,
+        "weekend": 4970938,
+        "total": 4970938,
+        "worldwide": 15156928,
         "weeks": 1,
         "change": null,
         "theaters": 2778,
         "poster": "https://image.tmdb.org/t/p/w500/6oI4oQKTWMVUlr8Ivqydp28Ruu6.jpg",
-        "rating": "R",
-        "genre": "Horror / Comedy",
+        "rating": null,
+        "genre": "Horror / Action",
         "rt": {
-          "critics": 65,
-          "audience": 80
+          "critics": 77,
+          "audience": 72
         },
         "imdb": "https://www.imdb.com/title/tt31728330/",
-        "boxofficemojo": "https://www.boxofficemojo.com/release/rl3281551361/",
+        "boxofficemojo": "https://www.boxofficemojo.com/release/rl3572334593/",
         "rottentomatoes": "https://www.rottentomatoes.com/m/they_will_kill_you",
         "reviews": [
           {
-            "source": "Empire",
-            "quote": "Blood-drenched and gore-splattered, anchored by a hard-as-nails performance by Beetz."
+            "source": "MovieFreak.com",
+            "quote": "They Will Kill You isn’t without its issues, but it still manages to slay the majority of them with a crooked smile, a w..."
           },
           {
-            "source": "Little White Lies",
-            "quote": "A satisfying cartoon fantasy of sisterhood and solidarity."
+            "source": "The Movie Cricket",
+            "quote": "Sokolov seems to find inspiration in everything from \"Oldboy\" to \"Kill Bill\" to \"From Dusk Till Dawn\" "
           },
           {
-            "source": "Dread Central",
-            "quote": "Overcomes familiar storytelling with slick fight sequences and a killer lead performance."
+            "source": "The Reader (Omaha, NE)",
+            "quote": "There’s a long sequence where a detached eyeball goes for a stroll. Heather Graham and Draco Malfoy show up."
           }
         ]
       },
       {
         "rank": 4,
-        "title": "Dhurandhar: The Revenge",
-        "runtime": 148,
-        "studio": "Moviegoers Entertainment",
-        "weekend": 4745000,
-        "total": 22767392,
-        "worldwide": 89767392,
-        "weeks": 2,
-        "change": -53,
-        "theaters": 987,
-        "poster": "https://image.tmdb.org/t/p/w500/6kD8pH9Rny649B8hSKOs50Qwdag.jpg",
-        "rating": "R",
-        "genre": "Action / Thriller",
-        "rt": {
-          "critics": 43,
-          "audience": 95
-        },
-        "imdb": "https://www.imdb.com/title/tt39139925/",
-        "boxofficemojo": "https://www.boxofficemojo.com/release/rl3281551361/",
-        "rottentomatoes": "https://www.rottentomatoes.com/m/dhurandhar_the_revenge",
-        "reviews": [
-          {
-            "source": "The Hollywood Reporter",
-            "quote": "Relentless action sequences overcome a thin script — pure crowd-pleasing spectacle."
-          },
-          {
-            "source": "Screen Daily",
-            "quote": "A crossover hit that proves Bollywood action can compete on the global stage."
-          },
-          {
-            "source": "Variety",
-            "quote": "Singh is magnetic, the set pieces are jaw-dropping, but the plot buckles under its own ambition."
-          }
-        ]
-      },
-      {
-        "rank": 5,
         "title": "Reminders of Him",
-        "runtime": 115,
+        "runtime": 114,
         "studio": "Universal Pictures",
-        "weekend": 4700000,
-        "total": 41072200,
-        "worldwide": 67000000,
+        "weekend": 4700405,
+        "total": 41072605,
+        "worldwide": 79082840,
         "weeks": 3,
         "change": -41,
         "theaters": 3181,
@@ -528,120 +492,156 @@
         "rating": "PG-13",
         "genre": "Romance / Drama",
         "rt": {
-          "critics": 59,
-          "audience": 89
+          "critics": 88,
+          "audience": 82
         },
         "imdb": "https://www.imdb.com/title/tt33714084/",
         "boxofficemojo": "https://www.boxofficemojo.com/release/rl2970583041/",
         "rottentomatoes": "https://www.rottentomatoes.com/m/reminders_of_him",
         "reviews": [
           {
-            "source": "The Hollywood Reporter",
-            "quote": "A tearjerker that earns its emotions honestly, even when the plot strains credulity."
+            "source": "Empire Magazine",
+            "quote": "It’s easy on the eye, and indeed the brain, but this is nowhere near as sharply written or plotted as it should be to br..."
           },
           {
-            "source": "RogerEbert.com",
-            "quote": "CoHo fans will swoon; everyone else may find the melodrama a touch heavy-handed."
+            "source": "The Movie Cricket",
+            "quote": "The problem is the script, by Hoover and co-writer Lauren Levine, which puts the actors in situations that only happen i..."
           },
           {
-            "source": "The Playlist",
-            "quote": "Monroe brings raw vulnerability to a role that demands it — the film's secret weapon."
+            "source": "WBAL-TV (Baltimore)",
+            "quote": "Maika Monroe can have chemistry with anyone okay."
+          }
+        ]
+      },
+      {
+        "rank": 5,
+        "title": "Dhurandhar The Revenge",
+        "runtime": 229,
+        "studio": "Moviegoers Entertainment",
+        "weekend": 4603490,
+        "total": 22625882,
+        "worldwide": 150863969,
+        "weeks": 2,
+        "change": -54,
+        "theaters": 987,
+        "poster": "https://image.tmdb.org/t/p/w500/ov8vrRLZGoXHpYjSY9Vpv1tHJX7.jpg",
+        "rating": "NR",
+        "genre": "Action / Crime",
+        "rt": {
+          "critics": 95,
+          "audience": 93
+        },
+        "imdb": "https://www.imdb.com/title/tt39139925/",
+        "boxofficemojo": "https://www.boxofficemojo.com/release/rl3281551361/",
+        "rottentomatoes": "https://www.rottentomatoes.com/m/dhurandhar_the_revenge",
+        "reviews": [
+          {
+            "source": "Screen-Space (Substack)",
+            "quote": "I can’t recall a film that utilises a scarred national conscience as a means to justify its hero’s sociopathic proclivit..."
+          },
+          {
+            "source": "JoySauce.com",
+            "quote": "Overlong, gratuitously violent, and brimming with a self-indulgence that borders on arrogance, Dhurandhar: The Revenge o..."
+          },
+          {
+            "source": "Upper Stall",
+            "quote": "Dhurandhar: The Revenge settles into a groove, where part visceral action spectacle, and part ideologically drives the n..."
           }
         ]
       },
       {
         "rank": 6,
         "title": "Ready or Not 2: Here I Come",
-        "runtime": 101,
+        "runtime": 108,
         "studio": "Searchlight Pictures",
-        "weekend": 4000000,
-        "total": 16277870,
-        "worldwide": 28000000,
+        "weekend": 4131346,
+        "total": 16409216,
+        "worldwide": 31373331,
         "weeks": 2,
-        "change": -56,
-        "theaters": 3010,
+        "change": -54,
+        "theaters": 2990,
         "poster": "https://image.tmdb.org/t/p/w500/jRf89HVEtBZiSnOXXWDhZOfuTwW.jpg",
-        "rating": "R",
+        "rating": null,
         "genre": "Horror / Comedy",
         "rt": {
-          "critics": 75,
-          "audience": 90
+          "critics": 90,
+          "audience": 86
         },
         "imdb": "https://www.imdb.com/title/tt33978029/",
         "boxofficemojo": "https://www.boxofficemojo.com/release/rl2429190145/",
         "rottentomatoes": "https://www.rottentomatoes.com/m/ready_or_not_2_here_i_come",
         "reviews": [
           {
-            "source": "IndieWire",
-            "quote": "Bigger, bloodier, and somehow even funnier than the original."
+            "source": "Cambridge Day",
+            "quote": "Once \"Here I Come\" finally gets going, there’s good, bloody fun to be had."
           },
           {
-            "source": "Empire",
-            "quote": "Samara Weaving commands every frame in this wickedly entertaining sequel."
+            "source": "Cambridge Day",
+            "quote": "Once &quot;Here I Come&quot; finally gets going, there’s good, bloody fun to be had."
           },
           {
-            "source": "Variety",
-            "quote": "A razor-sharp horror comedy that knows exactly when to make you scream and when to make you laugh."
+            "source": "Seattle Times",
+            "quote": "These aren’t kitchen-sink movies; they’re garbage disposal rejects, alloys composed of leftover scraps."
           }
         ]
       },
       {
         "rank": 7,
         "title": "Scream 7",
-        "runtime": 111,
-        "studio": "Paramount Pictures",
-        "weekend": 2600000,
-        "total": 118670544,
-        "worldwide": 202000000,
+        "runtime": 114,
+        "studio": "Paramount Pictures International",
+        "weekend": 2625132,
+        "total": 118695676,
+        "worldwide": 209348377,
         "weeks": 5,
-        "change": -40,
+        "change": -39,
         "theaters": 2345,
         "poster": "https://image.tmdb.org/t/p/w500/jjyuk0edLiW8vOSnlfwWCCLpbh5.jpg",
         "rating": "R",
-        "genre": "Horror / Thriller",
+        "genre": "Horror / Mystery",
         "rt": {
-          "critics": 31,
-          "audience": 76
+          "critics": 75,
+          "audience": 69
         },
         "imdb": "https://www.imdb.com/title/tt27047903/",
         "boxofficemojo": "https://www.boxofficemojo.com/release/rl1359839233/",
         "rottentomatoes": "https://www.rottentomatoes.com/m/scream_7",
         "reviews": [
           {
-            "source": "Variety",
-            "quote": "The franchise is running on fumes — the meta-commentary has become the thing it once mocked."
+            "source": "Crooked Marquee",
+            "quote": "Scream 7 lacks any semblance of its energy on either the horror or the comedy side of things."
           },
           {
-            "source": "Bloody Disgusting",
-            "quote": "Messy but fun enough for die-hard Ghostface fans to justify the ticket price."
+            "source": "Wall Street Journal",
+            "quote": "If there’s a single witty idea in the entire two-hour slog, I missed it."
           },
           {
-            "source": "The Hollywood Reporter",
-            "quote": "Williamson's return behind the camera brings craft, if not the freshness the series desperately needs."
+            "source": "The Reveal",
+            "quote": "There just isn’t that much meta commentary you can supply for horror franchises this deep into their existence, except t..."
           }
         ]
       },
       {
         "rank": 8,
         "title": "GOAT",
-        "runtime": 105,
-        "studio": "Sony Pictures",
-        "weekend": 2200000,
-        "total": 100865440,
-        "worldwide": 182000000,
+        "runtime": 100,
+        "studio": "Sony Pictures Releasing",
+        "weekend": 2151743,
+        "total": 100817183,
+        "worldwide": 185168279,
         "weeks": 7,
-        "change": -36,
+        "change": -37,
         "theaters": 2246,
         "poster": "https://image.tmdb.org/t/p/w500/wfuqMlaExcoYiUEvKfVpUTt1v4u.jpg",
-        "rating": "PG",
-        "genre": "Animation / Sports",
+        "rating": null,
+        "genre": "Animation / Comedy",
         "rt": {
-          "critics": 84,
-          "audience": 93
+          "critics": null,
+          "audience": null
         },
         "imdb": "https://www.imdb.com/title/tt27613895/",
         "boxofficemojo": "https://www.boxofficemojo.com/release/rl2725019649/",
-        "rottentomatoes": "https://www.rottentomatoes.com/m/goat_2026",
+        "rottentomatoes": "https://www.rottentomatoes.com/m/goat",
         "reviews": [
           {
             "source": "The Guardian",
@@ -660,72 +660,72 @@
       {
         "rank": 9,
         "title": "Undertone",
-        "runtime": 98,
+        "runtime": 94,
         "studio": "A24",
         "weekend": 1651762,
         "total": 18462321,
-        "worldwide": 20500000,
+        "worldwide": 19535392,
         "weeks": 3,
         "change": -45,
         "theaters": 1852,
         "poster": "https://image.tmdb.org/t/p/w500/1wREWUEHzjDWSreNFbFLDO7YEaM.jpg",
-        "rating": "R",
-        "genre": "Drama / Thriller",
+        "rating": null,
+        "genre": "Horror / Mystery",
         "rt": {
-          "critics": 88,
-          "audience": 52
+          "critics": 50,
+          "audience": 47
         },
         "imdb": "https://www.imdb.com/title/tt35892608/",
         "boxofficemojo": "https://www.boxofficemojo.com/release/rl1978564609/",
         "rottentomatoes": "https://www.rottentomatoes.com/m/undertone",
         "reviews": [
           {
-            "source": "IndieWire",
-            "quote": "A slow-burn masterclass that rewards patience with a devastating final act."
+            "source": "Tribune News Service",
+            "quote": "Tuason conducts \"Undertone\" to a fever pitch, a maelstrom of sound and fury that is spookily effective, if frustratingly..."
           },
           {
-            "source": "The Playlist",
-            "quote": "Divisive by design — A24's most polarizing release since mother!"
+            "source": "THN",
+            "quote": "Undertone shines a light on just how important sound design is at creating atmosphere, whilst also instilling negative s..."
           },
           {
-            "source": "The Guardian",
-            "quote": "Unshakeable atmosphere and a lead performance that haunts you for days."
+            "source": "Spectrum Culture",
+            "quote": "What makes all this so effective is the overwhelming patience."
           }
         ]
       },
       {
         "rank": 10,
         "title": "Forbidden Fruits",
-        "runtime": 103,
-        "studio": "IFC Films",
-        "weekend": 1170000,
-        "total": 1170000,
-        "worldwide": 1170000,
+        "runtime": 104,
+        "studio": null,
+        "weekend": 1171861,
+        "total": 1171861,
+        "worldwide": 2036893,
         "weeks": 1,
         "change": null,
         "theaters": 1525,
         "poster": "https://image.tmdb.org/t/p/w500/qK6yk1wJp6vAJRJOyIMcxoNw8pe.jpg",
-        "rating": "R",
+        "rating": null,
         "genre": "Horror / Comedy",
         "rt": {
-          "critics": 78,
-          "audience": 70
+          "critics": 54,
+          "audience": 54
         },
         "imdb": "https://www.imdb.com/title/tt30691214/",
-        "boxofficemojo": "https://www.boxofficemojo.com/release/rl585400321/",
-        "rottentomatoes": "https://www.rottentomatoes.com/m/forbidden_fruits_2026",
+        "boxofficemojo": "https://www.boxofficemojo.com/release/rl2257813505/",
+        "rottentomatoes": "https://www.rottentomatoes.com/m/forbidden_fruits",
         "reviews": [
           {
-            "source": "Inverse",
-            "quote": "Smartly cast with an ensemble of up-and-coming young actors who deliver bitchy dialogue like they wrote it."
+            "source": "Audience",
+            "quote": "Forbidden Fruits was a terrible, low-budget film. The writing was not realistic."
           },
           {
-            "source": "San Jose Mercury News",
-            "quote": "Campy, full of laughs and some gore, and even sounds a chord about breaking free of female cliques."
+            "source": "Audience",
+            "quote": "It means well, but this movie is so amateurish and poorly acted, it makes it difficult to watch."
           },
           {
-            "source": "RogerEbert.com",
-            "quote": "Lili Reinhart shines in this sapphic witch thriller with real bite."
+            "source": "Audience",
+            "quote": "My sister.friend Nadja was the Asst. Director!!! Got to support my peeps."
           }
         ]
       }
@@ -738,240 +738,240 @@
       {
         "rank": 1,
         "title": "Project Hail Mary",
-        "runtime": 137,
+        "runtime": 157,
         "studio": "Amazon MGM Studios",
         "weekend": 80506007,
         "total": 80506007,
-        "worldwide": 141000000,
+        "worldwide": 420580878,
         "weeks": 1,
         "change": null,
         "theaters": 4007,
         "poster": "https://image.tmdb.org/t/p/w500/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
         "rating": "PG-13",
-        "genre": "Sci-Fi / Drama",
+        "genre": "Science Fiction / Adventure",
         "rt": {
-          "critics": 95,
-          "audience": 97
+          "critics": 96,
+          "audience": 94
         },
         "imdb": "https://www.imdb.com/title/tt12042730/",
-        "boxofficemojo": "https://www.boxofficemojo.com/releasegroup/gr2625458949/",
+        "boxofficemojo": "https://www.boxofficemojo.com/release/rl1993768961/",
         "rottentomatoes": "https://www.rottentomatoes.com/m/project_hail_mary",
         "reviews": [
           {
-            "source": "The Hollywood Reporter",
-            "quote": "A rare sci-fi blockbuster with real heart and breathtaking scope."
+            "source": "(All (Parentheses)) (Substack)",
+            "quote": "Among the many things I didn’t need in my life was a stealth sequel to Half Nelson…in space."
           },
           {
-            "source": "Variety",
-            "quote": "Ryan Gosling delivers a career-best performance in this interstellar triumph."
+            "source": "The Atlantic",
+            "quote": "This film is not quite the masterpiece its grand visual scale sometimes suggests it’s shooting for."
           },
           {
-            "source": "IndieWire",
-            "quote": "Smart, funny, and emotionally devastating — the best film of the year so far."
+            "source": "TIME Magazine",
+            "quote": "This is the most ambitious picture, in terms of structure and spectacle, that the filmmaking duo of Lord and Miller have..."
           }
         ]
       },
       {
         "rank": 2,
         "title": "Hoppers",
-        "runtime": 96,
-        "studio": "Walt Disney Studios",
+        "runtime": 105,
+        "studio": "Walt Disney Studios Motion Pictures",
         "weekend": 17801867,
         "total": 120188736,
-        "worldwide": 242000000,
+        "worldwide": 332224515,
         "weeks": 3,
         "change": -38,
         "theaters": 3675,
         "poster": "https://image.tmdb.org/t/p/w500/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg",
         "rating": "PG",
-        "genre": "Animation / Adventure",
+        "genre": "Animation / Family",
         "rt": {
           "critics": 94,
-          "audience": null
+          "audience": 91
         },
         "imdb": "https://www.imdb.com/title/tt26443616/",
         "boxofficemojo": "https://www.boxofficemojo.com/release/rl284918529/",
         "rottentomatoes": "https://www.rottentomatoes.com/m/hoppers",
         "reviews": [
           {
-            "source": "Variety",
-            "quote": "Pixar-level heart with a visual style all its own — Disney Animation's best in years."
+            "source": "The Atlantic",
+            "quote": "The movie, in actuality, is refreshingly mordant about what might really happen if prey and predators were to try bandin..."
           },
           {
-            "source": "The Guardian",
-            "quote": "A joyful, inventive romp that will charm audiences of every age."
+            "source": "The Age (Australia)",
+            "quote": "[The film's] serious side is so well camouflaged by the happy absurdities flitting around on its surface that it could b..."
           },
           {
-            "source": "The Hollywood Reporter",
-            "quote": "Wildly inventive animation that proves Disney still has plenty of magic left."
+            "source": "The Nightly (AU)",
+            "quote": "Hoppers features big set-pieces of hijinks and shenanigans (Flying whales! Melting robot faces!) and it is a laugh riot ..."
           }
         ]
       },
       {
         "rank": 3,
-        "title": "Dhurandhar: The Revenge",
-        "runtime": 148,
+        "title": "Dhurandhar The Revenge",
+        "runtime": 229,
         "studio": "Moviegoers Entertainment",
         "weekend": 10037581,
         "total": 14015861,
-        "worldwide": 55000000,
+        "worldwide": 150863969,
         "weeks": 1,
         "change": null,
         "theaters": 987,
-        "poster": "https://image.tmdb.org/t/p/w500/6kD8pH9Rny649B8hSKOs50Qwdag.jpg",
-        "rating": "R",
-        "genre": "Action / Thriller",
+        "poster": "https://image.tmdb.org/t/p/w500/ov8vrRLZGoXHpYjSY9Vpv1tHJX7.jpg",
+        "rating": "NR",
+        "genre": "Action / Crime",
         "rt": {
-          "critics": 43,
-          "audience": 95
+          "critics": 95,
+          "audience": 93
         },
         "imdb": "https://www.imdb.com/title/tt39139925/",
         "boxofficemojo": "https://www.boxofficemojo.com/release/rl3281551361/",
         "rottentomatoes": "https://www.rottentomatoes.com/m/dhurandhar_the_revenge",
         "reviews": [
           {
-            "source": "The Hollywood Reporter",
-            "quote": "Relentless action sequences overcome a thin script — pure crowd-pleasing spectacle."
+            "source": "Screen-Space (Substack)",
+            "quote": "I can’t recall a film that utilises a scarred national conscience as a means to justify its hero’s sociopathic proclivit..."
           },
           {
-            "source": "Screen Daily",
-            "quote": "A crossover hit that proves Bollywood action can compete on the global stage."
+            "source": "JoySauce.com",
+            "quote": "Overlong, gratuitously violent, and brimming with a self-indulgence that borders on arrogance, Dhurandhar: The Revenge o..."
           },
           {
-            "source": "Variety",
-            "quote": "Singh is magnetic, the set pieces are jaw-dropping, but the plot buckles under its own ambition."
+            "source": "Upper Stall",
+            "quote": "Dhurandhar: The Revenge settles into a groove, where part visceral action spectacle, and part ideologically drives the n..."
           }
         ]
       },
       {
         "rank": 4,
         "title": "Ready or Not 2: Here I Come",
-        "runtime": 101,
+        "runtime": 108,
         "studio": "Searchlight Pictures",
         "weekend": 9075271,
         "total": 9075271,
-        "worldwide": 15500000,
+        "worldwide": 31373331,
         "weeks": 1,
         "change": null,
         "theaters": 3010,
         "poster": "https://image.tmdb.org/t/p/w500/jRf89HVEtBZiSnOXXWDhZOfuTwW.jpg",
-        "rating": "R",
+        "rating": null,
         "genre": "Horror / Comedy",
         "rt": {
-          "critics": 75,
-          "audience": 90
+          "critics": 90,
+          "audience": 86
         },
         "imdb": "https://www.imdb.com/title/tt33978029/",
         "boxofficemojo": "https://www.boxofficemojo.com/release/rl2429190145/",
         "rottentomatoes": "https://www.rottentomatoes.com/m/ready_or_not_2_here_i_come",
         "reviews": [
           {
-            "source": "IndieWire",
-            "quote": "Bigger, bloodier, and somehow even funnier than the original."
+            "source": "Cambridge Day",
+            "quote": "Once \"Here I Come\" finally gets going, there’s good, bloody fun to be had."
           },
           {
-            "source": "Empire",
-            "quote": "Samara Weaving commands every frame in this wickedly entertaining sequel."
+            "source": "Cambridge Day",
+            "quote": "Once &quot;Here I Come&quot; finally gets going, there’s good, bloody fun to be had."
           },
           {
-            "source": "Variety",
-            "quote": "A razor-sharp horror comedy that knows exactly when to make you scream and when to make you laugh."
+            "source": "Seattle Times",
+            "quote": "These aren’t kitchen-sink movies; they’re garbage disposal rejects, alloys composed of leftover scraps."
           }
         ]
       },
       {
         "rank": 5,
         "title": "Reminders of Him",
-        "runtime": 115,
+        "runtime": 114,
         "studio": "Universal Pictures",
         "weekend": 8001325,
         "total": 33175180,
-        "worldwide": 54000000,
+        "worldwide": 79082840,
         "weeks": 2,
-        "change": -56,
+        "change": -55,
         "theaters": 3441,
         "poster": "https://image.tmdb.org/t/p/w500/7L6rceYgzQ0NeHD7PRDNrRoQ291.jpg",
         "rating": "PG-13",
         "genre": "Romance / Drama",
         "rt": {
-          "critics": 59,
-          "audience": 89
+          "critics": 88,
+          "audience": 82
         },
         "imdb": "https://www.imdb.com/title/tt33714084/",
         "boxofficemojo": "https://www.boxofficemojo.com/release/rl2970583041/",
         "rottentomatoes": "https://www.rottentomatoes.com/m/reminders_of_him",
         "reviews": [
           {
-            "source": "The Hollywood Reporter",
-            "quote": "A tearjerker that earns its emotions honestly, even when the plot strains credulity."
+            "source": "Empire Magazine",
+            "quote": "It’s easy on the eye, and indeed the brain, but this is nowhere near as sharply written or plotted as it should be to br..."
           },
           {
-            "source": "RogerEbert.com",
-            "quote": "CoHo fans will swoon; everyone else may find the melodrama a touch heavy-handed."
+            "source": "The Movie Cricket",
+            "quote": "The problem is the script, by Hoover and co-writer Lauren Levine, which puts the actors in situations that only happen i..."
           },
           {
-            "source": "The Playlist",
-            "quote": "Monroe brings raw vulnerability to a role that demands it — the film's secret weapon."
+            "source": "WBAL-TV (Baltimore)",
+            "quote": "Maika Monroe can have chemistry with anyone okay."
           }
         ]
       },
       {
         "rank": 6,
         "title": "Scream 7",
-        "runtime": 111,
-        "studio": "Paramount Pictures",
+        "runtime": 114,
+        "studio": "Paramount Pictures International",
         "weekend": 4323795,
         "total": 114558495,
-        "worldwide": 195000000,
+        "worldwide": 209348377,
         "weeks": 4,
         "change": -49,
         "theaters": 2560,
         "poster": "https://image.tmdb.org/t/p/w500/jjyuk0edLiW8vOSnlfwWCCLpbh5.jpg",
         "rating": "R",
-        "genre": "Horror / Thriller",
+        "genre": "Horror / Mystery",
         "rt": {
-          "critics": 31,
-          "audience": 76
+          "critics": 75,
+          "audience": 69
         },
         "imdb": "https://www.imdb.com/title/tt27047903/",
         "boxofficemojo": "https://www.boxofficemojo.com/release/rl1359839233/",
         "rottentomatoes": "https://www.rottentomatoes.com/m/scream_7",
         "reviews": [
           {
-            "source": "Variety",
-            "quote": "The franchise is running on fumes — the meta-commentary has become the thing it once mocked."
+            "source": "Crooked Marquee",
+            "quote": "Scream 7 lacks any semblance of its energy on either the horror or the comedy side of things."
           },
           {
-            "source": "Bloody Disgusting",
-            "quote": "Messy but fun enough for die-hard Ghostface fans to justify the ticket price."
+            "source": "Wall Street Journal",
+            "quote": "If there’s a single witty idea in the entire two-hour slog, I missed it."
           },
           {
-            "source": "The Hollywood Reporter",
-            "quote": "Williamson's return behind the camera brings craft, if not the freshness the series desperately needs."
+            "source": "The Reveal",
+            "quote": "There just isn’t that much meta commentary you can supply for horror franchises this deep into their existence, except t..."
           }
         ]
       },
       {
         "rank": 7,
         "title": "GOAT",
-        "runtime": 105,
-        "studio": "Sony Pictures",
+        "runtime": 100,
+        "studio": "Sony Pictures Releasing",
         "weekend": 3428020,
         "total": 97435737,
-        "worldwide": 175000000,
+        "worldwide": 185168279,
         "weeks": 6,
         "change": -27,
         "theaters": 2537,
         "poster": "https://image.tmdb.org/t/p/w500/wfuqMlaExcoYiUEvKfVpUTt1v4u.jpg",
-        "rating": "PG",
-        "genre": "Animation / Sports",
+        "rating": null,
+        "genre": "Animation / Comedy",
         "rt": {
-          "critics": 84,
-          "audience": 93
+          "critics": null,
+          "audience": null
         },
         "imdb": "https://www.imdb.com/title/tt27613895/",
         "boxofficemojo": "https://www.boxofficemojo.com/release/rl2725019649/",
-        "rottentomatoes": "https://www.rottentomatoes.com/m/goat_2026",
+        "rottentomatoes": "https://www.rottentomatoes.com/m/goat",
         "reviews": [
           {
             "source": "The Guardian",
@@ -990,36 +990,36 @@
       {
         "rank": 8,
         "title": "Undertone",
-        "runtime": 98,
+        "runtime": 94,
         "studio": "A24",
         "weekend": 3015003,
         "total": 15213265,
-        "worldwide": 17000000,
+        "worldwide": 19535392,
         "weeks": 2,
         "change": -67,
         "theaters": 2570,
         "poster": "https://image.tmdb.org/t/p/w500/1wREWUEHzjDWSreNFbFLDO7YEaM.jpg",
-        "rating": "R",
-        "genre": "Drama / Thriller",
+        "rating": null,
+        "genre": "Horror / Mystery",
         "rt": {
-          "critics": 88,
-          "audience": 52
+          "critics": 50,
+          "audience": 47
         },
         "imdb": "https://www.imdb.com/title/tt35892608/",
         "boxofficemojo": "https://www.boxofficemojo.com/release/rl1978564609/",
         "rottentomatoes": "https://www.rottentomatoes.com/m/undertone",
         "reviews": [
           {
-            "source": "IndieWire",
-            "quote": "A slow-burn masterclass that rewards patience with a devastating final act."
+            "source": "Tribune News Service",
+            "quote": "Tuason conducts \"Undertone\" to a fever pitch, a maelstrom of sound and fury that is spookily effective, if frustratingly..."
           },
           {
-            "source": "The Playlist",
-            "quote": "Divisive by design — A24's most polarizing release since mother!"
+            "source": "THN",
+            "quote": "Undertone shines a light on just how important sound design is at creating atmosphere, whilst also instilling negative s..."
           },
           {
-            "source": "The Guardian",
-            "quote": "Unshakeable atmosphere and a lead performance that haunts you for days."
+            "source": "Spectrum Culture",
+            "quote": "What makes all this so effective is the overwhelming patience."
           }
         ]
       },
@@ -1030,7 +1030,7 @@
         "studio": "Viva Pictures",
         "weekend": 1325363,
         "total": 1325363,
-        "worldwide": 2000000,
+        "worldwide": 4309205,
         "weeks": 1,
         "change": null,
         "theaters": 1854,
@@ -1038,7 +1038,7 @@
         "rating": "PG",
         "genre": "Animation / Family",
         "rt": {
-          "critics": 68,
+          "critics": 75,
           "audience": 64
         },
         "imdb": "https://www.imdb.com/title/tt12824390/",
@@ -1066,32 +1066,32 @@
         "studio": "Warner Bros.",
         "weekend": 496983,
         "total": 83326326,
-        "worldwide": 208000000,
+        "worldwide": 239436912,
         "weeks": 6,
         "change": -70,
         "theaters": 601,
-        "poster": "https://image.tmdb.org/t/p/w500/lGlJ2cTDwMacj5nuANd38UjVGNQ.jpg",
-        "rating": "R",
+        "poster": "https://image.tmdb.org/t/p/w500/3YBce6dTh1D5oCMITXk2S5QhPt.jpg",
+        "rating": null,
         "genre": "Romance / Drama",
         "rt": {
-          "critics": 71,
-          "audience": 84
+          "critics": 66,
+          "audience": 66
         },
         "imdb": "https://www.imdb.com/title/tt32897959/",
-        "boxofficemojo": "https://www.boxofficemojo.com/title/tt32897959/",
-        "rottentomatoes": "https://www.rottentomatoes.com/m/wuthering_heights_2026",
+        "boxofficemojo": "https://www.boxofficemojo.com/release/rl723550209/",
+        "rottentomatoes": "https://www.rottentomatoes.com/m/wuthering_heights",
         "reviews": [
           {
-            "source": "The Hollywood Reporter",
-            "quote": "Pulpy, provocative, and drenched in blazing color and opulent design."
+            "source": "Time Out",
+            "quote": "A valiant attempt at compressing a novel as complex as Bronte&#39;s into under 2 hours, but &#39;valiant&#39; shouldn&#3..."
           },
           {
-            "source": "The Atlantic",
-            "quote": "A heaving, rip-snortingly carnal good time."
+            "source": "Espinof",
+            "quote": "Ralph Fiennes makes a demonic Heathcliff, his startlingly blue eyes the only concession to a matinee audience."
           },
           {
-            "source": "The Guardian",
-            "quote": "An emotionally hollow, bodice-ripping misfire."
+            "source": "Radio Times",
+            "quote": "A brave stab, but it doesn&#39;t always pierce the heart."
           }
         ]
       }
@@ -1104,47 +1104,47 @@
       {
         "rank": 1,
         "title": "Hoppers",
-        "runtime": 96,
-        "studio": "Walt Disney Studios",
+        "runtime": 105,
+        "studio": "Walt Disney Studios Motion Pictures",
         "weekend": 28661727,
         "total": 86962627,
-        "worldwide": 175000000,
+        "worldwide": 332224515,
         "weeks": 2,
         "change": -37,
         "theaters": 4000,
         "poster": "https://image.tmdb.org/t/p/w500/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg",
         "rating": "PG",
-        "genre": "Animation / Adventure",
+        "genre": "Animation / Family",
         "rt": {
           "critics": 94,
-          "audience": null
+          "audience": 91
         },
         "imdb": "https://www.imdb.com/title/tt26443616/",
         "boxofficemojo": "https://www.boxofficemojo.com/release/rl284918529/",
         "rottentomatoes": "https://www.rottentomatoes.com/m/hoppers",
         "reviews": [
           {
-            "source": "Variety",
-            "quote": "Pixar-level heart with a visual style all its own — Disney Animation's best in years."
+            "source": "The Atlantic",
+            "quote": "The movie, in actuality, is refreshingly mordant about what might really happen if prey and predators were to try bandin..."
           },
           {
-            "source": "The Guardian",
-            "quote": "A joyful, inventive romp that will charm audiences of every age."
+            "source": "The Age (Australia)",
+            "quote": "[The film's] serious side is so well camouflaged by the happy absurdities flitting around on its surface that it could b..."
           },
           {
-            "source": "The Hollywood Reporter",
-            "quote": "Wildly inventive animation that proves Disney still has plenty of magic left."
+            "source": "The Nightly (AU)",
+            "quote": "Hoppers features big set-pieces of hijinks and shenanigans (Flying whales! Melting robot faces!) and it is a laugh riot ..."
           }
         ]
       },
       {
         "rank": 2,
         "title": "Reminders of Him",
-        "runtime": 115,
+        "runtime": 114,
         "studio": "Universal Pictures",
         "weekend": 17979940,
         "total": 17979940,
-        "worldwide": 29000000,
+        "worldwide": 79082840,
         "weeks": 1,
         "change": null,
         "theaters": 3402,
@@ -1152,120 +1152,120 @@
         "rating": "PG-13",
         "genre": "Romance / Drama",
         "rt": {
-          "critics": 59,
-          "audience": 89
+          "critics": 88,
+          "audience": 82
         },
         "imdb": "https://www.imdb.com/title/tt33714084/",
         "boxofficemojo": "https://www.boxofficemojo.com/release/rl2970583041/",
         "rottentomatoes": "https://www.rottentomatoes.com/m/reminders_of_him",
         "reviews": [
           {
-            "source": "The Hollywood Reporter",
-            "quote": "A tearjerker that earns its emotions honestly, even when the plot strains credulity."
+            "source": "Empire Magazine",
+            "quote": "It’s easy on the eye, and indeed the brain, but this is nowhere near as sharply written or plotted as it should be to br..."
           },
           {
-            "source": "RogerEbert.com",
-            "quote": "CoHo fans will swoon; everyone else may find the melodrama a touch heavy-handed."
+            "source": "The Movie Cricket",
+            "quote": "The problem is the script, by Hoover and co-writer Lauren Levine, which puts the actors in situations that only happen i..."
           },
           {
-            "source": "The Playlist",
-            "quote": "Monroe brings raw vulnerability to a role that demands it — the film's secret weapon."
+            "source": "WBAL-TV (Baltimore)",
+            "quote": "Maika Monroe can have chemistry with anyone okay."
           }
         ]
       },
       {
         "rank": 3,
         "title": "Undertone",
-        "runtime": 98,
+        "runtime": 94,
         "studio": "A24",
         "weekend": 9069849,
         "total": 9069849,
-        "worldwide": 10500000,
+        "worldwide": 19535392,
         "weeks": 1,
         "change": null,
         "theaters": 2570,
         "poster": "https://image.tmdb.org/t/p/w500/1wREWUEHzjDWSreNFbFLDO7YEaM.jpg",
-        "rating": "R",
-        "genre": "Drama / Thriller",
+        "rating": null,
+        "genre": "Horror / Mystery",
         "rt": {
-          "critics": 88,
-          "audience": 52
+          "critics": 50,
+          "audience": 47
         },
         "imdb": "https://www.imdb.com/title/tt35892608/",
         "boxofficemojo": "https://www.boxofficemojo.com/release/rl1978564609/",
         "rottentomatoes": "https://www.rottentomatoes.com/m/undertone",
         "reviews": [
           {
-            "source": "IndieWire",
-            "quote": "A slow-burn masterclass that rewards patience with a devastating final act."
+            "source": "Tribune News Service",
+            "quote": "Tuason conducts \"Undertone\" to a fever pitch, a maelstrom of sound and fury that is spookily effective, if frustratingly..."
           },
           {
-            "source": "The Playlist",
-            "quote": "Divisive by design — A24's most polarizing release since mother!"
+            "source": "THN",
+            "quote": "Undertone shines a light on just how important sound design is at creating atmosphere, whilst also instilling negative s..."
           },
           {
-            "source": "The Guardian",
-            "quote": "Unshakeable atmosphere and a lead performance that haunts you for days."
+            "source": "Spectrum Culture",
+            "quote": "What makes all this so effective is the overwhelming patience."
           }
         ]
       },
       {
         "rank": 4,
         "title": "Scream 7",
-        "runtime": 111,
-        "studio": "Paramount Pictures",
+        "runtime": 114,
+        "studio": "Paramount Pictures International",
         "weekend": 8515481,
         "total": 106712583,
-        "worldwide": 181000000,
+        "worldwide": 209348377,
         "weeks": 3,
         "change": -50,
         "theaters": 3243,
         "poster": "https://image.tmdb.org/t/p/w500/jjyuk0edLiW8vOSnlfwWCCLpbh5.jpg",
         "rating": "R",
-        "genre": "Horror / Thriller",
+        "genre": "Horror / Mystery",
         "rt": {
-          "critics": 31,
-          "audience": 76
+          "critics": 75,
+          "audience": 69
         },
         "imdb": "https://www.imdb.com/title/tt27047903/",
         "boxofficemojo": "https://www.boxofficemojo.com/release/rl1359839233/",
         "rottentomatoes": "https://www.rottentomatoes.com/m/scream_7",
         "reviews": [
           {
-            "source": "Variety",
-            "quote": "The franchise is running on fumes — the meta-commentary has become the thing it once mocked."
+            "source": "Crooked Marquee",
+            "quote": "Scream 7 lacks any semblance of its energy on either the horror or the comedy side of things."
           },
           {
-            "source": "Bloody Disgusting",
-            "quote": "Messy but fun enough for die-hard Ghostface fans to justify the ticket price."
+            "source": "Wall Street Journal",
+            "quote": "If there’s a single witty idea in the entire two-hour slog, I missed it."
           },
           {
-            "source": "The Hollywood Reporter",
-            "quote": "Williamson's return behind the camera brings craft, if not the freshness the series desperately needs."
+            "source": "The Reveal",
+            "quote": "There just isn’t that much meta commentary you can supply for horror franchises this deep into their existence, except t..."
           }
         ]
       },
       {
         "rank": 5,
         "title": "GOAT",
-        "runtime": 105,
-        "studio": "Sony Pictures",
+        "runtime": 100,
+        "studio": "Sony Pictures Releasing",
         "weekend": 4675277,
         "total": 90531213,
-        "worldwide": 163000000,
+        "worldwide": 185168279,
         "weeks": 5,
         "change": -28,
         "theaters": 2946,
         "poster": "https://image.tmdb.org/t/p/w500/wfuqMlaExcoYiUEvKfVpUTt1v4u.jpg",
-        "rating": "PG",
-        "genre": "Animation / Sports",
+        "rating": null,
+        "genre": "Animation / Comedy",
         "rt": {
-          "critics": 84,
-          "audience": 93
+          "critics": null,
+          "audience": null
         },
         "imdb": "https://www.imdb.com/title/tt27613895/",
         "boxofficemojo": "https://www.boxofficemojo.com/release/rl2725019649/",
-        "rottentomatoes": "https://www.rottentomatoes.com/m/goat_2026",
+        "rottentomatoes": "https://www.rottentomatoes.com/m/goat",
         "reviews": [
           {
             "source": "The Guardian",
@@ -1285,37 +1285,24 @@
         "rank": 6,
         "title": "The Bride!",
         "runtime": 126,
-        "studio": "Warner Bros.",
+        "studio": "IMAXSee full company information\n        \n    /Warner Bros.",
         "weekend": 2088182,
         "total": 11312948,
-        "worldwide": 18000000,
+        "worldwide": 23444025,
         "weeks": 2,
         "change": -70,
         "theaters": 3304,
         "poster": "https://image.tmdb.org/t/p/w500/lV8YHwGkYZsm6EfIqnhaSz2avKt.jpg",
         "rating": "R",
-        "genre": "Sci-Fi / Horror",
+        "genre": "Science Fiction / Horror",
         "rt": {
-          "critics": 59,
-          "audience": 74
+          "critics": null,
+          "audience": null
         },
         "imdb": "https://www.imdb.com/title/tt30851137/",
         "boxofficemojo": "https://www.boxofficemojo.com/release/rl1985511425/",
-        "rottentomatoes": "https://www.rottentomatoes.com/m/the_bride_2026",
-        "reviews": [
-          {
-            "source": "RogerEbert.com",
-            "quote": "A movie lover's movie that disarmingly worships cinema, a fantastical creative explosion."
-          },
-          {
-            "source": "Variety",
-            "quote": "It's like Joker: Folie a Deux starring a grunge version of the Munsters."
-          },
-          {
-            "source": "The Hollywood Reporter",
-            "quote": "Buckley and Bale's performances are standout, even when the film overreaches."
-          }
-        ]
+        "rottentomatoes": "https://www.rottentomatoes.com/m/the_bride",
+        "reviews": []
       },
       {
         "rank": 7,
@@ -1324,19 +1311,19 @@
         "studio": "GKIDS",
         "weekend": 1688694,
         "total": 1688694,
-        "worldwide": 3000000,
+        "worldwide": 2546619,
         "weeks": 1,
         "change": null,
         "theaters": 249,
         "poster": "https://image.tmdb.org/t/p/w500/Aufa4YdZIv4AXpR9rznwVA5SEfd.jpg",
-        "rating": "G",
-        "genre": "Animation / Fantasy",
+        "rating": null,
+        "genre": "Animation / Family",
         "rt": {
-          "critics": 98,
+          "critics": 89,
           "audience": 89
         },
         "imdb": "https://www.imdb.com/title/tt0097814/",
-        "boxofficemojo": "https://www.boxofficemojo.com/title/tt0097814/",
+        "boxofficemojo": "https://www.boxofficemojo.com/release/rl3533012993/",
         "rottentomatoes": "https://www.rottentomatoes.com/m/kikis_delivery_service",
         "reviews": [
           {
@@ -1360,70 +1347,57 @@
         "studio": "Warner Bros.",
         "weekend": 1672483,
         "total": 81934560,
-        "worldwide": 205000000,
+        "worldwide": 239436912,
         "weeks": 5,
         "change": -55,
         "theaters": 1901,
-        "poster": "https://image.tmdb.org/t/p/w500/lGlJ2cTDwMacj5nuANd38UjVGNQ.jpg",
-        "rating": "R",
+        "poster": "https://image.tmdb.org/t/p/w500/3YBce6dTh1D5oCMITXk2S5QhPt.jpg",
+        "rating": null,
         "genre": "Romance / Drama",
         "rt": {
-          "critics": 71,
-          "audience": 84
+          "critics": 66,
+          "audience": 66
         },
         "imdb": "https://www.imdb.com/title/tt32897959/",
-        "boxofficemojo": "https://www.boxofficemojo.com/title/tt32897959/",
-        "rottentomatoes": "https://www.rottentomatoes.com/m/wuthering_heights_2026",
+        "boxofficemojo": "https://www.boxofficemojo.com/release/rl723550209/",
+        "rottentomatoes": "https://www.rottentomatoes.com/m/wuthering_heights",
         "reviews": [
           {
-            "source": "The Hollywood Reporter",
-            "quote": "Pulpy, provocative, and drenched in blazing color and opulent design."
+            "source": "Time Out",
+            "quote": "A valiant attempt at compressing a novel as complex as Bronte&#39;s into under 2 hours, but &#39;valiant&#39; shouldn&#3..."
           },
           {
-            "source": "The Atlantic",
-            "quote": "A heaving, rip-snortingly carnal good time."
+            "source": "Espinof",
+            "quote": "Ralph Fiennes makes a demonic Heathcliff, his startlingly blue eyes the only concession to a matinee audience."
           },
           {
-            "source": "The Guardian",
-            "quote": "An emotionally hollow, bodice-ripping misfire."
+            "source": "Radio Times",
+            "quote": "A brave stab, but it doesn&#39;t always pierce the heart."
           }
         ]
       },
       {
         "rank": 9,
-        "title": "Teenage Mutant Ninja Turtles II",
+        "title": "Teenage Mutant Ninja Turtles II: The Secret of the Ooze",
         "runtime": 88,
-        "studio": "New Line Cinema",
+        "studio": "Fandango",
         "weekend": 1476000,
         "total": 1476000,
-        "worldwide": 2000000,
+        "worldwide": 1476000,
         "weeks": 1,
         "change": null,
         "theaters": 1372,
-        "poster": "https://image.tmdb.org/t/p/w500/mRfSzTY0YJFHqJFWaGTRiDBJLMX.jpg",
+        "poster": "https://image.tmdb.org/t/p/w500/Hyvvz9Z3le1is8a0EeFJQm0aSC.jpg",
         "rating": "PG",
-        "genre": "Action / Comedy",
+        "genre": "Science Fiction / Adventure",
         "rt": {
-          "critics": 36,
-          "audience": 55
+          "critics": null,
+          "audience": null
         },
         "imdb": "https://www.imdb.com/title/tt0103060/",
-        "boxofficemojo": "https://www.boxofficemojo.com/title/tt0103060/",
+        "boxofficemojo": "https://www.boxofficemojo.com/release/rl4137254913/",
         "rottentomatoes": "https://www.rottentomatoes.com/m/teenage_mutant_ninja_turtles_ii_the_secret_of_the_ooze",
-        "reviews": [
-          {
-            "source": "The New Yorker",
-            "quote": "The artful grunge is gone -- and so's the edge. The whole movie is bright yet colorless"
-          },
-          {
-            "source": "Los Angeles Times",
-            "quote": "More dialogue-heavy and somewhat less frenetic, this sequel is somewhat more to my own taste."
-          },
-          {
-            "source": "The New Yorker",
-            "quote": "The artful grunge is gone -- and so&#39;s the edge. The whole movie is bright yet colorless"
-          }
-        ]
+        "reviews": []
       },
       {
         "rank": 10,
@@ -1432,32 +1406,32 @@
         "studio": "Amazon MGM Studios",
         "weekend": 1158808,
         "total": 35580716,
-        "worldwide": 65000000,
+        "worldwide": 72334698,
         "weeks": 5,
         "change": -43,
         "theaters": 1310,
-        "poster": "https://image.tmdb.org/t/p/w500/8L1IKxEfrFHmo2Zg0qjL9yAMnbP.jpg",
+        "poster": "https://image.tmdb.org/t/p/w500/tVvpFIoteRHNnoZMhdnwIVwJpCA.jpg",
         "rating": "R",
         "genre": "Crime / Thriller",
         "rt": {
-          "critics": 88,
-          "audience": 85
+          "critics": 59,
+          "audience": 59
         },
         "imdb": "https://www.imdb.com/title/tt32430579/",
         "boxofficemojo": "https://www.boxofficemojo.com/release/rl797671425/",
-        "rottentomatoes": "https://www.rottentomatoes.com/m/crime_101_2026",
+        "rottentomatoes": "https://www.rottentomatoes.com/m/crime_101",
         "reviews": [
           {
-            "source": "RogerEbert.com",
-            "quote": "Several cuts above the usual movie with DNA from Heat."
+            "source": "Dennis Schwartz Movie Reviews",
+            "quote": "Mildly amusing in spots."
           },
           {
-            "source": "NPR",
-            "quote": "This old-fashioned heist film pays off handsomely."
+            "source": "eFilmCritic.com",
+            "quote": "Has more highs than lows and earns some bravery points for having the stones to go 'ugly' once in a while."
           },
           {
-            "source": "Variety",
-            "quote": "Sleek action set pieces and vivid characterizations define this L.A. noir."
+            "source": "Audience",
+            "quote": "Peak movie that wonderfully weaves comedy in with down to earth characters and themes."
           }
         ]
       }
@@ -1470,72 +1444,72 @@
       {
         "rank": 1,
         "title": "Hoppers",
-        "runtime": 96,
-        "studio": "Walt Disney Studios",
+        "runtime": 105,
+        "studio": "Walt Disney Studios Motion Pictures",
         "weekend": 45349801,
         "total": 45349801,
-        "worldwide": 91000000,
+        "worldwide": 332224515,
         "weeks": 1,
         "change": null,
         "theaters": 4000,
         "poster": "https://image.tmdb.org/t/p/w500/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg",
         "rating": "PG",
-        "genre": "Animation / Adventure",
+        "genre": "Animation / Family",
         "rt": {
           "critics": 94,
-          "audience": null
+          "audience": 91
         },
         "imdb": "https://www.imdb.com/title/tt26443616/",
         "boxofficemojo": "https://www.boxofficemojo.com/release/rl284918529/",
         "rottentomatoes": "https://www.rottentomatoes.com/m/hoppers",
         "reviews": [
           {
-            "source": "Variety",
-            "quote": "Pixar-level heart with a visual style all its own — Disney Animation's best in years."
+            "source": "The Atlantic",
+            "quote": "The movie, in actuality, is refreshingly mordant about what might really happen if prey and predators were to try bandin..."
           },
           {
-            "source": "The Guardian",
-            "quote": "A joyful, inventive romp that will charm audiences of every age."
+            "source": "The Age (Australia)",
+            "quote": "[The film's] serious side is so well camouflaged by the happy absurdities flitting around on its surface that it could b..."
           },
           {
-            "source": "The Hollywood Reporter",
-            "quote": "Wildly inventive animation that proves Disney still has plenty of magic left."
+            "source": "The Nightly (AU)",
+            "quote": "Hoppers features big set-pieces of hijinks and shenanigans (Flying whales! Melting robot faces!) and it is a laugh riot ..."
           }
         ]
       },
       {
         "rank": 2,
         "title": "Scream 7",
-        "runtime": 111,
-        "studio": "Paramount Pictures",
+        "runtime": 114,
+        "studio": "Paramount Pictures International",
         "weekend": 17012337,
         "total": 93086497,
-        "worldwide": 158000000,
+        "worldwide": 209348377,
         "weeks": 2,
         "change": -73,
         "theaters": 3540,
         "poster": "https://image.tmdb.org/t/p/w500/jjyuk0edLiW8vOSnlfwWCCLpbh5.jpg",
         "rating": "R",
-        "genre": "Horror / Thriller",
+        "genre": "Horror / Mystery",
         "rt": {
-          "critics": 31,
-          "audience": 76
+          "critics": 75,
+          "audience": 69
         },
         "imdb": "https://www.imdb.com/title/tt27047903/",
         "boxofficemojo": "https://www.boxofficemojo.com/release/rl1359839233/",
         "rottentomatoes": "https://www.rottentomatoes.com/m/scream_7",
         "reviews": [
           {
-            "source": "Variety",
-            "quote": "The franchise is running on fumes — the meta-commentary has become the thing it once mocked."
+            "source": "Crooked Marquee",
+            "quote": "Scream 7 lacks any semblance of its energy on either the horror or the comedy side of things."
           },
           {
-            "source": "Bloody Disgusting",
-            "quote": "Messy but fun enough for die-hard Ghostface fans to justify the ticket price."
+            "source": "Wall Street Journal",
+            "quote": "If there’s a single witty idea in the entire two-hour slog, I missed it."
           },
           {
-            "source": "The Hollywood Reporter",
-            "quote": "Williamson's return behind the camera brings craft, if not the freshness the series desperately needs."
+            "source": "The Reveal",
+            "quote": "There just isn’t that much meta commentary you can supply for horror franchises this deep into their existence, except t..."
           }
         ]
       },
@@ -1543,59 +1517,46 @@
         "rank": 3,
         "title": "The Bride!",
         "runtime": 126,
-        "studio": "Warner Bros.",
+        "studio": "IMAXSee full company information\n        \n    /Warner Bros.",
         "weekend": 7051476,
         "total": 7051476,
-        "worldwide": 12000000,
+        "worldwide": 23444025,
         "weeks": 1,
         "change": null,
         "theaters": 3304,
         "poster": "https://image.tmdb.org/t/p/w500/lV8YHwGkYZsm6EfIqnhaSz2avKt.jpg",
         "rating": "R",
-        "genre": "Sci-Fi / Horror",
+        "genre": "Science Fiction / Horror",
         "rt": {
-          "critics": 59,
-          "audience": 74
+          "critics": null,
+          "audience": null
         },
         "imdb": "https://www.imdb.com/title/tt30851137/",
         "boxofficemojo": "https://www.boxofficemojo.com/release/rl1985511425/",
-        "rottentomatoes": "https://www.rottentomatoes.com/m/the_bride_2026",
-        "reviews": [
-          {
-            "source": "RogerEbert.com",
-            "quote": "A movie lover's movie that disarmingly worships cinema, a fantastical creative explosion."
-          },
-          {
-            "source": "Variety",
-            "quote": "It's like Joker: Folie a Deux starring a grunge version of the Munsters."
-          },
-          {
-            "source": "The Hollywood Reporter",
-            "quote": "Buckley and Bale's performances are standout, even when the film overreaches."
-          }
-        ]
+        "rottentomatoes": "https://www.rottentomatoes.com/m/the_bride",
+        "reviews": []
       },
       {
         "rank": 4,
         "title": "GOAT",
-        "runtime": 105,
-        "studio": "Sony Pictures",
+        "runtime": 100,
+        "studio": "Sony Pictures Releasing",
         "weekend": 6476972,
         "total": 83680019,
-        "worldwide": 151000000,
+        "worldwide": 185168279,
         "weeks": 4,
         "change": -46,
         "theaters": 3303,
         "poster": "https://image.tmdb.org/t/p/w500/wfuqMlaExcoYiUEvKfVpUTt1v4u.jpg",
-        "rating": "PG",
-        "genre": "Animation / Sports",
+        "rating": null,
+        "genre": "Animation / Comedy",
         "rt": {
-          "critics": 84,
-          "audience": 93
+          "critics": null,
+          "audience": null
         },
         "imdb": "https://www.imdb.com/title/tt27613895/",
         "boxofficemojo": "https://www.boxofficemojo.com/release/rl2725019649/",
-        "rottentomatoes": "https://www.rottentomatoes.com/m/goat_2026",
+        "rottentomatoes": "https://www.rottentomatoes.com/m/goat",
         "reviews": [
           {
             "source": "The Guardian",
@@ -1618,32 +1579,32 @@
         "studio": "Warner Bros.",
         "weekend": 3721102,
         "total": 78735877,
-        "worldwide": 197000000,
+        "worldwide": 239436912,
         "weeks": 4,
-        "change": -45,
+        "change": -44,
         "theaters": 2512,
-        "poster": "https://image.tmdb.org/t/p/w500/lGlJ2cTDwMacj5nuANd38UjVGNQ.jpg",
-        "rating": "R",
+        "poster": "https://image.tmdb.org/t/p/w500/3YBce6dTh1D5oCMITXk2S5QhPt.jpg",
+        "rating": null,
         "genre": "Romance / Drama",
         "rt": {
-          "critics": 71,
-          "audience": 84
+          "critics": 66,
+          "audience": 66
         },
         "imdb": "https://www.imdb.com/title/tt32897959/",
-        "boxofficemojo": "https://www.boxofficemojo.com/title/tt32897959/",
-        "rottentomatoes": "https://www.rottentomatoes.com/m/wuthering_heights_2026",
+        "boxofficemojo": "https://www.boxofficemojo.com/release/rl723550209/",
+        "rottentomatoes": "https://www.rottentomatoes.com/m/wuthering_heights",
         "reviews": [
           {
-            "source": "The Hollywood Reporter",
-            "quote": "Pulpy, provocative, and drenched in blazing color and opulent design."
+            "source": "Time Out",
+            "quote": "A valiant attempt at compressing a novel as complex as Bronte&#39;s into under 2 hours, but &#39;valiant&#39; shouldn&#3..."
           },
           {
-            "source": "The Atlantic",
-            "quote": "A heaving, rip-snortingly carnal good time."
+            "source": "Espinof",
+            "quote": "Ralph Fiennes makes a demonic Heathcliff, his startlingly blue eyes the only concession to a matinee audience."
           },
           {
-            "source": "The Guardian",
-            "quote": "An emotionally hollow, bodice-ripping misfire."
+            "source": "Radio Times",
+            "quote": "A brave stab, but it doesn&#39;t always pierce the heart."
           }
         ]
       },
@@ -1654,32 +1615,32 @@
         "studio": "Amazon MGM Studios",
         "weekend": 2034640,
         "total": 33608432,
-        "worldwide": 60000000,
+        "worldwide": 72334698,
         "weeks": 4,
         "change": -41,
         "theaters": 1910,
-        "poster": "https://image.tmdb.org/t/p/w500/8L1IKxEfrFHmo2Zg0qjL9yAMnbP.jpg",
+        "poster": "https://image.tmdb.org/t/p/w500/tVvpFIoteRHNnoZMhdnwIVwJpCA.jpg",
         "rating": "R",
         "genre": "Crime / Thriller",
         "rt": {
-          "critics": 88,
-          "audience": 85
+          "critics": 59,
+          "audience": 59
         },
         "imdb": "https://www.imdb.com/title/tt32430579/",
         "boxofficemojo": "https://www.boxofficemojo.com/release/rl797671425/",
-        "rottentomatoes": "https://www.rottentomatoes.com/m/crime_101_2026",
+        "rottentomatoes": "https://www.rottentomatoes.com/m/crime_101",
         "reviews": [
           {
-            "source": "RogerEbert.com",
-            "quote": "Several cuts above the usual movie with DNA from Heat."
+            "source": "Dennis Schwartz Movie Reviews",
+            "quote": "Mildly amusing in spots."
           },
           {
-            "source": "NPR",
-            "quote": "This old-fashioned heist film pays off handsomely."
+            "source": "eFilmCritic.com",
+            "quote": "Has more highs than lows and earns some bravery points for having the stones to go 'ugly' once in a while."
           },
           {
-            "source": "Variety",
-            "quote": "Sleek action set pieces and vivid characterizations define this L.A. noir."
+            "source": "Audience",
+            "quote": "Peak movie that wonderfully weaves comedy in with down to earth characters and themes."
           }
         ]
       },
@@ -1690,32 +1651,32 @@
         "studio": "Neon",
         "weekend": 1541329,
         "total": 10965959,
-        "worldwide": 20000000,
+        "worldwide": 23427539,
         "weeks": 3,
         "change": -56,
         "theaters": 1965,
-        "poster": "https://image.tmdb.org/t/p/w500/nor2u3bC7xn2L4PhAMi7RRg04n9.jpg",
-        "rating": "PG-13",
+        "poster": "https://image.tmdb.org/t/p/w500/2K2NH5dforjT9kLcUC0eeBpdZkC.jpg",
+        "rating": null,
         "genre": "Music / Documentary",
         "rt": {
-          "critics": 96,
-          "audience": 99
+          "critics": 98,
+          "audience": 97
         },
         "imdb": "https://www.imdb.com/title/tt35003538/",
         "boxofficemojo": "https://www.boxofficemojo.com/release/rl1535148033/",
         "rottentomatoes": "https://www.rottentomatoes.com/m/epic_elvis_presley_in_concert",
         "reviews": [
           {
-            "source": "Variety",
-            "quote": "One of the most exciting concert films you've ever seen — Elvis in the raw."
+            "source": "Observer (UK)",
+            "quote": "While it is unlikely to tell you much you don’t already know, this is a must-see for Presley fans and a boisterously enj..."
           },
           {
-            "source": "The Wrap",
-            "quote": "Combines offstage and onstage Elvis into an Elvispalooza fit for a king."
+            "source": "Boston Globe",
+            "quote": "It works well as a documentary, and I can’t deny that Presley gave 110 percent to his audience at every show."
           },
           {
-            "source": "RogerEbert.com",
-            "quote": "Baz Luhrmann blends the King's self and image beautifully."
+            "source": "AARP Movies for Grownups",
+            "quote": "It’s crammed with Elvis in performance, an experience that could have you dancing in the aisles of the IMAX theater (if ..."
           }
         ]
       },
@@ -1723,35 +1684,35 @@
         "rank": 8,
         "title": "Send Help",
         "runtime": 113,
-        "studio": "20th Century Studios",
+        "studio": "Walt Disney Studios Motion Pictures",
         "weekend": 1531569,
         "total": 62667416,
-        "worldwide": 120000000,
+        "worldwide": 94036288,
         "weeks": 6,
         "change": -46,
         "theaters": 1650,
         "poster": "https://image.tmdb.org/t/p/w500/mjkS2iAgWj3ik1DTjvI15nHZ7yl.jpg",
-        "rating": "R",
-        "genre": "Horror / Comedy",
+        "rating": null,
+        "genre": "Horror / Thriller",
         "rt": {
-          "critics": 93,
-          "audience": 87
+          "critics": 87,
+          "audience": 83
         },
         "imdb": "https://www.imdb.com/title/tt8036976/",
-        "boxofficemojo": "https://www.boxofficemojo.com/title/tt8036976/",
+        "boxofficemojo": "https://www.boxofficemojo.com/release/rl4147019777/",
         "rottentomatoes": "https://www.rottentomatoes.com/m/send_help",
         "reviews": [
           {
-            "source": "Deadline",
-            "quote": "The first movie gem of 2026, a devilish treat and welcome respite from the real world."
+            "source": "MovieFreak.com",
+            "quote": "The moral to the story? Don’t disrespect, ridicule, or look down on the Linda Liddle’s of the world."
           },
           {
-            "source": "The New York Times",
-            "quote": "Raimi at his most gleeful and twisted — darkly humorous with playfully yucky effects."
+            "source": "Pop Culture Happy Hour (NPR Podcast)",
+            "quote": "If you like to see somebody spite and punish her terrible boss, you might enjoy Send Help."
           },
           {
-            "source": "Variety",
-            "quote": "Doesn't need any assistance in thrills — a wickedly entertaining ride."
+            "source": "Observer (UK)",
+            "quote": "It’s enjoyably lurid stuff, and McAdams is a blast."
           }
         ]
       },
@@ -1762,7 +1723,7 @@
         "studio": "Lionsgate",
         "weekend": 1516465,
         "total": 16197143,
-        "worldwide": 18000000,
+        "worldwide": 18733768,
         "weeks": 3,
         "change": -52,
         "theaters": 1834,
@@ -1770,8 +1731,8 @@
         "rating": "PG",
         "genre": "Drama / Music",
         "rt": {
-          "critics": 63,
-          "audience": 99
+          "critics": 99,
+          "audience": 97
         },
         "imdb": "https://www.imdb.com/title/tt34888646/",
         "boxofficemojo": "https://www.boxofficemojo.com/release/rl221872129/",
@@ -1793,12 +1754,12 @@
       },
       {
         "rank": 10,
-        "title": "Demon Slayer: Infinity Castle",
+        "title": "Demon Slayer: Kimetsu No Yaiba Infinity Castle",
         "runtime": 156,
-        "studio": "Crunchyroll",
+        "studio": "Sony Pictures Releasing",
         "weekend": 1330169,
         "total": 135849246,
-        "worldwide": 500000000,
+        "worldwide": 738050131,
         "weeks": 26,
         "change": null,
         "theaters": 853,
@@ -1807,7 +1768,7 @@
         "genre": "Animation / Action",
         "rt": {
           "critics": 98,
-          "audience": 99
+          "audience": 97
         },
         "imdb": "https://www.imdb.com/title/tt32820897/",
         "boxofficemojo": "https://www.boxofficemojo.com/release/rl53837825/",

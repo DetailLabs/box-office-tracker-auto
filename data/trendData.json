@@ -1,418 +1,4 @@
 {
-  "The Super Mario Galaxy Movie": {
-    "domestic": [
-      130.9
-    ],
-    "worldwide": [
-      372
-    ]
-  },
-  "The Drama": {
-    "domestic": [
-      14.4
-    ],
-    "worldwide": [
-      18
-    ]
-  },
-  "A Great Awakening": {
-    "domestic": [
-      2.1
-    ],
-    "worldwide": [
-      2.5
-    ]
-  },
-  "Project Hail Mary": {
-    "domestic": [
-      80.5,
-      54.5,
-      30.7
-    ],
-    "worldwide": [
-      141,
-      120,
-      65
-    ]
-  },
-  "Hoppers": {
-    "domestic": [
-      45.3,
-      28.7,
-      17.8,
-      12.2,
-      5.8
-    ],
-    "worldwide": [
-      91,
-      52,
-      32,
-      22,
-      10
-    ]
-  },
-  "They Will Kill You": {
-    "domestic": [
-      5,
-      1.9
-    ],
-    "worldwide": [
-      9,
-      3.5
-    ]
-  },
-  "Dhurandhar: The Revenge": {
-    "domestic": [
-      10,
-      4.7,
-      1.8
-    ],
-    "worldwide": [
-      55,
-      12,
-      3
-    ]
-  },
-  "Ready or Not 2: Here I Come": {
-    "domestic": [
-      9.1,
-      4,
-      1.8
-    ],
-    "worldwide": [
-      15.5,
-      7,
-      3
-    ]
-  },
-  "Reminders of Him": {
-    "domestic": [
-      18,
-      8,
-      4.7,
-      2.2
-    ],
-    "worldwide": [
-      29,
-      12.6,
-      8,
-      4
-    ]
-  },
-  "Undertone": {
-    "domestic": [
-      9.1,
-      3,
-      1.7,
-      1.1
-    ],
-    "worldwide": [
-      10.5,
-      3.8,
-      1.8,
-      1
-    ]
-  },
-  "Forbidden Fruits": {
-    "domestic": [
-      1.2
-    ],
-    "worldwide": [
-      1.2
-    ]
-  },
-  "The Bride!": {
-    "domestic": [
-      7.1,
-      2.1
-    ],
-    "worldwide": [
-      12,
-      3.5
-    ]
-  },
-  "The Pout-Pout Fish": {
-    "domestic": [
-      1.3
-    ],
-    "worldwide": [
-      2
-    ]
-  },
-  "Kiki's Delivery Service": {
-    "domestic": [
-      1.7
-    ],
-    "worldwide": [
-      3
-    ]
-  },
-  "Teenage Mutant Ninja Turtles II": {
-    "domestic": [
-      1.5
-    ],
-    "worldwide": [
-      2
-    ]
-  },
-  "Scream 7": {
-    "domestic": [
-      63.6,
-      17,
-      8.5,
-      4.3,
-      2.6
-    ],
-    "worldwide": [
-      108,
-      28,
-      14,
-      7.5,
-      4.5
-    ]
-  },
-  "GOAT": {
-    "domestic": [
-      27.2,
-      16.9,
-      12,
-      6.5,
-      4.7,
-      3.4,
-      2.2
-    ],
-    "worldwide": [
-      49,
-      30,
-      24,
-      12,
-      8,
-      6,
-      3.5
-    ]
-  },
-  "Wuthering Heights": {
-    "domestic": [
-      32.8,
-      14,
-      6.7,
-      3.7,
-      1.7,
-      0.5
-    ],
-    "worldwide": [
-      82,
-      35,
-      16,
-      9,
-      4,
-      1.2
-    ]
-  },
-  "Crime 101": {
-    "domestic": [
-      14.3,
-      5.5,
-      3.5,
-      2,
-      1.2
-    ],
-    "worldwide": [
-      25,
-      10,
-      6,
-      3.5,
-      2
-    ]
-  },
-  "I Can Only Imagine 2": {
-    "domestic": [
-      7.8,
-      3.2,
-      1.5
-    ],
-    "worldwide": [
-      9,
-      3.6,
-      1.7
-    ]
-  },
-  "EPiC: Elvis Presley in Concert": {
-    "domestic": [
-      3.2,
-      3.5,
-      1.5
-    ],
-    "worldwide": [
-      6,
-      6.5,
-      3
-    ]
-  },
-  "How to Make a Killing": {
-    "domestic": [
-      3.5,
-      1.5
-    ],
-    "worldwide": [
-      5.5,
-      2.5
-    ]
-  },
-  "Solo Mio": {
-    "domestic": [
-      7,
-      6.4,
-      2.4
-    ],
-    "worldwide": [
-      8.5,
-      7.5,
-      3
-    ]
-  },
-  "Iron Lung": {
-    "domestic": [
-      17.8,
-      6,
-      3.3
-    ],
-    "worldwide": [
-      22,
-      7.5,
-      4
-    ]
-  },
-  "Dracula: A Love Tale": {
-    "domestic": [
-      4.4,
-      2.9
-    ],
-    "worldwide": [
-      9,
-      5
-    ]
-  },
-  "Stray Kids: The dominATE Experience": {
-    "domestic": [
-      5.7
-    ],
-    "worldwide": [
-      12
-    ]
-  },
-  "The Strangers: Chapter 3": {
-    "domestic": [
-      3.5
-    ],
-    "worldwide": [
-      6
-    ]
-  },
-  "Good Luck, Have Fun, Don't Die": {
-    "domestic": [
-      3.6
-    ],
-    "worldwide": [
-      6
-    ]
-  },
-  "Twenty One Pilots: More Than We Ever Imagined": {
-    "domestic": [
-      4.3
-    ],
-    "worldwide": [
-      8
-    ]
-  },
-  "Melania": {
-    "domestic": [
-      7.2,
-      2.4
-    ],
-    "worldwide": [
-      8,
-      2.8
-    ]
-  },
-  "Shelter": {
-    "domestic": [
-      5.5,
-      2.5
-    ],
-    "worldwide": [
-      9,
-      4
-    ]
-  },
-  "Send Help": {
-    "domestic": [
-      19.1,
-      9,
-      8.9,
-      4.4,
-      2.8,
-      1.5
-    ],
-    "worldwide": [
-      36,
-      17,
-      16,
-      8,
-      5,
-      2.8
-    ]
-  },
-  "Mercy": {
-    "domestic": [
-      10.8,
-      4.6
-    ],
-    "worldwide": [
-      17,
-      7
-    ]
-  },
-  "28 Years Later: The Bone Temple": {
-    "domestic": [
-      12.5,
-      3.4,
-      1.6
-    ],
-    "worldwide": [
-      30,
-      8,
-      3.5
-    ]
-  },
-  "Return to Silent Hill": {
-    "domestic": [
-      3.3
-    ],
-    "worldwide": [
-      8
-    ]
-  },
-  "Primate": {
-    "domestic": [
-      11.2,
-      5
-    ],
-    "worldwide": [
-      17,
-      7.5
-    ]
-  },
-  "Greenland 2: Migration": {
-    "domestic": [
-      8.4,
-      3.5
-    ],
-    "worldwide": [
-      20,
-      8
-    ]
-  },
   "Avatar: Fire and Ash": {
     "domestic": [
       41.4,
@@ -425,14 +11,14 @@
       1.8
     ],
     "worldwide": [
-      170,
-      85,
-      55,
-      25,
-      20,
-      14,
-      14,
-      7
+      1280,
+      1420,
+      1510,
+      1565,
+      1600,
+      1620,
+      1640,
+      1650
     ]
   },
   "Zootopia 2": {
@@ -448,15 +34,15 @@
       1.6
     ],
     "worldwide": [
-      48,
-      24,
-      22,
-      12,
-      14,
-      9,
-      8.5,
-      5,
-      3.5
+      900,
+      935,
+      965,
+      990,
+      1010,
+      1023,
+      1035,
+      1045,
+      1050
     ]
   },
   "The Housemaid": {
@@ -468,11 +54,11 @@
       3.5
     ],
     "worldwide": [
-      22,
-      16,
-      13,
-      6,
-      5
+      113,
+      140,
+      160,
+      172,
+      180
     ]
   },
   "Marty Supreme": {
@@ -484,11 +70,11 @@
       2.8
     ],
     "worldwide": [
-      19,
-      11,
-      8,
-      5,
-      4
+      83,
+      104,
+      119,
+      128,
+      135
     ]
   },
   "Anaconda": {
@@ -498,9 +84,9 @@
       3.3
     ],
     "worldwide": [
-      15,
-      7.5,
-      5
+      68,
+      80,
+      88
     ]
   },
   "The SpongeBob Movie: Search for SquarePants": {
@@ -510,9 +96,9 @@
       2.4
     ],
     "worldwide": [
-      20,
-      9,
-      5.5
+      138,
+      152,
+      160
     ]
   },
   "David": {
@@ -521,8 +107,8 @@
       3
     ],
     "worldwide": [
-      11,
-      4.5
+      102,
+      110
     ]
   },
   "Song Sung Blue": {
@@ -531,8 +117,8 @@
       3.1
     ],
     "worldwide": [
-      8.5,
-      4.5
+      44,
+      55
     ]
   },
   "Wicked: For Good": {
@@ -540,7 +126,7 @@
       3.3
     ],
     "worldwide": [
-      6
+      680
     ]
   },
   "Five Nights at Freddy's 2": {
@@ -548,15 +134,39 @@
       2.7
     ],
     "worldwide": [
-      4.5
+      210
     ]
   },
-  "Hamnet": {
+  "Primate": {
     "domestic": [
-      1.9
+      11.2,
+      5
     ],
     "worldwide": [
-      3
+      17,
+      30
+    ]
+  },
+  "Greenland 2: Migration": {
+    "domestic": [
+      8.4,
+      3.5
+    ],
+    "worldwide": [
+      20,
+      35
+    ]
+  },
+  "28 Years Later: The Bone Temple": {
+    "domestic": [
+      12.5,
+      3.4,
+      1.6
+    ],
+    "worldwide": [
+      30,
+      48,
+      55
     ]
   },
   "The Lord of the Rings: The Fellowship of the Ring": {
@@ -566,7 +176,33 @@
     ],
     "worldwide": [
       5,
-      3
+      8
+    ]
+  },
+  "Mercy": {
+    "domestic": [
+      10.8,
+      4.6
+    ],
+    "worldwide": [
+      17,
+      30
+    ]
+  },
+  "Return to Silent Hill": {
+    "domestic": [
+      3.3
+    ],
+    "worldwide": [
+      8
+    ]
+  },
+  "Hamnet": {
+    "domestic": [
+      1.9
+    ],
+    "worldwide": [
+      28
     ]
   },
   "The Lord of the Rings: The Return of the King": {
@@ -574,15 +210,379 @@
       1.6
     ],
     "worldwide": [
-      2.5
+      5.5
     ]
   },
-  "Demon Slayer: Infinity Castle": {
+  "Send Help": {
+    "domestic": [
+      19.1,
+      9,
+      8.9,
+      4.4,
+      2.8,
+      1.5
+    ],
+    "worldwide": [
+      36,
+      67,
+      92,
+      106,
+      115,
+      94
+    ]
+  },
+  "Iron Lung": {
+    "domestic": [
+      17.8,
+      6,
+      3.3
+    ],
+    "worldwide": [
+      22,
+      38,
+      42
+    ]
+  },
+  "Melania": {
+    "domestic": [
+      7.2,
+      2.4
+    ],
+    "worldwide": [
+      8,
+      15
+    ]
+  },
+  "Shelter": {
+    "domestic": [
+      5.5,
+      2.5
+    ],
+    "worldwide": [
+      9,
+      16
+    ]
+  },
+  "Solo Mio": {
+    "domestic": [
+      7,
+      6.4,
+      2.4
+    ],
+    "worldwide": [
+      8.5,
+      20,
+      26
+    ]
+  },
+  "Stray Kids: The dominATE Experience": {
+    "domestic": [
+      5.7
+    ],
+    "worldwide": [
+      12
+    ]
+  },
+  "Dracula: A Love Tale": {
+    "domestic": [
+      4.4,
+      2.9
+    ],
+    "worldwide": [
+      9,
+      18
+    ]
+  },
+  "The Strangers: Chapter 3": {
+    "domestic": [
+      3.5
+    ],
+    "worldwide": [
+      6
+    ]
+  },
+  "Wuthering Heights": {
+    "domestic": [
+      32.8,
+      14,
+      6.7,
+      3.7,
+      1.7,
+      0.5
+    ],
+    "worldwide": [
+      82,
+      150,
+      180,
+      239.4,
+      239.4,
+      239.4
+    ]
+  },
+  "GOAT": {
+    "domestic": [
+      27.2,
+      16.9,
+      12,
+      6.5,
+      4.7,
+      3.4,
+      2.2
+    ],
+    "worldwide": [
+      49,
+      105,
+      133,
+      185.2,
+      185.2,
+      185.2,
+      185.2
+    ]
+  },
+  "Crime 101": {
+    "domestic": [
+      14.3,
+      5.5,
+      3.5,
+      2,
+      1.2
+    ],
+    "worldwide": [
+      25,
+      44,
+      54,
+      72.3,
+      72.3
+    ]
+  },
+  "Good Luck, Have Fun, Don't Die": {
+    "domestic": [
+      3.6
+    ],
+    "worldwide": [
+      6
+    ]
+  },
+  "I Can Only Imagine 2": {
+    "domestic": [
+      7.8,
+      3.2,
+      1.5
+    ],
+    "worldwide": [
+      9,
+      15,
+      18.7
+    ]
+  },
+  "How to Make a Killing": {
+    "domestic": [
+      3.5,
+      1.5
+    ],
+    "worldwide": [
+      5.5,
+      10
+    ]
+  },
+  "EPiC: Elvis Presley in Concert": {
+    "domestic": [
+      3.2,
+      3.5,
+      1.5
+    ],
+    "worldwide": [
+      6,
+      15,
+      23.4
+    ]
+  },
+  "Scream 7": {
+    "domestic": [
+      63.6,
+      17,
+      8.5,
+      4.3,
+      2.6
+    ],
+    "worldwide": [
+      108,
+      209.3,
+      209.3,
+      209.3,
+      209.3
+    ]
+  },
+  "Twenty One Pilots: More Than We Ever Imagined": {
+    "domestic": [
+      4.3
+    ],
+    "worldwide": [
+      8
+    ]
+  },
+  "Hoppers": {
+    "domestic": [
+      45.3,
+      28.7,
+      17.8,
+      12.2,
+      5.8
+    ],
+    "worldwide": [
+      332.2,
+      332.2,
+      332.2,
+      332.2,
+      332.2
+    ]
+  },
+  "The Bride!": {
+    "domestic": [
+      7.1,
+      2.1
+    ],
+    "worldwide": [
+      23.4,
+      23.4
+    ]
+  },
+  "Demon Slayer: Kimetsu No Yaiba Infinity Castle": {
     "domestic": [
       1.3
     ],
     "worldwide": [
-      4
+      738.1
+    ]
+  },
+  "Reminders of Him": {
+    "domestic": [
+      18,
+      8,
+      4.7,
+      2.2
+    ],
+    "worldwide": [
+      79.1,
+      79.1,
+      79.1,
+      79.1
+    ]
+  },
+  "Undertone": {
+    "domestic": [
+      9.1,
+      3,
+      1.7,
+      1.1
+    ],
+    "worldwide": [
+      19.5,
+      19.5,
+      19.5,
+      19.5
+    ]
+  },
+  "Kiki's Delivery Service": {
+    "domestic": [
+      1.7
+    ],
+    "worldwide": [
+      2.5
+    ]
+  },
+  "Teenage Mutant Ninja Turtles II: The Secret of the Ooze": {
+    "domestic": [
+      1.5
+    ],
+    "worldwide": [
+      1.5
+    ]
+  },
+  "Project Hail Mary": {
+    "domestic": [
+      80.5,
+      54.1,
+      30.7
+    ],
+    "worldwide": [
+      420.6,
+      420.6,
+      420.6
+    ]
+  },
+  "Dhurandhar The Revenge": {
+    "domestic": [
+      10,
+      4.6,
+      1.8
+    ],
+    "worldwide": [
+      150.9,
+      150.9,
+      150.9
+    ]
+  },
+  "Ready or Not 2: Here I Come": {
+    "domestic": [
+      9.1,
+      4.1,
+      1.8
+    ],
+    "worldwide": [
+      31.4,
+      31.4,
+      31.4
+    ]
+  },
+  "The Pout-Pout Fish": {
+    "domestic": [
+      1.3
+    ],
+    "worldwide": [
+      4.3
+    ]
+  },
+  "They Will Kill You": {
+    "domestic": [
+      5,
+      1.9
+    ],
+    "worldwide": [
+      15.2,
+      15.2
+    ]
+  },
+  "Forbidden Fruits": {
+    "domestic": [
+      1.2
+    ],
+    "worldwide": [
+      2
+    ]
+  },
+  "The Super Mario Galaxy Movie": {
+    "domestic": [
+      130.9
+    ],
+    "worldwide": [
+      372.5
+    ]
+  },
+  "The Drama": {
+    "domestic": [
+      14.4
+    ],
+    "worldwide": [
+      26.2
+    ]
+  },
+  "A Great Awakening": {
+    "domestic": [
+      2.1
+    ],
+    "worldwide": [
+      2.1
     ]
   }
 }
