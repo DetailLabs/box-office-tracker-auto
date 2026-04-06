@@ -191,16 +191,16 @@ export default function OptionB({ darkToggle, page, setPage, weekends, selectedW
           <table className="w-full">
             <thead>
               <tr className="text-xs text-gray-400 uppercase tracking-wider border-b border-gray-100 sticky top-[49px] md:top-[57px] z-10 bg-white">
-                <th className="text-left pl-3 md:pl-6 py-3 font-medium">#</th>
+                <th className="text-center pl-3 pr-2 md:pl-6 md:pr-3 py-3 font-medium w-10 md:w-14">#</th>
                 <th className="text-left py-3 font-medium">Film</th>
-                <th className="text-left py-3 font-medium hidden md:table-cell">Studio</th>
-                <th className="text-left py-3 font-medium hidden md:table-cell">Genre</th>
-                <th className="text-center py-3 font-medium hidden md:table-cell">Critics</th>
-                <th className="text-center py-3 font-medium hidden md:table-cell">Audience</th>
-                <th className="text-right py-3 font-medium">Weekend</th>
-                <th className="text-right py-3 font-medium hidden md:table-cell">Change</th>
-                <th className="text-right py-3 pr-3 md:pr-0 font-medium">Total</th>
-                <th className="text-right pr-6 py-3 font-medium hidden md:table-cell">Weeks</th>
+                <th className="text-left py-3 px-2 font-medium hidden xl:table-cell">Studio</th>
+                <th className="text-left py-3 px-2 font-medium hidden xl:table-cell">Genre</th>
+                <th className="text-center py-3 px-2 font-medium hidden md:table-cell">Critics</th>
+                <th className="text-center py-3 px-2 font-medium hidden md:table-cell">Audience</th>
+                <th className="text-right py-3 pl-2 font-medium">Weekend</th>
+                <th className="text-right py-3 px-2 font-medium hidden md:table-cell">Change</th>
+                <th className="text-right py-3 pl-2 pr-3 md:pr-0 font-medium">Total</th>
+                <th className="text-right pr-6 py-3 pl-2 font-medium hidden md:table-cell">Weeks</th>
               </tr>
             </thead>
             <tbody>
@@ -210,7 +210,7 @@ export default function OptionB({ darkToggle, page, setPage, weekends, selectedW
                   onClick={() => setPosterMovie(movie)}
                   className="border-b border-gray-50 last:border-0 hover:bg-rose-50/30 transition-colors cursor-pointer"
                 >
-                  <td className="pl-3 pr-2 md:pl-6 md:pr-0 py-3 font-sans text-lg font-bold text-gray-300 text-center w-10 md:w-auto">
+                  <td className="pl-3 pr-2 md:pl-6 md:pr-3 py-3 font-sans text-lg font-bold text-gray-300 text-center w-10 md:w-14">
                     {movie.rank}
                   </td>
                   <td className="py-3">
@@ -223,22 +223,22 @@ export default function OptionB({ darkToggle, page, setPage, weekends, selectedW
                       <p className="font-semibold text-sm truncate max-w-[140px] sm:max-w-none">{movie.title}</p>
                     </div>
                   </td>
-                  <td className="py-3 text-xs text-gray-500 hidden md:table-cell">{movie.studio}</td>
-                  <td className="py-3 text-xs text-gray-500 hidden md:table-cell">{movie.genre}</td>
-                  <td className="py-3 text-center hidden md:table-cell">
+                  <td className="py-3 px-2 text-xs text-gray-500 hidden xl:table-cell">{movie.studio}</td>
+                  <td className="py-3 px-2 text-xs text-gray-500 hidden xl:table-cell">{movie.genre}</td>
+                  <td className="py-3 px-2 text-center hidden md:table-cell">
                     <RTBadge score={movie.rt.critics} type="critics" hideIcon />
                   </td>
-                  <td className="py-3 text-center hidden md:table-cell">
+                  <td className="py-3 px-2 text-center hidden md:table-cell">
                     {movie.rt.audience ? (
                       <RTBadge score={movie.rt.audience} type="audience" hideIcon />
                     ) : (
                       <span className="text-xs text-gray-300">—</span>
                     )}
                   </td>
-                  <td className="py-3 text-right font-semibold text-sm">
+                  <td className="py-3 pl-2 text-right font-semibold text-sm">
                     {formatMoney(movie.weekend)}
                   </td>
-                  <td className="py-3 text-right hidden md:table-cell">
+                  <td className="py-3 px-2 text-right hidden md:table-cell">
                     {movie.change !== null ? (
                       <span className={`text-sm font-medium ${movie.change >= 0 ? "text-green-600" : "text-red-500"}`}>
                         {movie.change}%
@@ -249,10 +249,10 @@ export default function OptionB({ darkToggle, page, setPage, weekends, selectedW
                       </span>
                     )}
                   </td>
-                  <td className="py-3 text-right text-sm text-gray-600 pr-3 md:pr-0">
+                  <td className="py-3 pl-2 text-right text-sm text-gray-600 pr-3 md:pr-0">
                     {formatMoney(movie.total)}
                   </td>
-                  <td className="pr-6 py-3 text-right text-sm text-gray-400 hidden md:table-cell">
+                  <td className="pr-6 py-3 pl-2 text-right text-sm text-gray-400 hidden md:table-cell">
                     {movie.weeks}
                   </td>
                 </tr>
@@ -279,7 +279,7 @@ export default function OptionB({ darkToggle, page, setPage, weekends, selectedW
                 <span className="text-sm font-bold">The Box Office</span>
               </div>
               <p className="text-xs text-gray-400 max-w-xs">
-                Weekend domestic box office estimates. Updated every Sunday.
+                Weekend domestic box office estimates. Updated every Sunday at 3 PM EST.
               </p>
             </div>
             <div className="text-left md:text-right">

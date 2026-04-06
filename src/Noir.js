@@ -158,16 +158,16 @@ export default function Noir() {
           <table className="w-full">
             <thead>
               <tr className="text-xs text-gray-600 uppercase tracking-wider" style={{ borderBottom: '1px solid #1a1a1a' }}>
-                <th className="text-left pl-6 py-3 font-medium">#</th>
+                <th className="text-center pl-3 pr-2 md:pl-6 md:pr-3 py-3 font-medium w-10 md:w-14">#</th>
                 <th className="text-left py-3 font-medium">Film</th>
-                <th className="text-left py-3 font-medium">Studio</th>
-                <th className="text-left py-3 font-medium">Genre</th>
-                <th className="text-center py-3 font-medium">Critics</th>
-                <th className="text-center py-3 font-medium">Audience</th>
-                <th className="text-right py-3 font-medium">Weekend</th>
-                <th className="text-right py-3 font-medium">Change</th>
-                <th className="text-right py-3 font-medium">Total</th>
-                <th className="text-right pr-6 py-3 font-medium">Weeks</th>
+                <th className="text-left py-3 px-2 font-medium hidden xl:table-cell">Studio</th>
+                <th className="text-left py-3 px-2 font-medium hidden xl:table-cell">Genre</th>
+                <th className="text-center py-3 px-2 font-medium hidden md:table-cell">Critics</th>
+                <th className="text-center py-3 px-2 font-medium hidden md:table-cell">Audience</th>
+                <th className="text-right py-3 pl-2 font-medium">Weekend</th>
+                <th className="text-right py-3 px-2 font-medium hidden md:table-cell">Change</th>
+                <th className="text-right py-3 pl-2 pr-3 md:pr-0 font-medium">Total</th>
+                <th className="text-right pr-6 py-3 pl-2 font-medium hidden md:table-cell">Weeks</th>
               </tr>
             </thead>
             <tbody>
@@ -180,29 +180,29 @@ export default function Noir() {
                   onMouseEnter={(e) => e.currentTarget.style.background = '#111'}
                   onMouseLeave={(e) => e.currentTarget.style.background = 'transparent'}
                 >
-                  <td className="pl-6 py-3 text-lg font-extrabold text-gray-700">{movie.rank}</td>
+                  <td className="pl-3 pr-2 md:pl-6 md:pr-3 py-3 text-lg font-extrabold text-gray-700 text-center w-10 md:w-14">{movie.rank}</td>
                   <td className="py-3">
-                    <div className="flex items-center gap-3">
-                      <img src={movie.poster} alt={movie.title} className="w-9 h-13 object-cover rounded-md" />
-                      <p className="font-bold text-sm text-white">{movie.title}</p>
+                    <div className="flex items-center gap-2 sm:gap-3">
+                      <img src={movie.poster} alt={movie.title} className="w-9 h-13 sm:w-10 sm:h-14 object-cover rounded-md" />
+                      <p className="font-bold text-sm text-white truncate max-w-[140px] sm:max-w-none">{movie.title}</p>
                     </div>
                   </td>
-                  <td className="py-3 text-xs text-gray-600">{movie.studio}</td>
-                  <td className="py-3 text-xs text-gray-600">{movie.genre}</td>
-                  <td className="py-3 text-center"><RTBadge score={movie.rt.critics} type="critics" hideIcon /></td>
-                  <td className="py-3 text-center">
+                  <td className="py-3 px-2 text-xs text-gray-600 hidden xl:table-cell">{movie.studio}</td>
+                  <td className="py-3 px-2 text-xs text-gray-600 hidden xl:table-cell">{movie.genre}</td>
+                  <td className="py-3 px-2 text-center hidden md:table-cell"><RTBadge score={movie.rt.critics} type="critics" hideIcon /></td>
+                  <td className="py-3 px-2 text-center hidden md:table-cell">
                     {movie.rt.audience ? <RTBadge score={movie.rt.audience} type="audience" hideIcon /> : <span className="text-xs text-gray-700">—</span>}
                   </td>
-                  <td className="py-3 text-right font-bold text-sm text-gray-200">{formatMoney(movie.weekend)}</td>
-                  <td className="py-3 text-right">
+                  <td className="py-3 pl-2 text-right font-bold text-sm text-gray-200">{formatMoney(movie.weekend)}</td>
+                  <td className="py-3 px-2 text-right hidden md:table-cell">
                     {movie.change !== null ? (
                       <span className={`text-sm font-medium ${movie.change >= 0 ? "text-green-500" : "text-red-400"}`}>{movie.change}%</span>
                     ) : (
                       <span className="text-xs px-2 py-0.5 rounded font-bold uppercase" style={{ background: '#dc2626', color: '#fff', letterSpacing: '0.05em' }}>NEW</span>
                     )}
                   </td>
-                  <td className="py-3 text-right text-sm text-gray-500">{formatMoney(movie.total)}</td>
-                  <td className="pr-6 py-3 text-right text-sm text-gray-600">{movie.weeks}</td>
+                  <td className="py-3 pl-2 text-right text-sm text-gray-500 pr-3 md:pr-0">{formatMoney(movie.total)}</td>
+                  <td className="pr-6 py-3 pl-2 text-right text-sm text-gray-600 hidden md:table-cell">{movie.weeks}</td>
                 </tr>
               ))}
             </tbody>
@@ -221,7 +221,7 @@ export default function Noir() {
                 <div className="rounded" style={{ width: 5, height: 18, background: '#dc2626' }} />
                 <span className="text-xs font-extrabold uppercase tracking-widest">The Box Office</span>
               </div>
-              <p className="text-xs text-gray-700 max-w-xs">Weekend domestic box office estimates. Updated every Sunday.</p>
+              <p className="text-xs text-gray-700 max-w-xs">Weekend domestic box office estimates. Updated every Sunday at 3 PM EST.</p>
             </div>
             <div className="text-right">
               <p className="text-xs font-medium text-gray-600 mb-2">Data Sources</p>

@@ -38,19 +38,28 @@ async function getScoresAndReviews(titles) {
 
       const $ = cheerio.load(html);
 
-      // Extract scores — RT uses various patterns
+      // Extract scores
       let critics = null;
       let audience = null;
 
-      // Method 1: Look for score in media-scorecard or score-board elements
-      const scoreBoardText = $('media-scorecard, score-board, [data-qa="score-panel"]').text();
-
-      // Method 2: Search for score patterns in the page HTML
+      // Method 1: Look for tomatometerScore / audienceScore in JSON
       const tomatoMatch = html.match(/"tomatometerScore"\s*:\s*(\d+)/);
       const audienceMatch = html.match(/"audienceScore"\s*:\s*(\d+)/);
-
       if (tomatoMatch) critics = parseInt(tomatoMatch[1], 10);
       if (audienceMatch) audience = parseInt(audienceMatch[1], 10);
+
+      // Method 2: Look for score in scoreboard JSON patterns
+      // RT embeds scores like "score":"75","scoreType":"VERIFIED"
+      if (critics === null) {
+        // Find the critics tomatometer score - usually first score object
+        const scoreMatches = [...html.matchAll(/"score":"(\d+)","scoreType":"[^"]*","sentiment":"[^"]*"/g)];
+        if (scoreMatches.length >= 1) {
+          critics = parseInt(scoreMatches[0][1], 10);
+        }
+        if (audience === null && scoreMatches.length >= 2) {
+          audience = parseInt(scoreMatches[1][1], 10);
+        }
+      }
 
       // Method 3: Look for score in structured data
       if (critics === null) {
@@ -83,14 +92,9 @@ async function getScoresAndReviews(titles) {
 
       console.log(`[RT] Scores for "${title}": Critics=${critics}, Audience=${audience}`);
 
-      // Fetch reviews
-      let reviews = [];
-      try {
-        await sleep(1000);
-        reviews = await scrapeReviews(slug);
-      } catch (err) {
-        console.warn(`[RT] Failed to get reviews for "${title}": ${err.message}`);
-      }
+      // Extract critic reviews from the main movie page
+      const reviews = extractCriticReviews($, html);
+      console.log(`[RT] Found ${reviews.length} critic reviews for "${title}"`);
 
       results[title] = { critics, audience, rottentomatoes: rtUrl, reviews };
 
@@ -110,69 +114,93 @@ async function getScoresAndReviews(titles) {
 }
 
 /**
- * Scrape critic reviews from an RT movie's reviews page.
- * Returns up to 3 review objects [{ source, quote }].
+ * Extract critic reviews from the main RT movie page.
+ * RT uses <review-card> web components with specific slot attributes.
  */
-async function scrapeReviews(slug) {
-  const url = `https://www.rottentomatoes.com/m/${slug}/reviews`;
-
-  const { data: html } = await axios.get(url, {
-    headers: HEADERS,
-    timeout: 15000,
-    validateStatus: (status) => status < 500,
-  });
-
-  if (!html) return [];
-
-  const $ = cheerio.load(html);
+function extractCriticReviews($, html) {
   const reviews = [];
+  const seen = new Set();
 
-  // Look for review cards — RT structures these in various ways
-  // Try common selectors for review quotes
-  $('[data-qa="review-quote"], .review-text, .the_review, review-speech-balloon').each((_, el) => {
+  function addReview(source, quote) {
+    if (reviews.length >= 3) return false;
+    quote = (quote || '').trim().replace(/\s+/g, ' ');
+    source = (source || '').trim();
+    if (!quote || quote.length < 20 || quote.length > 300) return false;
+    if (!source || source.length > 60) return false;
+    const key = quote.substring(0, 50).toLowerCase();
+    if (seen.has(key)) return false;
+    seen.add(key);
+    reviews.push({ source, quote: truncateQuote(quote) });
+    return true;
+  }
+
+  // Strategy 1: Parse <review-card> elements (RT's current structure)
+  // Critic review cards have attributes like "approved-critic" or "top-critic"
+  $('review-card').each((_, el) => {
     if (reviews.length >= 3) return;
+    const card = $(el);
+    const cardHtml = $.html(card);
 
-    const quoteEl = $(el);
-    let quote = quoteEl.text().trim();
+    // Only process critic reviews (have approved-critic or top-critic attribute)
+    if (!cardHtml.includes('approved-critic') && !cardHtml.includes('top-critic')) return;
 
-    // Clean up the quote
-    if (quote.length < 20 || quote.length > 200) return;
+    // Extract publication from rt-link[slot="publication"]
+    const publication = card.find('[slot="publication"]').text().trim();
 
-    // Find the source/publication
-    const row = quoteEl.closest('[data-qa="review-item"], .review_table_row, .review-row, article');
-    let source = row.find('[data-qa="review-publication"], .publication, .critic-name').text().trim();
-
-    if (!source) {
-      // Try finding source in sibling elements
-      source = row.find('a[href*="critic/"]').text().trim() ||
-               row.find('em, .italic').text().trim() ||
-               'Critic';
+    // Extract review text from drawer-more[slot="review"] > span[slot="content"]
+    let quote = card.find('[slot="review"] [slot="content"]').text().trim();
+    if (!quote) {
+      quote = card.find('[slot="review"]').text().trim();
     }
 
-    if (source && quote) {
-      reviews.push({ source, quote: truncateQuote(quote) });
-    }
+    addReview(publication, quote);
   });
 
-  // Fallback: try JSON-LD or embedded review data
-  if (reviews.length === 0) {
-    const scripts = $('script').toArray();
-    for (const script of scripts) {
-      const content = $(script).html() || '';
-      const reviewMatch = content.match(/"reviewBody"\s*:\s*"([^"]+)"/g);
-      if (reviewMatch) {
-        for (const match of reviewMatch.slice(0, 3)) {
-          const body = match.match(/"reviewBody"\s*:\s*"([^"]+)"/);
-          if (body) {
-            reviews.push({ source: 'Critic', quote: truncateQuote(body[1]) });
-          }
-        }
-        break;
-      }
+  // Strategy 2: Look for review-quote data-qa elements
+  if (reviews.length < 3) {
+    $('[data-qa="review-quote"], .review-text').each((_, el) => {
+      if (reviews.length >= 3) return;
+      const quote = $(el).text().trim();
+      if (quote.length < 20 || quote.length > 300) return;
+      const row = $(el).closest('[data-qa="review-item"], article, .review-row');
+      const source = row.find('[data-qa="review-publication"], .publication').text().trim() || 'Critic';
+      addReview(source, quote);
+    });
+  }
+
+  // Strategy 3: Regex-based extraction from raw HTML
+  // Match the pattern: slot="publication"...>Publication Name</rt-link> ... slot="content">Review text</span>
+  if (reviews.length < 3) {
+    // Find all critic review card blocks
+    const cardPattern = /approved-critic[\s\S]*?slot="publication"[^>]*>([\s\S]*?)<\/rt-link>[\s\S]*?slot="content">([\s\S]*?)<\/span>/g;
+    let match;
+    while ((match = cardPattern.exec(html)) !== null && reviews.length < 3) {
+      const publication = match[1].trim();
+      const quote = match[2].trim().replace(/\s+/g, ' ');
+      addReview(publication, quote);
     }
   }
 
-  console.log(`[RT] Found ${reviews.length} reviews for /m/${slug}`);
+  // Strategy 4: Broader regex for slot="content" near slot="publication"
+  if (reviews.length < 3) {
+    const pubRegex = /slot="publication"[^>]*>\s*([^<]+?)\s*<\/rt-link>/g;
+    const contentRegex = /slot="content">\s*([\s\S]*?)\s*<\/span>/g;
+
+    const pubs = [];
+    const contents = [];
+    let m;
+    while ((m = pubRegex.exec(html)) !== null) pubs.push(m[1].trim());
+    while ((m = contentRegex.exec(html)) !== null) {
+      const text = m[1].trim().replace(/\s+/g, ' ');
+      if (text.length >= 20) contents.push(text);
+    }
+
+    // Match pubs with contents (they appear in order on the page)
+    for (let i = 0; i < Math.min(pubs.length, contents.length) && reviews.length < 3; i++) {
+      addReview(pubs[i], contents[i]);
+    }
+  }
+
   return reviews;
 }
 
@@ -181,7 +209,6 @@ async function scrapeReviews(slug) {
  */
 function truncateQuote(quote) {
   if (quote.length <= 120) return quote;
-  // Cut at last sentence boundary before 120 chars
   const truncated = quote.substring(0, 120);
   const lastPeriod = truncated.lastIndexOf('.');
   const lastDash = truncated.lastIndexOf(' — ');

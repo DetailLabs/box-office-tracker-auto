@@ -58,10 +58,24 @@ function getWeekendId(date = new Date()) {
 }
 
 /**
+ * Manual slug overrides for movies where the auto-generated slug doesn't match RT.
+ */
+const RT_SLUG_OVERRIDES = {
+  'Demon Slayer: Infinity Castle': 'demon_slayer_kimetsu_no_yaiba_infinity_castle',
+  'David': 'david_2025',
+  'How to Make a Killing': 'how_to_make_a_killing_2026',
+  'Mercy': 'mercy_2026',
+  'Primate': 'primate_2025',
+  'Teenage Mutant Ninja Turtles II': 'teenage_mutant_ninja_turtles_2',
+  'The Pout-Pout Fish': 'the_pout_pout_fish',
+};
+
+/**
  * Generate a Rotten Tomatoes URL slug from a movie title.
  * e.g., "The Super Mario Galaxy Movie" -> "the_super_mario_galaxy_movie"
  */
 function generateRTSlug(title) {
+  if (RT_SLUG_OVERRIDES[title]) return RT_SLUG_OVERRIDES[title];
   return title
     .toLowerCase()
     .replace(/['']/g, '')        // Remove apostrophes
