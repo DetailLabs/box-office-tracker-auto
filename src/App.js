@@ -50,7 +50,7 @@ function LoadingScreen({ darkMode }) {
 }
 
 function App() {
-  const [darkMode, setDarkMode] = useState(() => localStorage.getItem('darkMode') === 'true');
+  const [darkMode, setDarkMode] = useState(() => localStorage.getItem('darkMode') !== 'false');
   const [page, setPage] = useState("weekend");
   const [weekends, setWeekends] = useState(null);
   const [trendData, setTrendData] = useState(null);
