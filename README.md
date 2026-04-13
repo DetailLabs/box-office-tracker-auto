@@ -7,9 +7,10 @@ A self-refreshing US weekend box office tracker that automatically scrapes data 
 Every Sunday at 3 PM Eastern, the server automatically:
 
 1. **Scrapes Box Office Mojo** for the top 10 weekend chart (ranks, grosses, theaters, change %)
-2. **Queries the TMDB API** for posters, runtime, genre, rating, and IMDB links
-3. **Scrapes Rotten Tomatoes** for critics/audience scores and review quotes
-4. **Merges everything** into a complete dataset and saves it
+2. **Scrapes Rotten Tomatoes** for critics/audience scores, review quotes, posters, runtime, genre, and rating
+3. **Merges everything** into a complete dataset and saves it
+
+Only new movies are enriched — previously fetched RT data and posters are cached and reused.
 
 The React frontend fetches this data from the API on load. No manual updates needed.
 
@@ -27,7 +28,6 @@ The React frontend fetches this data from the API on load. No manual updates nee
 ### Prerequisites
 
 - Node.js 18+
-- A free [TMDB API key](https://www.themoviedb.org/settings/api)
 
 ### Local Development
 
@@ -41,7 +41,7 @@ npm install
 
 # Create .env file
 cp .env.example .env
-# Edit .env and add your TMDB_API_KEY
+# Edit .env and add your REFRESH_SECRET (optional)
 
 # Build the React frontend
 npm run build
@@ -86,8 +86,10 @@ server/
   utils.js              ISO week calc, slug generation, helpers
   scrapers/
     bom.js              Box Office Mojo scraper
-    tmdb.js             TMDB API client
-    rottentomatoes.js   RT scores + reviews scraper
+    rottentomatoes.js   RT scores, reviews, posters, and metadata scraper
+api/
+  weekends.js           Vercel serverless function for /api/weekends
+  trends.js             Vercel serverless function for /api/trends
 data/
   weekends.json         Persisted weekend data (auto-updated)
   trendData.json        Persisted trend data (auto-updated)
@@ -99,14 +101,12 @@ src/                    React frontend
 | Source | What It Provides |
 |--------|-----------------|
 | [Box Office Mojo](https://www.boxofficemojo.com) | Weekend ranks, domestic/worldwide gross, theaters, change % |
-| [TMDB](https://www.themoviedb.org) | Posters, runtime, genres, MPAA rating, IMDB ID |
-| [Rotten Tomatoes](https://www.rottentomatoes.com) | Critics score, audience score, review quotes |
+| [Rotten Tomatoes](https://www.rottentomatoes.com) | Critics score, audience score, review quotes, posters, runtime, genres, MPAA rating |
 
 ## Environment Variables
 
 | Variable | Required | Description |
 |----------|----------|-------------|
-| `TMDB_API_KEY` | Yes | Free API key from [themoviedb.org](https://www.themoviedb.org/settings/api) |
 | `REFRESH_SECRET` | Recommended | Protects the `POST /api/refresh` endpoint |
 | `PORT` | No | Server port (default: 3001) |
 
@@ -114,6 +114,7 @@ src/                    React frontend
 
 - **Frontend:** React 19, Tailwind CSS 4, Recharts
 - **Backend:** Express, node-cron, Cheerio, Axios
+- **Deployment:** Vercel (serverless API routes) or standalone Express
 - **Data:** JSON file storage (no database required)
 
 ## License
