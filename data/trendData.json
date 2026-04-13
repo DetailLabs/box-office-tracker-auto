@@ -427,14 +427,16 @@
       28.7,
       17.8,
       12.2,
-      5.8
+      5.8,
+      4.1
     ],
     "worldwide": [
       332.2,
       332.2,
       332.2,
       332.2,
-      332.2
+      332.2,
+      354.4
     ]
   },
   "The Bride!": {
@@ -460,13 +462,15 @@
       18,
       8,
       4.7,
-      2.2
+      2.2,
+      1
     ],
     "worldwide": [
       79.1,
       79.1,
       79.1,
-      79.1
+      79.1,
+      84.2
     ]
   },
   "Undertone": {
@@ -503,12 +507,14 @@
     "domestic": [
       80.5,
       54.1,
-      30.7
+      30.7,
+      24.6
     ],
     "worldwide": [
       420.6,
       420.6,
-      420.6
+      420.6,
+      510.7
     ]
   },
   "Dhurandhar The Revenge": {
@@ -563,26 +569,64 @@
   },
   "The Super Mario Galaxy Movie": {
     "domestic": [
-      130.9
+      130.9,
+      69
     ],
     "worldwide": [
-      372.5
+      372.5,
+      628.8
     ]
   },
   "The Drama": {
     "domestic": [
-      14.4
+      14.4,
+      8.7
     ],
     "worldwide": [
-      26.2
+      26.2,
+      42.7
     ]
   },
   "A Great Awakening": {
     "domestic": [
-      2.1
+      2.1,
+      1.3
     ],
     "worldwide": [
-      2.1
+      2.1,
+      4.9
+    ]
+  },
+  "You, Me & Tuscany": {
+    "domestic": [
+      8
+    ],
+    "worldwide": [
+      9.1
+    ]
+  },
+  "BTS WORLD TOUR 'ARIRANG' in GOYANG: LIVE VIEWING": {
+    "domestic": [
+      2.4
+    ],
+    "worldwide": [
+      2.4
+    ]
+  },
+  "Exit 8": {
+    "domestic": [
+      1.4
+    ],
+    "worldwide": [
+      40.6
+    ]
+  },
+  "Faces of Death": {
+    "domestic": [
+      1.4
+    ],
+    "worldwide": [
+      1.7
     ]
   }
 }

@@ -42,48 +42,50 @@ async function getScoresAndReviews(titles) {
       let critics = null;
       let audience = null;
 
-      // Method 1: Look for tomatometerScore / audienceScore in JSON
-      const tomatoMatch = html.match(/"tomatometerScore"\s*:\s*(\d+)/);
-      const audienceMatch = html.match(/"audienceScore"\s*:\s*(\d+)/);
-      if (tomatoMatch) critics = parseInt(tomatoMatch[1], 10);
-      if (audienceMatch) audience = parseInt(audienceMatch[1], 10);
+      // Method 1: Parse the criticsScore / audienceScore JSON objects embedded in the page.
+      // These are the authoritative score objects RT embeds, e.g.:
+      //   "criticsScore":{"score":"43","sentiment":"NEGATIVE",...}
+      //   "audienceScore":{"score":"89","scoreType":"VERIFIED",...}
+      const criticsObjMatch = html.match(/"criticsScore"\s*:\s*\{[^}]*"score"\s*:\s*"(\d+)"/);
+      const audienceObjMatch = html.match(/"audienceScore"\s*:\s*\{[^}]*"score"\s*:\s*"(\d+)"/);
+      if (criticsObjMatch) critics = parseInt(criticsObjMatch[1], 10);
+      if (audienceObjMatch) audience = parseInt(audienceObjMatch[1], 10);
 
-      // Method 2: Look for score in scoreboard JSON patterns
-      // RT embeds scores like "score":"75","scoreType":"VERIFIED"
+      // Method 2: Look for tomatometerScore / audienceScore as simple numeric fields
       if (critics === null) {
-        // Find the critics tomatometer score - usually first score object
-        const scoreMatches = [...html.matchAll(/"score":"(\d+)","scoreType":"[^"]*","sentiment":"[^"]*"/g)];
-        if (scoreMatches.length >= 1) {
-          critics = parseInt(scoreMatches[0][1], 10);
-        }
-        if (audience === null && scoreMatches.length >= 2) {
-          audience = parseInt(scoreMatches[1][1], 10);
-        }
+        const tomatoMatch = html.match(/"tomatometerScore"\s*:\s*(\d+)/);
+        if (tomatoMatch) critics = parseInt(tomatoMatch[1], 10);
+      }
+      if (audience === null) {
+        const audienceSimple = html.match(/"audienceScore"\s*:\s*(\d+)/);
+        if (audienceSimple) audience = parseInt(audienceSimple[1], 10);
       }
 
-      // Method 3: Look for score in structured data
+      // Method 3: Look for score in structured data (LD+JSON)
+      // The aggregateRating.ratingValue is the Tomatometer percentage (0-100).
       if (critics === null) {
         const ldJson = $('script[type="application/ld+json"]').html();
         if (ldJson) {
           try {
             const data = JSON.parse(ldJson);
             if (data.aggregateRating?.ratingValue) {
-              critics = Math.round(data.aggregateRating.ratingValue * 10);
+              const val = parseInt(data.aggregateRating.ratingValue, 10);
+              if (val >= 0 && val <= 100) critics = val;
             }
           } catch (e) { /* ignore parse errors */ }
         }
       }
 
       // Method 4: Search for rt-text elements with scores
-      if (critics === null) {
+      if (critics === null || audience === null) {
         $('rt-text, span').each((_, el) => {
           const text = $(el).text().trim();
           const scoreMatch = text.match(/^(\d{1,3})%$/);
-          if (scoreMatch && critics === null) {
+          if (scoreMatch) {
             const slot = $(el).attr('slot');
-            if (slot === 'criticsScore') {
+            if (slot === 'criticsScore' && critics === null) {
               critics = parseInt(scoreMatch[1], 10);
-            } else if (slot === 'audienceScore') {
+            } else if (slot === 'audienceScore' && audience === null) {
               audience = parseInt(scoreMatch[1], 10);
             }
           }
@@ -114,7 +116,10 @@ async function getScoresAndReviews(titles) {
         reviews = reviews.concat(audienceReviews).slice(0, 3);
       }
 
-      results[title] = { critics, audience, rottentomatoes: rtUrl, reviews };
+      // Extract movie metadata from the RT page (replaces TMDB dependency)
+      const meta = extractMovieMetadata($, html);
+
+      results[title] = { critics, audience, rottentomatoes: rtUrl, reviews, ...meta };
 
     } catch (err) {
       console.warn(`[RT] Error for "${title}": ${err.message}`);
@@ -124,6 +129,10 @@ async function getScoresAndReviews(titles) {
         audience: null,
         rottentomatoes: `https://www.rottentomatoes.com/m/${slug}`,
         reviews: [],
+        poster: null,
+        runtime: null,
+        genre: null,
+        rating: null,
       };
     }
   }
@@ -159,10 +168,14 @@ async function fetchReviewsFromAPI(emsId, title) {
     const otherReviews = [];
 
     for (const r of data.reviews) {
-      const quote = (r.reviewQuote || '').replace(/&#\d+;/g, c => {
-        const code = parseInt(c.slice(2, -1), 10);
-        return String.fromCharCode(code);
-      }).trim().replace(/\s+/g, ' ');
+      const quote = (r.reviewQuote || '')
+        .replace(/&#\d+;/g, c => String.fromCharCode(parseInt(c.slice(2, -1), 10)))
+        .replace(/&apos;/g, "'")
+        .replace(/&quot;/g, '"')
+        .replace(/&amp;/g, '&')
+        .replace(/&lt;/g, '<')
+        .replace(/&gt;/g, '>')
+        .trim().replace(/\s+/g, ' ');
       const pub = r.publication?.name?.trim();
       if (!quote || quote.length < 20 || quote.length > 300 || !pub) continue;
 
@@ -375,6 +388,46 @@ function truncateQuote(quote) {
   const lastDash = truncated.lastIndexOf(' — ');
   const cutPoint = Math.max(lastPeriod, lastDash);
   return cutPoint > 40 ? quote.substring(0, cutPoint + 1) : truncated + '...';
+}
+
+/**
+ * Extract poster, runtime, genre, and rating from the RT page.
+ * This replaces the TMDB dependency — no API key needed.
+ */
+function extractMovieMetadata($, html) {
+  let poster = null;
+  let runtime = null;
+  let genre = null;
+  let rating = null;
+
+  // Parse LD+JSON for poster, genre, and rating
+  const ldJson = $('script[type="application/ld+json"]').html();
+  if (ldJson) {
+    try {
+      const data = JSON.parse(ldJson);
+      if (data.image) poster = data.image;
+      if (data.contentRating) rating = data.contentRating;
+      if (Array.isArray(data.genre) && data.genre.length > 0) {
+        genre = data.genre.slice(0, 2).join(' / ');
+      }
+    } catch (e) { /* ignore */ }
+  }
+
+  // Fallback poster: og:image or scorecard poster
+  if (!poster) {
+    poster = $('meta[property="og:image"]').attr('content') || null;
+  }
+  if (!poster) {
+    poster = $('media-scorecard rt-img[slot="poster-image"]').attr('src') || null;
+  }
+
+  // Runtime from page text (e.g. "1h 38m")
+  const runtimeMatch = html.match(/(\d+)h\s*(\d+)m/);
+  if (runtimeMatch) {
+    runtime = parseInt(runtimeMatch[1], 10) * 60 + parseInt(runtimeMatch[2], 10);
+  }
+
+  return { poster, runtime, genre, rating };
 }
 
 module.exports = { getScoresAndReviews };

@@ -63,6 +63,8 @@ function getWeekendId(date = new Date()) {
 const RT_SLUG_OVERRIDES = {
   'Demon Slayer: Infinity Castle': 'demon_slayer_kimetsu_no_yaiba_infinity_castle',
   'David': 'david_2025',
+  'Exit 8': 'exit_8_2025',
+  'Faces of Death': 'faces_of_death_2026',
   'How to Make a Killing': 'how_to_make_a_killing_2026',
   'Mercy': 'mercy_2026',
   'Primate': 'primate_2025',
@@ -79,6 +81,7 @@ function generateRTSlug(title) {
   return title
     .toLowerCase()
     .replace(/['']/g, '')        // Remove apostrophes
+    .replace(/&/g, ' and ')      // Replace & with "and" (RT convention)
     .replace(/[^a-z0-9\s]/g, '') // Remove special chars
     .replace(/\s+/g, '_')        // Spaces to underscores
     .replace(/_+/g, '_')         // Collapse multiple underscores
