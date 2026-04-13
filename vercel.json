@@ -1,0 +1,14 @@
+{
+  "buildCommand": "npm run build",
+  "outputDirectory": "build",
+  "functions": {
+    "api/*.js": {
+      "includeFiles": "data/**"
+    }
+  },
+  "rewrites": [
+    { "source": "/api/weekends", "destination": "/api/weekends" },
+    { "source": "/api/trends", "destination": "/api/trends" },
+    { "source": "/(.*)", "destination": "/index.html" }
+  ]
+}
