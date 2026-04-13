@@ -1,7 +1,6 @@
 const fs = require('fs');
 const path = require('path');
 const { scrapeWeekend } = require('./scrapers/bom');
-const { getMovieDetails } = require('./scrapers/tmdb');
 const { getScoresAndReviews } = require('./scrapers/rottentomatoes');
 const { getWeekendLabel, getWeekendId } = require('./utils');
 
@@ -86,34 +85,27 @@ async function refreshAll() {
   }
 
   // Figure out which movies still need enrichment. A movie counts as "already pulled"
-  // once it has RT data and a real poster; from that point forward we leave RT and
-  // TMDB alone and only update box-office numbers.
-  const needsRt = [];
-  const needsTmdb = [];
+  // once it has RT data and a real poster; from that point forward we leave the
+  // enrichment data alone and only update box-office numbers.
+  const needsEnrichment = [];
   for (const bom of bomMovies) {
     const existing = existingByTitle[bom.title];
-    if (!hasRtData(existing)) needsRt.push(bom.title);
-    if (!hasTmdbData(existing)) needsTmdb.push(bom.title);
+    if (!hasRtData(existing) || !hasTmdbData(existing)) {
+      needsEnrichment.push(bom.title);
+    }
   }
 
-  const preservedRt = bomMovies.length - needsRt.length;
-  const preservedTmdb = bomMovies.length - needsTmdb.length;
+  const preserved = bomMovies.length - needsEnrichment.length;
   console.log(
-    `[REFRESH] Preserving RT data for ${preservedRt}/${bomMovies.length} movies, ` +
-    `TMDB data for ${preservedTmdb}/${bomMovies.length} movies.`
+    `[REFRESH] Preserving enrichment data for ${preserved}/${bomMovies.length} movies.`
   );
 
-  // Step 2: Fetch TMDB only for movies that need it (new or missing poster).
-  console.log(`[REFRESH] Step 2/4: Fetching TMDB details for ${needsTmdb.length} movie(s)...`);
-  const tmdbData = needsTmdb.length > 0 ? await getMovieDetails(needsTmdb) : {};
+  // Step 2: Fetch RT scores, reviews, and metadata (poster, genre, rating, runtime)
+  // for movies that need enrichment. This single step replaces the old TMDB + RT flow.
+  console.log(`[REFRESH] Step 2/3: Fetching RT data for ${needsEnrichment.length} movie(s)...`);
+  const rtData = needsEnrichment.length > 0 ? await getScoresAndReviews(needsEnrichment) : {};
 
-  // Step 3: Fetch RT only for movies that need it (new or missing RT data).
-  // Retry once for any title that came back completely empty so that first-pull
-  // data is as complete as possible before we stop refreshing it.
-  console.log(`[REFRESH] Step 3/4: Fetching RT scores and reviews for ${needsRt.length} movie(s)...`);
-  const rtData = needsRt.length > 0 ? await getScoresAndReviews(needsRt) : {};
-
-  const failedRt = needsRt.filter(t => {
+  const failedRt = needsEnrichment.filter(t => {
     const r = rtData[t];
     return !r || (
       r.critics == null &&
@@ -133,25 +125,28 @@ async function refreshAll() {
     }
   }
 
-  // Step 4: Merge data
-  console.log('[REFRESH] Step 4/4: Merging and saving data...');
+  // Step 3: Merge data
+  console.log('[REFRESH] Step 3/3: Merging and saving data...');
   const movies = bomMovies.map(bom => {
     const existing = existingByTitle[bom.title] || null;
-    const freshTmdb = tmdbData[bom.title] || null;
     const freshRt = rtData[bom.title] || null;
+    const needsFresh = !hasRtData(existing) || !hasTmdbData(existing);
 
-    // TMDB: keep existing data if it already has a real poster; otherwise use fresh.
-    const tmdb = hasTmdbData(existing)
-      ? {
-          poster: existing.poster,
-          runtime: existing.runtime,
-          genre: existing.genre,
-          rating: existing.rating,
-          imdb: existing.imdb,
-        }
-      : (freshTmdb || {});
+    // Metadata (poster, runtime, genre, rating): keep existing if already enriched
+    const poster = needsFresh
+      ? (freshRt?.poster || (existing?.poster) || POSTER_PLACEHOLDER)
+      : (existing?.poster || POSTER_PLACEHOLDER);
+    const runtime = needsFresh
+      ? (freshRt?.runtime || existing?.runtime || null)
+      : (existing?.runtime || null);
+    const genre = needsFresh
+      ? (freshRt?.genre || existing?.genre || null)
+      : (existing?.genre || null);
+    const rating = needsFresh
+      ? (freshRt?.rating || existing?.rating || null)
+      : (existing?.rating || null);
 
-    // RT: keep existing data if this movie has already been pulled; otherwise use fresh.
+    // RT scores & reviews: keep existing if already pulled
     const rt = hasRtData(existing)
       ? {
           critics: existing.rt?.critics ?? null,
@@ -169,7 +164,7 @@ async function refreshAll() {
     return {
       rank: bom.rank,
       title: bom.title,
-      runtime: tmdb.runtime || null,
+      runtime,
       studio: bom.studio || (existing && existing.studio) || null,
       // Box-office numbers: ALWAYS refreshed from BOM for the current weekend.
       weekend: bom.weekend,
@@ -178,14 +173,14 @@ async function refreshAll() {
       weeks: bom.weeks,
       change: bom.change,
       theaters: bom.theaters,
-      poster: tmdb.poster || POSTER_PLACEHOLDER,
-      rating: tmdb.rating || null,
-      genre: tmdb.genre || null,
+      poster,
+      rating,
+      genre,
       rt: {
         critics: rt.critics,
         audience: rt.audience,
       },
-      imdb: tmdb.imdb || null,
+      imdb: existing?.imdb || null,
       boxofficemojo: bom.boxofficemojo || (existing && existing.boxofficemojo) || null,
       rottentomatoes: rt.rottentomatoes,
       reviews: rt.reviews,

@@ -1,5 +1,371 @@
 [
   {
+    "id": "2026-04-10",
+    "label": "April 10–12, 2026",
+    "movies": [
+      {
+        "rank": 1,
+        "title": "The Super Mario Galaxy Movie",
+        "runtime": 98,
+        "studio": "Universal Pictures",
+        "weekend": 69000000,
+        "total": 308117135,
+        "worldwide": 628765135,
+        "weeks": 2,
+        "change": -48,
+        "theaters": 4284,
+        "poster": "https://image.tmdb.org/t/p/w500/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg",
+        "rating": "PG",
+        "genre": "Animation / Adventure",
+        "rt": {
+          "critics": 43,
+          "audience": 89
+        },
+        "imdb": "https://www.imdb.com/title/tt28650488/",
+        "boxofficemojo": "https://www.boxofficemojo.com/release/rl3344662529/",
+        "rottentomatoes": "https://www.rottentomatoes.com/m/the_super_mario_galaxy_movie",
+        "reviews": [
+          {
+            "source": "San Francisco Chronicle",
+            "quote": "Given the first film's success and the fanbase it helped build for this sequel, you can't help but wonder why ..."
+          },
+          {
+            "source": "MovieFreak.com",
+            "quote": "I found it all deeply annoying."
+          },
+          {
+            "source": "Mashable",
+            "quote": "We all have a finite amount of time on this Earth, and I cannot think of a single reason why you should spend any of you..."
+          }
+        ]
+      },
+      {
+        "rank": 2,
+        "title": "Project Hail Mary",
+        "runtime": 157,
+        "studio": "Amazon MGM Studios",
+        "weekend": 24580000,
+        "total": 256657974,
+        "worldwide": 510657974,
+        "weeks": 4,
+        "change": -22,
+        "theaters": 3817,
+        "poster": "https://image.tmdb.org/t/p/w500/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
+        "rating": "PG-13",
+        "genre": "Science Fiction / Adventure",
+        "rt": {
+          "critics": 94,
+          "audience": 96
+        },
+        "imdb": "https://www.imdb.com/title/tt12042730/",
+        "boxofficemojo": "https://www.boxofficemojo.com/release/rl1993768961/",
+        "rottentomatoes": "https://www.rottentomatoes.com/m/project_hail_mary",
+        "reviews": [
+          {
+            "source": "The Atlantic",
+            "quote": "This film is not quite the masterpiece its grand visual scale sometimes suggests it’s shooting for."
+          },
+          {
+            "source": "TIME Magazine",
+            "quote": "This is the most ambitious picture, in terms of structure and spectacle, that the filmmaking duo of Lord and Miller have..."
+          },
+          {
+            "source": "MovieFreak.com",
+            "quote": "As far as rousing, interstellar science fiction pulp adventures are concerned, directors Phil Lord and Christopher Mille..."
+          }
+        ]
+      },
+      {
+        "rank": 3,
+        "title": "The Drama",
+        "runtime": 105,
+        "studio": "A24",
+        "weekend": 8707406,
+        "total": 30849251,
+        "worldwide": 42701137,
+        "weeks": 2,
+        "change": -39,
+        "theaters": 3151,
+        "poster": "https://image.tmdb.org/t/p/w500/ikcNOWB6Qo1ER1H1BJL6Vf0W22s.jpg",
+        "rating": "R",
+        "genre": "Romance / Comedy",
+        "rt": {
+          "critics": 77,
+          "audience": 80
+        },
+        "imdb": "https://www.imdb.com/title/tt33071426/",
+        "boxofficemojo": "https://www.boxofficemojo.com/release/rl1676574721/",
+        "rottentomatoes": "https://www.rottentomatoes.com/m/the_drama",
+        "reviews": [
+          {
+            "source": "The Atlantic",
+            "quote": "In The Drama, Pattinson embodies Charlie as the model of tame, harmless Brit charm, and the minute the actor has built h..."
+          },
+          {
+            "source": "Detroit News",
+            "quote": "\"The Drama\" is the rare star-driven film that is willing to tackle big ideas, ask big questions and cause big discomfort..."
+          },
+          {
+            "source": "The New Yorker",
+            "quote": "The Drama has a juicy, combustible premise that it struggles to justify, not because there’s anything inherently distast..."
+          }
+        ]
+      },
+      {
+        "rank": 4,
+        "title": "You, Me & Tuscany",
+        "runtime": 104,
+        "studio": "Universal Pictures",
+        "weekend": 8000000,
+        "total": 8000000,
+        "worldwide": 9108000,
+        "weeks": 1,
+        "change": null,
+        "theaters": 3151,
+        "poster": "https://resizing.flixster.com/Xyt8cDDZ3W-gKmsTBYBBnmlO1zc=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2EyZTgzZTkzLWE0N2MtNGRkNy1hNzQ5LTQwOWZjNzIyMzc5YS5qcGc=",
+        "rating": "PG-13",
+        "genre": "Romance / Comedy",
+        "rt": {
+          "critics": 67,
+          "audience": 93
+        },
+        "imdb": null,
+        "boxofficemojo": "https://www.boxofficemojo.com/release/rl599818241/",
+        "rottentomatoes": "https://www.rottentomatoes.com/m/you_me_and_tuscany",
+        "reviews": [
+          {
+            "source": "RogerEbert.com",
+            "quote": "Like Zuccotto, Tuscany’s legendary whipped cream and chocolate dessert, it may not be nutritious, but it tastes very goo..."
+          },
+          {
+            "source": "Mashable",
+            "quote": "You, Me & Tuscany will be loved by rom-com fans for its sincere appreciation of the subgenre."
+          },
+          {
+            "source": "USA Today",
+            "quote": "While “You, Me & Tuscany” doesn’t add anything significantly new or innovative to the rom-com recipe, it’s a breezy resp..."
+          }
+        ]
+      },
+      {
+        "rank": 5,
+        "title": "Hoppers",
+        "runtime": 105,
+        "studio": "Walt Disney Studios Motion Pictures",
+        "weekend": 4100000,
+        "total": 157122859,
+        "worldwide": 354422859,
+        "weeks": 6,
+        "change": -30,
+        "theaters": 2850,
+        "poster": "https://image.tmdb.org/t/p/w500/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg",
+        "rating": "PG",
+        "genre": "Animation / Family",
+        "rt": {
+          "critics": 94,
+          "audience": 93
+        },
+        "imdb": "https://www.imdb.com/title/tt26443616/",
+        "boxofficemojo": "https://www.boxofficemojo.com/release/rl284918529/",
+        "rottentomatoes": "https://www.rottentomatoes.com/m/hoppers",
+        "reviews": [
+          {
+            "source": "The Atlantic",
+            "quote": "The movie, in actuality, is refreshingly mordant about what might really happen if prey and predators were to try bandin..."
+          },
+          {
+            "source": "Los Angeles Times",
+            "quote": "Hoppers features moments of dark humor that never fail to impress, unfolds absolutely stunning action scenes, has its he..."
+          },
+          {
+            "source": "NPR",
+            "quote": "Directed by Daniel Chong from a script by Jesse Andrews, this eco-themed sci-fi farce may not be vintage or all-time-gre..."
+          }
+        ]
+      },
+      {
+        "rank": 6,
+        "title": "BTS WORLD TOUR 'ARIRANG' in GOYANG: LIVE VIEWING",
+        "runtime": 180,
+        "studio": "Trafalgar Releasing",
+        "weekend": 2440000,
+        "total": 2440000,
+        "worldwide": 2440000,
+        "weeks": 1,
+        "change": null,
+        "theaters": 1189,
+        "poster": "https://resizing.flixster.com/PHfiV6XdwQOKpzT1anvhzjtJlPk=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2Y0YmNiMDBkLTVlZjUtNGI3NS1iMWJlLTRhNTI0NGZhODhlMC5qcGc=",
+        "rating": null,
+        "genre": "Music",
+        "rt": {
+          "critics": 98,
+          "audience": 98
+        },
+        "imdb": null,
+        "boxofficemojo": "https://www.boxofficemojo.com/release/rl2895282177/",
+        "rottentomatoes": "https://www.rottentomatoes.com/m/bts_world_tour_arirang_in_goyang_live_viewing",
+        "reviews": [
+          {
+            "source": "Audience",
+            "quote": "Absolutely mind-blowing concert! Almost better than being there in person (well, ALMOST)."
+          },
+          {
+            "source": "Audience",
+            "quote": "I had so much fun singing and dancing with BTS and the other Army members!!!"
+          },
+          {
+            "source": "Audience",
+            "quote": "Loved the movie! AMC theater did struggle with broadcasting the encore at the Southport Mall location in Durham."
+          }
+        ]
+      },
+      {
+        "rank": 7,
+        "title": "Exit 8",
+        "runtime": 95,
+        "studio": "Neon",
+        "weekend": 1404500,
+        "total": 1404500,
+        "worldwide": 40609967,
+        "weeks": 1,
+        "change": null,
+        "theaters": 495,
+        "poster": "https://resizing.flixster.com/972TLZ2u_WRsFxC71B4FVXO8vLo=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2JlMTU4MjEzLWYxYmUtNDkzNC1iY2M0LTEzMmRjOWUyMTIxYS5qcGc=",
+        "rating": "PG-13",
+        "genre": "Mystery & Thriller / Horror",
+        "rt": {
+          "critics": 95,
+          "audience": 84
+        },
+        "imdb": null,
+        "boxofficemojo": "https://www.boxofficemojo.com/release/rl3147857921/",
+        "rottentomatoes": "https://www.rottentomatoes.com/m/exit_8_2025",
+        "reviews": [
+          {
+            "source": "RogerEbert.com",
+            "quote": "Still, there’s just enough for fans of the game or modern horror to chew on."
+          },
+          {
+            "source": "The Hollywood Reporter",
+            "quote": "A little more innovation could have gone a long way here, allowing us to escape the redundancy of the maze."
+          },
+          {
+            "source": "Variety",
+            "quote": "While it doesn’t pretend to some grand philosophy, the movie’s sparseness does give it some mileage as an allegory for h..."
+          }
+        ]
+      },
+      {
+        "rank": 8,
+        "title": "Faces of Death",
+        "runtime": 98,
+        "studio": "IFC Films",
+        "weekend": 1368604,
+        "total": 1368604,
+        "worldwide": 1700000,
+        "weeks": 1,
+        "change": null,
+        "theaters": 1600,
+        "poster": "https://resizing.flixster.com/apjYUcTkHrxGqc7ov_zQmVzDqzo=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzQzMTk4NGEyLTU3NzUtNDIxMi1iZTRiLTc0NDM3OGExNDcxMy5qcGc=",
+        "rating": "R",
+        "genre": "Horror",
+        "rt": {
+          "critics": 66,
+          "audience": 68
+        },
+        "imdb": null,
+        "boxofficemojo": "https://www.boxofficemojo.com/release/rl2072936449/",
+        "rottentomatoes": "https://www.rottentomatoes.com/m/faces_of_death_2026",
+        "reviews": [
+          {
+            "source": "RogerEbert.com",
+            "quote": "It becomes a heady swirl of themes and ideas: the moderator of the online age fighting back against what this dark time ..."
+          },
+          {
+            "source": "Los Angeles Times",
+            "quote": "As ever, the most terrifying element in a web-based thriller isn’t the people onscreen."
+          },
+          {
+            "source": "The Hollywood Reporter",
+            "quote": "It all sounds very impressive and very thoughtful."
+          }
+        ]
+      },
+      {
+        "rank": 9,
+        "title": "A Great Awakening",
+        "runtime": 129,
+        "studio": "Roadside Attractions",
+        "weekend": 1271486,
+        "total": 4888757,
+        "worldwide": 4888757,
+        "weeks": 2,
+        "change": -38,
+        "theaters": 1274,
+        "poster": "https://image.tmdb.org/t/p/w500/rd7BsFaHO7JaYlz3WHUvqHjgm60.jpg",
+        "rating": "PG-13",
+        "genre": "Drama / History",
+        "rt": {
+          "critics": 69,
+          "audience": 97
+        },
+        "imdb": "https://www.imdb.com/title/tt33305882/",
+        "boxofficemojo": "https://www.boxofficemojo.com/release/rl3751116801/",
+        "rottentomatoes": "https://www.rottentomatoes.com/m/a_great_awakening",
+        "reviews": [
+          {
+            "source": "New York Times",
+            "quote": "It’s an earnest account of a religious movement that still resonates."
+          },
+          {
+            "source": "Audience",
+            "quote": "The message overpowers everything else in A Great Awakening."
+          },
+          {
+            "source": "Audience",
+            "quote": "The faith-based and hagiographic historical drama \"A Great Awakening\" tells Calvinist Methodist preacher George Whitefie..."
+          }
+        ]
+      },
+      {
+        "rank": 10,
+        "title": "Reminders of Him",
+        "runtime": 114,
+        "studio": "Universal Pictures",
+        "weekend": 1000000,
+        "total": 47455140,
+        "worldwide": 84168140,
+        "weeks": 5,
+        "change": -55,
+        "theaters": 1407,
+        "poster": "https://image.tmdb.org/t/p/w500/7L6rceYgzQ0NeHD7PRDNrRoQ291.jpg",
+        "rating": "PG-13",
+        "genre": "Romance / Drama",
+        "rt": {
+          "critics": 57,
+          "audience": 88
+        },
+        "imdb": "https://www.imdb.com/title/tt33714084/",
+        "boxofficemojo": "https://www.boxofficemojo.com/release/rl2970583041/",
+        "rottentomatoes": "https://www.rottentomatoes.com/m/reminders_of_him",
+        "reviews": [
+          {
+            "source": "Boston Globe",
+            "quote": "If the movie gods are remotely merciful, this horrible adaptation of a 2022 Colleen Hoover novel will top my 10 worst li..."
+          },
+          {
+            "source": "RogerEbert.com",
+            "quote": "It is so preoccupied with tragedy that the romance becomes secondary."
+          },
+          {
+            "source": "San Francisco Chronicle",
+            "quote": "What’s beautiful and impressive about Monroe in this film is her range "
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": "2026-04-03",
     "label": "April 3–5, 2026",
     "movies": [
@@ -18,13 +384,17 @@
         "rating": "PG",
         "genre": "Animation / Adventure",
         "rt": {
-          "critics": 89,
-          "audience": 88
+          "critics": 43,
+          "audience": 89
         },
         "imdb": "https://www.imdb.com/title/tt28650488/",
         "boxofficemojo": "https://www.boxofficemojo.com/release/rl3344662529/",
         "rottentomatoes": "https://www.rottentomatoes.com/m/the_super_mario_galaxy_movie",
         "reviews": [
+          {
+            "source": "San Francisco Chronicle",
+            "quote": "Given the first film's success and the fanbase it helped build for this sequel, you can't help but wonder why ..."
+          },
           {
             "source": "MovieFreak.com",
             "quote": "I found it all deeply annoying."
@@ -32,10 +402,6 @@
           {
             "source": "Mashable",
             "quote": "We all have a finite amount of time on this Earth, and I cannot think of a single reason why you should spend any of you..."
-          },
-          {
-            "source": "Associated Press",
-            "quote": "Mario creator Shigeru Miyamoto and Illumination founder Chris Meledandri..."
           }
         ]
       },
@@ -54,8 +420,8 @@
         "rating": "PG-13",
         "genre": "Science Fiction / Adventure",
         "rt": {
-          "critics": 96,
-          "audience": 94
+          "critics": 94,
+          "audience": 96
         },
         "imdb": "https://www.imdb.com/title/tt12042730/",
         "boxofficemojo": "https://www.boxofficemojo.com/release/rl1993768961/",
@@ -90,24 +456,24 @@
         "rating": "R",
         "genre": "Romance / Comedy",
         "rt": {
-          "critics": 80,
-          "audience": 77
+          "critics": 77,
+          "audience": 80
         },
         "imdb": "https://www.imdb.com/title/tt33071426/",
         "boxofficemojo": "https://www.boxofficemojo.com/release/rl1676574721/",
         "rottentomatoes": "https://www.rottentomatoes.com/m/the_drama",
         "reviews": [
           {
-            "source": "MovieFreak.com",
-            "quote": "While there’s plenty of food for thought, by the time this cinematic meal concluded, I still felt famished."
+            "source": "The Atlantic",
+            "quote": "In The Drama, Pattinson embodies Charlie as the model of tame, harmless Brit charm, and the minute the actor has built h..."
           },
           {
-            "source": "Mashable",
-            "quote": "But much like Dream Scenario, his actors give more than his undercooked script deserves."
+            "source": "Detroit News",
+            "quote": "\"The Drama\" is the rare star-driven film that is willing to tackle big ideas, ask big questions and cause big discomfort..."
           },
           {
-            "source": "Los Angeles Times",
-            "quote": "&quot;The Drama&quot; is the movie equivalent of a half-glass of Champagne: a toast Borgli trusts us to decide whether i..."
+            "source": "The New Yorker",
+            "quote": "The Drama has a juicy, combustible premise that it struggles to justify, not because there’s anything inherently distast..."
           }
         ]
       },
@@ -127,7 +493,7 @@
         "genre": "Animation / Family",
         "rt": {
           "critics": 94,
-          "audience": 91
+          "audience": 93
         },
         "imdb": "https://www.imdb.com/title/tt26443616/",
         "boxofficemojo": "https://www.boxofficemojo.com/release/rl284918529/",
@@ -162,8 +528,8 @@
         "rating": "PG-13",
         "genre": "Romance / Drama",
         "rt": {
-          "critics": 88,
-          "audience": 82
+          "critics": 57,
+          "audience": 88
         },
         "imdb": "https://www.imdb.com/title/tt33714084/",
         "boxofficemojo": "https://www.boxofficemojo.com/release/rl2970583041/",
@@ -198,8 +564,8 @@
         "rating": "PG-13",
         "genre": "Drama / History",
         "rt": {
-          "critics": 97,
-          "audience": 95
+          "critics": 69,
+          "audience": 97
         },
         "imdb": "https://www.imdb.com/title/tt33305882/",
         "boxofficemojo": "https://www.boxofficemojo.com/release/rl3751116801/",
@@ -234,8 +600,8 @@
         "rating": null,
         "genre": "Horror / Action",
         "rt": {
-          "critics": 77,
-          "audience": 72
+          "critics": 64,
+          "audience": 77
         },
         "imdb": "https://www.imdb.com/title/tt31728330/",
         "boxofficemojo": "https://www.boxofficemojo.com/release/rl3572334593/",
@@ -270,8 +636,8 @@
         "rating": "NR",
         "genre": "Action / Crime",
         "rt": {
-          "critics": 95,
-          "audience": 93
+          "critics": 33,
+          "audience": 95
         },
         "imdb": "https://www.imdb.com/title/tt39139925/",
         "boxofficemojo": "https://www.boxofficemojo.com/release/rl3281551361/",
@@ -306,8 +672,8 @@
         "rating": null,
         "genre": "Horror / Comedy",
         "rt": {
-          "critics": 90,
-          "audience": 86
+          "critics": 73,
+          "audience": 90
         },
         "imdb": "https://www.imdb.com/title/tt33978029/",
         "boxofficemojo": "https://www.boxofficemojo.com/release/rl2429190145/",
@@ -342,8 +708,8 @@
         "rating": null,
         "genre": "Horror / Mystery",
         "rt": {
-          "critics": 50,
-          "audience": 47
+          "critics": 74,
+          "audience": 50
         },
         "imdb": "https://www.imdb.com/title/tt35892608/",
         "boxofficemojo": "https://www.boxofficemojo.com/release/rl1978564609/",
@@ -355,7 +721,7 @@
           },
           {
             "source": "Mashable",
-            "quote": "I was more impressed by Undertone&apos;s concept than I was entertained by its execution."
+            "quote": "I was more impressed by Undertone's concept than I was entertained by its execution."
           },
           {
             "source": "MovieFreak.com",
@@ -384,8 +750,8 @@
         "rating": "PG-13",
         "genre": "Science Fiction / Adventure",
         "rt": {
-          "critics": 96,
-          "audience": 94
+          "critics": 94,
+          "audience": 96
         },
         "imdb": "https://www.imdb.com/title/tt12042730/",
         "boxofficemojo": "https://www.boxofficemojo.com/release/rl1993768961/",
@@ -421,7 +787,7 @@
         "genre": "Animation / Family",
         "rt": {
           "critics": 94,
-          "audience": 91
+          "audience": 93
         },
         "imdb": "https://www.imdb.com/title/tt26443616/",
         "boxofficemojo": "https://www.boxofficemojo.com/release/rl284918529/",
@@ -456,8 +822,8 @@
         "rating": null,
         "genre": "Horror / Action",
         "rt": {
-          "critics": 77,
-          "audience": 72
+          "critics": 64,
+          "audience": 77
         },
         "imdb": "https://www.imdb.com/title/tt31728330/",
         "boxofficemojo": "https://www.boxofficemojo.com/release/rl3572334593/",
@@ -492,8 +858,8 @@
         "rating": "PG-13",
         "genre": "Romance / Drama",
         "rt": {
-          "critics": 88,
-          "audience": 82
+          "critics": 57,
+          "audience": 88
         },
         "imdb": "https://www.imdb.com/title/tt33714084/",
         "boxofficemojo": "https://www.boxofficemojo.com/release/rl2970583041/",
@@ -528,8 +894,8 @@
         "rating": "NR",
         "genre": "Action / Crime",
         "rt": {
-          "critics": 95,
-          "audience": 93
+          "critics": 33,
+          "audience": 95
         },
         "imdb": "https://www.imdb.com/title/tt39139925/",
         "boxofficemojo": "https://www.boxofficemojo.com/release/rl3281551361/",
@@ -564,8 +930,8 @@
         "rating": null,
         "genre": "Horror / Comedy",
         "rt": {
-          "critics": 90,
-          "audience": 86
+          "critics": 73,
+          "audience": 90
         },
         "imdb": "https://www.imdb.com/title/tt33978029/",
         "boxofficemojo": "https://www.boxofficemojo.com/release/rl2429190145/",
@@ -600,8 +966,8 @@
         "rating": "R",
         "genre": "Horror / Mystery",
         "rt": {
-          "critics": 75,
-          "audience": 69
+          "critics": 30,
+          "audience": 75
         },
         "imdb": "https://www.imdb.com/title/tt27047903/",
         "boxofficemojo": "https://www.boxofficemojo.com/release/rl1359839233/",
@@ -659,8 +1025,8 @@
         "rating": null,
         "genre": "Horror / Mystery",
         "rt": {
-          "critics": 50,
-          "audience": 47
+          "critics": 74,
+          "audience": 50
         },
         "imdb": "https://www.imdb.com/title/tt35892608/",
         "boxofficemojo": "https://www.boxofficemojo.com/release/rl1978564609/",
@@ -672,7 +1038,7 @@
           },
           {
             "source": "Mashable",
-            "quote": "I was more impressed by Undertone&apos;s concept than I was entertained by its execution."
+            "quote": "I was more impressed by Undertone's concept than I was entertained by its execution."
           },
           {
             "source": "MovieFreak.com",
@@ -737,8 +1103,8 @@
         "rating": "PG-13",
         "genre": "Science Fiction / Adventure",
         "rt": {
-          "critics": 96,
-          "audience": 94
+          "critics": 94,
+          "audience": 96
         },
         "imdb": "https://www.imdb.com/title/tt12042730/",
         "boxofficemojo": "https://www.boxofficemojo.com/release/rl1993768961/",
@@ -774,7 +1140,7 @@
         "genre": "Animation / Family",
         "rt": {
           "critics": 94,
-          "audience": 91
+          "audience": 93
         },
         "imdb": "https://www.imdb.com/title/tt26443616/",
         "boxofficemojo": "https://www.boxofficemojo.com/release/rl284918529/",
@@ -809,8 +1175,8 @@
         "rating": "NR",
         "genre": "Action / Crime",
         "rt": {
-          "critics": 95,
-          "audience": 93
+          "critics": 33,
+          "audience": 95
         },
         "imdb": "https://www.imdb.com/title/tt39139925/",
         "boxofficemojo": "https://www.boxofficemojo.com/release/rl3281551361/",
@@ -845,8 +1211,8 @@
         "rating": null,
         "genre": "Horror / Comedy",
         "rt": {
-          "critics": 90,
-          "audience": 86
+          "critics": 73,
+          "audience": 90
         },
         "imdb": "https://www.imdb.com/title/tt33978029/",
         "boxofficemojo": "https://www.boxofficemojo.com/release/rl2429190145/",
@@ -881,8 +1247,8 @@
         "rating": "PG-13",
         "genre": "Romance / Drama",
         "rt": {
-          "critics": 88,
-          "audience": 82
+          "critics": 57,
+          "audience": 88
         },
         "imdb": "https://www.imdb.com/title/tt33714084/",
         "boxofficemojo": "https://www.boxofficemojo.com/release/rl2970583041/",
@@ -917,8 +1283,8 @@
         "rating": "R",
         "genre": "Horror / Mystery",
         "rt": {
-          "critics": 75,
-          "audience": 69
+          "critics": 30,
+          "audience": 75
         },
         "imdb": "https://www.imdb.com/title/tt27047903/",
         "boxofficemojo": "https://www.boxofficemojo.com/release/rl1359839233/",
@@ -976,8 +1342,8 @@
         "rating": null,
         "genre": "Horror / Mystery",
         "rt": {
-          "critics": 50,
-          "audience": 47
+          "critics": 74,
+          "audience": 50
         },
         "imdb": "https://www.imdb.com/title/tt35892608/",
         "boxofficemojo": "https://www.boxofficemojo.com/release/rl1978564609/",
@@ -989,7 +1355,7 @@
           },
           {
             "source": "Mashable",
-            "quote": "I was more impressed by Undertone&apos;s concept than I was entertained by its execution."
+            "quote": "I was more impressed by Undertone's concept than I was entertained by its execution."
           },
           {
             "source": "MovieFreak.com",
@@ -1012,8 +1378,8 @@
         "rating": "PG",
         "genre": "Animation / Family",
         "rt": {
-          "critics": 75,
-          "audience": 64
+          "critics": 63,
+          "audience": 75
         },
         "imdb": "https://www.imdb.com/title/tt12824390/",
         "boxofficemojo": "https://www.boxofficemojo.com/release/rl585400321/",
@@ -1048,7 +1414,7 @@
         "rating": null,
         "genre": "Romance / Drama",
         "rt": {
-          "critics": 66,
+          "critics": 31,
           "audience": 66
         },
         "imdb": "https://www.imdb.com/title/tt32897959/",
@@ -1091,7 +1457,7 @@
         "genre": "Animation / Family",
         "rt": {
           "critics": 94,
-          "audience": 91
+          "audience": 93
         },
         "imdb": "https://www.imdb.com/title/tt26443616/",
         "boxofficemojo": "https://www.boxofficemojo.com/release/rl284918529/",
@@ -1126,8 +1492,8 @@
         "rating": "PG-13",
         "genre": "Romance / Drama",
         "rt": {
-          "critics": 88,
-          "audience": 82
+          "critics": 57,
+          "audience": 88
         },
         "imdb": "https://www.imdb.com/title/tt33714084/",
         "boxofficemojo": "https://www.boxofficemojo.com/release/rl2970583041/",
@@ -1162,8 +1528,8 @@
         "rating": null,
         "genre": "Horror / Mystery",
         "rt": {
-          "critics": 50,
-          "audience": 47
+          "critics": 74,
+          "audience": 50
         },
         "imdb": "https://www.imdb.com/title/tt35892608/",
         "boxofficemojo": "https://www.boxofficemojo.com/release/rl1978564609/",
@@ -1175,7 +1541,7 @@
           },
           {
             "source": "Mashable",
-            "quote": "I was more impressed by Undertone&apos;s concept than I was entertained by its execution."
+            "quote": "I was more impressed by Undertone's concept than I was entertained by its execution."
           },
           {
             "source": "MovieFreak.com",
@@ -1198,8 +1564,8 @@
         "rating": "R",
         "genre": "Horror / Mystery",
         "rt": {
-          "critics": 75,
-          "audience": 69
+          "critics": 30,
+          "audience": 75
         },
         "imdb": "https://www.imdb.com/title/tt27047903/",
         "boxofficemojo": "https://www.boxofficemojo.com/release/rl1359839233/",
@@ -1280,7 +1646,7 @@
         "rating": null,
         "genre": "Animation / Family",
         "rt": {
-          "critics": 89,
+          "critics": 98,
           "audience": 89
         },
         "imdb": "https://www.imdb.com/title/tt0097814/",
@@ -1316,7 +1682,7 @@
         "rating": null,
         "genre": "Romance / Drama",
         "rt": {
-          "critics": 66,
+          "critics": 31,
           "audience": 66
         },
         "imdb": "https://www.imdb.com/title/tt32897959/",
@@ -1360,16 +1726,16 @@
         "rottentomatoes": "https://www.rottentomatoes.com/m/teenage_mutant_ninja_turtles_ii_the_secret_of_the_ooze",
         "reviews": [
           {
-            "source": "Entertainment Weekly",
-            "quote": "Really, the result is first-class throughout."
+            "source": "The Atlantic",
+            "quote": "The production design impressively transforms a London soundstage into New Haven, the plot is fabulously convoluted, and..."
           },
           {
-            "source": "Arizona Republic",
-            "quote": "It may not be something we've never seen before, but it's something we can benefit from seeing again."
+            "source": "Detroit News",
+            "quote": "\"After the Hunt\" never quite detonates, but it causes its share of fallout and leaves viewers with plenty to talk about ..."
           },
           {
-            "source": "RogerEbert.com",
-            "quote": "The most purely entertaining zombie film in some time, finding echoes of George Romero's and Danny Boyle's work, but del..."
+            "source": "Boston Globe",
+            "quote": "Art is supposed to provoke. But for Pete’s sake, it doesn’t have to be this obvious and sloppy."
           }
         ]
       },
@@ -1431,7 +1797,7 @@
         "genre": "Animation / Family",
         "rt": {
           "critics": 94,
-          "audience": 91
+          "audience": 93
         },
         "imdb": "https://www.imdb.com/title/tt26443616/",
         "boxofficemojo": "https://www.boxofficemojo.com/release/rl284918529/",
@@ -1466,8 +1832,8 @@
         "rating": "R",
         "genre": "Horror / Mystery",
         "rt": {
-          "critics": 75,
-          "audience": 69
+          "critics": 30,
+          "audience": 75
         },
         "imdb": "https://www.imdb.com/title/tt27047903/",
         "boxofficemojo": "https://www.boxofficemojo.com/release/rl1359839233/",
@@ -1548,7 +1914,7 @@
         "rating": null,
         "genre": "Romance / Drama",
         "rt": {
-          "critics": 66,
+          "critics": 31,
           "audience": 66
         },
         "imdb": "https://www.imdb.com/title/tt32897959/",
@@ -1620,8 +1986,8 @@
         "rating": null,
         "genre": "Music / Documentary",
         "rt": {
-          "critics": 98,
-          "audience": 97
+          "critics": 97,
+          "audience": 98
         },
         "imdb": "https://www.imdb.com/title/tt35003538/",
         "boxofficemojo": "https://www.boxofficemojo.com/release/rl1535148033/",
@@ -1656,8 +2022,8 @@
         "rating": null,
         "genre": "Horror / Thriller",
         "rt": {
-          "critics": 87,
-          "audience": 83
+          "critics": 93,
+          "audience": 87
         },
         "imdb": "https://www.imdb.com/title/tt8036976/",
         "boxofficemojo": "https://www.boxofficemojo.com/release/rl4147019777/",
@@ -1692,8 +2058,8 @@
         "rating": "PG",
         "genre": "Drama / Music",
         "rt": {
-          "critics": 99,
-          "audience": 97
+          "critics": 63,
+          "audience": 99
         },
         "imdb": "https://www.imdb.com/title/tt34888646/",
         "boxofficemojo": "https://www.boxofficemojo.com/release/rl221872129/",
@@ -1705,7 +2071,7 @@
           },
           {
             "source": "RogerEbert.com",
-            "quote": "Those who are already fans will appreciate this chance to share Millard&apos;s and Timmons&apos; story, but those who do..."
+            "quote": "Those who are already fans will appreciate this chance to share Millard's and Timmons' story, but those who do..."
           },
           {
             "source": "The Hollywood Reporter",
@@ -1729,7 +2095,7 @@
         "genre": "Animation / Action",
         "rt": {
           "critics": 98,
-          "audience": 97
+          "audience": 98
         },
         "imdb": "https://www.imdb.com/title/tt32820897/",
         "boxofficemojo": "https://www.boxofficemojo.com/release/rl53837825/",
@@ -1737,7 +2103,7 @@
         "reviews": [
           {
             "source": "RogerEbert.com",
-            "quote": "&apos;Demon Slayer: Kimetsu no Yaiba Infinity Castle’ iis a flashy, frenetic, and thoroughly entertaining action anime t..."
+            "quote": "'Demon Slayer: Kimetsu no Yaiba Infinity Castle’ iis a flashy, frenetic, and thoroughly entertaining action anime t..."
           },
           {
             "source": "Variety",
@@ -1770,8 +2136,8 @@
         "rating": "R",
         "genre": "Horror / Thriller",
         "rt": {
-          "critics": 75,
-          "audience": 69
+          "critics": 30,
+          "audience": 75
         },
         "imdb": "https://www.imdb.com/title/tt27047903/",
         "boxofficemojo": "https://www.boxofficemojo.com/release/rl1359839233/",
@@ -1829,7 +2195,7 @@
         "rating": "R",
         "genre": "Romance / Drama",
         "rt": {
-          "critics": 66,
+          "critics": 31,
           "audience": 66
         },
         "imdb": "https://www.imdb.com/title/tt32897959/",
@@ -1866,7 +2232,7 @@
         "genre": "Music / Documentary",
         "rt": {
           "critics": 100,
-          "audience": 99
+          "audience": 100
         },
         "imdb": "https://www.imdb.com/title/tt39315536/",
         "boxofficemojo": "https://www.boxofficemojo.com/title/tt39315536/",
@@ -1874,15 +2240,15 @@
         "reviews": [
           {
             "source": "Audience",
+            "quote": "Once of the coolest concert experiences I've seen on the big screen."
+          },
+          {
+            "source": "Audience",
             "quote": "I love TOP and went to both breach and Clancy and this movie made me emotional thinking back to all the memories made at..."
           },
           {
             "source": "Audience",
             "quote": "Got that penny loafer squeak, across linoleum Big flex, complex, Napoleon I say whatever and whatever that I want Sip a ..."
-          },
-          {
-            "source": "Audience",
-            "quote": "Great concert movie with thoughtful filming and editing. We love the band, and they never disappoint!"
           }
         ]
       },
@@ -1901,8 +2267,8 @@
         "rating": "PG-13",
         "genre": "Music / Documentary",
         "rt": {
-          "critics": 98,
-          "audience": 97
+          "critics": 97,
+          "audience": 98
         },
         "imdb": "https://www.imdb.com/title/tt35003538/",
         "boxofficemojo": "https://www.boxofficemojo.com/release/rl1535148033/",
@@ -1973,8 +2339,8 @@
         "rating": "PG",
         "genre": "Drama / Music",
         "rt": {
-          "critics": 99,
-          "audience": 97
+          "critics": 63,
+          "audience": 99
         },
         "imdb": "https://www.imdb.com/title/tt34888646/",
         "boxofficemojo": "https://www.boxofficemojo.com/release/rl221872129/",
@@ -1986,7 +2352,7 @@
           },
           {
             "source": "RogerEbert.com",
-            "quote": "Those who are already fans will appreciate this chance to share Millard&apos;s and Timmons&apos; story, but those who do..."
+            "quote": "Those who are already fans will appreciate this chance to share Millard's and Timmons' story, but those who do..."
           },
           {
             "source": "The Hollywood Reporter",
@@ -2009,8 +2375,8 @@
         "rating": "R",
         "genre": "Horror / Comedy",
         "rt": {
-          "critics": 87,
-          "audience": 83
+          "critics": 93,
+          "audience": 87
         },
         "imdb": "https://www.imdb.com/title/tt8036976/",
         "boxofficemojo": "https://www.boxofficemojo.com/title/tt8036976/",
@@ -2045,8 +2411,8 @@
         "rating": "PG",
         "genre": "Animation / Adventure",
         "rt": {
-          "critics": 95,
-          "audience": 93
+          "critics": 91,
+          "audience": 95
         },
         "imdb": "https://www.imdb.com/title/tt26443597/",
         "boxofficemojo": "https://www.boxofficemojo.com/title/tt26443597/",
@@ -2081,8 +2447,8 @@
         "rating": "R",
         "genre": "Comedy / Thriller",
         "rt": {
-          "critics": 77,
-          "audience": 69
+          "critics": 43,
+          "audience": 77
         },
         "imdb": "https://www.imdb.com/title/tt4357198/",
         "boxofficemojo": "https://www.boxofficemojo.com/title/tt4357198/",
@@ -2090,7 +2456,7 @@
         "reviews": [
           {
             "source": "Newsweek",
-            "quote": "&quot;How to Make a Killing&quot; feels as though it&apos;s trying to do too much, and ultimately delivers on none of it..."
+            "quote": "&quot;How to Make a Killing&quot; feels as though it's trying to do too much, and ultimately delivers on none of it..."
           },
           {
             "source": "Detroit News",
@@ -2146,7 +2512,7 @@
         "rating": "R",
         "genre": "Romance / Drama",
         "rt": {
-          "critics": 66,
+          "critics": 31,
           "audience": 66
         },
         "imdb": "https://www.imdb.com/title/tt32897959/",
@@ -2182,8 +2548,8 @@
         "rating": "PG",
         "genre": "Drama / Music",
         "rt": {
-          "critics": 99,
-          "audience": 97
+          "critics": 63,
+          "audience": 99
         },
         "imdb": "https://www.imdb.com/title/tt34888646/",
         "boxofficemojo": "https://www.boxofficemojo.com/release/rl221872129/",
@@ -2195,7 +2561,7 @@
           },
           {
             "source": "RogerEbert.com",
-            "quote": "Those who are already fans will appreciate this chance to share Millard&apos;s and Timmons&apos; story, but those who do..."
+            "quote": "Those who are already fans will appreciate this chance to share Millard's and Timmons' story, but those who do..."
           },
           {
             "source": "The Hollywood Reporter",
@@ -2254,8 +2620,8 @@
         "rating": "R",
         "genre": "Horror / Comedy",
         "rt": {
-          "critics": 87,
-          "audience": 83
+          "critics": 93,
+          "audience": 87
         },
         "imdb": "https://www.imdb.com/title/tt8036976/",
         "boxofficemojo": "https://www.boxofficemojo.com/title/tt8036976/",
@@ -2290,8 +2656,8 @@
         "rating": "R",
         "genre": "Comedy / Thriller",
         "rt": {
-          "critics": 77,
-          "audience": 69
+          "critics": 43,
+          "audience": 77
         },
         "imdb": "https://www.imdb.com/title/tt4357198/",
         "boxofficemojo": "https://www.boxofficemojo.com/title/tt4357198/",
@@ -2299,7 +2665,7 @@
         "reviews": [
           {
             "source": "Newsweek",
-            "quote": "&quot;How to Make a Killing&quot; feels as though it&apos;s trying to do too much, and ultimately delivers on none of it..."
+            "quote": "&quot;How to Make a Killing&quot; feels as though it's trying to do too much, and ultimately delivers on none of it..."
           },
           {
             "source": "Detroit News",
@@ -2326,8 +2692,8 @@
         "rating": "PG-13",
         "genre": "Music / Documentary",
         "rt": {
-          "critics": 98,
-          "audience": 97
+          "critics": 97,
+          "audience": 98
         },
         "imdb": "https://www.imdb.com/title/tt35003538/",
         "boxofficemojo": "https://www.boxofficemojo.com/release/rl1535148033/",
@@ -2362,8 +2728,8 @@
         "rating": "PG",
         "genre": "Romance / Comedy",
         "rt": {
-          "critics": 95,
-          "audience": 92
+          "critics": 83,
+          "audience": 95
         },
         "imdb": "https://www.imdb.com/title/tt32306991/",
         "boxofficemojo": "https://www.boxofficemojo.com/title/tt32306991/",
@@ -2398,8 +2764,8 @@
         "rating": "PG",
         "genre": "Animation / Adventure",
         "rt": {
-          "critics": 95,
-          "audience": 93
+          "critics": 91,
+          "audience": 95
         },
         "imdb": "https://www.imdb.com/title/tt26443597/",
         "boxofficemojo": "https://www.boxofficemojo.com/title/tt26443597/",
@@ -2434,8 +2800,8 @@
         "rating": "PG-13",
         "genre": "Sci-Fi / Adventure",
         "rt": {
-          "critics": 90,
-          "audience": 86
+          "critics": 66,
+          "audience": 90
         },
         "imdb": "https://www.imdb.com/title/tt1757678/",
         "boxofficemojo": "https://www.boxofficemojo.com/title/tt1757678/",
@@ -2476,7 +2842,7 @@
         "rating": "R",
         "genre": "Romance / Drama",
         "rt": {
-          "critics": 66,
+          "critics": 31,
           "audience": 66
         },
         "imdb": "https://www.imdb.com/title/tt32897959/",
@@ -2571,8 +2937,8 @@
         "rating": "R",
         "genre": "Horror / Comedy",
         "rt": {
-          "critics": 87,
-          "audience": 83
+          "critics": 93,
+          "audience": 87
         },
         "imdb": "https://www.imdb.com/title/tt8036976/",
         "boxofficemojo": "https://www.boxofficemojo.com/title/tt8036976/",
@@ -2607,8 +2973,8 @@
         "rating": "PG",
         "genre": "Romance / Comedy",
         "rt": {
-          "critics": 95,
-          "audience": 92
+          "critics": 83,
+          "audience": 95
         },
         "imdb": "https://www.imdb.com/title/tt32306991/",
         "boxofficemojo": "https://www.boxofficemojo.com/title/tt32306991/",
@@ -2643,8 +3009,8 @@
         "rating": "PG",
         "genre": "Animation / Adventure",
         "rt": {
-          "critics": 95,
-          "audience": 93
+          "critics": 91,
+          "audience": 95
         },
         "imdb": "https://www.imdb.com/title/tt26443597/",
         "boxofficemojo": "https://www.boxofficemojo.com/title/tt26443597/",
@@ -2679,8 +3045,8 @@
         "rating": "R",
         "genre": "Sci-Fi / Comedy",
         "rt": {
-          "critics": 85,
-          "audience": 81
+          "critics": 83,
+          "audience": 85
         },
         "imdb": "https://www.imdb.com/title/tt1341338/",
         "boxofficemojo": "https://www.boxofficemojo.com/title/tt1341338/",
@@ -2715,8 +3081,8 @@
         "rating": "PG-13",
         "genre": "Sci-Fi / Adventure",
         "rt": {
-          "critics": 90,
-          "audience": 86
+          "critics": 66,
+          "audience": 90
         },
         "imdb": "https://www.imdb.com/title/tt1757678/",
         "boxofficemojo": "https://www.boxofficemojo.com/title/tt1757678/",
@@ -2751,8 +3117,8 @@
         "rating": "R",
         "genre": "Horror / Sci-Fi",
         "rt": {
-          "critics": 87,
-          "audience": 90
+          "critics": 61,
+          "audience": 87
         },
         "imdb": "https://www.imdb.com/title/tt27564844/",
         "boxofficemojo": "https://www.boxofficemojo.com/title/tt27564844/",
@@ -2787,8 +3153,8 @@
         "rating": "R",
         "genre": "Horror / Romance",
         "rt": {
-          "critics": 82,
-          "audience": 77
+          "critics": 53,
+          "audience": 82
         },
         "imdb": "https://www.imdb.com/title/tt31434030/",
         "boxofficemojo": "https://www.boxofficemojo.com/title/tt31434030/",
@@ -2829,8 +3195,8 @@
         "rating": "R",
         "genre": "Horror / Comedy",
         "rt": {
-          "critics": 87,
-          "audience": 83
+          "critics": 93,
+          "audience": 87
         },
         "imdb": "https://www.imdb.com/title/tt8036976/",
         "boxofficemojo": "https://www.boxofficemojo.com/title/tt8036976/",
@@ -2865,8 +3231,8 @@
         "rating": "PG",
         "genre": "Romance / Comedy",
         "rt": {
-          "critics": 95,
-          "audience": 92
+          "critics": 83,
+          "audience": 95
         },
         "imdb": "https://www.imdb.com/title/tt32306991/",
         "boxofficemojo": "https://www.boxofficemojo.com/title/tt32306991/",
@@ -2901,8 +3267,8 @@
         "rating": "R",
         "genre": "Horror / Sci-Fi",
         "rt": {
-          "critics": 87,
-          "audience": 90
+          "critics": 61,
+          "audience": 87
         },
         "imdb": "https://www.imdb.com/title/tt27564844/",
         "boxofficemojo": "https://www.boxofficemojo.com/title/tt27564844/",
@@ -2938,7 +3304,7 @@
         "genre": "Music / Documentary",
         "rt": {
           "critics": 100,
-          "audience": 99
+          "audience": 100
         },
         "imdb": "https://www.imdb.com/title/tt39216314/",
         "boxofficemojo": "https://www.boxofficemojo.com/title/tt39216314/",
@@ -2949,7 +3315,7 @@
             "quote": "Stray Kids: The DominATE Experience is an entertaining film that will have fans dancing on their feet and give those who..."
           },
           {
-            "source": "But Why Tho? A Geek Community",
+            "source": "But Why Tho?",
             "quote": "Watching Stray Kids The dominATE Experience shows how far they’ve come and how much more they have to give to the world."
           },
           {
@@ -2973,8 +3339,8 @@
         "rating": "R",
         "genre": "Horror / Romance",
         "rt": {
-          "critics": 82,
-          "audience": 77
+          "critics": 53,
+          "audience": 82
         },
         "imdb": "https://www.imdb.com/title/tt31434030/",
         "boxofficemojo": "https://www.boxofficemojo.com/title/tt31434030/",
@@ -3009,8 +3375,8 @@
         "rating": "PG",
         "genre": "Animation / Adventure",
         "rt": {
-          "critics": 95,
-          "audience": 93
+          "critics": 91,
+          "audience": 95
         },
         "imdb": "https://www.imdb.com/title/tt26443597/",
         "boxofficemojo": "https://www.boxofficemojo.com/title/tt26443597/",
@@ -3045,8 +3411,8 @@
         "rating": "R",
         "genre": "Horror / Thriller",
         "rt": {
-          "critics": 49,
-          "audience": 40
+          "critics": 17,
+          "audience": 49
         },
         "imdb": "https://www.imdb.com/title/tt28682323/",
         "boxofficemojo": "https://www.boxofficemojo.com/title/tt28682323/",
@@ -3081,8 +3447,8 @@
         "rating": "PG-13",
         "genre": "Sci-Fi / Adventure",
         "rt": {
-          "critics": 90,
-          "audience": 86
+          "critics": 66,
+          "audience": 90
         },
         "imdb": "https://www.imdb.com/title/tt1757678/",
         "boxofficemojo": "https://www.boxofficemojo.com/title/tt1757678/",
@@ -3117,7 +3483,7 @@
         "rating": "R",
         "genre": "Action / Thriller",
         "rt": {
-          "critics": 45,
+          "critics": 4,
           "audience": 45
         },
         "imdb": "https://www.imdb.com/title/tt32357218/",
@@ -3153,8 +3519,8 @@
         "rating": "PG",
         "genre": "Documentary",
         "rt": {
-          "critics": 98,
-          "audience": 33
+          "critics": 10,
+          "audience": 98
         },
         "imdb": "https://www.imdb.com/title/tt35291758/",
         "boxofficemojo": "https://www.boxofficemojo.com/title/tt35291758/",
@@ -3195,8 +3561,8 @@
         "rating": "R",
         "genre": "Horror / Comedy",
         "rt": {
-          "critics": 87,
-          "audience": 83
+          "critics": 93,
+          "audience": 87
         },
         "imdb": "https://www.imdb.com/title/tt8036976/",
         "boxofficemojo": "https://www.boxofficemojo.com/title/tt8036976/",
@@ -3231,8 +3597,8 @@
         "rating": "R",
         "genre": "Horror / Sci-Fi",
         "rt": {
-          "critics": 87,
-          "audience": 90
+          "critics": 61,
+          "audience": 87
         },
         "imdb": "https://www.imdb.com/title/tt27564844/",
         "boxofficemojo": "https://www.boxofficemojo.com/title/tt27564844/",
@@ -3267,8 +3633,8 @@
         "rating": "PG",
         "genre": "Documentary",
         "rt": {
-          "critics": 98,
-          "audience": 33
+          "critics": 10,
+          "audience": 98
         },
         "imdb": "https://www.imdb.com/title/tt35291758/",
         "boxofficemojo": "https://www.boxofficemojo.com/title/tt35291758/",
@@ -3303,8 +3669,8 @@
         "rating": "PG",
         "genre": "Animation / Adventure",
         "rt": {
-          "critics": 95,
-          "audience": 93
+          "critics": 91,
+          "audience": 95
         },
         "imdb": "https://www.imdb.com/title/tt26443597/",
         "boxofficemojo": "https://www.boxofficemojo.com/title/tt26443597/",
@@ -3339,8 +3705,8 @@
         "rating": "PG-13",
         "genre": "Sci-Fi / Adventure",
         "rt": {
-          "critics": 90,
-          "audience": 86
+          "critics": 66,
+          "audience": 90
         },
         "imdb": "https://www.imdb.com/title/tt1757678/",
         "boxofficemojo": "https://www.boxofficemojo.com/title/tt1757678/",
@@ -3375,7 +3741,7 @@
         "rating": "R",
         "genre": "Action / Thriller",
         "rt": {
-          "critics": 45,
+          "critics": 4,
           "audience": 45
         },
         "imdb": "https://www.imdb.com/title/tt32357218/",
@@ -3411,8 +3777,8 @@
         "rating": "PG-13",
         "genre": "Sci-Fi / Thriller",
         "rt": {
-          "critics": 82,
-          "audience": 73
+          "critics": 25,
+          "audience": 82
         },
         "imdb": "https://www.imdb.com/title/tt31050594/",
         "boxofficemojo": "https://www.boxofficemojo.com/title/tt31050594/",
@@ -3447,7 +3813,7 @@
         "rating": "R",
         "genre": "Mystery / Thriller",
         "rt": {
-          "critics": 54,
+          "critics": 69,
           "audience": 54
         },
         "imdb": "https://www.imdb.com/title/tt27543632/",
@@ -3483,8 +3849,8 @@
         "rating": "R",
         "genre": "Drama / Sport",
         "rt": {
-          "critics": 82,
-          "audience": 72
+          "critics": 93,
+          "audience": 82
         },
         "imdb": "https://www.imdb.com/title/tt32916440/",
         "boxofficemojo": "https://www.boxofficemojo.com/title/tt32916440/",
@@ -3519,8 +3885,8 @@
         "rating": "R",
         "genre": "Horror / Sci-Fi",
         "rt": {
-          "critics": 88,
-          "audience": 84
+          "critics": 92,
+          "audience": 88
         },
         "imdb": "https://www.imdb.com/title/tt32141377/",
         "boxofficemojo": "https://www.boxofficemojo.com/title/tt32141377/",
@@ -3561,8 +3927,8 @@
         "rating": "PG-13",
         "genre": "Sci-Fi / Thriller",
         "rt": {
-          "critics": 82,
-          "audience": 73
+          "critics": 25,
+          "audience": 82
         },
         "imdb": "https://www.imdb.com/title/tt31050594/",
         "boxofficemojo": "https://www.boxofficemojo.com/title/tt31050594/",
@@ -3597,8 +3963,8 @@
         "rating": "PG-13",
         "genre": "Sci-Fi / Adventure",
         "rt": {
-          "critics": 90,
-          "audience": 86
+          "critics": 66,
+          "audience": 90
         },
         "imdb": "https://www.imdb.com/title/tt1757678/",
         "boxofficemojo": "https://www.boxofficemojo.com/title/tt1757678/",
@@ -3633,8 +3999,8 @@
         "rating": "PG",
         "genre": "Animation / Adventure",
         "rt": {
-          "critics": 95,
-          "audience": 93
+          "critics": 91,
+          "audience": 95
         },
         "imdb": "https://www.imdb.com/title/tt26443597/",
         "boxofficemojo": "https://www.boxofficemojo.com/title/tt26443597/",
@@ -3669,7 +4035,7 @@
         "rating": "R",
         "genre": "Mystery / Thriller",
         "rt": {
-          "critics": 54,
+          "critics": 69,
           "audience": 54
         },
         "imdb": "https://www.imdb.com/title/tt27543632/",
@@ -3705,8 +4071,8 @@
         "rating": "R",
         "genre": "Drama / Sport",
         "rt": {
-          "critics": 82,
-          "audience": 72
+          "critics": 93,
+          "audience": 82
         },
         "imdb": "https://www.imdb.com/title/tt32916440/",
         "boxofficemojo": "https://www.boxofficemojo.com/title/tt32916440/",
@@ -3741,8 +4107,8 @@
         "rating": "R",
         "genre": "Horror / Sci-Fi",
         "rt": {
-          "critics": 88,
-          "audience": 84
+          "critics": 92,
+          "audience": 88
         },
         "imdb": "https://www.imdb.com/title/tt32141377/",
         "boxofficemojo": "https://www.boxofficemojo.com/title/tt32141377/",
@@ -3777,8 +4143,8 @@
         "rating": "R",
         "genre": "Horror / Mystery",
         "rt": {
-          "critics": 28,
-          "audience": 36
+          "critics": 18,
+          "audience": 28
         },
         "imdb": "https://www.imdb.com/title/tt22868010/",
         "boxofficemojo": "https://www.boxofficemojo.com/title/tt22868010/",
@@ -3813,7 +4179,7 @@
         "rating": "PG-13",
         "genre": "Fantasy / Adventure",
         "rt": {
-          "critics": 95,
+          "critics": 91,
           "audience": 95
         },
         "imdb": "https://www.imdb.com/title/tt0120737/",
@@ -3849,8 +4215,8 @@
         "rating": "PG-13",
         "genre": "Drama / Romance",
         "rt": {
-          "critics": 93,
-          "audience": 87
+          "critics": 87,
+          "audience": 93
         },
         "imdb": "https://www.imdb.com/title/tt14905854/",
         "boxofficemojo": "https://www.boxofficemojo.com/title/tt14905854/",
@@ -3885,7 +4251,7 @@
         "rating": "PG-13",
         "genre": "Fantasy / Adventure",
         "rt": {
-          "critics": 86,
+          "critics": 94,
           "audience": 86
         },
         "imdb": "https://www.imdb.com/title/tt0167260/",
@@ -3927,8 +4293,8 @@
         "rating": "PG-13",
         "genre": "Sci-Fi / Adventure",
         "rt": {
-          "critics": 90,
-          "audience": 86
+          "critics": 66,
+          "audience": 90
         },
         "imdb": "https://www.imdb.com/title/tt1757678/",
         "boxofficemojo": "https://www.boxofficemojo.com/title/tt1757678/",
@@ -3963,8 +4329,8 @@
         "rating": "R",
         "genre": "Horror / Sci-Fi",
         "rt": {
-          "critics": 88,
-          "audience": 84
+          "critics": 92,
+          "audience": 88
         },
         "imdb": "https://www.imdb.com/title/tt32141377/",
         "boxofficemojo": "https://www.boxofficemojo.com/title/tt32141377/",
@@ -3999,8 +4365,8 @@
         "rating": "PG",
         "genre": "Animation / Adventure",
         "rt": {
-          "critics": 95,
-          "audience": 93
+          "critics": 91,
+          "audience": 95
         },
         "imdb": "https://www.imdb.com/title/tt26443597/",
         "boxofficemojo": "https://www.boxofficemojo.com/title/tt26443597/",
@@ -4035,7 +4401,7 @@
         "rating": "R",
         "genre": "Mystery / Thriller",
         "rt": {
-          "critics": 54,
+          "critics": 69,
           "audience": 54
         },
         "imdb": "https://www.imdb.com/title/tt27543632/",
@@ -4071,8 +4437,8 @@
         "rating": "R",
         "genre": "Drama / Sport",
         "rt": {
-          "critics": 82,
-          "audience": 72
+          "critics": 93,
+          "audience": 82
         },
         "imdb": "https://www.imdb.com/title/tt32916440/",
         "boxofficemojo": "https://www.boxofficemojo.com/title/tt32916440/",
@@ -4107,8 +4473,8 @@
         "rating": "R",
         "genre": "Horror / Thriller",
         "rt": {
-          "critics": 71,
-          "audience": 63
+          "critics": 78,
+          "audience": 71
         },
         "imdb": "https://www.imdb.com/title/tt33028778/",
         "boxofficemojo": "https://www.boxofficemojo.com/title/tt33028778/",
@@ -4143,7 +4509,7 @@
         "rating": "PG-13",
         "genre": "Fantasy / Adventure",
         "rt": {
-          "critics": 95,
+          "critics": 91,
           "audience": 95
         },
         "imdb": "https://www.imdb.com/title/tt0120737/",
@@ -4179,8 +4545,8 @@
         "rating": "PG-13",
         "genre": "Action / Thriller",
         "rt": {
-          "critics": 66,
-          "audience": 54
+          "critics": 48,
+          "audience": 66
         },
         "imdb": "https://www.imdb.com/title/tt14850054/",
         "boxofficemojo": "https://www.boxofficemojo.com/title/tt14850054/",
@@ -4215,7 +4581,7 @@
         "rating": "PG-13",
         "genre": "Adventure / Comedy",
         "rt": {
-          "critics": 24,
+          "critics": 41,
           "audience": 24
         },
         "imdb": "https://www.imdb.com/title/tt33244668/",
@@ -4251,8 +4617,8 @@
         "rating": "PG",
         "genre": "Animation / Comedy",
         "rt": {
-          "critics": 68,
-          "audience": 62
+          "critics": 79,
+          "audience": 68
         },
         "imdb": "https://www.imdb.com/title/tt23572848/",
         "boxofficemojo": "https://www.boxofficemojo.com/title/tt23572848/",
@@ -4293,8 +4659,8 @@
         "rating": "PG-13",
         "genre": "Sci-Fi / Adventure",
         "rt": {
-          "critics": 90,
-          "audience": 86
+          "critics": 66,
+          "audience": 90
         },
         "imdb": "https://www.imdb.com/title/tt1757678/",
         "boxofficemojo": "https://www.boxofficemojo.com/title/tt1757678/",
@@ -4329,8 +4695,8 @@
         "rating": "R",
         "genre": "Horror / Thriller",
         "rt": {
-          "critics": 71,
-          "audience": 63
+          "critics": 78,
+          "audience": 71
         },
         "imdb": "https://www.imdb.com/title/tt33028778/",
         "boxofficemojo": "https://www.boxofficemojo.com/title/tt33028778/",
@@ -4365,7 +4731,7 @@
         "rating": "R",
         "genre": "Mystery / Thriller",
         "rt": {
-          "critics": 54,
+          "critics": 69,
           "audience": 54
         },
         "imdb": "https://www.imdb.com/title/tt27543632/",
@@ -4401,8 +4767,8 @@
         "rating": "PG",
         "genre": "Animation / Adventure",
         "rt": {
-          "critics": 95,
-          "audience": 93
+          "critics": 91,
+          "audience": 95
         },
         "imdb": "https://www.imdb.com/title/tt26443597/",
         "boxofficemojo": "https://www.boxofficemojo.com/title/tt26443597/",
@@ -4437,8 +4803,8 @@
         "rating": "PG-13",
         "genre": "Action / Thriller",
         "rt": {
-          "critics": 66,
-          "audience": 54
+          "critics": 48,
+          "audience": 66
         },
         "imdb": "https://www.imdb.com/title/tt14850054/",
         "boxofficemojo": "https://www.boxofficemojo.com/title/tt14850054/",
@@ -4473,8 +4839,8 @@
         "rating": "R",
         "genre": "Drama / Sport",
         "rt": {
-          "critics": 82,
-          "audience": 72
+          "critics": 93,
+          "audience": 82
         },
         "imdb": "https://www.imdb.com/title/tt32916440/",
         "boxofficemojo": "https://www.boxofficemojo.com/title/tt32916440/",
@@ -4509,7 +4875,7 @@
         "rating": "PG-13",
         "genre": "Adventure / Comedy",
         "rt": {
-          "critics": 24,
+          "critics": 41,
           "audience": 24
         },
         "imdb": "https://www.imdb.com/title/tt33244668/",
@@ -4545,8 +4911,8 @@
         "rating": "PG",
         "genre": "Animation / Comedy",
         "rt": {
-          "critics": 68,
-          "audience": 62
+          "critics": 79,
+          "audience": 68
         },
         "imdb": "https://www.imdb.com/title/tt23572848/",
         "boxofficemojo": "https://www.boxofficemojo.com/title/tt23572848/",
@@ -4617,8 +4983,8 @@
         "rating": "PG",
         "genre": "Animation / Drama",
         "rt": {
-          "critics": 98,
-          "audience": 95
+          "critics": 79,
+          "audience": 98
         },
         "imdb": "https://www.imdb.com/title/tt15678738/",
         "boxofficemojo": "https://www.boxofficemojo.com/title/tt15678738/",
@@ -4635,372 +5001,6 @@
           {
             "source": "HeyUGuys",
             "quote": "This is an impressively visually polished, heartfelt and musically engaging adaptation that brings a familiar story to l..."
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": "2026-01-02",
-    "label": "January 2–4, 2026",
-    "movies": [
-      {
-        "rank": 1,
-        "title": "Avatar: Fire and Ash",
-        "runtime": 198,
-        "studio": "20th Century Studios",
-        "weekend": 41419407,
-        "total": 307677102,
-        "worldwide": 1280000000,
-        "weeks": 3,
-        "change": -34,
-        "theaters": 3835,
-        "poster": "https://image.tmdb.org/t/p/w500/bRBeSHfGHwkEpImlhxPmOcUsaeg.jpg",
-        "rating": "PG-13",
-        "genre": "Sci-Fi / Adventure",
-        "rt": {
-          "critics": 90,
-          "audience": 86
-        },
-        "imdb": "https://www.imdb.com/title/tt1757678/",
-        "boxofficemojo": "https://www.boxofficemojo.com/title/tt1757678/",
-        "rottentomatoes": "https://www.rottentomatoes.com/m/avatar_fire_and_ash",
-        "reviews": [
-          {
-            "source": "MovieFreak.com",
-            "quote": "As much as I did enjoy Avatar: Fire and Ash, I’m ready for Cameron to move on to telling new stories far removed from th..."
-          },
-          {
-            "source": "Detroit News",
-            "quote": "\"Fire and Ash\" is the first \"Avatar\" to feel its length. Impressive as it is, it's overkill."
-          },
-          {
-            "source": "The Atlantic",
-            "quote": "I have no clue whether Cameron wants to keep working on the series..."
-          }
-        ]
-      },
-      {
-        "rank": 2,
-        "title": "Zootopia 2",
-        "runtime": 108,
-        "studio": "Walt Disney Studios",
-        "weekend": 19378418,
-        "total": 364038444,
-        "worldwide": 900000000,
-        "weeks": 6,
-        "change": -3,
-        "theaters": 3285,
-        "poster": "https://image.tmdb.org/t/p/w500/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg",
-        "rating": "PG",
-        "genre": "Animation / Adventure",
-        "rt": {
-          "critics": 95,
-          "audience": 93
-        },
-        "imdb": "https://www.imdb.com/title/tt26443597/",
-        "boxofficemojo": "https://www.boxofficemojo.com/title/tt26443597/",
-        "rottentomatoes": "https://www.rottentomatoes.com/m/zootopia_2",
-        "reviews": [
-          {
-            "source": "Slate",
-            "quote": "Though Zootopia 2 is not quite as funny as the first, it’s still got a banger new song by Shakira and many rapid-fire ga..."
-          },
-          {
-            "source": "Boston Globe",
-            "quote": "Ke Huy Quan brings sympathy and good will to his voicing of Gary; he’s the film’s heart and soul."
-          },
-          {
-            "source": "New York Post",
-            "quote": "It’s more along the lines of a perfectly enjoyable TV police procedural; the season finale of “Claw and Order."
-          }
-        ]
-      },
-      {
-        "rank": 3,
-        "title": "The Housemaid",
-        "runtime": 131,
-        "studio": "Lionsgate",
-        "weekend": 15101994,
-        "total": 75936928,
-        "worldwide": 113000000,
-        "weeks": 3,
-        "change": -1,
-        "theaters": 3070,
-        "poster": "https://image.tmdb.org/t/p/w500/cWsBscZzwu5brg9YjNkGewRUvJX.jpg",
-        "rating": "R",
-        "genre": "Mystery / Thriller",
-        "rt": {
-          "critics": 54,
-          "audience": 54
-        },
-        "imdb": "https://www.imdb.com/title/tt27543632/",
-        "boxofficemojo": "https://www.boxofficemojo.com/title/tt27543632/",
-        "rottentomatoes": "https://www.rottentomatoes.com/m/the_housemaid",
-        "reviews": [
-          {
-            "source": "St. Louis Post-Dispatch",
-            "quote": "The movie kowtows to the old truism that the rich are different - but it does it with a sardonic smile."
-          },
-          {
-            "source": "Detroit News",
-            "quote": "Writer-director Im Sang-Soo injects a certain sense of otherworldliness in the proceedings -- the final scene is straigh..."
-          },
-          {
-            "source": "MovieFreak.com",
-            "quote": "But nothing could prepare me for what does indeed transpire, the final scenes having a grotesque opulence that is both e..."
-          }
-        ]
-      },
-      {
-        "rank": 4,
-        "title": "Marty Supreme",
-        "runtime": 150,
-        "studio": "A24",
-        "weekend": 12572007,
-        "total": 56018616,
-        "worldwide": 83000000,
-        "weeks": 3,
-        "change": -20,
-        "theaters": 2887,
-        "poster": "https://image.tmdb.org/t/p/w500/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg",
-        "rating": "R",
-        "genre": "Drama / Sport",
-        "rt": {
-          "critics": 82,
-          "audience": 72
-        },
-        "imdb": "https://www.imdb.com/title/tt32916440/",
-        "boxofficemojo": "https://www.boxofficemojo.com/title/tt32916440/",
-        "rottentomatoes": "https://www.rottentomatoes.com/m/marty_supreme",
-        "reviews": [
-          {
-            "source": "NPR",
-            "quote": "The movies can be a wonderfully amoral medium, and I found myself liking Marty Mauser -- and not just liking him, but ac..."
-          },
-          {
-            "source": "The Atlantic",
-            "quote": "Marty is vivacious, and the film around him is buzzing at the same frequency: itchy, anxious, yet unbearably exciting th..."
-          },
-          {
-            "source": "Boston Globe",
-            "quote": "There is nothing I dislike more than a movie that demands that you love an obnoxious, insufferable protagonist."
-          }
-        ]
-      },
-      {
-        "rank": 5,
-        "title": "Anaconda",
-        "runtime": 100,
-        "studio": "Sony Pictures",
-        "weekend": 10007604,
-        "total": 45868249,
-        "worldwide": 68000000,
-        "weeks": 2,
-        "change": -31,
-        "theaters": 3509,
-        "poster": "https://image.tmdb.org/t/p/w500/hBxN6dwrANN1ic3a4G9x6JZcR3C.jpg",
-        "rating": "PG-13",
-        "genre": "Adventure / Comedy",
-        "rt": {
-          "critics": 24,
-          "audience": 24
-        },
-        "imdb": "https://www.imdb.com/title/tt33244668/",
-        "boxofficemojo": "https://www.boxofficemojo.com/title/tt33244668/",
-        "rottentomatoes": "https://www.rottentomatoes.com/m/anaconda",
-        "reviews": [
-          {
-            "source": "The Ringer",
-            "quote": "The challenge with poking fun at the original Anaconda -- even in the form of an affectionate, scare-quoted homage -- is..."
-          },
-          {
-            "source": "Entertainment Weekly",
-            "quote": "Anaconda, directed by Luis Llosa with all of the subtlety of a snake-oil salesman, is in the great tradition of cinemati..."
-          },
-          {
-            "source": "Variety",
-            "quote": "A silly and plodding Jaws rip-off about a 40-foot man-eating snake on the prowl in the Brazilian rain forest."
-          }
-        ]
-      },
-      {
-        "rank": 6,
-        "title": "The SpongeBob Movie: Search for SquarePants",
-        "runtime": 88,
-        "studio": "Paramount Pictures",
-        "weekend": 8306057,
-        "total": 57748053,
-        "worldwide": 138000000,
-        "weeks": 3,
-        "change": -25,
-        "theaters": 3217,
-        "poster": "https://image.tmdb.org/t/p/w500/xJnOMMsFASxNiFnG7v3TNIQ3ife.jpg",
-        "rating": "PG",
-        "genre": "Animation / Comedy",
-        "rt": {
-          "critics": 68,
-          "audience": 62
-        },
-        "imdb": "https://www.imdb.com/title/tt23572848/",
-        "boxofficemojo": "https://www.boxofficemojo.com/title/tt23572848/",
-        "rottentomatoes": "https://www.rottentomatoes.com/m/the_spongebob_movie_search_for_squarepants",
-        "reviews": [
-          {
-            "source": "San Francisco Chronicle",
-            "quote": "&quot;The SpongeBob Movie: Search for SquarePants&quot; may not be the series’ most inspired cinematic outing, but it’s ..."
-          },
-          {
-            "source": "Variety",
-            "quote": "Don Drymon, the director of “Search for SquarePants,” was one of the show’s founding creative talents, and he certainly ..."
-          },
-          {
-            "source": "RogerEbert.com",
-            "quote": "There is no such thing as too many butt jokes."
-          }
-        ]
-      },
-      {
-        "rank": 7,
-        "title": "David",
-        "runtime": 109,
-        "studio": "Angel Studios",
-        "weekend": 7684119,
-        "total": 69794528,
-        "worldwide": 102000000,
-        "weeks": 3,
-        "change": -39,
-        "theaters": 2900,
-        "poster": "https://image.tmdb.org/t/p/w500/7lFG1WrCwAxBfyGK8ahlBVzXno7.jpg",
-        "rating": "PG",
-        "genre": "Animation / Drama",
-        "rt": {
-          "critics": 98,
-          "audience": 95
-        },
-        "imdb": "https://www.imdb.com/title/tt15678738/",
-        "boxofficemojo": "https://www.boxofficemojo.com/title/tt15678738/",
-        "rottentomatoes": "https://www.rottentomatoes.com/m/david_2025",
-        "reviews": [
-          {
-            "source": "Variety",
-            "quote": "A proficient family entertainment that’s nonetheless a little too precision-engineered to feel truly stirring."
-          },
-          {
-            "source": "RogerEbert.com",
-            "quote": "We settle back and enjoy a well-produced, visually impressive, character-driven fable about the man who would be king."
-          },
-          {
-            "source": "HeyUGuys",
-            "quote": "This is an impressively visually polished, heartfelt and musically engaging adaptation that brings a familiar story to l..."
-          }
-        ]
-      },
-      {
-        "rank": 8,
-        "title": "Song Sung Blue",
-        "runtime": 133,
-        "studio": "Focus Features",
-        "weekend": 5869975,
-        "total": 25002985,
-        "worldwide": 44000000,
-        "weeks": 2,
-        "change": -17,
-        "theaters": 2705,
-        "poster": "https://image.tmdb.org/t/p/w500/kQzDdxI0F5z16qo2vzDoqdVMl4O.jpg",
-        "rating": "PG-13",
-        "genre": "Music / Romance",
-        "rt": {
-          "critics": 88,
-          "audience": 88
-        },
-        "imdb": "https://www.imdb.com/title/tt30343021/",
-        "boxofficemojo": "https://www.boxofficemojo.com/title/tt30343021/",
-        "rottentomatoes": "https://www.rottentomatoes.com/m/song_sung_blue",
-        "reviews": [
-          {
-            "source": "Chicago Sun-Times",
-            "quote": "This kind of film, like Hoop Dreams, is only possible when a filmmaker stakes a bet on an unknown outcome."
-          },
-          {
-            "source": "Variety",
-            "quote": "Manages to be compelling without being too much of a downer, or condescending in its view."
-          },
-          {
-            "source": "Audience",
-            "quote": "Kate Hudson was amazing. Loved this movie!!"
-          }
-        ]
-      },
-      {
-        "rank": 9,
-        "title": "Wicked: For Good",
-        "runtime": 137,
-        "studio": "Universal Pictures",
-        "weekend": 3261440,
-        "total": 339881165,
-        "worldwide": 680000000,
-        "weeks": 7,
-        "change": -39,
-        "theaters": 1885,
-        "poster": "https://image.tmdb.org/t/p/w500/si9tolnefLSUKaqQEGz1bWArOaL.jpg",
-        "rating": "PG",
-        "genre": "Fantasy / Musical",
-        "rt": {
-          "critics": 92,
-          "audience": 88
-        },
-        "imdb": "https://www.imdb.com/title/tt19847976/",
-        "boxofficemojo": "https://www.boxofficemojo.com/title/tt19847976/",
-        "rottentomatoes": "https://www.rottentomatoes.com/m/wicked_for_good",
-        "reviews": [
-          {
-            "source": "The Atlantic",
-            "quote": "The best I can say about For Good is that its two stars, Cynthia Erivo and Ariana Grande, are strong-enough performers t..."
-          },
-          {
-            "source": "The New Yorker",
-            "quote": "Onstage, all this narrative retconning has a breezy behind-the-scenes cleverness, as if the story were being slyly flesh..."
-          },
-          {
-            "source": "Slate",
-            "quote": "Any sense of disappointment that Wicked: For Good doesn’t quite live up to the first movie pops like a big pink bubble t..."
-          }
-        ]
-      },
-      {
-        "rank": 10,
-        "title": "Five Nights at Freddy's 2",
-        "runtime": 104,
-        "studio": "Universal Pictures",
-        "weekend": 2686035,
-        "total": 125206695,
-        "worldwide": 210000000,
-        "weeks": 5,
-        "change": -39,
-        "theaters": 1986,
-        "poster": "https://image.tmdb.org/t/p/w500/udAxQEORq2I5wxI97N2TEqdhzBE.jpg",
-        "rating": "PG-13",
-        "genre": "Horror / Thriller",
-        "rt": {
-          "critics": 83,
-          "audience": 83
-        },
-        "imdb": "https://www.imdb.com/title/tt30274401/",
-        "boxofficemojo": "https://www.boxofficemojo.com/title/tt30274401/",
-        "rottentomatoes": "https://www.rottentomatoes.com/m/five_nights_at_freddys_2",
-        "reviews": [
-          {
-            "source": "MovieFreak.com",
-            "quote": "Five Nights at Freddy’s 2 offers up pretty much the same gateway horror delights that its predecessor did, and I don’t h..."
-          },
-          {
-            "source": "Los Angeles Times",
-            "quote": "The main problem with \"FNAF 2\" is the insistence on maintaining the PG-13 rating, when the scenes of violence (healthily..."
-          },
-          {
-            "source": "Los Angeles Times",
-            "quote": "A laughably cheesy, empty-headed follow-up that makes the mediocre prior film shine in comparison."
           }
         ]
       }
