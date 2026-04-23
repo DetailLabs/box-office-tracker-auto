@@ -1,8 +1,12 @@
 const fs = require('fs');
 const path = require('path');
+const { execFile } = require('child_process');
+const { promisify } = require('util');
 const { scrapeWeekend } = require('./scrapers/bom');
 const { getScoresAndReviews } = require('./scrapers/rottentomatoes');
 const { getWeekendLabel, getWeekendId } = require('./utils');
+
+const execFileAsync = promisify(execFile);
 
 const DATA_DIR = path.join(__dirname, '..', 'data');
 const WEEKENDS_FILE = path.join(DATA_DIR, 'weekends.json');
@@ -84,28 +88,17 @@ async function refreshAll() {
     }
   }
 
-  // Figure out which movies still need enrichment. A movie counts as "already pulled"
-  // once it has RT data and a real poster; from that point forward we leave the
-  // enrichment data alone and only update box-office numbers.
-  const needsEnrichment = [];
-  for (const bom of bomMovies) {
-    const existing = existingByTitle[bom.title];
-    if (!hasRtData(existing) || !hasTmdbData(existing)) {
-      needsEnrichment.push(bom.title);
-    }
-  }
+  // Always re-fetch RT for every movie in the current weekend so critics/audience
+  // scores stay current (they drift week-to-week and any bad first-pull would
+  // otherwise be frozen in place). Posters/reviews/metadata still get preserved
+  // during the merge step below.
+  const allTitles = bomMovies.map(b => b.title);
 
-  const preserved = bomMovies.length - needsEnrichment.length;
-  console.log(
-    `[REFRESH] Preserving enrichment data for ${preserved}/${bomMovies.length} movies.`
-  );
+  // Step 2: Fetch RT scores, reviews, and metadata (poster, genre, rating, runtime).
+  console.log(`[REFRESH] Step 2/3: Fetching RT data for ${allTitles.length} movie(s)...`);
+  const rtData = allTitles.length > 0 ? await getScoresAndReviews(allTitles) : {};
 
-  // Step 2: Fetch RT scores, reviews, and metadata (poster, genre, rating, runtime)
-  // for movies that need enrichment. This single step replaces the old TMDB + RT flow.
-  console.log(`[REFRESH] Step 2/3: Fetching RT data for ${needsEnrichment.length} movie(s)...`);
-  const rtData = needsEnrichment.length > 0 ? await getScoresAndReviews(needsEnrichment) : {};
-
-  const failedRt = needsEnrichment.filter(t => {
+  const failedRt = allTitles.filter(t => {
     const r = rtData[t];
     return !r || (
       r.critics == null &&
@@ -130,36 +123,26 @@ async function refreshAll() {
   const movies = bomMovies.map(bom => {
     const existing = existingByTitle[bom.title] || null;
     const freshRt = rtData[bom.title] || null;
-    const needsFresh = !hasRtData(existing) || !hasTmdbData(existing);
 
-    // Metadata (poster, runtime, genre, rating): keep existing if already enriched
-    const poster = needsFresh
-      ? (freshRt?.poster || (existing?.poster) || POSTER_PLACEHOLDER)
-      : (existing?.poster || POSTER_PLACEHOLDER);
-    const runtime = needsFresh
-      ? (freshRt?.runtime || existing?.runtime || null)
-      : (existing?.runtime || null);
-    const genre = needsFresh
-      ? (freshRt?.genre || existing?.genre || null)
-      : (existing?.genre || null);
-    const rating = needsFresh
-      ? (freshRt?.rating || existing?.rating || null)
-      : (existing?.rating || null);
+    // Scores: prefer fresh; fall back to existing only if the fresh fetch failed.
+    const critics = freshRt?.critics ?? existing?.rt?.critics ?? null;
+    const audience = freshRt?.audience ?? existing?.rt?.audience ?? null;
 
-    // RT scores & reviews: keep existing if already pulled
-    const rt = hasRtData(existing)
-      ? {
-          critics: existing.rt?.critics ?? null,
-          audience: existing.rt?.audience ?? null,
-          rottentomatoes: existing.rottentomatoes || null,
-          reviews: existing.reviews || [],
-        }
-      : {
-          critics: freshRt?.critics ?? null,
-          audience: freshRt?.audience ?? null,
-          rottentomatoes: freshRt?.rottentomatoes || null,
-          reviews: freshRt?.reviews || [],
-        };
+    // Metadata: prefer existing (stable) values, fall back to fresh.
+    const poster = hasTmdbData(existing)
+      ? existing.poster
+      : (freshRt?.poster || existing?.poster || POSTER_PLACEHOLDER);
+    const runtime = existing?.runtime ?? freshRt?.runtime ?? null;
+    const genre = existing?.genre ?? freshRt?.genre ?? null;
+    const rating = existing?.rating ?? freshRt?.rating ?? null;
+
+    // Reviews: keep existing if non-empty, else use fresh.
+    const reviews = (existing?.reviews && existing.reviews.length > 0)
+      ? existing.reviews
+      : (freshRt?.reviews || []);
+
+    const rottentomatoes =
+      freshRt?.rottentomatoes || existing?.rottentomatoes || null;
 
     return {
       rank: bom.rank,
@@ -176,14 +159,11 @@ async function refreshAll() {
       poster,
       rating,
       genre,
-      rt: {
-        critics: rt.critics,
-        audience: rt.audience,
-      },
+      rt: { critics, audience },
       imdb: existing?.imdb || null,
       boxofficemojo: bom.boxofficemojo || (existing && existing.boxofficemojo) || null,
-      rottentomatoes: rt.rottentomatoes,
-      reviews: rt.reviews,
+      rottentomatoes,
+      reviews,
     };
   });
 
@@ -248,7 +228,47 @@ async function refreshAll() {
   writeAtomic(TRENDS_FILE, JSON.stringify(trendData, null, 2));
 
   console.log(`[REFRESH] Complete! ${movies.length} movies saved for ${weekendEntry.label}`);
+
+  // Optionally commit & push the updated data so the Vercel deploy picks it up.
+  // Vercel functions run on a read-only filesystem and can't run node-cron, so
+  // the refresh lives on Replit and Vercel redeploys from git.
+  if (process.env.PUSH_ON_REFRESH === 'true') {
+    try {
+      await commitAndPushData(weekendEntry.label);
+    } catch (err) {
+      console.warn(`[REFRESH] Git push failed (non-fatal): ${err.message}`);
+    }
+  }
+
   return weekendEntry;
+}
+
+async function commitAndPushData(weekendLabel) {
+  const repoRoot = path.join(__dirname, '..');
+  const opts = { cwd: repoRoot };
+
+  const { stdout: statusOut } = await execFileAsync(
+    'git',
+    ['status', '--porcelain', 'data/weekends.json', 'data/trendData.json'],
+    opts,
+  );
+  if (!statusOut.trim()) {
+    console.log('[REFRESH] No data changes to push');
+    return;
+  }
+
+  await execFileAsync(
+    'git',
+    ['add', 'data/weekends.json', 'data/trendData.json'],
+    opts,
+  );
+  await execFileAsync(
+    'git',
+    ['commit', '-m', `Auto-refresh: ${weekendLabel}`],
+    opts,
+  );
+  await execFileAsync('git', ['push'], opts);
+  console.log(`[REFRESH] Pushed updated data for ${weekendLabel}`);
 }
 
 function ensureDir(dir) {
