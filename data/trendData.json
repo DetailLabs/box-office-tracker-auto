@@ -428,7 +428,8 @@
       17.8,
       12.2,
       5.8,
-      4.1
+      4.1,
+      2.9
     ],
     "worldwide": [
       332.2,
@@ -436,7 +437,8 @@
       332.2,
       332.2,
       332.2,
-      354.4
+      354.4,
+      367.2
     ]
   },
   "The Bride!": {
@@ -508,13 +510,15 @@
       80.5,
       54.1,
       30.7,
-      24.6
+      24.6,
+      20.5
     ],
     "worldwide": [
       420.6,
       420.6,
       420.6,
-      510.7
+      510.7,
+      573.1
     ]
   },
   "Dhurandhar The Revenge": {
@@ -570,21 +574,25 @@
   "The Super Mario Galaxy Movie": {
     "domestic": [
       130.9,
-      69
+      69,
+      35
     ],
     "worldwide": [
       372.5,
-      628.8
+      628.8,
+      747.5
     ]
   },
   "The Drama": {
     "domestic": [
       14.4,
-      8.7
+      8.7,
+      4.8
     ],
     "worldwide": [
       26.2,
-      42.7
+      42.7,
+      81.8
     ]
   },
   "A Great Awakening": {
@@ -599,10 +607,12 @@
   },
   "You, Me & Tuscany": {
     "domestic": [
-      8
+      8,
+      3.8
     ],
     "worldwide": [
-      9.1
+      9.1,
+      16.1
     ]
   },
   "BTS WORLD TOUR 'ARIRANG' in GOYANG: LIVE VIEWING": {
@@ -627,6 +637,46 @@
     ],
     "worldwide": [
       1.7
+    ]
+  },
+  "Lee Cronin's the Mummy": {
+    "domestic": [
+      13.5
+    ],
+    "worldwide": [
+      34
+    ]
+  },
+  "Normal": {
+    "domestic": [
+      2.6
+    ],
+    "worldwide": [
+      2.7
+    ]
+  },
+  "BTS WORLD TOUR 'ARIRANG' in JAPAN: LIVE VIEWING": {
+    "domestic": [
+      1.8
+    ],
+    "worldwide": [
+      1.8
+    ]
+  },
+  "Busboys": {
+    "domestic": [
+      1.6
+    ],
+    "worldwide": [
+      1.6
+    ]
+  },
+  "Bhooth Bangla": {
+    "domestic": [
+      0.9
+    ],
+    "worldwide": [
+      0.9
     ]
   }
 }
