@@ -1,0 +1,45 @@
+name: Weekly Data Refresh
+
+on:
+  schedule:
+    # Sunday 20:00 UTC = 3pm EST / 4pm EDT. GH Actions cron is UTC-only, so summer
+    # runs land at 4pm Eastern instead of 3pm — still after BOM publishes.
+    - cron: '0 20 * * 0'
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: weekly-refresh
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - run: npm ci
+
+      - name: Refresh box office data
+        run: npm run refresh
+
+      - name: Commit and push if data changed
+        run: |
+          if git diff --quiet -- data/; then
+            echo "No data changes — skipping commit."
+            exit 0
+          fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          WEEKEND=$(node -p "require('./data/weekends.json')[0].label")
+          git add data/weekends.json data/trendData.json
+          git commit -m "Auto-refresh: $WEEKEND"
+          git push
