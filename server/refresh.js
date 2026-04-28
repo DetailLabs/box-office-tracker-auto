@@ -43,9 +43,9 @@ function hasTmdbData(m) {
  *    and only update box-office numbers (weekend gross, total, worldwide, weeks, etc.).
  * 4. Update weekends.json and trendData.json atomically.
  */
-async function refreshAll() {
+async function refreshAll(date) {
   console.log('[REFRESH] Starting full refresh...');
-  const now = new Date();
+  const now = date instanceof Date ? date : new Date();
 
   // Step 1: Scrape BOM - box-office numbers are always refreshed for the current weekend
   console.log('[REFRESH] Step 1/4: Scraping Box Office Mojo...');
