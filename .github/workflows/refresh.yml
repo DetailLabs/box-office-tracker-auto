@@ -1,0 +1,44 @@
+name: Weekly Data Refresh
+
+on:
+  schedule:
+    # Sunday 21:00 UTC = 5pm EDT / 4pm EST. After BOM publishes weekend numbers.
+    - cron: '0 21 * * 0'
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: weekly-refresh
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - run: npm ci
+
+      - name: Refresh box office data
+        run: npm run refresh
+
+      - name: Commit and push if data changed
+        run: |
+          if git diff --quiet -- data/; then
+            echo "No data changes — skipping commit."
+            exit 0
+          fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          WEEKEND=$(node -p "require('./data/weekends.json')[0].label")
+          git add data/weekends.json data/trendData.json
+          git commit -m "Auto-refresh: $WEEKEND"
+          git push
