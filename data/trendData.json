@@ -514,7 +514,8 @@
       30.7,
       24.6,
       20.5,
-      12.8
+      12.8,
+      8.6
     ],
     "worldwide": [
       420.6,
@@ -522,7 +523,8 @@
       420.6,
       510.7,
       573.1,
-      613.1
+      613.1,
+      789.4
     ]
   },
   "Dhurandhar The Revenge": {
@@ -580,13 +582,15 @@
       130.9,
       69,
       35,
-      20.6
+      20.6,
+      12.1
     ],
     "worldwide": [
       372.5,
       628.8,
       747.5,
-      831.7
+      831.7,
+      1845.5
     ]
   },
   "The Drama": {
@@ -594,13 +598,15 @@
       14.4,
       8.7,
       4.8,
-      2.6
+      2.6,
+      0.9
     ],
     "worldwide": [
       26.2,
       42.7,
       81.8,
-      104.1
+      104.1,
+      115.9
     ]
   },
   "A Great Awakening": {
@@ -691,18 +697,22 @@
   },
   "Michael": {
     "domestic": [
-      97.2
+      97.2,
+      54
     ],
     "worldwide": [
-      218.8
+      218.8,
+      464.4
     ]
   },
   "Lee Cronin's The Mummy": {
     "domestic": [
-      5.5
+      5.5,
+      2.2
     ],
     "worldwide": [
-      65.3
+      65.3,
+      80
     ]
   },
   "Over Your Dead Body": {
@@ -727,6 +737,46 @@
     ],
     "worldwide": [
       1.2
+    ]
+  },
+  "The Devil Wears Prada 2": {
+    "domestic": [
+      77
+    ],
+    "worldwide": [
+      233.6
+    ]
+  },
+  "Hokum": {
+    "domestic": [
+      6.4
+    ],
+    "worldwide": [
+      6.4
+    ]
+  },
+  "Animal Farm": {
+    "domestic": [
+      3.4
+    ],
+    "worldwide": [
+      3.4
+    ]
+  },
+  "Deep Water": {
+    "domestic": [
+      2.2
+    ],
+    "worldwide": [
+      2.2
+    ]
+  },
+  "That Time I Got Reincarnated as a Slime the Movie: Tears of the Azure Sea": {
+    "domestic": [
+      1
+    ],
+    "worldwide": [
+      5.2
     ]
   }
 }
