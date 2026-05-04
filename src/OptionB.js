@@ -187,7 +187,7 @@ export default function OptionB({ darkToggle, page, setPage, weekends, selectedW
           <span className="w-8 h-px bg-gray-300" />
           Full Top 10
         </h2>
-        <div className="bg-white rounded-2xl border border-gray-100 shadow-sm">
+        <div className="bg-white rounded-2xl border border-gray-100 shadow-sm overflow-hidden">
           <table className="w-full">
             <thead>
               <tr className="text-xs text-gray-400 uppercase tracking-wider border-b border-gray-100 sticky top-[49px] md:top-[57px] z-10 bg-white">
@@ -220,7 +220,7 @@ export default function OptionB({ darkToggle, page, setPage, weekends, selectedW
                         alt={movie.title}
                         className="w-9 h-13 sm:w-10 sm:h-14 object-cover rounded-md"
                       />
-                      <p className="font-semibold text-sm truncate max-w-[140px] sm:max-w-none">{movie.title}</p>
+                      <p className="font-semibold text-sm truncate max-w-[140px] sm:max-w-[220px] md:max-w-[280px] xl:max-w-[340px]">{movie.title}</p>
                     </div>
                   </td>
                   <td className="py-3 px-2 text-xs text-gray-500 hidden xl:table-cell">{movie.studio}</td>

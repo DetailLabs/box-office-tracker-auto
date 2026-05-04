@@ -185,7 +185,7 @@ export default function Midnight({ darkToggle, page, setPage, weekends, selected
           <span className="w-8 h-px" style={{ background: '#333' }} />
           Full Top 10
         </h2>
-        <div className="rounded-2xl" style={{ background: '#1a1a1a', border: '1px solid #262626' }}>
+        <div className="rounded-2xl overflow-hidden" style={{ background: '#1a1a1a', border: '1px solid #262626' }}>
           <table className="w-full">
             <thead>
               <tr className="text-xs text-gray-500 uppercase tracking-wider sticky top-[49px] md:top-[57px] z-10" style={{ borderBottom: '1px solid #262626', background: '#1a1a1a' }}>
@@ -215,7 +215,7 @@ export default function Midnight({ darkToggle, page, setPage, weekends, selected
                   <td className="py-3">
                     <div className="flex items-center gap-2 sm:gap-3">
                       <img src={movie.poster} alt={movie.title} className="w-9 h-13 sm:w-10 sm:h-14 object-cover rounded-md" />
-                      <p className="font-semibold text-sm text-white truncate max-w-[140px] sm:max-w-none">{movie.title}</p>
+                      <p className="font-semibold text-sm text-white truncate max-w-[140px] sm:max-w-[220px] md:max-w-[280px] xl:max-w-[340px]">{movie.title}</p>
                     </div>
                   </td>
                   <td className="py-3 px-2 text-xs text-gray-500 hidden xl:table-cell">{movie.studio}</td>
