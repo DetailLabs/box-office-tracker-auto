@@ -185,7 +185,7 @@ export default function Midnight({ darkToggle, page, setPage, weekends, selected
           <span className="w-8 h-px" style={{ background: '#333' }} />
           Full Top 10
         </h2>
-        <div className="rounded-2xl overflow-hidden" style={{ background: '#1a1a1a', border: '1px solid #262626' }}>
+        <div className="rounded-2xl" style={{ background: '#1a1a1a', border: '1px solid #262626' }}>
           <table className="w-full">
             <thead>
               <tr className="text-xs text-gray-500 uppercase tracking-wider sticky top-[49px] md:top-[57px] z-10" style={{ borderBottom: '1px solid #262626', background: '#1a1a1a' }}>
