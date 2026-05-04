@@ -187,7 +187,7 @@ export default function OptionB({ darkToggle, page, setPage, weekends, selectedW
           <span className="w-8 h-px bg-gray-300" />
           Full Top 10
         </h2>
-        <div className="bg-white rounded-2xl border border-gray-100 shadow-sm overflow-hidden">
+        <div className="bg-white rounded-2xl border border-gray-100 shadow-sm">
           <table className="w-full">
             <thead>
               <tr className="text-xs text-gray-400 uppercase tracking-wider border-b border-gray-100 sticky top-[49px] md:top-[57px] z-10 bg-white">
