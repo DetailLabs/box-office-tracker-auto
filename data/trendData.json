@@ -515,7 +515,8 @@
       24.6,
       20.5,
       12.8,
-      8.6
+      8.6,
+      6.1
     ],
     "worldwide": [
       420.6,
@@ -524,7 +525,8 @@
       510.7,
       573.1,
       613.1,
-      638.4
+      638.4,
+      655.8
     ]
   },
   "Dhurandhar The Revenge": {
@@ -583,14 +585,16 @@
       69,
       35,
       20.6,
-      12.1
+      12.1,
+      6.6
     ],
     "worldwide": [
       372.5,
       628.8,
       747.5,
       831.7,
-      894.2
+      894.2,
+      941.2
     ]
   },
   "The Drama": {
@@ -698,11 +702,13 @@
   "Michael": {
     "domestic": [
       97.2,
-      54
+      54,
+      36.5
     ],
     "worldwide": [
       218.8,
-      423.9
+      423.9,
+      577.4
     ]
   },
   "Lee Cronin's The Mummy": {
@@ -743,34 +749,42 @@
   },
   "The Devil Wears Prada 2": {
     "domestic": [
-      77
+      77,
+      43
     ],
     "worldwide": [
-      233.6
+      233.6,
+      433.2
     ]
   },
   "Hokum": {
     "domestic": [
-      6.4
+      6.4,
+      3.3
     ],
     "worldwide": [
-      6.4
+      6.4,
+      14.6
     ]
   },
   "Animal Farm": {
     "domestic": [
-      3.4
+      3.4,
+      0.7
     ],
     "worldwide": [
-      3.4
+      3.4,
+      5
     ]
   },
   "Deep Water": {
     "domestic": [
-      2.2
+      2.2,
+      0.8
     ],
     "worldwide": [
-      2.2
+      2.2,
+      3.7
     ]
   },
   "That Time I Got Reincarnated as a Slime the Movie: Tears of the Azure Sea": {
@@ -779,6 +793,30 @@
     ],
     "worldwide": [
       5.2
+    ]
+  },
+  "Mortal Kombat II": {
+    "domestic": [
+      40
+    ],
+    "worldwide": [
+      63
+    ]
+  },
+  "The Sheep Detectives": {
+    "domestic": [
+      15.9
+    ],
+    "worldwide": [
+      28
+    ]
+  },
+  "Billie Eilish: Hit Me Hard and Soft - The Tour Live in 3D": {
+    "domestic": [
+      7.5
+    ],
+    "worldwide": [
+      20.1
     ]
   }
 }
