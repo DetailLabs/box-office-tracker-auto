@@ -516,7 +516,8 @@
       20.5,
       12.8,
       8.6,
-      6.1
+      6.1,
+      3.9
     ],
     "worldwide": [
       420.6,
@@ -526,7 +527,8 @@
       573.1,
       613.1,
       638.4,
-      655.8
+      655.8,
+      667.9
     ]
   },
   "Dhurandhar The Revenge": {
@@ -586,7 +588,8 @@
       35,
       20.6,
       12.1,
-      6.6
+      6.6,
+      4.5
     ],
     "worldwide": [
       372.5,
@@ -594,7 +597,8 @@
       747.5,
       831.7,
       894.2,
-      941.2
+      941.2,
+      964.1
     ]
   },
   "The Drama": {
@@ -703,12 +707,14 @@
     "domestic": [
       97.2,
       54,
-      36.5
+      36.5,
+      26.1
     ],
     "worldwide": [
       218.8,
       423.9,
-      577.4
+      577.4,
+      703.9
     ]
   },
   "Lee Cronin's The Mummy": {
@@ -750,11 +756,13 @@
   "The Devil Wears Prada 2": {
     "domestic": [
       77,
-      43
+      43,
+      18
     ],
     "worldwide": [
       233.6,
-      433.2
+      433.2,
+      546.2
     ]
   },
   "Hokum": {
@@ -797,18 +805,22 @@
   },
   "Mortal Kombat II": {
     "domestic": [
-      40
+      40,
+      13.4
     ],
     "worldwide": [
-      63
+      63,
+      101.2
     ]
   },
   "The Sheep Detectives": {
     "domestic": [
-      15.9
+      15.9,
+      9.3
     ],
     "worldwide": [
-      28
+      28,
+      58.7
     ]
   },
   "Billie Eilish: Hit Me Hard and Soft - The Tour Live in 3D": {
@@ -817,6 +829,38 @@
     ],
     "worldwide": [
       20.1
+    ]
+  },
+  "Obsession": {
+    "domestic": [
+      16.1
+    ],
+    "worldwide": [
+      21.1
+    ]
+  },
+  "Top Gun/Top Gun: Maverick": {
+    "domestic": [
+      3.1
+    ],
+    "worldwide": [
+      11.6
+    ]
+  },
+  "In the Grey": {
+    "domestic": [
+      3
+    ],
+    "worldwide": [
+      3
+    ]
+  },
+  "Is God Is": {
+    "domestic": [
+      2.2
+    ],
+    "worldwide": [
+      2.2
     ]
   }
 }

@@ -1,5 +1,358 @@
 [
   {
+    "id": "2026-05-15",
+    "label": "May 15–17, 2026",
+    "movies": [
+      {
+        "rank": 1,
+        "title": "Michael",
+        "runtime": 127,
+        "studio": "Lionsgate",
+        "weekend": 26125000,
+        "total": 282796827,
+        "worldwide": 703852827,
+        "weeks": 4,
+        "change": -31,
+        "theaters": 3560,
+        "poster": "https://resizing.flixster.com/hcHFyHYxNIIgMilY0mC2JoIhggk=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2JlYTIxNGM2LTkyZmEtNDJlMC05ODA4LWQ3YTBjYzE2MzQzNi5qcGc=",
+        "rating": "PG-13",
+        "genre": "Biography / Drama",
+        "rt": {
+          "critics": 39,
+          "audience": 97
+        },
+        "imdb": null,
+        "boxofficemojo": "https://www.boxofficemojo.com/release/rl1246593025/",
+        "rottentomatoes": "https://www.rottentomatoes.com/m/michael",
+        "reviews": [
+          {
+            "source": "Slate",
+            "quote": "The purpose of a biopic is to show us aspects of a public figure that the public never had access to."
+          },
+          {
+            "source": "The New Yorker",
+            "quote": "Setting aside the woeful omission, though, and considering the film outside the realm of preëxisting facts, as if it wer..."
+          },
+          {
+            "source": "TIME Magazine",
+            "quote": "It’s not that any of these vignettes are inaccurate."
+          }
+        ]
+      },
+      {
+        "rank": 2,
+        "title": "The Devil Wears Prada 2",
+        "runtime": 119,
+        "studio": "Walt Disney Studios Motion Pictures",
+        "weekend": 18000000,
+        "total": 175862196,
+        "worldwide": 546162196,
+        "weeks": 3,
+        "change": -57,
+        "theaters": 3830,
+        "poster": "https://resizing.flixster.com/nDyeWG-KIXjAvnuOzKB2sLzbaNI=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzZiNzQyMTM3LWMwMWEtNDcwZS1hYTNmLWIwZTRlOWU1ODcyOC5qcGc=",
+        "rating": "PG-13",
+        "genre": "Comedy / Drama",
+        "rt": {
+          "critics": 78,
+          "audience": 85
+        },
+        "imdb": null,
+        "boxofficemojo": "https://www.boxofficemojo.com/release/rl365461505/",
+        "rottentomatoes": "https://www.rottentomatoes.com/m/the_devil_wears_prada_2",
+        "reviews": [
+          {
+            "source": "TIME Magazine",
+            "quote": "The Devil Wears Prada 2, imperfect as it is, is actually a better movie than its predecessor."
+          },
+          {
+            "source": "Slate",
+            "quote": "This sparkly sequel provides a satisfying balance between nostalgic callbacks and intelligent updates to suit a more con..."
+          },
+          {
+            "source": "Detroit News",
+            "quote": "While it's not as fun as it was the first time around, \"Prada 2\" gives viewers more to think about than just high fashio..."
+          }
+        ]
+      },
+      {
+        "rank": 3,
+        "title": "Obsession",
+        "runtime": 67,
+        "studio": "Focus Features",
+        "weekend": 16100000,
+        "total": 16100000,
+        "worldwide": 21059000,
+        "weeks": 1,
+        "change": null,
+        "theaters": 2615,
+        "poster": "https://images.fandango.com/cms/assets/5d84d010-59b1-11ea-b175-791e911be53d--rt-poster-defaultgif.gif",
+        "rating": null,
+        "genre": "Mystery & Thriller",
+        "rt": {
+          "critics": null,
+          "audience": null
+        },
+        "imdb": null,
+        "boxofficemojo": "https://www.boxofficemojo.com/release/rl1660846081/",
+        "rottentomatoes": "https://www.rottentomatoes.com/m/obsession",
+        "reviews": []
+      },
+      {
+        "rank": 4,
+        "title": "Mortal Kombat II",
+        "runtime": 116,
+        "studio": "Warner Bros.",
+        "weekend": 13400000,
+        "total": 62232532,
+        "worldwide": 101232532,
+        "weeks": 2,
+        "change": -65,
+        "theaters": 3534,
+        "poster": "https://resizing.flixster.com/FSCuS9jUdx2PdRbxpXjnB8mo6mc=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzZjMjVmM2QwLTBmZWYtNGI4ZC1iN2M3LWYxODVkNGI5MTcxNC5qcGc=",
+        "rating": "R",
+        "genre": "Action / Adventure",
+        "rt": {
+          "critics": 65,
+          "audience": 88
+        },
+        "imdb": null,
+        "boxofficemojo": "https://www.boxofficemojo.com/release/rl3832053761/",
+        "rottentomatoes": "https://www.rottentomatoes.com/m/mortal_kombat_ii",
+        "reviews": [
+          {
+            "source": "New York Post",
+            "quote": "Now it’s just repetitive kills from bottom-drawer cartoons."
+          },
+          {
+            "source": "Mashable",
+            "quote": "The bar is in hell for video game movies, huh?"
+          },
+          {
+            "source": "RogerEbert.com",
+            "quote": "It makes good on its grisly promise whenever its meat-puppet protagonists stop talking and start pummeling each other."
+          }
+        ]
+      },
+      {
+        "rank": 5,
+        "title": "The Sheep Detectives",
+        "runtime": 109,
+        "studio": "Amazon MGM Studios",
+        "weekend": 9319616,
+        "total": 29660699,
+        "worldwide": 58660699,
+        "weeks": 2,
+        "change": -38,
+        "theaters": 3554,
+        "poster": "https://resizing.flixster.com/LviGdc9-5BykrMyhX1oGyU-HhXE=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzYzNjA4ZWQ1LTE1M2UtNGI2Mi05NTJlLWM0ZTg2NWM5ODJhNC5qcGc=",
+        "rating": "PG",
+        "genre": "Kids & Family / Comedy",
+        "rt": {
+          "critics": 94,
+          "audience": 96
+        },
+        "imdb": null,
+        "boxofficemojo": "https://www.boxofficemojo.com/release/rl1601339393/",
+        "rottentomatoes": "https://www.rottentomatoes.com/m/the_sheep_detectives",
+        "reviews": [
+          {
+            "source": "San Francisco Chronicle",
+            "quote": "About as delightfully easygoing as a murder mystery can get."
+          },
+          {
+            "source": "Slate",
+            "quote": "The movie is endlessly charming and pleasingly clever, as well as surprisingly moving in spots."
+          },
+          {
+            "source": "IndieWire",
+            "quote": "If “The Sheep Detectives” were just a gimmicky movie about a flock solving a human murder, it would still be a relativel..."
+          }
+        ]
+      },
+      {
+        "rank": 6,
+        "title": "The Super Mario Galaxy Movie",
+        "runtime": 98,
+        "studio": "Universal Pictures",
+        "weekend": 4450000,
+        "total": 418619015,
+        "worldwide": 964148015,
+        "weeks": 7,
+        "change": -33,
+        "theaters": 2793,
+        "poster": "https://image.tmdb.org/t/p/w500/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg",
+        "rating": "PG",
+        "genre": "Animation / Adventure",
+        "rt": {
+          "critics": 42,
+          "audience": 88
+        },
+        "imdb": "https://www.imdb.com/title/tt28650488/",
+        "boxofficemojo": "https://www.boxofficemojo.com/release/rl3344662529/",
+        "rottentomatoes": "https://www.rottentomatoes.com/m/the_super_mario_galaxy_movie",
+        "reviews": [
+          {
+            "source": "San Francisco Chronicle",
+            "quote": "Given the first film's success and the fanbase it helped build for this sequel, you can't help but wonder why ..."
+          },
+          {
+            "source": "MovieFreak.com",
+            "quote": "I found it all deeply annoying."
+          },
+          {
+            "source": "Mashable",
+            "quote": "We all have a finite amount of time on this Earth, and I cannot think of a single reason why you should spend any of you..."
+          }
+        ]
+      },
+      {
+        "rank": 7,
+        "title": "Project Hail Mary",
+        "runtime": 157,
+        "studio": "Amazon MGM Studios",
+        "weekend": 3898295,
+        "total": 334854110,
+        "worldwide": 667854110,
+        "weeks": 9,
+        "change": -41,
+        "theaters": 2177,
+        "poster": "https://image.tmdb.org/t/p/w500/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
+        "rating": "PG-13",
+        "genre": "Science Fiction / Adventure",
+        "rt": {
+          "critics": 94,
+          "audience": 95
+        },
+        "imdb": "https://www.imdb.com/title/tt12042730/",
+        "boxofficemojo": "https://www.boxofficemojo.com/release/rl1993768961/",
+        "rottentomatoes": "https://www.rottentomatoes.com/m/project_hail_mary",
+        "reviews": [
+          {
+            "source": "The Atlantic",
+            "quote": "This film is not quite the masterpiece its grand visual scale sometimes suggests it’s shooting for."
+          },
+          {
+            "source": "TIME Magazine",
+            "quote": "This is the most ambitious picture, in terms of structure and spectacle, that the filmmaking duo of Lord and Miller have..."
+          },
+          {
+            "source": "MovieFreak.com",
+            "quote": "As far as rousing, interstellar science fiction pulp adventures are concerned, directors Phil Lord and Christopher Mille..."
+          }
+        ]
+      },
+      {
+        "rank": 8,
+        "title": "Top Gun/Top Gun: Maverick",
+        "runtime": null,
+        "studio": "Paramount Pictures",
+        "weekend": 3100000,
+        "total": 4794486,
+        "worldwide": 11594486,
+        "weeks": 1,
+        "change": null,
+        "theaters": 2295,
+        "poster": "https://www.rottentomatoes.com/assets/pizza-pie/head-assets/images/RT_TwitterCard_2018.jpg",
+        "rating": null,
+        "genre": null,
+        "rt": {
+          "critics": null,
+          "audience": null
+        },
+        "imdb": null,
+        "boxofficemojo": "https://www.boxofficemojo.com/release/rl78348289/",
+        "rottentomatoes": "https://www.rottentomatoes.com/m/top_guntop_gun_maverick",
+        "reviews": [
+          {
+            "source": "RogerEbert.com",
+            "quote": "There are crackerjack action scenes that make the most of the real locations as well as the actors' phenomenal tenacity ..."
+          },
+          {
+            "source": "Boston Globe",
+            "quote": "Not to get all Aristotelian about it, but for a plot to be more than just a succession of incidents, it needs some kind ..."
+          },
+          {
+            "source": "Los Angeles Times",
+            "quote": "Quibbles aside, this is a daring and memorable depiction of trauma, compassion and resilience."
+          }
+        ]
+      },
+      {
+        "rank": 9,
+        "title": "In the Grey",
+        "runtime": 98,
+        "studio": "Black Bear",
+        "weekend": 3005000,
+        "total": 3005000,
+        "worldwide": 3005000,
+        "weeks": 1,
+        "change": null,
+        "theaters": 2018,
+        "poster": "https://resizing.flixster.com/MQKj963XitS8YuBaSb0Xw2QcR-Q=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzVkMmVjMDgyLTRkMzItNDExNS1hMTlkLWYwYWVmYmU5YTljYS5wbmc=",
+        "rating": "R",
+        "genre": "Action / Mystery & Thriller",
+        "rt": {
+          "critics": 44,
+          "audience": 83
+        },
+        "imdb": null,
+        "boxofficemojo": "https://www.boxofficemojo.com/release/rl3210838017/",
+        "rottentomatoes": "https://www.rottentomatoes.com/m/in_the_grey",
+        "reviews": [
+          {
+            "source": "New York Post",
+            "quote": "In The Grey is, well, in the gray. The leads have some so-so jokes they don’t do much with, and their characters are bla..."
+          },
+          {
+            "source": "The Hollywood Reporter",
+            "quote": "It all goes down easily, especially since the 98-minute film doesn’t smack of Ritchie’s usual bloat."
+          },
+          {
+            "source": "RogerEbert.com",
+            "quote": "Ritchie and Steven Soderbergh might be the only major filmmakers left who share the belief that not only can entertainme..."
+          }
+        ]
+      },
+      {
+        "rank": 10,
+        "title": "Is God Is",
+        "runtime": 99,
+        "studio": "Amazon MGM Studios",
+        "weekend": 2222342,
+        "total": 2222342,
+        "worldwide": 2222342,
+        "weeks": 1,
+        "change": null,
+        "theaters": 1510,
+        "poster": "https://resizing.flixster.com/JQfWKjnQxi07mkv1FViwPl8Dsrg=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2MxOGExOWEwLTgyY2ItNDBhZi04YjdlLTY2OGZiOTQ5M2Q4NC5qcGc=",
+        "rating": "R",
+        "genre": "Mystery & Thriller",
+        "rt": {
+          "critics": 97,
+          "audience": 89
+        },
+        "imdb": null,
+        "boxofficemojo": "https://www.boxofficemojo.com/release/rl383418369/",
+        "rottentomatoes": "https://www.rottentomatoes.com/m/is_god_is",
+        "reviews": [
+          {
+            "source": "Associated Press",
+            "quote": "You may think you know Sterling K. Brown, but trust us, you have never seen this version of Brown -- a man utterly dripp..."
+          },
+          {
+            "source": "RogerEbert.com",
+            "quote": "There is an epic-like element to the narrative, reinforced by the ebbing morality that is explored religiously, spiritua..."
+          },
+          {
+            "source": "San Francisco Chronicle",
+            "quote": "Visually mesmerizing, lyrical and with a unique cadence, “Is God Is” is a one-of-a-kind experience."
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": "2026-05-08",
     "label": "May 8–10, 2026",
     "movies": [
@@ -4596,372 +4949,6 @@
           {
             "source": "Detroit News",
             "quote": "The adaptation offers a few wrinkles on the oft-told story, so clearly sending it into the realm of camp that it's mostl..."
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": "2026-02-06",
-    "label": "February 6–8, 2026",
-    "movies": [
-      {
-        "rank": 1,
-        "title": "Send Help",
-        "runtime": 113,
-        "studio": "20th Century Studios",
-        "weekend": 9046059,
-        "total": 34885807,
-        "worldwide": 67000000,
-        "weeks": 2,
-        "change": -53,
-        "theaters": 3475,
-        "poster": "https://image.tmdb.org/t/p/w500/mjkS2iAgWj3ik1DTjvI15nHZ7yl.jpg",
-        "rating": "R",
-        "genre": "Horror / Comedy",
-        "rt": {
-          "critics": 93,
-          "audience": 87
-        },
-        "imdb": "https://www.imdb.com/title/tt8036976/",
-        "boxofficemojo": "https://www.boxofficemojo.com/title/tt8036976/",
-        "rottentomatoes": "https://www.rottentomatoes.com/m/send_help",
-        "reviews": [
-          {
-            "source": "MovieFreak.com",
-            "quote": "The moral to the story? Don’t disrespect, ridicule, or look down on the Linda Liddle’s of the world."
-          },
-          {
-            "source": "The Atlantic",
-            "quote": "All credit to Raimi -- he’s still able to deliver on a smaller scale, which his contemporaries might now struggle to do."
-          },
-          {
-            "source": "Detroit News",
-            "quote": "As a genre experiment, it's a down-the-middle good time at the movies that offers thrills, chills and gross outs galore."
-          }
-        ]
-      },
-      {
-        "rank": 2,
-        "title": "Solo Mio",
-        "runtime": 96,
-        "studio": "Angel Studios",
-        "weekend": 7001169,
-        "total": 7001169,
-        "worldwide": 8500000,
-        "weeks": 1,
-        "change": null,
-        "theaters": 3052,
-        "poster": "https://image.tmdb.org/t/p/w500/efSsZJaddeq0LOABZqpCXdMxv9P.jpg",
-        "rating": "PG",
-        "genre": "Romance / Comedy",
-        "rt": {
-          "critics": 83,
-          "audience": 95
-        },
-        "imdb": "https://www.imdb.com/title/tt32306991/",
-        "boxofficemojo": "https://www.boxofficemojo.com/title/tt32306991/",
-        "rottentomatoes": "https://www.rottentomatoes.com/m/solo_mio",
-        "reviews": [
-          {
-            "source": "RogerEbert.com",
-            "quote": "The film doesn’t really have any high or low points, just sort of coasting on the kind of mediocrity that’s hard to crit..."
-          },
-          {
-            "source": "Variety",
-            "quote": "Some like their rom-coms aching or itching with desire. Others are content to celebrate the affectionate spark."
-          },
-          {
-            "source": "Sydney Morning Herald",
-            "quote": "It’s rare to find an American movie which approaches mature-age romance as engagingly as this one."
-          }
-        ]
-      },
-      {
-        "rank": 3,
-        "title": "Iron Lung",
-        "runtime": 125,
-        "studio": "Markiplier",
-        "weekend": 6000000,
-        "total": 30800000,
-        "worldwide": 38000000,
-        "weeks": 2,
-        "change": -66,
-        "theaters": 2930,
-        "poster": "https://image.tmdb.org/t/p/w500/sIwakdbMGS1krtgendTWpxTY9Hw.jpg",
-        "rating": "R",
-        "genre": "Horror / Sci-Fi",
-        "rt": {
-          "critics": 61,
-          "audience": 87
-        },
-        "imdb": "https://www.imdb.com/title/tt27564844/",
-        "boxofficemojo": "https://www.boxofficemojo.com/title/tt27564844/",
-        "rottentomatoes": "https://www.rottentomatoes.com/m/iron_lung",
-        "reviews": [
-          {
-            "source": "Polygon",
-            "quote": "Iron Lung is an immersive experience. It traps the audience in a close, suffocating space, and the sense of terror is pa..."
-          },
-          {
-            "source": "The Atlantic",
-            "quote": "The movie is not quite the Cronenbergian nightmare the director wants it to be."
-          },
-          {
-            "source": "Slate",
-            "quote": "Some sequences work better than others, but to his credit, Markiplier does deliver the intensity needed at the end, when..."
-          }
-        ]
-      },
-      {
-        "rank": 4,
-        "title": "Stray Kids: The dominATE Experience",
-        "runtime": 146,
-        "studio": "Bleecker Street",
-        "weekend": 5710133,
-        "total": 5710133,
-        "worldwide": 12000000,
-        "weeks": 1,
-        "change": null,
-        "theaters": 1724,
-        "poster": "https://image.tmdb.org/t/p/w500/8pi8IZ2lqJB0k0XKgh2b89OYqYd.jpg",
-        "rating": "NR",
-        "genre": "Music / Documentary",
-        "rt": {
-          "critics": 100,
-          "audience": 100
-        },
-        "imdb": "https://www.imdb.com/title/tt39216314/",
-        "boxofficemojo": "https://www.boxofficemojo.com/title/tt39216314/",
-        "rottentomatoes": "https://www.rottentomatoes.com/m/stray_kids_the_dominate_experience",
-        "reviews": [
-          {
-            "source": "Forbes",
-            "quote": "Stray Kids: The DominATE Experience is an entertaining film that will have fans dancing on their feet and give those who..."
-          },
-          {
-            "source": "But Why Tho?",
-            "quote": "Watching Stray Kids The dominATE Experience shows how far they’ve come and how much more they have to give to the world."
-          },
-          {
-            "source": "Muses of Media",
-            "quote": "It’s a shame Stray Kids: The dominATE Experience isn’t available in theatres for a longer period, as it is an experience..."
-          }
-        ]
-      },
-      {
-        "rank": 5,
-        "title": "Dracula: A Love Tale",
-        "runtime": 130,
-        "studio": "EuropaCorp",
-        "weekend": 4400264,
-        "total": 4400264,
-        "worldwide": 9000000,
-        "weeks": 1,
-        "change": null,
-        "theaters": 2050,
-        "poster": "https://image.tmdb.org/t/p/w500/dYRqA50yd0nB3qBR7AtWEJJQ8q.jpg",
-        "rating": "R",
-        "genre": "Horror / Romance",
-        "rt": {
-          "critics": 53,
-          "audience": 82
-        },
-        "imdb": "https://www.imdb.com/title/tt31434030/",
-        "boxofficemojo": "https://www.boxofficemojo.com/title/tt31434030/",
-        "rottentomatoes": "https://www.rottentomatoes.com/m/dracula_a_love_tale",
-        "reviews": [
-          {
-            "source": "Variety",
-            "quote": "Here we are again, caught up in the never-ending slow-drip flood of cinematic Dracula mythology, now with Luc Besson’s w..."
-          },
-          {
-            "source": "IndieWire",
-            "quote": "The cast’s deliveries on Besson’s punchlines are strong, and editor Lucas Fabiani keeps up his end of the deal when it c..."
-          },
-          {
-            "source": "Detroit News",
-            "quote": "The adaptation offers a few wrinkles on the oft-told story, so clearly sending it into the realm of camp that it's mostl..."
-          }
-        ]
-      },
-      {
-        "rank": 6,
-        "title": "Zootopia 2",
-        "runtime": 108,
-        "studio": "Walt Disney Studios",
-        "weekend": 4004779,
-        "total": 414511500,
-        "worldwide": 1023000000,
-        "weeks": 11,
-        "change": -32,
-        "theaters": 2715,
-        "poster": "https://image.tmdb.org/t/p/w500/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg",
-        "rating": "PG",
-        "genre": "Animation / Adventure",
-        "rt": {
-          "critics": 91,
-          "audience": 95
-        },
-        "imdb": "https://www.imdb.com/title/tt26443597/",
-        "boxofficemojo": "https://www.boxofficemojo.com/title/tt26443597/",
-        "rottentomatoes": "https://www.rottentomatoes.com/m/zootopia_2",
-        "reviews": [
-          {
-            "source": "Slate",
-            "quote": "Though Zootopia 2 is not quite as funny as the first, it’s still got a banger new song by Shakira and many rapid-fire ga..."
-          },
-          {
-            "source": "Boston Globe",
-            "quote": "Ke Huy Quan brings sympathy and good will to his voicing of Gary; he’s the film’s heart and soul."
-          },
-          {
-            "source": "New York Post",
-            "quote": "It’s more along the lines of a perfectly enjoyable TV police procedural; the season finale of “Claw and Order."
-          }
-        ]
-      },
-      {
-        "rank": 7,
-        "title": "The Strangers: Chapter 3",
-        "runtime": 92,
-        "studio": "Lionsgate",
-        "weekend": 3472554,
-        "total": 3472554,
-        "worldwide": 6000000,
-        "weeks": 1,
-        "change": null,
-        "theaters": 2565,
-        "poster": "https://image.tmdb.org/t/p/w500/yPHwX78mcwJw3I6YOJ9qh2wQBFr.jpg",
-        "rating": "R",
-        "genre": "Horror / Thriller",
-        "rt": {
-          "critics": 17,
-          "audience": 49
-        },
-        "imdb": "https://www.imdb.com/title/tt28682323/",
-        "boxofficemojo": "https://www.boxofficemojo.com/title/tt28682323/",
-        "rottentomatoes": "https://www.rottentomatoes.com/m/the_strangers_chapter_3",
-        "reviews": [
-          {
-            "source": "RogerEbert.com",
-            "quote": "By the end, I wasn’t rooting for the fictional Maya to survive the night as much as for the actress who plays her to mov..."
-          },
-          {
-            "source": "Variety",
-            "quote": "It stretches material that wouldn’t overfill 90 minutes to 4."
-          },
-          {
-            "source": "Slant Magazine",
-            "quote": "It’s easy to imagine the nihilistic avenues that Chapter 3 could have gone down."
-          }
-        ]
-      },
-      {
-        "rank": 8,
-        "title": "Avatar: Fire and Ash",
-        "runtime": 198,
-        "studio": "20th Century Studios",
-        "weekend": 3471814,
-        "total": 391505664,
-        "worldwide": 1620000000,
-        "weeks": 8,
-        "change": -39,
-        "theaters": 2365,
-        "poster": "https://image.tmdb.org/t/p/w500/bRBeSHfGHwkEpImlhxPmOcUsaeg.jpg",
-        "rating": "PG-13",
-        "genre": "Sci-Fi / Adventure",
-        "rt": {
-          "critics": 66,
-          "audience": 90
-        },
-        "imdb": "https://www.imdb.com/title/tt1757678/",
-        "boxofficemojo": "https://www.boxofficemojo.com/title/tt1757678/",
-        "rottentomatoes": "https://www.rottentomatoes.com/m/avatar_fire_and_ash",
-        "reviews": [
-          {
-            "source": "MovieFreak.com",
-            "quote": "As much as I did enjoy Avatar: Fire and Ash, I’m ready for Cameron to move on to telling new stories far removed from th..."
-          },
-          {
-            "source": "Detroit News",
-            "quote": "\"Fire and Ash\" is the first \"Avatar\" to feel its length. Impressive as it is, it's overkill."
-          },
-          {
-            "source": "The Atlantic",
-            "quote": "I have no clue whether Cameron wants to keep working on the series..."
-          }
-        ]
-      },
-      {
-        "rank": 9,
-        "title": "Shelter",
-        "runtime": 107,
-        "studio": "Black Bear Pictures",
-        "weekend": 2472373,
-        "total": 10034168,
-        "worldwide": 16000000,
-        "weeks": 2,
-        "change": -55,
-        "theaters": 2726,
-        "poster": "https://image.tmdb.org/t/p/w500/buPFnHZ3xQy6vZEHxbHgL1Pc6CR.jpg",
-        "rating": "R",
-        "genre": "Action / Thriller",
-        "rt": {
-          "critics": 4,
-          "audience": 45
-        },
-        "imdb": "https://www.imdb.com/title/tt32357218/",
-        "boxofficemojo": "https://www.boxofficemojo.com/title/tt32357218/",
-        "rottentomatoes": "https://www.rottentomatoes.com/m/shelter",
-        "reviews": [
-          {
-            "source": "The Hollywood Reporter",
-            "quote": "Psychology-themed horror tale goes a little nutty in the end."
-          },
-          {
-            "source": "New York Post",
-            "quote": "A preposterous supernatural thriller that inexplicably managed to sign up Julianne Moore to star."
-          },
-          {
-            "source": "Los Angeles Times",
-            "quote": "\"6 Souls\" is regrettably sick with that familiar disease afflicting movies of this ilk: ostentatious, hollow moodiness t..."
-          }
-        ]
-      },
-      {
-        "rank": 10,
-        "title": "Melania",
-        "runtime": 104,
-        "studio": "Amazon MGM Studios",
-        "weekend": 2350783,
-        "total": 13325728,
-        "worldwide": 15000000,
-        "weeks": 2,
-        "change": -67,
-        "theaters": 2003,
-        "poster": "https://image.tmdb.org/t/p/w500/ba6Silct0Y4pyvrSv0Tj0Urmx9f.jpg",
-        "rating": "PG",
-        "genre": "Documentary",
-        "rt": {
-          "critics": 10,
-          "audience": 98
-        },
-        "imdb": "https://www.imdb.com/title/tt35291758/",
-        "boxofficemojo": "https://www.boxofficemojo.com/title/tt35291758/",
-        "rottentomatoes": "https://www.rottentomatoes.com/m/melania",
-        "reviews": [
-          {
-            "source": "Detroit News",
-            "quote": "Its defining trait is that it's numbingly, agonizingly dull."
-          },
-          {
-            "source": "Arizona Republic",
-            "quote": "All I can say is, no matter who made it, no matter who paid for it, no matter who it's about, \"Melania\" is a singularly ..."
-          },
-          {
-            "source": "Slate",
-            "quote": "It contains nothing: no ideas, no point of view, no tension beyond whether the tailors will be able to properly alter he..."
           }
         ]
       }
