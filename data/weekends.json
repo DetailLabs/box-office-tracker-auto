@@ -263,20 +263,7 @@
         "imdb": null,
         "boxofficemojo": "https://www.boxofficemojo.com/release/rl78348289/",
         "rottentomatoes": "https://www.rottentomatoes.com/m/top_guntop_gun_maverick",
-        "reviews": [
-          {
-            "source": "RogerEbert.com",
-            "quote": "There are crackerjack action scenes that make the most of the real locations as well as the actors' phenomenal tenacity ..."
-          },
-          {
-            "source": "Boston Globe",
-            "quote": "Not to get all Aristotelian about it, but for a plot to be more than just a succession of incidents, it needs some kind ..."
-          },
-          {
-            "source": "Los Angeles Times",
-            "quote": "Quibbles aside, this is a daring and memorable depiction of trauma, compassion and resilience."
-          }
-        ]
+        "reviews": []
       },
       {
         "rank": 9,
@@ -330,7 +317,7 @@
         "genre": "Mystery & Thriller",
         "rt": {
           "critics": 97,
-          "audience": 89
+          "audience": 88
         },
         "imdb": null,
         "boxofficemojo": "https://www.boxofficemojo.com/release/rl383418369/",
