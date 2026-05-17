@@ -263,7 +263,20 @@
         "imdb": null,
         "boxofficemojo": "https://www.boxofficemojo.com/release/rl78348289/",
         "rottentomatoes": "https://www.rottentomatoes.com/m/top_guntop_gun_maverick",
-        "reviews": []
+        "reviews": [
+          {
+            "source": "NPR",
+            "quote": "Deadpool 2 is an R-rated, potty-mouthed splatterfest and a funny one."
+          },
+          {
+            "source": "The New Yorker",
+            "quote": "For all the impulsive flamboyance of Deadpool's patter, the liberating power of personal virtue, and the disinhibiting p..."
+          },
+          {
+            "source": "Slate",
+            "quote": "A little of Deadpool's incessant winkiness goes a long way, and by the time the movie was over, all I felt was sore."
+          }
+        ]
       },
       {
         "rank": 9,
@@ -280,7 +293,7 @@
         "rating": "R",
         "genre": "Action / Mystery & Thriller",
         "rt": {
-          "critics": 44,
+          "critics": 46,
           "audience": 83
         },
         "imdb": null,
