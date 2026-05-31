@@ -713,14 +713,16 @@
       54,
       36.5,
       26.1,
-      20
+      20,
+      11.7
     ],
     "worldwide": [
       218.8,
       423.9,
       577.4,
       703.9,
-      788
+      788,
+      846.3
     ]
   },
   "Lee Cronin's The Mummy": {
@@ -764,13 +766,15 @@
       77,
       43,
       18,
-      12.6
+      12.6,
+      5.9
     ],
     "worldwide": [
       233.6,
       433.2,
       546.2,
-      608
+      608,
+      666.1
     ]
   },
   "Hokum": {
@@ -815,24 +819,28 @@
     "domestic": [
       40,
       13.4,
-      6.2
+      6.2,
+      2
     ],
     "worldwide": [
       63,
       101.2,
-      120
+      120,
+      128
     ]
   },
   "The Sheep Detectives": {
     "domestic": [
       15.9,
       9.3,
-      9
+      9,
+      4.6
     ],
     "worldwide": [
       28,
       58.7,
-      76.5
+      76.5,
+      94.2
     ]
   },
   "Billie Eilish: Hit Me Hard and Soft - The Tour Live in 3D": {
@@ -846,11 +854,13 @@
   "Obsession": {
     "domestic": [
       16.1,
-      22.4
+      22.4,
+      26.4
     ],
     "worldwide": [
       21.1,
-      79.8
+      79.8,
+      148
     ]
   },
   "Top Gun/Top Gun: Maverick": {
@@ -879,18 +889,22 @@
   },
   "Star Wars: The Mandalorian and Grogu": {
     "domestic": [
-      82
+      82,
+      25
     ],
     "worldwide": [
-      165
+      165,
+      246.6
     ]
   },
   "Passenger": {
     "domestic": [
-      8.7
+      8.7,
+      2.6
     ],
     "worldwide": [
-      15.3
+      15.3,
+      25
     ]
   },
   "I Love Boosters": {
@@ -899,6 +913,30 @@
     ],
     "worldwide": [
       4.6
+    ]
+  },
+  "Backrooms": {
+    "domestic": [
+      81.5
+    ],
+    "worldwide": [
+      118
+    ]
+  },
+  "The Breadwinner": {
+    "domestic": [
+      7.5
+    ],
+    "worldwide": [
+      7.5
+    ]
+  },
+  "Pressure": {
+    "domestic": [
+      5.8
+    ],
+    "worldwide": [
+      5.8
     ]
   }
 }
