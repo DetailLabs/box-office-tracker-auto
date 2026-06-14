@@ -715,7 +715,8 @@
       26.1,
       20,
       11.7,
-      7.7
+      7.7,
+      4.1
     ],
     "worldwide": [
       218.8,
@@ -724,7 +725,8 @@
       703.9,
       788,
       846.3,
-      888.1
+      888.1,
+      932.2
     ]
   },
   "Lee Cronin's The Mummy": {
@@ -860,13 +862,15 @@
       16.1,
       22.4,
       26.4,
-      25.6
+      25.6,
+      19
     ],
     "worldwide": [
       21.1,
       79.8,
       148,
-      224.8
+      224.8,
+      286.5
     ]
   },
   "Top Gun/Top Gun: Maverick": {
@@ -897,12 +901,14 @@
     "domestic": [
       82,
       25,
-      10
+      10,
+      4.7
     ],
     "worldwide": [
       165,
       246.6,
-      293.6
+      293.6,
+      315.1
     ]
   },
   "Passenger": {
@@ -926,21 +932,25 @@
   "Backrooms": {
     "domestic": [
       81.5,
-      25.9
+      25.9,
+      11.3
     ],
     "worldwide": [
       118,
-      212.7
+      212.7,
+      248.5
     ]
   },
   "The Breadwinner": {
     "domestic": [
       7.5,
-      3.4
+      3.4,
+      1.5
     ],
     "worldwide": [
       7.5,
-      13.8
+      13.8,
+      17.5
     ]
   },
   "Pressure": {
@@ -955,18 +965,22 @@
   },
   "Scary Movie": {
     "domestic": [
-      55
+      55,
+      14.5
     ],
     "worldwide": [
-      105.5
+      105.5,
+      173.2
     ]
   },
   "Masters of the Universe": {
     "domestic": [
-      29.3
+      29.3,
+      8.7
     ],
     "worldwide": [
-      54.3
+      54.3,
+      86.1
     ]
   },
   "The Amazing Digital Circus: The Last Act": {
@@ -975,6 +989,30 @@
     ],
     "worldwide": [
       19.5
+    ]
+  },
+  "Disclosure Day": {
+    "domestic": [
+      44
+    ],
+    "worldwide": [
+      92.9
+    ]
+  },
+  "The Furious": {
+    "domestic": [
+      2.8
+    ],
+    "worldwide": [
+      2.8
+    ]
+  },
+  "Stop! That! Train!": {
+    "domestic": [
+      2
+    ],
+    "worldwide": [
+      2
     ]
   }
 }
