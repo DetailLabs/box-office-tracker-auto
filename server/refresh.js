@@ -177,6 +177,44 @@ async function refreshAll(date) {
     };
   });
 
+  // Backfill historical weekends with this week's freshly-fetched values for
+  // any field that was previously missing. "Missing" means a placeholder poster,
+  // null RT score/MPAA rating, or empty reviews array. Once a real value is
+  // fetched, propagate it back to every prior week the same title appeared in.
+  for (const fresh of movies) {
+    const realPoster = hasTmdbData(fresh) ? fresh.poster : null;
+    const freshCritics = fresh.rt && fresh.rt.critics;
+    const freshAudience = fresh.rt && fresh.rt.audience;
+    const freshRating = fresh.rating;
+    const freshRtUrl = fresh.rottentomatoes;
+    const freshReviews = Array.isArray(fresh.reviews) ? fresh.reviews : [];
+
+    for (const w of weekends) {
+      if (w.id === currentWeekendId) continue;
+      const past = (w.movies || []).find(m => m.title === fresh.title);
+      if (!past) continue;
+
+      if (realPoster && isPlaceholderPoster(past.poster)) {
+        past.poster = realPoster;
+      }
+      if (past.rt) {
+        if (freshCritics != null && past.rt.critics == null) past.rt.critics = freshCritics;
+        if (freshAudience != null && past.rt.audience == null) past.rt.audience = freshAudience;
+      }
+      if (freshRating != null && past.rating == null) {
+        past.rating = freshRating;
+      }
+      if (freshReviews.length > 0 && (!Array.isArray(past.reviews) || past.reviews.length === 0)) {
+        past.reviews = freshReviews;
+      }
+      // RT URL: replace whenever the current week has a different value,
+      // so a corrected slug override propagates back through history.
+      if (freshRtUrl && past.rottentomatoes !== freshRtUrl) {
+        past.rottentomatoes = freshRtUrl;
+      }
+    }
+  }
+
   // Build new weekend entry
   const weekendEntry = {
     id: currentWeekendId,

@@ -476,16 +476,29 @@
         "change": -7,
         "theaters": 2900,
         "poster": "https://resizing.flixster.com/wciPMzUm5zbBhWKN24eGdoRfK8I=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzBlZDNhZmI5LTM3N2EtNGIyZC1iZTA5LTU0NzUyY2M2ZGYyYi5qcGc=",
-        "rating": null,
+        "rating": "R",
         "genre": "Mystery & Thriller",
         "rt": {
-          "critics": null,
-          "audience": null
+          "critics": 94,
+          "audience": 94
         },
         "imdb": null,
         "boxofficemojo": "https://www.boxofficemojo.com/release/rl1660846081/",
-        "rottentomatoes": "https://www.rottentomatoes.com/m/obsession",
-        "reviews": []
+        "rottentomatoes": "https://www.rottentomatoes.com/m/obsession_2025",
+        "reviews": [
+          {
+            "source": "The Atlantic",
+            "quote": "At 26 years old, Barker is speaking directly to his own generation -- the moviegoing Zoomers -- by making a meal out of ..."
+          },
+          {
+            "source": "Slate",
+            "quote": "There are far scarier movies than Obsession."
+          },
+          {
+            "source": "The New Yorker",
+            "quote": "[Obsession] opens in the realm of the straightforward and ultimately reveals itself to be something far more thoughtful ..."
+          }
+        ]
       },
       {
         "rank": 5,
@@ -744,16 +757,29 @@
         "change": 10,
         "theaters": 2781,
         "poster": "https://resizing.flixster.com/wciPMzUm5zbBhWKN24eGdoRfK8I=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzBlZDNhZmI5LTM3N2EtNGIyZC1iZTA5LTU0NzUyY2M2ZGYyYi5qcGc=",
-        "rating": null,
+        "rating": "R",
         "genre": "Mystery & Thriller",
         "rt": {
-          "critics": null,
-          "audience": null
+          "critics": 94,
+          "audience": 94
         },
         "imdb": null,
         "boxofficemojo": "https://www.boxofficemojo.com/release/rl1660846081/",
-        "rottentomatoes": "https://www.rottentomatoes.com/m/obsession",
-        "reviews": []
+        "rottentomatoes": "https://www.rottentomatoes.com/m/obsession_2025",
+        "reviews": [
+          {
+            "source": "The Atlantic",
+            "quote": "At 26 years old, Barker is speaking directly to his own generation -- the moviegoing Zoomers -- by making a meal out of ..."
+          },
+          {
+            "source": "Slate",
+            "quote": "There are far scarier movies than Obsession."
+          },
+          {
+            "source": "The New Yorker",
+            "quote": "[Obsession] opens in the realm of the straightforward and ultimately reveals itself to be something far more thoughtful ..."
+          }
+        ]
       },
       {
         "rank": 3,
@@ -1084,16 +1110,29 @@
         "change": 30,
         "theaters": 2655,
         "poster": "https://resizing.flixster.com/wciPMzUm5zbBhWKN24eGdoRfK8I=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzBlZDNhZmI5LTM3N2EtNGIyZC1iZTA5LTU0NzUyY2M2ZGYyYi5qcGc=",
-        "rating": null,
+        "rating": "R",
         "genre": "Mystery & Thriller",
         "rt": {
-          "critics": null,
-          "audience": null
+          "critics": 94,
+          "audience": 94
         },
         "imdb": null,
         "boxofficemojo": "https://www.boxofficemojo.com/release/rl1660846081/",
-        "rottentomatoes": "https://www.rottentomatoes.com/m/obsession",
-        "reviews": []
+        "rottentomatoes": "https://www.rottentomatoes.com/m/obsession_2025",
+        "reviews": [
+          {
+            "source": "The Atlantic",
+            "quote": "At 26 years old, Barker is speaking directly to his own generation -- the moviegoing Zoomers -- by making a meal out of ..."
+          },
+          {
+            "source": "Slate",
+            "quote": "There are far scarier movies than Obsession."
+          },
+          {
+            "source": "The New Yorker",
+            "quote": "[Obsession] opens in the realm of the straightforward and ultimately reveals itself to be something far more thoughtful ..."
+          }
+        ]
       },
       {
         "rank": 3,
@@ -1473,16 +1512,29 @@
         "change": null,
         "theaters": 2615,
         "poster": "https://resizing.flixster.com/wciPMzUm5zbBhWKN24eGdoRfK8I=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzBlZDNhZmI5LTM3N2EtNGIyZC1iZTA5LTU0NzUyY2M2ZGYyYi5qcGc=",
-        "rating": null,
+        "rating": "R",
         "genre": "Mystery & Thriller",
         "rt": {
-          "critics": null,
-          "audience": null
+          "critics": 94,
+          "audience": 94
         },
         "imdb": null,
         "boxofficemojo": "https://www.boxofficemojo.com/release/rl1660846081/",
-        "rottentomatoes": "https://www.rottentomatoes.com/m/obsession",
-        "reviews": []
+        "rottentomatoes": "https://www.rottentomatoes.com/m/obsession_2025",
+        "reviews": [
+          {
+            "source": "The Atlantic",
+            "quote": "At 26 years old, Barker is speaking directly to his own generation -- the moviegoing Zoomers -- by making a meal out of ..."
+          },
+          {
+            "source": "Slate",
+            "quote": "There are far scarier movies than Obsession."
+          },
+          {
+            "source": "The New Yorker",
+            "quote": "[Obsession] opens in the realm of the straightforward and ultimately reveals itself to be something far more thoughtful ..."
+          }
+        ]
       },
       {
         "rank": 4,
