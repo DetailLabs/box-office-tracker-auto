@@ -1,6 +1,7 @@
 {
   "buildCommand": "npm run build",
   "outputDirectory": "build",
+  "regions": ["iad1"],
   "functions": {
     "api/*.js": {
       "includeFiles": "data/**"
