@@ -716,7 +716,7 @@
       20,
       11.7,
       7.7,
-      4.1
+      4.2
     ],
     "worldwide": [
       218.8,
@@ -726,7 +726,7 @@
       788,
       846.3,
       888.1,
-      932.2
+      934.7
     ]
   },
   "Lee Cronin's The Mummy": {
@@ -870,7 +870,7 @@
       79.8,
       148,
       224.8,
-      286.5
+      290.3
     ]
   },
   "Top Gun/Top Gun: Maverick": {
@@ -902,13 +902,13 @@
       82,
       25,
       10,
-      4.7
+      4.8
     ],
     "worldwide": [
       165,
       246.6,
       293.6,
-      315.1
+      315.8
     ]
   },
   "Passenger": {
@@ -933,12 +933,12 @@
     "domestic": [
       81.5,
       25.9,
-      11.3
+      11.5
     ],
     "worldwide": [
       118,
       212.7,
-      248.5
+      249.4
     ]
   },
   "The Breadwinner": {
@@ -966,21 +966,21 @@
   "Scary Movie": {
     "domestic": [
       55,
-      14.5
+      14.2
     ],
     "worldwide": [
       105.5,
-      173.2
+      174.5
     ]
   },
   "Masters of the Universe": {
     "domestic": [
       29.3,
-      8.7
+      8.9
     ],
     "worldwide": [
       54.3,
-      86.1
+      87.4
     ]
   },
   "The Amazing Digital Circus: The Last Act": {
@@ -993,10 +993,10 @@
   },
   "Disclosure Day": {
     "domestic": [
-      44
+      44.5
     ],
     "worldwide": [
-      92.9
+      98.2
     ]
   },
   "The Furious": {
@@ -1004,7 +1004,7 @@
       2.8
     ],
     "worldwide": [
-      2.8
+      16.8
     ]
   },
   "Stop! That! Train!": {
@@ -1012,7 +1012,15 @@
       2
     ],
     "worldwide": [
-      2
+      2.3
+    ]
+  },
+  "BTS World Tour 'Arirang' in Busan: Live Viewing": {
+    "domestic": [
+      3.8
+    ],
+    "worldwide": [
+      3.8
     ]
   }
 }

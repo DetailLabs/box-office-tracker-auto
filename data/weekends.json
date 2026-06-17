@@ -8,9 +8,9 @@
         "title": "Disclosure Day",
         "runtime": 145,
         "studio": "Universal Pictures",
-        "weekend": 44000000,
-        "total": 44000000,
-        "worldwide": 92879000,
+        "weekend": 44530925,
+        "total": 44530925,
+        "worldwide": 98196385,
         "weeks": 1,
         "change": null,
         "theaters": 3824,
@@ -18,8 +18,8 @@
         "rating": "PG-13",
         "genre": "Sci-Fi / Mystery & Thriller",
         "rt": {
-          "critics": 80,
-          "audience": 73
+          "critics": 81,
+          "audience": 72
         },
         "imdb": null,
         "boxofficemojo": "https://www.boxofficemojo.com/release/rl376274945/",
@@ -44,34 +44,47 @@
         "title": "Obsession",
         "runtime": 67,
         "studio": "Focus Features",
-        "weekend": 19000000,
-        "total": 188382965,
-        "worldwide": 286493965,
+        "weekend": 19008015,
+        "total": 188390980,
+        "worldwide": 290347910,
         "weeks": 5,
         "change": -25,
         "theaters": 3068,
-        "poster": "https://images.fandango.com/cms/assets/5d84d010-59b1-11ea-b175-791e911be53d--rt-poster-defaultgif.gif",
-        "rating": null,
+        "poster": "https://resizing.flixster.com/wciPMzUm5zbBhWKN24eGdoRfK8I=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzBlZDNhZmI5LTM3N2EtNGIyZC1iZTA5LTU0NzUyY2M2ZGYyYi5qcGc=",
+        "rating": "R",
         "genre": "Mystery & Thriller",
         "rt": {
-          "critics": null,
-          "audience": null
+          "critics": 94,
+          "audience": 94
         },
         "imdb": null,
         "boxofficemojo": "https://www.boxofficemojo.com/release/rl1660846081/",
-        "rottentomatoes": "https://www.rottentomatoes.com/m/obsession",
-        "reviews": []
+        "rottentomatoes": "https://www.rottentomatoes.com/m/obsession_2025",
+        "reviews": [
+          {
+            "source": "The Atlantic",
+            "quote": "At 26 years old, Barker is speaking directly to his own generation -- the moviegoing Zoomers -- by making a meal out of ..."
+          },
+          {
+            "source": "Slate",
+            "quote": "There are far scarier movies than Obsession."
+          },
+          {
+            "source": "The New Yorker",
+            "quote": "[Obsession] opens in the realm of the straightforward and ultimately reveals itself to be something far more thoughtful ..."
+          }
+        ]
       },
       {
         "rank": 3,
         "title": "Scary Movie",
         "runtime": 88,
         "studio": "Paramount Pictures",
-        "weekend": 14500000,
-        "total": 84590642,
-        "worldwide": 173190642,
+        "weekend": 14203348,
+        "total": 84293990,
+        "worldwide": 174510134,
         "weeks": 2,
-        "change": -73,
+        "change": -74,
         "theaters": 3504,
         "poster": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p25765_p_v12_aj.jpg",
         "rating": "R",
@@ -103,11 +116,11 @@
         "title": "Backrooms",
         "runtime": 110,
         "studio": "A24",
-        "weekend": 11260464,
-        "total": 160034250,
-        "worldwide": 248466950,
+        "weekend": 11521998,
+        "total": 160295784,
+        "worldwide": 249405882,
         "weeks": 3,
-        "change": -57,
+        "change": -56,
         "theaters": 3404,
         "poster": "https://resizing.flixster.com/rhgxSrAD0DJLjAa7CXGBQU5h81E=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2U3YzFlM2U0LWM1NzctNDg5Yy05M2Y4LTVmYWYxOTQyMDEyMy5qcGc=",
         "rating": "R",
@@ -139,11 +152,11 @@
         "title": "Masters of the Universe",
         "runtime": 105,
         "studio": "Amazon MGM Studios",
-        "weekend": 8668000,
-        "total": 46730097,
-        "worldwide": 86130097,
+        "weekend": 8925213,
+        "total": 46987310,
+        "worldwide": 87354708,
         "weeks": 2,
-        "change": -71,
+        "change": -70,
         "theaters": 3677,
         "poster": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p10248_p_v8_aa.jpg",
         "rating": "PG",
@@ -175,11 +188,11 @@
         "title": "Star Wars: The Mandalorian and Grogu",
         "runtime": 132,
         "studio": "Walt Disney Studios Motion Pictures",
-        "weekend": 4700000,
-        "total": 165072355,
-        "worldwide": 315072355,
+        "weekend": 4804299,
+        "total": 165176654,
+        "worldwide": 315778973,
         "weeks": 4,
-        "change": -53,
+        "change": -52,
         "theaters": 2680,
         "poster": "https://resizing.flixster.com/7VbCcCm-b4yZ4xnk-SAvyAUifVU=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzIxY2E4ZWVmLWE1MWEtNDk4Yi04YjkzLTgzN2VlYmM4MzQwYy5qcGc=",
         "rating": "PG-13",
@@ -211,11 +224,11 @@
         "title": "Michael",
         "runtime": 127,
         "studio": "Lionsgate",
-        "weekend": 4125000,
-        "total": 362756824,
-        "worldwide": 932214824,
+        "weekend": 4215136,
+        "total": 362846960,
+        "worldwide": 934666053,
         "weeks": 8,
-        "change": -46,
+        "change": -45,
         "theaters": 2256,
         "poster": "https://resizing.flixster.com/hcHFyHYxNIIgMilY0mC2JoIhggk=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2JlYTIxNGM2LTkyZmEtNDJlMC05ODA4LWQ3YTBjYzE2MzQzNi5qcGc=",
         "rating": "PG-13",
@@ -244,12 +257,48 @@
       },
       {
         "rank": 8,
+        "title": "BTS World Tour 'Arirang' in Busan: Live Viewing",
+        "runtime": 195,
+        "studio": "Trafalgar Releasing",
+        "weekend": 3800000,
+        "total": 3800000,
+        "worldwide": 3800000,
+        "weeks": 1,
+        "change": null,
+        "theaters": 1005,
+        "poster": "https://resizing.flixster.com/NDFmk3o44bXA_Lxsu_LNPXFl1-g=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzgyZTgyY2UyLWM2YzctNDM0Yi1iMWJkLTUxNjMxNTkyZjUzYy5qcGc=",
+        "rating": null,
+        "genre": "Music",
+        "rt": {
+          "critics": 99,
+          "audience": 99
+        },
+        "imdb": null,
+        "boxofficemojo": "https://www.boxofficemojo.com/release/rl2460844033/",
+        "rottentomatoes": "https://www.rottentomatoes.com/m/bts_world_tour_arirang_in_busan_live_viewing",
+        "reviews": [
+          {
+            "source": "Audience",
+            "quote": "Amazing!!! BTS was phenomenal!!!!"
+          },
+          {
+            "source": "Audience",
+            "quote": "I really had fun with the movie and I love it so much 😭🫶🏻"
+          },
+          {
+            "source": "Audience",
+            "quote": "Wish it wasn’t in AMC theaters but the show was excellent"
+          }
+        ]
+      },
+      {
+        "rank": 9,
         "title": "The Furious",
         "runtime": 90,
         "studio": "Lionsgate",
-        "weekend": 2750000,
-        "total": 2750000,
-        "worldwide": 2750000,
+        "weekend": 2805717,
+        "total": 2805717,
+        "worldwide": 16849001,
         "weeks": 1,
         "change": null,
         "theaters": 1251,
@@ -266,13 +315,13 @@
         "reviews": []
       },
       {
-        "rank": 9,
+        "rank": 10,
         "title": "Stop! That! Train!",
         "runtime": 92,
         "studio": null,
-        "weekend": 2021284,
-        "total": 2021284,
-        "worldwide": 2021284,
+        "weekend": 2025225,
+        "total": 2025225,
+        "worldwide": 2258202,
         "weeks": 1,
         "change": null,
         "theaters": 1161,
@@ -280,7 +329,7 @@
         "rating": "R",
         "genre": "Comedy / Action",
         "rt": {
-          "critics": 83,
+          "critics": 85,
           "audience": 79
         },
         "imdb": null,
@@ -298,42 +347,6 @@
           {
             "source": "RogerEbert.com",
             "quote": "It’s the type of slop, like those chicken nuggets made from pink slime, that may taste good at first but has absolutely ..."
-          }
-        ]
-      },
-      {
-        "rank": 10,
-        "title": "The Breadwinner",
-        "runtime": 94,
-        "studio": "Sony Pictures Releasing",
-        "weekend": 1530000,
-        "total": 17530217,
-        "worldwide": 17530217,
-        "weeks": 3,
-        "change": -55,
-        "theaters": 2006,
-        "poster": "https://resizing.flixster.com/aJ4kpLruWlLpmjEgEkpJ0lUQMV0=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2IzYWNmNWE0LTRjMDYtNGVlNi05MGE0LWZiMDhjNTMxNWYyYi53ZWJw",
-        "rating": "PG-13",
-        "genre": "Drama / Animation",
-        "rt": {
-          "critics": 95,
-          "audience": 88
-        },
-        "imdb": null,
-        "boxofficemojo": "https://www.boxofficemojo.com/release/rl4181426177/",
-        "rottentomatoes": "https://www.rottentomatoes.com/m/the_breadwinner",
-        "reviews": [
-          {
-            "source": "Arizona Republic",
-            "quote": "The animation is expressive, as lush and detailed as tapestry."
-          },
-          {
-            "source": "San Francisco Chronicle",
-            "quote": "The film is honest enough not to exaggerate the beneficial results of Parvana's courageous act."
-          },
-          {
-            "source": "Village Voice",
-            "quote": "On the heels of Ann Marie Fleming's joyful animated indie Window Horses comes Nora Twomey's thematically similar but far..."
           }
         ]
       }

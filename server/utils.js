@@ -67,6 +67,7 @@ const RT_SLUG_OVERRIDES = {
   'Faces of Death': 'faces_of_death_2026',
   'How to Make a Killing': 'how_to_make_a_killing_2026',
   'Mercy': 'mercy_2026',
+  'Obsession': 'obsession_2025',
   'Primate': 'primate_2025',
   'Teenage Mutant Ninja Turtles II': 'teenage_mutant_ninja_turtles_2',
   'The Pout-Pout Fish': 'the_pout_pout_fish',
