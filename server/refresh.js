@@ -28,10 +28,20 @@ function hasRtData(m) {
 /**
  * Does this existing movie record already have a real (non-placeholder) TMDB poster?
  * Once true, we stop re-fetching TMDB data on subsequent weekends.
+ *
+ * Recognizes two placeholder forms:
+ *  - our own TMDB placeholder (ends in placeholder.jpg)
+ *  - RT's default "no poster" fallback gif served from images.fandango.com,
+ *    which keeps the same URL across all movies without a real poster
  */
+function isPlaceholderPoster(url) {
+  if (!url) return true;
+  return url.endsWith('placeholder.jpg') || url.includes('rt-poster-default');
+}
+
 function hasTmdbData(m) {
   if (!m) return false;
-  return !!(m.poster && !m.poster.endsWith('placeholder.jpg'));
+  return !!(m.poster && !isPlaceholderPoster(m.poster));
 }
 
 /**
