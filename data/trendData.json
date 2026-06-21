@@ -716,7 +716,8 @@
       20,
       11.7,
       7.7,
-      4.2
+      4.2,
+      2.2
     ],
     "worldwide": [
       218.8,
@@ -726,7 +727,8 @@
       788,
       846.3,
       888.1,
-      934.7
+      934.7,
+      959.6
     ]
   },
   "Lee Cronin's The Mummy": {
@@ -863,14 +865,16 @@
       22.4,
       26.4,
       25.6,
-      19
+      19,
+      14.2
     ],
     "worldwide": [
       21.1,
       79.8,
       148,
       224.8,
-      290.3
+      290.3,
+      333.3
     ]
   },
   "Top Gun/Top Gun: Maverick": {
@@ -902,13 +906,15 @@
       82,
       25,
       10,
-      4.8
+      4.8,
+      3.9
     ],
     "worldwide": [
       165,
       246.6,
       293.6,
-      315.8
+      315.8,
+      321.8
     ]
   },
   "Passenger": {
@@ -933,12 +939,14 @@
     "domestic": [
       81.5,
       25.9,
-      11.5
+      11.5,
+      7.3
     ],
     "worldwide": [
       118,
       212.7,
-      249.4
+      249.4,
+      272.7
     ]
   },
   "The Breadwinner": {
@@ -966,21 +974,25 @@
   "Scary Movie": {
     "domestic": [
       55,
-      14.2
+      14.2,
+      6.7
     ],
     "worldwide": [
       105.5,
-      174.5
+      174.5,
+      202
     ]
   },
   "Masters of the Universe": {
     "domestic": [
       29.3,
-      8.9
+      8.9,
+      5.6
     ],
     "worldwide": [
       54.3,
-      87.4
+      87.4,
+      101.9
     ]
   },
   "The Amazing Digital Circus: The Last Act": {
@@ -993,10 +1005,12 @@
   },
   "Disclosure Day": {
     "domestic": [
-      44.5
+      44.5,
+      17
     ],
     "worldwide": [
-      98.2
+      98.2,
+      160.4
     ]
   },
   "The Furious": {
@@ -1021,6 +1035,30 @@
     ],
     "worldwide": [
       3.8
+    ]
+  },
+  "Toy Story 5": {
+    "domestic": [
+      160
+    ],
+    "worldwide": [
+      312
+    ]
+  },
+  "Leviticus": {
+    "domestic": [
+      2.7
+    ],
+    "worldwide": [
+      2.7
+    ]
+  },
+  "The Death of Robin Hood": {
+    "domestic": [
+      2.6
+    ],
+    "worldwide": [
+      2.6
     ]
   }
 }
