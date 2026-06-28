@@ -276,16 +276,7 @@
         "imdb": null,
         "boxofficemojo": "https://www.boxofficemojo.com/release/rl2494988289/",
         "rottentomatoes": "https://www.rottentomatoes.com/m/bleach_thousandyear_blood_war_the_calamity",
-        "reviews": [
-          {
-            "source": "In These Times",
-            "quote": "[A] well-intentioned but undeniably dull take..."
-          },
-          {
-            "source": "Independent (UK)",
-            "quote": "It's as manipulative as the corporate media it places under fire."
-          }
-        ]
+        "reviews": []
       },
       {
         "rank": 9,
