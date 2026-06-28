@@ -866,7 +866,8 @@
       26.4,
       25.6,
       19,
-      14.2
+      14.2,
+      9.8
     ],
     "worldwide": [
       21.1,
@@ -874,7 +875,8 @@
       148,
       224.8,
       290.3,
-      333.3
+      333.3,
+      370.1
     ]
   },
   "Top Gun/Top Gun: Maverick": {
@@ -907,14 +909,16 @@
       25,
       10,
       4.8,
-      3.9
+      3.9,
+      1.6
     ],
     "worldwide": [
       165,
       246.6,
       293.6,
       315.8,
-      321.8
+      321.8,
+      325.3
     ]
   },
   "Passenger": {
@@ -940,13 +944,15 @@
       81.5,
       25.9,
       11.5,
-      7.3
+      7.3,
+      4.3
     ],
     "worldwide": [
       118,
       212.7,
       249.4,
-      272.7
+      272.7,
+      330.1
     ]
   },
   "The Breadwinner": {
@@ -975,24 +981,28 @@
     "domestic": [
       55,
       14.2,
-      6.7
+      6.7,
+      3
     ],
     "worldwide": [
       105.5,
       174.5,
-      202
+      202,
+      215.3
     ]
   },
   "Masters of the Universe": {
     "domestic": [
       29.3,
       8.9,
-      5.6
+      5.6,
+      2.2
     ],
     "worldwide": [
       54.3,
       87.4,
-      101.9
+      101.9,
+      109.3
     ]
   },
   "The Amazing Digital Circus: The Last Act": {
@@ -1006,11 +1016,13 @@
   "Disclosure Day": {
     "domestic": [
       44.5,
-      17
+      17,
+      8.1
     ],
     "worldwide": [
       98.2,
-      160.4
+      160.4,
+      193.7
     ]
   },
   "The Furious": {
@@ -1039,10 +1051,12 @@
   },
   "Toy Story 5": {
     "domestic": [
-      160
+      160,
+      70
     ],
     "worldwide": [
-      312
+      312,
+      585
     ]
   },
   "Leviticus": {
@@ -1059,6 +1073,30 @@
     ],
     "worldwide": [
       2.6
+    ]
+  },
+  "Supergirl": {
+    "domestic": [
+      38
+    ],
+    "worldwide": [
+      68
+    ]
+  },
+  "Jackass: Best and Last": {
+    "domestic": [
+      8.4
+    ],
+    "worldwide": [
+      10.3
+    ]
+  },
+  "BLEACH: Thousand-Year Blood War - The Calamity": {
+    "domestic": [
+      3
+    ],
+    "worldwide": [
+      3
     ]
   }
 }
