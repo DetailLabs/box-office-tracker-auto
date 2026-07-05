@@ -867,7 +867,8 @@
       25.6,
       19,
       14.2,
-      9.8
+      9.8,
+      5.3
     ],
     "worldwide": [
       21.1,
@@ -876,7 +877,8 @@
       224.8,
       290.3,
       333.3,
-      370.1
+      370.1,
+      403.1
     ]
   },
   "Top Gun/Top Gun: Maverick": {
@@ -945,14 +947,16 @@
       25.9,
       11.5,
       7.3,
-      4.3
+      4.3,
+      3.3
     ],
     "worldwide": [
       118,
       212.7,
       249.4,
       272.7,
-      330.1
+      330.1,
+      349.8
     ]
   },
   "The Breadwinner": {
@@ -982,13 +986,15 @@
       55,
       14.2,
       6.7,
-      3
+      3,
+      1.1
     ],
     "worldwide": [
       105.5,
       174.5,
       202,
-      215.3
+      215.3,
+      223.7
     ]
   },
   "Masters of the Universe": {
@@ -1017,12 +1023,14 @@
     "domestic": [
       44.5,
       17,
-      8.1
+      8.1,
+      6
     ],
     "worldwide": [
       98.2,
       160.4,
-      193.7
+      193.7,
+      216.6
     ]
   },
   "The Furious": {
@@ -1052,11 +1060,13 @@
   "Toy Story 5": {
     "domestic": [
       160,
-      70
+      70,
+      31
     ],
     "worldwide": [
       312,
-      585
+      585,
+      764.3
     ]
   },
   "Leviticus": {
@@ -1077,18 +1087,22 @@
   },
   "Supergirl": {
     "domestic": [
-      38
+      38,
+      9.6
     ],
     "worldwide": [
-      68
+      68,
+      100.5
     ]
   },
   "Jackass: Best and Last": {
     "domestic": [
-      8.4
+      8.4,
+      2.7
     ],
     "worldwide": [
-      10.3
+      10.3,
+      19.3
     ]
   },
   "BLEACH: Thousand-Year Blood War - The Calamity": {
@@ -1097,6 +1111,30 @@
     ],
     "worldwide": [
       3
+    ]
+  },
+  "Minions & Monsters": {
+    "domestic": [
+      36.4
+    ],
+    "worldwide": [
+      159.9
+    ]
+  },
+  "Young Washington": {
+    "domestic": [
+      20.8
+    ],
+    "worldwide": [
+      20.8
+    ]
+  },
+  "The Invite": {
+    "domestic": [
+      0.8
+    ],
+    "worldwide": [
+      1.4
     ]
   }
 }
