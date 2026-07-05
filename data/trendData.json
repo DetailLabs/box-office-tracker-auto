@@ -1131,9 +1131,11 @@
   },
   "The Invite": {
     "domestic": [
+      0.8,
       0.8
     ],
     "worldwide": [
+      1.4,
       1.4
     ]
   }
