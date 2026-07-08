@@ -114,7 +114,7 @@
       {
         "rank": 4,
         "title": "Supergirl",
-        "runtime": 124,
+        "runtime": 108,
         "studio": "Warner Bros.",
         "weekend": 9600000,
         "total": 58500000,
@@ -122,28 +122,28 @@
         "weeks": 2,
         "change": -74,
         "theaters": 3602,
-        "poster": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p8616_p_v12_af.jpg",
-        "rating": "PG",
-        "genre": "Sci-Fi / Action",
+        "poster": "https://resizing.flixster.com/UXVL_9q6taCUdkwweK7tn3PYOB0=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzk0MDhlMTk4LWE3OWYtNGYwNy05N2I2LTU3NTYxODI1MmQzOC5qcGc=",
+        "rating": "PG-13",
+        "genre": "Action / Adventure",
         "rt": {
-          "critics": 19,
-          "audience": 26
+          "critics": 54,
+          "audience": 75
         },
         "imdb": null,
         "boxofficemojo": "https://www.boxofficemojo.com/release/rl3664281601/",
-        "rottentomatoes": "https://www.rottentomatoes.com/m/supergirl",
+        "rottentomatoes": "https://www.rottentomatoes.com/m/supergirl_2026",
         "reviews": [
           {
-            "source": "Houston Chronicle",
-            "quote": "The film's production values are a bit juvenile."
+            "source": "Polygon",
+            "quote": "Director Craig Gillespie goes all-in on replicating James Gunn's directorial style."
           },
           {
-            "source": "San Francisco Chronicle",
-            "quote": "The movie goes on and on."
+            "source": "The Atlantic",
+            "quote": "Supergirl the character still has a lot going for her, presumably including a future in the DC Universe."
           },
           {
-            "source": "Minneapolis Star Tribune",
-            "quote": "Supergirl is no cinema classic, mostly because half the cast plays it straight while the rest go for camp."
+            "source": "Slate",
+            "quote": "Despite an appealingly rough-edged title character played with scrappy aplomb by Milly Alcock, this second installment i..."
           }
         ]
       },
@@ -294,7 +294,7 @@
       {
         "rank": 9,
         "title": "Scary Movie",
-        "runtime": 88,
+        "runtime": 96,
         "studio": "Paramount Pictures",
         "weekend": 1130000,
         "total": 105902451,
@@ -302,28 +302,28 @@
         "weeks": 5,
         "change": -63,
         "theaters": 1158,
-        "poster": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p25765_p_v12_aj.jpg",
+        "poster": "https://resizing.flixster.com/zCdAQoqRDqC8T6W4nTYy0HiVubs=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2VhNzk3ZjNiLTJhMmYtNGI5MC05MTMwLTdiNmRkYzRiN2RkMC5qcGc=",
         "rating": "R",
         "genre": "Comedy / Horror",
         "rt": {
-          "critics": 52,
-          "audience": 43
+          "critics": 24,
+          "audience": 65
         },
         "imdb": null,
         "boxofficemojo": "https://www.boxofficemojo.com/release/rl4163403777/",
-        "rottentomatoes": "https://www.rottentomatoes.com/m/scary_movie",
+        "rottentomatoes": "https://www.rottentomatoes.com/m/scary_movie_2026",
         "reviews": [
           {
-            "source": "Rolling Stone",
-            "quote": "Would it be asking too much if the hit-and-miss jokes could maybe nudge an inch beyond the obvious?"
+            "source": "The Ringer",
+            "quote": "The gentrification of genre is a real and consequential development, and yet the prevailing feeling watching the latest ..."
           },
           {
-            "source": "New York Post",
-            "quote": "Everyone plays his or her part with just enough unself-conscious seriousness for the jokes to work."
+            "source": "Los Angeles Times",
+            "quote": "Good is a stretch. \"Scary Movie\" is as lazy, dumb and offensive as the others."
           },
           {
-            "source": "Variety",
-            "quote": "Practically guaranteed to make you laugh until you're ashamed of yourself."
+            "source": "RogerEbert.com",
+            "quote": "I kinda loved the brutal, ludicrous final twist, which matched the opening scene for bold humor."
           }
         ]
       },
@@ -408,7 +408,7 @@
       {
         "rank": 2,
         "title": "Supergirl",
-        "runtime": 124,
+        "runtime": 108,
         "studio": "Warner Bros.",
         "weekend": 38000000,
         "total": 38000000,
@@ -416,28 +416,28 @@
         "weeks": 1,
         "change": null,
         "theaters": 3602,
-        "poster": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p8616_p_v12_af.jpg",
-        "rating": "PG",
-        "genre": "Sci-Fi / Action",
+        "poster": "https://resizing.flixster.com/UXVL_9q6taCUdkwweK7tn3PYOB0=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzk0MDhlMTk4LWE3OWYtNGYwNy05N2I2LTU3NTYxODI1MmQzOC5qcGc=",
+        "rating": "PG-13",
+        "genre": "Action / Adventure",
         "rt": {
-          "critics": 19,
-          "audience": 26
+          "critics": 54,
+          "audience": 75
         },
         "imdb": null,
         "boxofficemojo": "https://www.boxofficemojo.com/release/rl3664281601/",
-        "rottentomatoes": "https://www.rottentomatoes.com/m/supergirl",
+        "rottentomatoes": "https://www.rottentomatoes.com/m/supergirl_2026",
         "reviews": [
           {
-            "source": "Houston Chronicle",
-            "quote": "The film's production values are a bit juvenile."
+            "source": "Polygon",
+            "quote": "Director Craig Gillespie goes all-in on replicating James Gunn's directorial style."
           },
           {
-            "source": "San Francisco Chronicle",
-            "quote": "The movie goes on and on."
+            "source": "The Atlantic",
+            "quote": "Supergirl the character still has a lot going for her, presumably including a future in the DC Universe."
           },
           {
-            "source": "Minneapolis Star Tribune",
-            "quote": "Supergirl is no cinema classic, mostly because half the cast plays it straight while the rest go for camp."
+            "source": "Slate",
+            "quote": "Despite an appealingly rough-edged title character played with scrappy aplomb by Milly Alcock, this second installment i..."
           }
         ]
       },
@@ -588,7 +588,7 @@
       {
         "rank": 7,
         "title": "Scary Movie",
-        "runtime": 88,
+        "runtime": 96,
         "studio": "Paramount Pictures",
         "weekend": 3000000,
         "total": 103523756,
@@ -596,28 +596,28 @@
         "weeks": 4,
         "change": -53,
         "theaters": 2004,
-        "poster": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p25765_p_v12_aj.jpg",
+        "poster": "https://resizing.flixster.com/zCdAQoqRDqC8T6W4nTYy0HiVubs=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2VhNzk3ZjNiLTJhMmYtNGI5MC05MTMwLTdiNmRkYzRiN2RkMC5qcGc=",
         "rating": "R",
         "genre": "Comedy / Horror",
         "rt": {
-          "critics": 52,
-          "audience": 43
+          "critics": 24,
+          "audience": 65
         },
         "imdb": null,
         "boxofficemojo": "https://www.boxofficemojo.com/release/rl4163403777/",
-        "rottentomatoes": "https://www.rottentomatoes.com/m/scary_movie",
+        "rottentomatoes": "https://www.rottentomatoes.com/m/scary_movie_2026",
         "reviews": [
           {
-            "source": "Rolling Stone",
-            "quote": "Would it be asking too much if the hit-and-miss jokes could maybe nudge an inch beyond the obvious?"
+            "source": "The Ringer",
+            "quote": "The gentrification of genre is a real and consequential development, and yet the prevailing feeling watching the latest ..."
           },
           {
-            "source": "New York Post",
-            "quote": "Everyone plays his or her part with just enough unself-conscious seriousness for the jokes to work."
+            "source": "Los Angeles Times",
+            "quote": "Good is a stretch. \"Scary Movie\" is as lazy, dumb and offensive as the others."
           },
           {
-            "source": "Variety",
-            "quote": "Practically guaranteed to make you laugh until you're ashamed of yourself."
+            "source": "RogerEbert.com",
+            "quote": "I kinda loved the brutal, ludicrous final twist, which matched the opening scene for bold humor."
           }
         ]
       },
@@ -647,7 +647,7 @@
       {
         "rank": 9,
         "title": "Masters of the Universe",
-        "runtime": 105,
+        "runtime": 140,
         "studio": "Amazon MGM Studios",
         "weekend": 2223950,
         "total": 61935163,
@@ -655,28 +655,28 @@
         "weeks": 4,
         "change": -64,
         "theaters": 2090,
-        "poster": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p10248_p_v8_aa.jpg",
-        "rating": "PG",
-        "genre": "Fantasy",
+        "poster": "https://resizing.flixster.com/iu4y9SO5Ddzvr1YzqxQZAMC0lL4=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2Q4ZmQ0NDU5LTdlZjItNDc1My1iOTg3LWRlMmZkZDJlOTcxZC5qcGc=",
+        "rating": "PG-13",
+        "genre": "Adventure / Action",
         "rt": {
-          "critics": 22,
-          "audience": 41
+          "critics": 68,
+          "audience": 86
         },
         "imdb": null,
         "boxofficemojo": "https://www.boxofficemojo.com/release/rl973309441/",
-        "rottentomatoes": "https://www.rottentomatoes.com/m/masters_of_the_universe",
+        "rottentomatoes": "https://www.rottentomatoes.com/m/masters_of_the_universe_2026",
         "reviews": [
           {
-            "source": "Chicago Tribune",
-            "quote": "Everyone knows how the battles will turn out."
+            "source": "MovieFreak.com",
+            "quote": "This bizarre mishmash of comedy, social commentary, and high-flying action never won me over."
           },
           {
-            "source": "Philadelphia Inquirer",
-            "quote": "With Masters of the Universe -- the latest numbskull entertainment from the creators of Castle Greyskull -- He-Man makes..."
+            "source": "Rolling Stone",
+            "quote": "Fan-service nostalgiabait that wants you to not take it seriously while also very much taking it seriously."
           },
           {
             "source": "Los Angeles Times",
-            "quote": "A misfiring, underdone epic that takes its inspiration not from life or literature, but from a toy line and the cartoon ..."
+            "quote": "As Skeletor, Jared Leto’s grumbling Brit-inflected baritone is an unrecognizable concoction of trilled r’s and plummy vo..."
           }
         ]
       },
@@ -869,7 +869,7 @@
       {
         "rank": 5,
         "title": "Scary Movie",
-        "runtime": 88,
+        "runtime": 96,
         "studio": "Paramount Pictures",
         "weekend": 6700000,
         "total": 97563273,
@@ -877,35 +877,35 @@
         "weeks": 3,
         "change": -53,
         "theaters": 2725,
-        "poster": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p25765_p_v12_aj.jpg",
+        "poster": "https://resizing.flixster.com/zCdAQoqRDqC8T6W4nTYy0HiVubs=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2VhNzk3ZjNiLTJhMmYtNGI5MC05MTMwLTdiNmRkYzRiN2RkMC5qcGc=",
         "rating": "R",
         "genre": "Comedy / Horror",
         "rt": {
-          "critics": 52,
-          "audience": 43
+          "critics": 24,
+          "audience": 65
         },
         "imdb": null,
         "boxofficemojo": "https://www.boxofficemojo.com/release/rl4163403777/",
-        "rottentomatoes": "https://www.rottentomatoes.com/m/scary_movie",
+        "rottentomatoes": "https://www.rottentomatoes.com/m/scary_movie_2026",
         "reviews": [
           {
-            "source": "Rolling Stone",
-            "quote": "Would it be asking too much if the hit-and-miss jokes could maybe nudge an inch beyond the obvious?"
+            "source": "The Ringer",
+            "quote": "The gentrification of genre is a real and consequential development, and yet the prevailing feeling watching the latest ..."
           },
           {
-            "source": "New York Post",
-            "quote": "Everyone plays his or her part with just enough unself-conscious seriousness for the jokes to work."
+            "source": "Los Angeles Times",
+            "quote": "Good is a stretch. \"Scary Movie\" is as lazy, dumb and offensive as the others."
           },
           {
-            "source": "Variety",
-            "quote": "Practically guaranteed to make you laugh until you're ashamed of yourself."
+            "source": "RogerEbert.com",
+            "quote": "I kinda loved the brutal, ludicrous final twist, which matched the opening scene for bold humor."
           }
         ]
       },
       {
         "rank": 6,
         "title": "Masters of the Universe",
-        "runtime": 105,
+        "runtime": 140,
         "studio": "Amazon MGM Studios",
         "weekend": 5599541,
         "total": 56914098,
@@ -913,28 +913,28 @@
         "weeks": 3,
         "change": -37,
         "theaters": 2517,
-        "poster": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p10248_p_v8_aa.jpg",
-        "rating": "PG",
-        "genre": "Fantasy",
+        "poster": "https://resizing.flixster.com/iu4y9SO5Ddzvr1YzqxQZAMC0lL4=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2Q4ZmQ0NDU5LTdlZjItNDc1My1iOTg3LWRlMmZkZDJlOTcxZC5qcGc=",
+        "rating": "PG-13",
+        "genre": "Adventure / Action",
         "rt": {
-          "critics": 23,
-          "audience": 41
+          "critics": 68,
+          "audience": 86
         },
         "imdb": null,
         "boxofficemojo": "https://www.boxofficemojo.com/release/rl973309441/",
-        "rottentomatoes": "https://www.rottentomatoes.com/m/masters_of_the_universe",
+        "rottentomatoes": "https://www.rottentomatoes.com/m/masters_of_the_universe_2026",
         "reviews": [
           {
-            "source": "Chicago Tribune",
-            "quote": "Everyone knows how the battles will turn out."
+            "source": "MovieFreak.com",
+            "quote": "This bizarre mishmash of comedy, social commentary, and high-flying action never won me over."
           },
           {
-            "source": "Philadelphia Inquirer",
-            "quote": "With Masters of the Universe -- the latest numbskull entertainment from the creators of Castle Greyskull -- He-Man makes..."
+            "source": "Rolling Stone",
+            "quote": "Fan-service nostalgiabait that wants you to not take it seriously while also very much taking it seriously."
           },
           {
             "source": "Los Angeles Times",
-            "quote": "A misfiring, underdone epic that takes its inspiration not from life or literature, but from a toy line and the cartoon ..."
+            "quote": "As Skeletor, Jared Leto’s grumbling Brit-inflected baritone is an unrecognizable concoction of trilled r’s and plummy vo..."
           }
         ]
       },
@@ -1163,7 +1163,7 @@
       {
         "rank": 3,
         "title": "Scary Movie",
-        "runtime": 88,
+        "runtime": 96,
         "studio": "Paramount Pictures",
         "weekend": 14203348,
         "total": 84293990,
@@ -1171,28 +1171,28 @@
         "weeks": 2,
         "change": -74,
         "theaters": 3504,
-        "poster": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p25765_p_v12_aj.jpg",
+        "poster": "https://resizing.flixster.com/zCdAQoqRDqC8T6W4nTYy0HiVubs=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2VhNzk3ZjNiLTJhMmYtNGI5MC05MTMwLTdiNmRkYzRiN2RkMC5qcGc=",
         "rating": "R",
         "genre": "Comedy / Horror",
         "rt": {
-          "critics": 52,
-          "audience": 43
+          "critics": 24,
+          "audience": 65
         },
         "imdb": null,
         "boxofficemojo": "https://www.boxofficemojo.com/release/rl4163403777/",
-        "rottentomatoes": "https://www.rottentomatoes.com/m/scary_movie",
+        "rottentomatoes": "https://www.rottentomatoes.com/m/scary_movie_2026",
         "reviews": [
           {
-            "source": "Rolling Stone",
-            "quote": "Would it be asking too much if the hit-and-miss jokes could maybe nudge an inch beyond the obvious?"
+            "source": "The Ringer",
+            "quote": "The gentrification of genre is a real and consequential development, and yet the prevailing feeling watching the latest ..."
           },
           {
-            "source": "New York Post",
-            "quote": "Everyone plays his or her part with just enough unself-conscious seriousness for the jokes to work."
+            "source": "Los Angeles Times",
+            "quote": "Good is a stretch. \"Scary Movie\" is as lazy, dumb and offensive as the others."
           },
           {
-            "source": "Variety",
-            "quote": "Practically guaranteed to make you laugh until you're ashamed of yourself."
+            "source": "RogerEbert.com",
+            "quote": "I kinda loved the brutal, ludicrous final twist, which matched the opening scene for bold humor."
           }
         ]
       },
@@ -1235,7 +1235,7 @@
       {
         "rank": 5,
         "title": "Masters of the Universe",
-        "runtime": 105,
+        "runtime": 140,
         "studio": "Amazon MGM Studios",
         "weekend": 8925213,
         "total": 46987310,
@@ -1243,28 +1243,28 @@
         "weeks": 2,
         "change": -70,
         "theaters": 3677,
-        "poster": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p10248_p_v8_aa.jpg",
-        "rating": "PG",
-        "genre": "Fantasy",
+        "poster": "https://resizing.flixster.com/iu4y9SO5Ddzvr1YzqxQZAMC0lL4=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2Q4ZmQ0NDU5LTdlZjItNDc1My1iOTg3LWRlMmZkZDJlOTcxZC5qcGc=",
+        "rating": "PG-13",
+        "genre": "Adventure / Action",
         "rt": {
-          "critics": 23,
-          "audience": 41
+          "critics": 68,
+          "audience": 86
         },
         "imdb": null,
         "boxofficemojo": "https://www.boxofficemojo.com/release/rl973309441/",
-        "rottentomatoes": "https://www.rottentomatoes.com/m/masters_of_the_universe",
+        "rottentomatoes": "https://www.rottentomatoes.com/m/masters_of_the_universe_2026",
         "reviews": [
           {
-            "source": "Chicago Tribune",
-            "quote": "Everyone knows how the battles will turn out."
+            "source": "MovieFreak.com",
+            "quote": "This bizarre mishmash of comedy, social commentary, and high-flying action never won me over."
           },
           {
-            "source": "Philadelphia Inquirer",
-            "quote": "With Masters of the Universe -- the latest numbskull entertainment from the creators of Castle Greyskull -- He-Man makes..."
+            "source": "Rolling Stone",
+            "quote": "Fan-service nostalgiabait that wants you to not take it seriously while also very much taking it seriously."
           },
           {
             "source": "Los Angeles Times",
-            "quote": "A misfiring, underdone epic that takes its inspiration not from life or literature, but from a toy line and the cartoon ..."
+            "quote": "As Skeletor, Jared Leto’s grumbling Brit-inflected baritone is an unrecognizable concoction of trilled r’s and plummy vo..."
           }
         ]
       },
@@ -1379,7 +1379,7 @@
       {
         "rank": 9,
         "title": "The Furious",
-        "runtime": 90,
+        "runtime": 113,
         "studio": "Lionsgate",
         "weekend": 2805717,
         "total": 2805717,
@@ -1387,17 +1387,30 @@
         "weeks": 1,
         "change": null,
         "theaters": 1251,
-        "poster": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p41148_p_v10_aa.jpg",
-        "rating": null,
-        "genre": "Adventure",
+        "poster": "https://resizing.flixster.com/ovAYFa3oLvE-AxkqzId2Ha3QLto=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzk0ZjhiYzg4LWE0YTUtNDc3My05NjRhLTg1ZGQyMDE3MTg3My5qcGc=",
+        "rating": "R",
+        "genre": "Action / Crime",
         "rt": {
-          "critics": null,
-          "audience": null
+          "critics": 98,
+          "audience": 95
         },
         "imdb": null,
         "boxofficemojo": "https://www.boxofficemojo.com/release/rl1134329857/",
-        "rottentomatoes": "https://www.rottentomatoes.com/m/the_furious",
-        "reviews": []
+        "rottentomatoes": "https://www.rottentomatoes.com/m/the_furious_2025",
+        "reviews": [
+          {
+            "source": "IndieWire",
+            "quote": "When the highs are this high, you’d be mad to focus on what comes between them."
+          },
+          {
+            "source": "Variety",
+            "quote": "The Furious is such a feat of mass physical coordination that such niceties as character and narrative can afford to be ..."
+          },
+          {
+            "source": "The Daily Beast",
+            "quote": "The summer’s must-see for anyone with a taste for ferocious pandemonium."
+          }
+        ]
       },
       {
         "rank": 10,
@@ -1444,7 +1457,7 @@
       {
         "rank": 1,
         "title": "Scary Movie",
-        "runtime": 88,
+        "runtime": 96,
         "studio": "Paramount Pictures",
         "weekend": 55000000,
         "total": 55000000,
@@ -1452,35 +1465,35 @@
         "weeks": 1,
         "change": null,
         "theaters": 3490,
-        "poster": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p25765_p_v12_aj.jpg",
+        "poster": "https://resizing.flixster.com/zCdAQoqRDqC8T6W4nTYy0HiVubs=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2VhNzk3ZjNiLTJhMmYtNGI5MC05MTMwLTdiNmRkYzRiN2RkMC5qcGc=",
         "rating": "R",
         "genre": "Comedy / Horror",
         "rt": {
-          "critics": 52,
-          "audience": 43
+          "critics": 24,
+          "audience": 65
         },
         "imdb": null,
         "boxofficemojo": "https://www.boxofficemojo.com/release/rl4163403777/",
-        "rottentomatoes": "https://www.rottentomatoes.com/m/scary_movie",
+        "rottentomatoes": "https://www.rottentomatoes.com/m/scary_movie_2026",
         "reviews": [
           {
-            "source": "Rolling Stone",
-            "quote": "Would it be asking too much if the hit-and-miss jokes could maybe nudge an inch beyond the obvious?"
+            "source": "The Ringer",
+            "quote": "The gentrification of genre is a real and consequential development, and yet the prevailing feeling watching the latest ..."
           },
           {
-            "source": "New York Post",
-            "quote": "Everyone plays his or her part with just enough unself-conscious seriousness for the jokes to work."
+            "source": "Los Angeles Times",
+            "quote": "Good is a stretch. \"Scary Movie\" is as lazy, dumb and offensive as the others."
           },
           {
-            "source": "Variety",
-            "quote": "Practically guaranteed to make you laugh until you're ashamed of yourself."
+            "source": "RogerEbert.com",
+            "quote": "I kinda loved the brutal, ludicrous final twist, which matched the opening scene for bold humor."
           }
         ]
       },
       {
         "rank": 2,
         "title": "Masters of the Universe",
-        "runtime": 105,
+        "runtime": 140,
         "studio": "Amazon MGM Studios",
         "weekend": 29308000,
         "total": 29308000,
@@ -1488,28 +1501,28 @@
         "weeks": 1,
         "change": null,
         "theaters": 3677,
-        "poster": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p10248_p_v8_aa.jpg",
-        "rating": "PG",
-        "genre": "Fantasy",
+        "poster": "https://resizing.flixster.com/iu4y9SO5Ddzvr1YzqxQZAMC0lL4=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2Q4ZmQ0NDU5LTdlZjItNDc1My1iOTg3LWRlMmZkZDJlOTcxZC5qcGc=",
+        "rating": "PG-13",
+        "genre": "Adventure / Action",
         "rt": {
-          "critics": 21,
-          "audience": 41
+          "critics": 68,
+          "audience": 86
         },
         "imdb": null,
         "boxofficemojo": "https://www.boxofficemojo.com/release/rl973309441/",
-        "rottentomatoes": "https://www.rottentomatoes.com/m/masters_of_the_universe",
+        "rottentomatoes": "https://www.rottentomatoes.com/m/masters_of_the_universe_2026",
         "reviews": [
           {
-            "source": "Chicago Tribune",
-            "quote": "Everyone knows how the battles will turn out."
+            "source": "MovieFreak.com",
+            "quote": "This bizarre mishmash of comedy, social commentary, and high-flying action never won me over."
           },
           {
-            "source": "Philadelphia Inquirer",
-            "quote": "With Masters of the Universe -- the latest numbskull entertainment from the creators of Castle Greyskull -- He-Man makes..."
+            "source": "Rolling Stone",
+            "quote": "Fan-service nostalgiabait that wants you to not take it seriously while also very much taking it seriously."
           },
           {
             "source": "Los Angeles Times",
-            "quote": "A misfiring, underdone epic that takes its inspiration not from life or literature, but from a toy line and the cartoon ..."
+            "quote": "As Skeletor, Jared Leto’s grumbling Brit-inflected baritone is an unrecognizable concoction of trilled r’s and plummy vo..."
           }
         ]
       },
@@ -1696,7 +1709,7 @@
       {
         "rank": 8,
         "title": "The Breadwinner",
-        "runtime": 94,
+        "runtime": 99,
         "studio": "Sony Pictures Releasing",
         "weekend": 3400000,
         "total": 13838057,
@@ -1704,35 +1717,35 @@
         "weeks": 2,
         "change": -54,
         "theaters": 3252,
-        "poster": "https://resizing.flixster.com/aJ4kpLruWlLpmjEgEkpJ0lUQMV0=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2IzYWNmNWE0LTRjMDYtNGVlNi05MGE0LWZiMDhjNTMxNWYyYi53ZWJw",
-        "rating": "PG-13",
-        "genre": "Drama / Animation",
+        "poster": "https://resizing.flixster.com/7U4YNl7cDO8mw5SNRnF6cpf0pRo=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2I1ZWY4YjMyLTAxNGMtNGJjNC1hYjVhLTBjMGI5MjFmOGM0MS5qcGc=",
+        "rating": "PG",
+        "genre": "Kids & Family / Comedy",
         "rt": {
-          "critics": 95,
-          "audience": 88
+          "critics": 20,
+          "audience": 86
         },
         "imdb": null,
         "boxofficemojo": "https://www.boxofficemojo.com/release/rl4181426177/",
-        "rottentomatoes": "https://www.rottentomatoes.com/m/the_breadwinner",
+        "rottentomatoes": "https://www.rottentomatoes.com/m/the_breadwinner_2026",
         "reviews": [
           {
-            "source": "Arizona Republic",
-            "quote": "The animation is expressive, as lush and detailed as tapestry."
+            "source": "The Atlantic",
+            "quote": "It’s as flat, simple, and static as possible."
           },
           {
-            "source": "San Francisco Chronicle",
-            "quote": "The film is honest enough not to exaggerate the beneficial results of Parvana's courageous act."
+            "source": "Boston Globe",
+            "quote": "“The Breadwinner” thinks big laughs should come from scenes where a father doesn’t know a damn thing about his kids."
           },
           {
-            "source": "Village Voice",
-            "quote": "On the heels of Ann Marie Fleming's joyful animated indie Window Horses comes Nora Twomey's thematically similar but far..."
+            "source": "RogerEbert.com",
+            "quote": "These sorts of movies do more damage to the culture than any bloody horror flick you can name, because they make the unf..."
           }
         ]
       },
       {
         "rank": 9,
         "title": "Pressure",
-        "runtime": 90,
+        "runtime": 100,
         "studio": "Focus Features",
         "weekend": 3000000,
         "total": 11152540,
@@ -1740,17 +1753,30 @@
         "weeks": 2,
         "change": -48,
         "theaters": 1855,
-        "poster": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p32078_v_v8_ab.jpg",
-        "rating": "R",
-        "genre": "Mystery & Thriller",
+        "poster": "https://resizing.flixster.com/vSoBhL9C3wLF2sF4vN6nFkkT6RE=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzk2MTViZTc0LWM4MWQtNDYyYi05MWJkLWJjY2E2YWMwYThkYi5qcGc=",
+        "rating": "PG-13",
+        "genre": "History / Drama",
         "rt": {
-          "critics": null,
-          "audience": null
+          "critics": 87,
+          "audience": 95
         },
         "imdb": null,
         "boxofficemojo": "https://www.boxofficemojo.com/release/rl1418493953/",
-        "rottentomatoes": "https://www.rottentomatoes.com/m/pressure",
-        "reviews": []
+        "rottentomatoes": "https://www.rottentomatoes.com/m/pressure_2026",
+        "reviews": [
+          {
+            "source": "The Atlantic",
+            "quote": "As a chamber piece set within the grander opera of battle, it’s a comforting watch."
+          },
+          {
+            "source": "Associated Press",
+            "quote": "Fraser’s Eisenhower is physically imposing and stubborn too..."
+          },
+          {
+            "source": "NPR",
+            "quote": "For all the prior cinematic depictions of storming bunkers and camaraderie under fire, Pressure offers us the quiet hero..."
+          }
+        ]
       },
       {
         "rank": 10,
@@ -1941,7 +1967,7 @@
       {
         "rank": 5,
         "title": "The Breadwinner",
-        "runtime": 94,
+        "runtime": 99,
         "studio": "Sony Pictures Releasing",
         "weekend": 7500000,
         "total": 7500000,
@@ -1949,28 +1975,28 @@
         "weeks": 1,
         "change": null,
         "theaters": 3252,
-        "poster": "https://resizing.flixster.com/aJ4kpLruWlLpmjEgEkpJ0lUQMV0=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2IzYWNmNWE0LTRjMDYtNGVlNi05MGE0LWZiMDhjNTMxNWYyYi53ZWJw",
-        "rating": "PG-13",
-        "genre": "Drama / Animation",
+        "poster": "https://resizing.flixster.com/7U4YNl7cDO8mw5SNRnF6cpf0pRo=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2I1ZWY4YjMyLTAxNGMtNGJjNC1hYjVhLTBjMGI5MjFmOGM0MS5qcGc=",
+        "rating": "PG",
+        "genre": "Kids & Family / Comedy",
         "rt": {
-          "critics": 95,
-          "audience": 88
+          "critics": 20,
+          "audience": 86
         },
         "imdb": null,
         "boxofficemojo": "https://www.boxofficemojo.com/release/rl4181426177/",
-        "rottentomatoes": "https://www.rottentomatoes.com/m/the_breadwinner",
+        "rottentomatoes": "https://www.rottentomatoes.com/m/the_breadwinner_2026",
         "reviews": [
           {
-            "source": "Arizona Republic",
-            "quote": "The animation is expressive, as lush and detailed as tapestry."
+            "source": "The Atlantic",
+            "quote": "It’s as flat, simple, and static as possible."
           },
           {
-            "source": "San Francisco Chronicle",
-            "quote": "The film is honest enough not to exaggerate the beneficial results of Parvana's courageous act."
+            "source": "Boston Globe",
+            "quote": "“The Breadwinner” thinks big laughs should come from scenes where a father doesn’t know a damn thing about his kids."
           },
           {
-            "source": "Village Voice",
-            "quote": "On the heels of Ann Marie Fleming's joyful animated indie Window Horses comes Nora Twomey's thematically similar but far..."
+            "source": "RogerEbert.com",
+            "quote": "These sorts of movies do more damage to the culture than any bloody horror flick you can name, because they make the unf..."
           }
         ]
       },
@@ -2013,7 +2039,7 @@
       {
         "rank": 7,
         "title": "Pressure",
-        "runtime": 90,
+        "runtime": 100,
         "studio": "Focus Features",
         "weekend": 5750000,
         "total": 5750000,
@@ -2021,17 +2047,30 @@
         "weeks": 1,
         "change": null,
         "theaters": 1829,
-        "poster": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p32078_v_v8_ab.jpg",
-        "rating": "R",
-        "genre": "Mystery & Thriller",
+        "poster": "https://resizing.flixster.com/vSoBhL9C3wLF2sF4vN6nFkkT6RE=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzk2MTViZTc0LWM4MWQtNDYyYi05MWJkLWJjY2E2YWMwYThkYi5qcGc=",
+        "rating": "PG-13",
+        "genre": "History / Drama",
         "rt": {
-          "critics": null,
-          "audience": null
+          "critics": 87,
+          "audience": 95
         },
         "imdb": null,
         "boxofficemojo": "https://www.boxofficemojo.com/release/rl1418493953/",
-        "rottentomatoes": "https://www.rottentomatoes.com/m/pressure",
-        "reviews": []
+        "rottentomatoes": "https://www.rottentomatoes.com/m/pressure_2026",
+        "reviews": [
+          {
+            "source": "The Atlantic",
+            "quote": "As a chamber piece set within the grander opera of battle, it’s a comforting watch."
+          },
+          {
+            "source": "Associated Press",
+            "quote": "Fraser’s Eisenhower is physically imposing and stubborn too..."
+          },
+          {
+            "source": "NPR",
+            "quote": "For all the prior cinematic depictions of storming bunkers and camaraderie under fire, Pressure offers us the quiet hero..."
+          }
+        ]
       },
       {
         "rank": 8,
@@ -2072,7 +2111,7 @@
       {
         "rank": 9,
         "title": "Passenger",
-        "runtime": 119,
+        "runtime": 94,
         "studio": "Paramount Pictures",
         "weekend": 2600000,
         "total": 15269276,
@@ -2080,28 +2119,28 @@
         "weeks": 2,
         "change": -70,
         "theaters": 2534,
-        "poster": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p39274_p_v10_ab.jpg",
-        "rating": "PG",
-        "genre": "Drama",
+        "poster": "https://resizing.flixster.com/gZU12u7tSxIDDfIa3K1r2Fr0uao=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzgwNjJmOWVkLTYyZTEtNGY3Mi05ODBhLThhMzgyZDAwNzAwOC5qcGc=",
+        "rating": "R",
+        "genre": "Horror / Mystery & Thriller",
         "rt": {
-          "critics": 88,
-          "audience": 84
+          "critics": 49,
+          "audience": 55
         },
         "imdb": null,
         "boxofficemojo": "https://www.boxofficemojo.com/release/rl4253450241/",
-        "rottentomatoes": "https://www.rottentomatoes.com/m/passenger",
+        "rottentomatoes": "https://www.rottentomatoes.com/m/passenger_2026",
         "reviews": [
           {
-            "source": "The New Yorker",
-            "quote": "Earlier Antonioni films have often seemed studied, but not this one. Its details are easy and apropos."
+            "source": "Variety",
+            "quote": "Norwegian director André Øvredal does not reinvent the wheel with this humble genre entry, but the film’s slick formal l..."
           },
           {
-            "source": "Los Angeles Times",
-            "quote": "What in different hands would have been a bombastic psychological thriller becomes a stark study of existential alienati..."
+            "source": "The Hollywood Reporter",
+            "quote": "Like a bright headlight facing you dead on or the sudden honk of a loud horn, only the jump scares keep you from falling..."
           },
           {
-            "source": "Dallas Morning News",
-            "quote": "A creator of lonely worlds, Mr. Antonioni painted one of his most vivid portraits of isolation with The Passenger."
+            "source": "RogerEbert.com",
+            "quote": "It is a fairly solid bit of genre craftwork that is a lot more impressive than its desultory release might suggest."
           }
         ]
       },
@@ -2330,7 +2369,7 @@
       {
         "rank": 6,
         "title": "Passenger",
-        "runtime": 119,
+        "runtime": 94,
         "studio": "Paramount Pictures",
         "weekend": 8700000,
         "total": 8700000,
@@ -2338,28 +2377,28 @@
         "weeks": 1,
         "change": null,
         "theaters": 2534,
-        "poster": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p39274_p_v10_ab.jpg",
-        "rating": "PG",
-        "genre": "Drama",
+        "poster": "https://resizing.flixster.com/gZU12u7tSxIDDfIa3K1r2Fr0uao=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzgwNjJmOWVkLTYyZTEtNGY3Mi05ODBhLThhMzgyZDAwNzAwOC5qcGc=",
+        "rating": "R",
+        "genre": "Horror / Mystery & Thriller",
         "rt": {
-          "critics": 88,
-          "audience": 84
+          "critics": 49,
+          "audience": 55
         },
         "imdb": null,
         "boxofficemojo": "https://www.boxofficemojo.com/release/rl4253450241/",
-        "rottentomatoes": "https://www.rottentomatoes.com/m/passenger",
+        "rottentomatoes": "https://www.rottentomatoes.com/m/passenger_2026",
         "reviews": [
           {
-            "source": "The New Yorker",
-            "quote": "Earlier Antonioni films have often seemed studied, but not this one. Its details are easy and apropos."
+            "source": "Variety",
+            "quote": "Norwegian director André Øvredal does not reinvent the wheel with this humble genre entry, but the film’s slick formal l..."
           },
           {
-            "source": "Los Angeles Times",
-            "quote": "What in different hands would have been a bombastic psychological thriller becomes a stark study of existential alienati..."
+            "source": "The Hollywood Reporter",
+            "quote": "Like a bright headlight facing you dead on or the sudden honk of a loud horn, only the jump scares keep you from falling..."
           },
           {
-            "source": "Dallas Morning News",
-            "quote": "A creator of lonely worlds, Mr. Antonioni painted one of his most vivid portraits of isolation with The Passenger."
+            "source": "RogerEbert.com",
+            "quote": "It is a fairly solid bit of genre craftwork that is a lot more impressive than its desultory release might suggest."
           }
         ]
       },
@@ -3170,7 +3209,7 @@
       {
         "rank": 9,
         "title": "Deep Water",
-        "runtime": 95,
+        "runtime": 106,
         "studio": "Magenta Light Studios",
         "weekend": 780274,
         "total": 3672521,
@@ -3178,22 +3217,35 @@
         "weeks": 2,
         "change": -63,
         "theaters": 1301,
-        "poster": "https://images.fandango.com/cms/assets/5d84d010-59b1-11ea-b175-791e911be53d--rt-poster-defaultgif.gif",
+        "poster": "https://resizing.flixster.com/bzDN5OOLyDRfT2JB4LJA90fR-5U=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2NhYWExNTQxLWU2YTAtNDZjZS1iNjM3LTI3MjkxMmU2MGNmNS5qcGc=",
         "rating": "R",
-        "genre": "Action",
+        "genre": "Horror / Mystery & Thriller",
         "rt": {
-          "critics": null,
-          "audience": null
+          "critics": 67,
+          "audience": 71
         },
         "imdb": null,
         "boxofficemojo": "https://www.boxofficemojo.com/release/rl2141618177/",
-        "rottentomatoes": "https://www.rottentomatoes.com/m/deep_water",
-        "reviews": []
+        "rottentomatoes": "https://www.rottentomatoes.com/m/deep_water_2026",
+        "reviews": [
+          {
+            "source": "Detroit News",
+            "quote": "The human drama element between the passengers provides just enough context to carry this light and predictable but gari..."
+          },
+          {
+            "source": "RogerEbert.com",
+            "quote": "It prefers to spend two hours rehashing elements that even newbies to shark-based cinema will find devoid of any real in..."
+          },
+          {
+            "source": "IndieWire",
+            "quote": "If this isn’t quite the best shark movie since “Deep Blue Sea” (that honor still belongs to “The Shallows,” or maybe “Th..."
+          }
+        ]
       },
       {
         "rank": 10,
         "title": "Animal Farm",
-        "runtime": 72,
+        "runtime": 96,
         "studio": "Angel",
         "weekend": 663624,
         "total": 5000377,
@@ -3201,28 +3253,28 @@
         "weeks": 2,
         "change": -80,
         "theaters": 2140,
-        "poster": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p39461_p_v8_aa.jpg",
-        "rating": null,
-        "genre": "Kids & Family / Fantasy",
+        "poster": "https://resizing.flixster.com/QfXPG93ujex2LZYjSBt8oE6UMBM=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzgyNzQxMTAxLWJkNmEtNDA2Ny04NGRlLTJhZTkyOTA2MWJlOC5qcGc=",
+        "rating": "PG",
+        "genre": "Kids & Family / Comedy",
         "rt": {
-          "critics": 67,
-          "audience": 66
+          "critics": 30,
+          "audience": 52
         },
         "imdb": null,
         "boxofficemojo": "https://www.boxofficemojo.com/release/rl528646145/",
-        "rottentomatoes": "https://www.rottentomatoes.com/m/animal_farm",
+        "rottentomatoes": "https://www.rottentomatoes.com/m/animal_farm_2025",
         "reviews": [
           {
-            "source": "The New Republic",
-            "quote": "It is a serious pity that one can only praise the film version of George Orwell's Animal Farm as a valuable beginning or..."
+            "source": "Slate",
+            "quote": "One weird sundae, and not, I suspect, many filmgoers’ idea of a good time."
           },
           {
-            "source": "Audience",
-            "quote": "Theaters should play this instead of the 2026 version"
+            "source": "Los Angeles Times",
+            "quote": "It’s hard to imagine adults who are nostalgic about the text being won over anew, or children realizing what was so clas..."
           },
           {
-            "source": "Audience",
-            "quote": "I enjoy the film so much loved the animation style and everything that’s violence"
+            "source": "RogerEbert.com",
+            "quote": "This movie feels like it was funded with the promise that it would entertain and uplift children without disturbing them..."
           }
         ]
       }
@@ -3415,7 +3467,7 @@
       {
         "rank": 6,
         "title": "Animal Farm",
-        "runtime": 72,
+        "runtime": 96,
         "studio": "Angel",
         "weekend": 3400000,
         "total": 3400000,
@@ -3423,28 +3475,28 @@
         "weeks": 1,
         "change": null,
         "theaters": 2600,
-        "poster": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p39461_p_v8_aa.jpg",
-        "rating": null,
-        "genre": "Kids & Family / Fantasy",
+        "poster": "https://resizing.flixster.com/QfXPG93ujex2LZYjSBt8oE6UMBM=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzgyNzQxMTAxLWJkNmEtNDA2Ny04NGRlLTJhZTkyOTA2MWJlOC5qcGc=",
+        "rating": "PG",
+        "genre": "Kids & Family / Comedy",
         "rt": {
-          "critics": 67,
-          "audience": 66
+          "critics": 30,
+          "audience": 52
         },
         "imdb": null,
         "boxofficemojo": "https://www.boxofficemojo.com/release/rl528646145/",
-        "rottentomatoes": "https://www.rottentomatoes.com/m/animal_farm",
+        "rottentomatoes": "https://www.rottentomatoes.com/m/animal_farm_2025",
         "reviews": [
           {
-            "source": "The New Republic",
-            "quote": "It is a serious pity that one can only praise the film version of George Orwell's Animal Farm as a valuable beginning or..."
+            "source": "Slate",
+            "quote": "One weird sundae, and not, I suspect, many filmgoers’ idea of a good time."
           },
           {
-            "source": "Audience",
-            "quote": "Theaters should play this instead of the 2026 version"
+            "source": "Los Angeles Times",
+            "quote": "It’s hard to imagine adults who are nostalgic about the text being won over anew, or children realizing what was so clas..."
           },
           {
-            "source": "Audience",
-            "quote": "I enjoy the film so much loved the animation style and everything that’s violence"
+            "source": "RogerEbert.com",
+            "quote": "This movie feels like it was funded with the promise that it would entertain and uplift children without disturbing them..."
           }
         ]
       },
@@ -3487,7 +3539,7 @@
       {
         "rank": 8,
         "title": "Deep Water",
-        "runtime": 95,
+        "runtime": 106,
         "studio": "Magenta Light Studios",
         "weekend": 2152273,
         "total": 2152273,
@@ -3495,17 +3547,30 @@
         "weeks": 1,
         "change": null,
         "theaters": 1675,
-        "poster": "https://images.fandango.com/cms/assets/5d84d010-59b1-11ea-b175-791e911be53d--rt-poster-defaultgif.gif",
+        "poster": "https://resizing.flixster.com/bzDN5OOLyDRfT2JB4LJA90fR-5U=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2NhYWExNTQxLWU2YTAtNDZjZS1iNjM3LTI3MjkxMmU2MGNmNS5qcGc=",
         "rating": "R",
-        "genre": "Action",
+        "genre": "Horror / Mystery & Thriller",
         "rt": {
-          "critics": null,
-          "audience": null
+          "critics": 67,
+          "audience": 71
         },
         "imdb": null,
         "boxofficemojo": "https://www.boxofficemojo.com/release/rl2141618177/",
-        "rottentomatoes": "https://www.rottentomatoes.com/m/deep_water",
-        "reviews": []
+        "rottentomatoes": "https://www.rottentomatoes.com/m/deep_water_2026",
+        "reviews": [
+          {
+            "source": "Detroit News",
+            "quote": "The human drama element between the passengers provides just enough context to carry this light and predictable but gari..."
+          },
+          {
+            "source": "RogerEbert.com",
+            "quote": "It prefers to spend two hours rehashing elements that even newbies to shark-based cinema will find devoid of any real in..."
+          },
+          {
+            "source": "IndieWire",
+            "quote": "If this isn’t quite the best shark movie since “Deep Blue Sea” (that honor still belongs to “The Shallows,” or maybe “Th..."
+          }
+        ]
       },
       {
         "rank": 9,
@@ -3840,7 +3905,7 @@
       {
         "rank": 8,
         "title": "Over Your Dead Body",
-        "runtime": 93,
+        "runtime": 105,
         "studio": "IFC Films",
         "weekend": 1393356,
         "total": 1393356,
@@ -3848,28 +3913,28 @@
         "weeks": 1,
         "change": null,
         "theaters": 1550,
-        "poster": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p11086676_p_v8_aa.jpg",
-        "rating": null,
-        "genre": "Horror",
+        "poster": "https://resizing.flixster.com/i04jiP6zSWyJP_f2sxZXjgGiwnI=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzczNThjMTQyLTczMDAtNDFkMi1iNTM5LTdhOTc1YmFjZmFmZC5qcGc=",
+        "rating": "R",
+        "genre": "Mystery & Thriller / Comedy",
         "rt": {
-          "critics": 60,
-          "audience": 43
+          "critics": 69,
+          "audience": 77
         },
         "imdb": null,
         "boxofficemojo": "https://www.boxofficemojo.com/release/rl3683418113/",
-        "rottentomatoes": "https://www.rottentomatoes.com/m/over_your_dead_body",
+        "rottentomatoes": "https://www.rottentomatoes.com/m/over_your_dead_body_2026",
         "reviews": [
           {
-            "source": "Sight & Sound",
-            "quote": "two parallel narratives bleed into one another in a deeply irrational manner, blurring the boundaries between theatre an..."
+            "source": "The Atlantic",
+            "quote": "The inherent nastiness of Over Your Dead Body will likely keep it from being anything but another cultish object in Tacc..."
           },
           {
-            "source": "AV Club",
-            "quote": "The movie is dull right up until the point that it becomes completely, characteristically bonkers, with Miike trotting o..."
+            "source": "San Francisco Chronicle",
+            "quote": "About the only spark generated by “Over Your Dead Body” is the running joke about Lisa’s skills as an actor."
           },
           {
-            "source": "Audience",
-            "quote": "two parallel narratives bleed into one another in a deeply irrational manner, blurring the boundaries between theatre an..."
+            "source": "Rolling Stone",
+            "quote": "It’s hard to dislike a movie that allows folks like Segel and Weaving to lean into being so equally dislikable."
           }
         ]
       },
@@ -4157,7 +4222,7 @@
       {
         "rank": 7,
         "title": "Normal",
-        "runtime": 109,
+        "runtime": 90,
         "studio": "Magnolia Pictures",
         "weekend": 2650000,
         "total": 2650000,
@@ -4165,28 +4230,28 @@
         "weeks": 1,
         "change": null,
         "theaters": 2060,
-        "poster": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p31405_p_v8_aa.jpg",
-        "rating": "TV-MA",
-        "genre": "Drama",
+        "poster": "https://resizing.flixster.com/-xF6RVe1u6mk5hKqG3o-Ty1F25c=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2RlOGZkZDAyLTJjNDctNDU0NC04MTFmLWRhZmRmNzFlMTMyYy5qcGc=",
+        "rating": "R",
+        "genre": "Action / Comedy",
         "rt": {
-          "critics": 100,
+          "critics": 77,
           "audience": 76
         },
         "imdb": null,
         "boxofficemojo": "https://www.boxofficemojo.com/release/rl1084325889/",
-        "rottentomatoes": "https://www.rottentomatoes.com/m/normal",
+        "rottentomatoes": "https://www.rottentomatoes.com/m/normal_2025",
         "reviews": [
           {
-            "source": "Variety",
-            "quote": "Story of a middle-aged man preparing to undergo a sex change and of the woman who slowly comes to accept him is rendered..."
+            "source": "TIME Magazine",
+            "quote": "Normal may not be groundbreaking, but it does come equipped with a wicked spirit and some great B-movie energy."
           },
           {
-            "source": "New York Magazine/Vulture",
-            "quote": "... almost every line of dialogue has at least two meanings, one literal and the other either pop-anthropological or pom..."
+            "source": "RogerEbert.com",
+            "quote": "The violence is pretty graphic, and some of it is played for laughs, which would be distasteful if the laughs didn’t act..."
           },
           {
-            "source": "Observer",
-            "quote": "A television event that truly deserves the label."
+            "source": "San Francisco Chronicle",
+            "quote": "To paraphrase Homer: Liam Neeson, eat your heart out."
           }
         ]
       },

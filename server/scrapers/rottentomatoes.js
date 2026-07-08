@@ -1,12 +1,69 @@
 const axios = require('axios');
 const cheerio = require('cheerio');
-const { generateRTSlug, sleep } = require('../utils');
+const { generateRTSlug, hasRTSlugOverride, sleep } = require('../utils');
 
 const HEADERS = {
   'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
   'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
   'Accept-Language': 'en-US,en;q=0.5',
 };
+
+/**
+ * Fetch an RT movie page and extract its release year (from the LD+JSON
+ * "dateCreated" field). Returns { html, $, url, year }, or null when the
+ * page doesn't load as a valid HTML document.
+ */
+async function fetchMoviePage(slug) {
+  const url = `https://www.rottentomatoes.com/m/${slug}`;
+  const { data: html, status } = await axios.get(url, {
+    headers: HEADERS,
+    timeout: 15000,
+    validateStatus: (s) => s < 500,
+  });
+  if (status !== 200 || !html || typeof html !== 'string') return null;
+  const $ = cheerio.load(html);
+  const yearMatch = html.match(/"dateCreated"\s*:\s*"(\d{4})/);
+  const year = yearMatch ? parseInt(yearMatch[1], 10) : null;
+  return { html, $, url, year };
+}
+
+/**
+ * Resolve the correct RT page for a title currently in theaters.
+ *
+ * Titles get recycled across decades (Supergirl 1984 vs 2026), and RT gives
+ * the newer film a year-suffixed slug while the base slug keeps pointing at
+ * the old one. A movie in the current box-office top 10 should have been
+ * released this year or last — if the base slug's page is older than that,
+ * prefer a `<slug>_<year>` variant when a recent one exists.
+ *
+ * Re-releases of old films are unaffected: their year-suffixed slugs don't
+ * exist on RT, so the base page is kept. Manually pinned slugs are trusted
+ * as-is and skip the check.
+ */
+async function resolveMoviePage(title) {
+  const slug = generateRTSlug(title);
+  console.log(`[RT] Fetching scores: https://www.rottentomatoes.com/m/${slug}`);
+  const page = await fetchMoviePage(slug);
+  if (hasRTSlugOverride(title)) return page;
+
+  const currentYear = new Date().getFullYear();
+  const isRecent = (p) => p && p.year != null && p.year >= currentYear - 1;
+  if (isRecent(page)) return page;
+
+  for (const year of [currentYear, currentYear - 1]) {
+    await sleep(1500);
+    const candidate = await fetchMoviePage(`${slug}_${year}`);
+    if (isRecent(candidate)) {
+      console.log(
+        `[RT] "${title}": /m/${slug} is a ${page?.year ?? 'unknown-year'} movie — using /m/${slug}_${year} instead`
+      );
+      return candidate;
+    }
+  }
+
+  // No recent variant found: keep the base page (re-release or unknown year).
+  return page;
+}
 
 /**
  * Fetch RT critics score, audience score, and reviews for a list of titles.
@@ -19,24 +76,16 @@ async function getScoresAndReviews(titles) {
     try {
       await sleep(1500); // Be polite to RT
 
-      const slug = generateRTSlug(title);
-      const rtUrl = `https://www.rottentomatoes.com/m/${slug}`;
+      const page = await resolveMoviePage(title);
 
-      console.log(`[RT] Fetching scores: ${rtUrl}`);
-
-      const { data: html } = await axios.get(rtUrl, {
-        headers: HEADERS,
-        timeout: 15000,
-        validateStatus: (status) => status < 500,
-      });
-
-      if (!html || typeof html !== 'string') {
+      if (!page) {
         console.warn(`[RT] Empty response for "${title}"`);
+        const rtUrl = `https://www.rottentomatoes.com/m/${generateRTSlug(title)}`;
         results[title] = { critics: null, audience: null, rottentomatoes: rtUrl, reviews: [] };
         continue;
       }
 
-      const $ = cheerio.load(html);
+      const { html, $, url: rtUrl } = page;
 
       // Extract scores
       let critics = null;
@@ -430,4 +479,4 @@ function extractMovieMetadata($, html) {
   return { poster, runtime, genre, rating };
 }
 
-module.exports = { getScoresAndReviews };
+module.exports = { getScoresAndReviews, resolveMoviePage };

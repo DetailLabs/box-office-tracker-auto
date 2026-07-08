@@ -69,9 +69,18 @@ const RT_SLUG_OVERRIDES = {
   'Mercy': 'mercy_2026',
   'Obsession': 'obsession_2025',
   'Primate': 'primate_2025',
+  'Supergirl': 'supergirl_2026',
   'Teenage Mutant Ninja Turtles II': 'teenage_mutant_ninja_turtles_2',
   'The Pout-Pout Fish': 'the_pout_pout_fish',
 };
+
+/**
+ * Is this title's RT slug pinned manually? Pinned slugs skip the automatic
+ * wrong-movie detection in the RT scraper (the human override is trusted).
+ */
+function hasRTSlugOverride(title) {
+  return Object.prototype.hasOwnProperty.call(RT_SLUG_OVERRIDES, title);
+}
 
 /**
  * Generate a Rotten Tomatoes URL slug from a movie title.
@@ -119,6 +128,7 @@ module.exports = {
   getWeekendLabel,
   getWeekendId,
   generateRTSlug,
+  hasRTSlugOverride,
   parseMoney,
   parsePercent,
   sleep,
