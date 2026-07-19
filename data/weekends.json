@@ -1,5 +1,371 @@
 [
   {
+    "id": "2026-07-17",
+    "label": "July 17–19, 2026",
+    "movies": [
+      {
+        "rank": 1,
+        "title": "The Odyssey",
+        "runtime": 172,
+        "studio": "Universal Pictures",
+        "weekend": 124500000,
+        "total": 124500000,
+        "worldwide": 264064000,
+        "weeks": 1,
+        "change": null,
+        "theaters": 3919,
+        "poster": "https://resizing.flixster.com/A6I9ex8FRe7tDW-mI3eP3tx_HmE=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzkyOGVlMzAxLThhN2ItNGYyMy04NzdjLTYyNTEyMDRmYTQzOS5qcGc=",
+        "rating": "R",
+        "genre": "Adventure / Action",
+        "rt": {
+          "critics": 95,
+          "audience": 97
+        },
+        "imdb": null,
+        "boxofficemojo": "https://www.boxofficemojo.com/release/rl170295297/",
+        "rottentomatoes": "https://www.rottentomatoes.com/m/the_odyssey_2026",
+        "reviews": [
+          {
+            "source": "Perri Nemiroff (YouTube)",
+            "quote": "Jon Berthal didn’t say the thing so half a star off"
+          },
+          {
+            "source": "TheIndependentCritic.com",
+            "quote": "Nolan delivers as promised !!! Star studded cast everyone brings their A game, do yourself the justice and see it in ima..."
+          },
+          {
+            "source": "CinemaDebate",
+            "quote": "Too weird, too long. Good ending!"
+          }
+        ]
+      },
+      {
+        "rank": 2,
+        "title": "Moana",
+        "runtime": 115,
+        "studio": "Walt Disney Studios Motion Pictures",
+        "weekend": 19000000,
+        "total": 82081410,
+        "worldwide": 178481410,
+        "weeks": 2,
+        "change": -56,
+        "theaters": 4200,
+        "poster": "https://resizing.flixster.com/c67Ksj9Qk9BDVNnS5qEYU88zf3g=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzgxMmU4YTNhLTg0MGEtNGQxMi05NzJmLTA0Nzc0NzM3NWJmZS5qcGc=",
+        "rating": "PG",
+        "genre": "Kids & Family / Musical",
+        "rt": {
+          "critics": 31,
+          "audience": 89
+        },
+        "imdb": null,
+        "boxofficemojo": "https://www.boxofficemojo.com/release/rl486245121/",
+        "rottentomatoes": "https://www.rottentomatoes.com/m/moana_2026",
+        "reviews": [
+          {
+            "source": "Los Angeles Times",
+            "quote": "Johnson’s carapace is detailed with skin-like textures, swollen bicep veins and living tattoos that offer him encouragem..."
+          },
+          {
+            "source": "San Francisco Chronicle",
+            "quote": "The existence of a live-action version of “Moana” is easy enough to explain — it’s a money grab."
+          },
+          {
+            "source": "Polygon",
+            "quote": "Virtually every line, beat, and song in the new movie is identical to the 2016 version, apart from a few minor punch-ups..."
+          }
+        ]
+      },
+      {
+        "rank": 3,
+        "title": "Minions & Monsters",
+        "runtime": 90,
+        "studio": "Universal Pictures",
+        "weekend": 14800000,
+        "total": 137584465,
+        "worldwide": 357878465,
+        "weeks": 3,
+        "change": -30,
+        "theaters": 3510,
+        "poster": "https://resizing.flixster.com/1gyu0k41JOFVHiGEh8aA1Pw7X14=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzY0ZTNhMGQwLWEwN2QtNDIxNS05ZTNmLTEzMGM1YmM0ZmYyNC5qcGc=",
+        "rating": "PG",
+        "genre": "Kids & Family / Comedy",
+        "rt": {
+          "critics": 89,
+          "audience": 75
+        },
+        "imdb": null,
+        "boxofficemojo": "https://www.boxofficemojo.com/release/rl779714561/",
+        "rottentomatoes": "https://www.rottentomatoes.com/m/minions_and_monsters",
+        "reviews": [
+          {
+            "source": "IndieWire",
+            "quote": "Even when “Minions & Monsters” is at its weakest, there is a sense of genuine creative glee within it that’s all too oft..."
+          },
+          {
+            "source": "Los Angeles Times",
+            "quote": "I’ll admit, I snorted the first time I saw a TikTok of teens gussied up in suits to see a Minions movie."
+          },
+          {
+            "source": "New York Post",
+            "quote": "Minions. While the opposite of realistic, they are a rarity in the constructed world of animation."
+          }
+        ]
+      },
+      {
+        "rank": 4,
+        "title": "Toy Story 5",
+        "runtime": 102,
+        "studio": "Walt Disney Studios Motion Pictures",
+        "weekend": 14800000,
+        "total": 430918566,
+        "worldwide": 958418566,
+        "weeks": 5,
+        "change": -22,
+        "theaters": 3400,
+        "poster": "https://resizing.flixster.com/mA3D_vy893aAyLJ9qFLLW4U6LIU=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2YxNjlmZDVkLWU1YjEtNGU5Mi1hMDQwLWE0ZjNhYmNiMGFkZS5qcGc=",
+        "rating": "PG",
+        "genre": "Kids & Family / Comedy",
+        "rt": {
+          "critics": 92,
+          "audience": 95
+        },
+        "imdb": null,
+        "boxofficemojo": "https://www.boxofficemojo.com/release/rl3344859137/",
+        "rottentomatoes": "https://www.rottentomatoes.com/m/toy_story_5",
+        "reviews": [
+          {
+            "source": "Slate",
+            "quote": "What’s most heartening, and most surprising, is how consistently this latest installment in a venerable franchise makes ..."
+          },
+          {
+            "source": "Detroit News",
+            "quote": "There's a folksy charm that's still at the center of the \"Toy Story\" series, which is now like revisiting an old friend."
+          },
+          {
+            "source": "Los Angeles Times",
+            "quote": "Lilypad’s creativity-zapping existence throws off Pixar’s ability to brainstorm a dynamic story."
+          }
+        ]
+      },
+      {
+        "rank": 5,
+        "title": "Evil Dead Burn",
+        "runtime": 110,
+        "studio": "Warner Bros.See full company information\n        \n    /New Line Cinema",
+        "weekend": 5000000,
+        "total": 24150512,
+        "worldwide": 51350512,
+        "weeks": 2,
+        "change": -63,
+        "theaters": 3004,
+        "poster": "https://resizing.flixster.com/QAiR2e3WJLT9yUP9q0DmhXep1wg=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzVkZDMwNjYxLTYyY2MtNGUwZS05M2M2LTc2MTY5NDY0Y2M0OC5qcGc=",
+        "rating": "R",
+        "genre": "Horror / Mystery & Thriller",
+        "rt": {
+          "critics": 71,
+          "audience": 77
+        },
+        "imdb": null,
+        "boxofficemojo": "https://www.boxofficemojo.com/release/rl1925480449/",
+        "rottentomatoes": "https://www.rottentomatoes.com/m/evil_dead_burn",
+        "reviews": [
+          {
+            "source": "Los Angeles Times",
+            "quote": "This movie is not for those who want anything beyond a steak served blue."
+          },
+          {
+            "source": "Mashable",
+            "quote": "A sequel that feels tedious, gray, and soulless."
+          },
+          {
+            "source": "Associated Press",
+            "quote": "We’ve come a long way since Sam Raimi’s original trilogy, and not in a good way."
+          }
+        ]
+      },
+      {
+        "rank": 6,
+        "title": "The Invite",
+        "runtime": 107,
+        "studio": "A24",
+        "weekend": 3905908,
+        "total": 15017889,
+        "worldwide": 22794949,
+        "weeks": 4,
+        "change": -34,
+        "theaters": 2110,
+        "poster": "https://resizing.flixster.com/oQP7j5g3mdXhrPzuVM1Kt5yKNbo=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzMyM2E1MzNiLWJjYzgtNDQ1MC05M2Q0LTY2NWJmM2IyYjk4ZC5qcGc=",
+        "rating": "R",
+        "genre": "Comedy / Drama",
+        "rt": {
+          "critics": 96,
+          "audience": 91
+        },
+        "imdb": null,
+        "boxofficemojo": "https://www.boxofficemojo.com/release/rl2174058497/",
+        "rottentomatoes": "https://www.rottentomatoes.com/m/the_invite",
+        "reviews": [
+          {
+            "source": "Boston Globe",
+            "quote": "Wilde directs the cast well and keeps the pace as quick as the screenplay’s wit."
+          },
+          {
+            "source": "San Francisco Chronicle",
+            "quote": "As the visiting neighbors, Penélope Cruz and Edward Norton couldn’t be better, and that also says something about Wilde ..."
+          },
+          {
+            "source": "Rolling Stone",
+            "quote": "Whether this is the beginning of the hyphenate finding a distinctive voice as a director -- a Wilde style -- is TBD."
+          }
+        ]
+      },
+      {
+        "rank": 7,
+        "title": "Young Washington",
+        "runtime": 125,
+        "studio": "Angel",
+        "weekend": 3678487,
+        "total": 41018236,
+        "worldwide": 41027197,
+        "weeks": 3,
+        "change": -47,
+        "theaters": 2275,
+        "poster": "https://resizing.flixster.com/KP1tJ4m_MxyclyBUxTGPK-UeGZQ=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzM5ZjMyMzM1LWQ3ODYtNGM4Zi05OWJkLTRiMmU5ZDg4MWQwMS5qcGc=",
+        "rating": "PG-13",
+        "genre": "History / Drama",
+        "rt": {
+          "critics": 60,
+          "audience": 92
+        },
+        "imdb": null,
+        "boxofficemojo": "https://www.boxofficemojo.com/release/rl1436123137/",
+        "rottentomatoes": "https://www.rottentomatoes.com/m/young_washington",
+        "reviews": [
+          {
+            "source": "The Hollywood Reporter",
+            "quote": "Feeling much longer than its two hours, Young Washington suffers from the stiff, stodgy quality of so many historical dr..."
+          },
+          {
+            "source": "RogerEbert.com",
+            "quote": "[It is] a well-crafted but accessible biopic about the maturation of a person who helped shape the nation’s image of its..."
+          },
+          {
+            "source": "Variety",
+            "quote": "Young Washington is just competent enough to create that crisp tug of schoolkid patriotism the books we read as children..."
+          }
+        ]
+      },
+      {
+        "rank": 8,
+        "title": "Obsession",
+        "runtime": 67,
+        "studio": "Focus Features",
+        "weekend": 2500000,
+        "total": 258491260,
+        "worldwide": 442677260,
+        "weeks": 10,
+        "change": -35,
+        "theaters": 1524,
+        "poster": "https://resizing.flixster.com/wciPMzUm5zbBhWKN24eGdoRfK8I=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzBlZDNhZmI5LTM3N2EtNGIyZC1iZTA5LTU0NzUyY2M2ZGYyYi5qcGc=",
+        "rating": "R",
+        "genre": "Mystery & Thriller",
+        "rt": {
+          "critics": 94,
+          "audience": 94
+        },
+        "imdb": null,
+        "boxofficemojo": "https://www.boxofficemojo.com/release/rl1660846081/",
+        "rottentomatoes": "https://www.rottentomatoes.com/m/obsession_2025",
+        "reviews": [
+          {
+            "source": "The Atlantic",
+            "quote": "At 26 years old, Barker is speaking directly to his own generation -- the moviegoing Zoomers -- by making a meal out of ..."
+          },
+          {
+            "source": "Slate",
+            "quote": "There are far scarier movies than Obsession."
+          },
+          {
+            "source": "The New Yorker",
+            "quote": "[Obsession] opens in the realm of the straightforward and ultimately reveals itself to be something far more thoughtful ..."
+          }
+        ]
+      },
+      {
+        "rank": 9,
+        "title": "Supergirl",
+        "runtime": 108,
+        "studio": "Warner Bros.",
+        "weekend": 1525000,
+        "total": 69957228,
+        "worldwide": 120857228,
+        "weeks": 4,
+        "change": -59,
+        "theaters": 1572,
+        "poster": "https://resizing.flixster.com/UXVL_9q6taCUdkwweK7tn3PYOB0=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzk0MDhlMTk4LWE3OWYtNGYwNy05N2I2LTU3NTYxODI1MmQzOC5qcGc=",
+        "rating": "PG-13",
+        "genre": "Action / Adventure",
+        "rt": {
+          "critics": 53,
+          "audience": 74
+        },
+        "imdb": null,
+        "boxofficemojo": "https://www.boxofficemojo.com/release/rl3664281601/",
+        "rottentomatoes": "https://www.rottentomatoes.com/m/supergirl_2026",
+        "reviews": [
+          {
+            "source": "Polygon",
+            "quote": "Director Craig Gillespie goes all-in on replicating James Gunn's directorial style."
+          },
+          {
+            "source": "The Atlantic",
+            "quote": "Supergirl the character still has a lot going for her, presumably including a future in the DC Universe."
+          },
+          {
+            "source": "Slate",
+            "quote": "Despite an appealingly rough-edged title character played with scrappy aplomb by Milly Alcock, this second installment i..."
+          }
+        ]
+      },
+      {
+        "rank": 10,
+        "title": "Disclosure Day",
+        "runtime": 145,
+        "studio": "Universal Pictures",
+        "weekend": 1450000,
+        "total": 114703560,
+        "worldwide": 234719101,
+        "weeks": 6,
+        "change": -57,
+        "theaters": 1299,
+        "poster": "https://resizing.flixster.com/4W2dp7l4CLYenE1qkQ-HHjqO51w=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzZkYjVlMzFiLTA2NDItNDk4OC1hZGI5LWQyOTY4YTJjZGQ5Mi5qcGc=",
+        "rating": "PG-13",
+        "genre": "Sci-Fi / Mystery & Thriller",
+        "rt": {
+          "critics": 80,
+          "audience": 70
+        },
+        "imdb": null,
+        "boxofficemojo": "https://www.boxofficemojo.com/release/rl376274945/",
+        "rottentomatoes": "https://www.rottentomatoes.com/m/disclosure_day",
+        "reviews": [
+          {
+            "source": "Boston Globe",
+            "quote": "This thrilling film is all about its questions, not its answers. That is the mark of a true elder statesman’s wisdom."
+          },
+          {
+            "source": "TIME Magazine",
+            "quote": "Even though Disclosure Day absolutely qualifies as a big Hollywood entertainment, conventional on its surface, it still ..."
+          },
+          {
+            "source": "Slate",
+            "quote": "There’s an odd asymmetry to the script’s character development, in that some secondary characters emerge as more distinc..."
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": "2026-07-10",
     "label": "July 10–12, 2026",
     "movies": [
@@ -4726,372 +5092,6 @@
           {
             "source": "Audience",
             "quote": "Great comedy in first half, the second half mostly horror. Good movie great acting"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": "2026-04-10",
-    "label": "April 10–12, 2026",
-    "movies": [
-      {
-        "rank": 1,
-        "title": "The Super Mario Galaxy Movie",
-        "runtime": 98,
-        "studio": "Universal Pictures",
-        "weekend": 69000000,
-        "total": 308117135,
-        "worldwide": 628765135,
-        "weeks": 2,
-        "change": -48,
-        "theaters": 4284,
-        "poster": "https://image.tmdb.org/t/p/w500/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg",
-        "rating": "PG",
-        "genre": "Animation / Adventure",
-        "rt": {
-          "critics": 43,
-          "audience": 89
-        },
-        "imdb": "https://www.imdb.com/title/tt28650488/",
-        "boxofficemojo": "https://www.boxofficemojo.com/release/rl3344662529/",
-        "rottentomatoes": "https://www.rottentomatoes.com/m/the_super_mario_galaxy_movie",
-        "reviews": [
-          {
-            "source": "San Francisco Chronicle",
-            "quote": "Given the first film's success and the fanbase it helped build for this sequel, you can't help but wonder why ..."
-          },
-          {
-            "source": "MovieFreak.com",
-            "quote": "I found it all deeply annoying."
-          },
-          {
-            "source": "Mashable",
-            "quote": "We all have a finite amount of time on this Earth, and I cannot think of a single reason why you should spend any of you..."
-          }
-        ]
-      },
-      {
-        "rank": 2,
-        "title": "Project Hail Mary",
-        "runtime": 157,
-        "studio": "Amazon MGM Studios",
-        "weekend": 24580000,
-        "total": 256657974,
-        "worldwide": 510657974,
-        "weeks": 4,
-        "change": -22,
-        "theaters": 3817,
-        "poster": "https://image.tmdb.org/t/p/w500/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
-        "rating": "PG-13",
-        "genre": "Science Fiction / Adventure",
-        "rt": {
-          "critics": 94,
-          "audience": 96
-        },
-        "imdb": "https://www.imdb.com/title/tt12042730/",
-        "boxofficemojo": "https://www.boxofficemojo.com/release/rl1993768961/",
-        "rottentomatoes": "https://www.rottentomatoes.com/m/project_hail_mary",
-        "reviews": [
-          {
-            "source": "The Atlantic",
-            "quote": "This film is not quite the masterpiece its grand visual scale sometimes suggests it’s shooting for."
-          },
-          {
-            "source": "TIME Magazine",
-            "quote": "This is the most ambitious picture, in terms of structure and spectacle, that the filmmaking duo of Lord and Miller have..."
-          },
-          {
-            "source": "MovieFreak.com",
-            "quote": "As far as rousing, interstellar science fiction pulp adventures are concerned, directors Phil Lord and Christopher Mille..."
-          }
-        ]
-      },
-      {
-        "rank": 3,
-        "title": "The Drama",
-        "runtime": 105,
-        "studio": "A24",
-        "weekend": 8707406,
-        "total": 30849251,
-        "worldwide": 42701137,
-        "weeks": 2,
-        "change": -39,
-        "theaters": 3151,
-        "poster": "https://image.tmdb.org/t/p/w500/ikcNOWB6Qo1ER1H1BJL6Vf0W22s.jpg",
-        "rating": "R",
-        "genre": "Romance / Comedy",
-        "rt": {
-          "critics": 77,
-          "audience": 80
-        },
-        "imdb": "https://www.imdb.com/title/tt33071426/",
-        "boxofficemojo": "https://www.boxofficemojo.com/release/rl1676574721/",
-        "rottentomatoes": "https://www.rottentomatoes.com/m/the_drama",
-        "reviews": [
-          {
-            "source": "The Atlantic",
-            "quote": "In The Drama, Pattinson embodies Charlie as the model of tame, harmless Brit charm, and the minute the actor has built h..."
-          },
-          {
-            "source": "Detroit News",
-            "quote": "\"The Drama\" is the rare star-driven film that is willing to tackle big ideas, ask big questions and cause big discomfort..."
-          },
-          {
-            "source": "The New Yorker",
-            "quote": "The Drama has a juicy, combustible premise that it struggles to justify, not because there’s anything inherently distast..."
-          }
-        ]
-      },
-      {
-        "rank": 4,
-        "title": "You, Me & Tuscany",
-        "runtime": 104,
-        "studio": "Universal Pictures",
-        "weekend": 8000000,
-        "total": 8000000,
-        "worldwide": 9108000,
-        "weeks": 1,
-        "change": null,
-        "theaters": 3151,
-        "poster": "https://resizing.flixster.com/Xyt8cDDZ3W-gKmsTBYBBnmlO1zc=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2EyZTgzZTkzLWE0N2MtNGRkNy1hNzQ5LTQwOWZjNzIyMzc5YS5qcGc=",
-        "rating": "PG-13",
-        "genre": "Romance / Comedy",
-        "rt": {
-          "critics": 67,
-          "audience": 93
-        },
-        "imdb": null,
-        "boxofficemojo": "https://www.boxofficemojo.com/release/rl599818241/",
-        "rottentomatoes": "https://www.rottentomatoes.com/m/you_me_and_tuscany",
-        "reviews": [
-          {
-            "source": "RogerEbert.com",
-            "quote": "Like Zuccotto, Tuscany’s legendary whipped cream and chocolate dessert, it may not be nutritious, but it tastes very goo..."
-          },
-          {
-            "source": "Mashable",
-            "quote": "You, Me & Tuscany will be loved by rom-com fans for its sincere appreciation of the subgenre."
-          },
-          {
-            "source": "USA Today",
-            "quote": "While “You, Me & Tuscany” doesn’t add anything significantly new or innovative to the rom-com recipe, it’s a breezy resp..."
-          }
-        ]
-      },
-      {
-        "rank": 5,
-        "title": "Hoppers",
-        "runtime": 105,
-        "studio": "Walt Disney Studios Motion Pictures",
-        "weekend": 4100000,
-        "total": 157122859,
-        "worldwide": 354422859,
-        "weeks": 6,
-        "change": -30,
-        "theaters": 2850,
-        "poster": "https://image.tmdb.org/t/p/w500/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg",
-        "rating": "PG",
-        "genre": "Animation / Family",
-        "rt": {
-          "critics": 94,
-          "audience": 93
-        },
-        "imdb": "https://www.imdb.com/title/tt26443616/",
-        "boxofficemojo": "https://www.boxofficemojo.com/release/rl284918529/",
-        "rottentomatoes": "https://www.rottentomatoes.com/m/hoppers",
-        "reviews": [
-          {
-            "source": "The Atlantic",
-            "quote": "The movie, in actuality, is refreshingly mordant about what might really happen if prey and predators were to try bandin..."
-          },
-          {
-            "source": "Los Angeles Times",
-            "quote": "Hoppers features moments of dark humor that never fail to impress, unfolds absolutely stunning action scenes, has its he..."
-          },
-          {
-            "source": "NPR",
-            "quote": "Directed by Daniel Chong from a script by Jesse Andrews, this eco-themed sci-fi farce may not be vintage or all-time-gre..."
-          }
-        ]
-      },
-      {
-        "rank": 6,
-        "title": "BTS WORLD TOUR 'ARIRANG' in GOYANG: LIVE VIEWING",
-        "runtime": 180,
-        "studio": "Trafalgar Releasing",
-        "weekend": 2440000,
-        "total": 2440000,
-        "worldwide": 2440000,
-        "weeks": 1,
-        "change": null,
-        "theaters": 1189,
-        "poster": "https://resizing.flixster.com/PHfiV6XdwQOKpzT1anvhzjtJlPk=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2Y0YmNiMDBkLTVlZjUtNGI3NS1iMWJlLTRhNTI0NGZhODhlMC5qcGc=",
-        "rating": null,
-        "genre": "Music",
-        "rt": {
-          "critics": 98,
-          "audience": 98
-        },
-        "imdb": null,
-        "boxofficemojo": "https://www.boxofficemojo.com/release/rl2895282177/",
-        "rottentomatoes": "https://www.rottentomatoes.com/m/bts_world_tour_arirang_in_goyang_live_viewing",
-        "reviews": [
-          {
-            "source": "Audience",
-            "quote": "Absolutely mind-blowing concert! Almost better than being there in person (well, ALMOST)."
-          },
-          {
-            "source": "Audience",
-            "quote": "I had so much fun singing and dancing with BTS and the other Army members!!!"
-          },
-          {
-            "source": "Audience",
-            "quote": "Loved the movie! AMC theater did struggle with broadcasting the encore at the Southport Mall location in Durham."
-          }
-        ]
-      },
-      {
-        "rank": 7,
-        "title": "Exit 8",
-        "runtime": 95,
-        "studio": "Neon",
-        "weekend": 1404500,
-        "total": 1404500,
-        "worldwide": 40609967,
-        "weeks": 1,
-        "change": null,
-        "theaters": 495,
-        "poster": "https://resizing.flixster.com/972TLZ2u_WRsFxC71B4FVXO8vLo=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2JlMTU4MjEzLWYxYmUtNDkzNC1iY2M0LTEzMmRjOWUyMTIxYS5qcGc=",
-        "rating": "PG-13",
-        "genre": "Mystery & Thriller / Horror",
-        "rt": {
-          "critics": 95,
-          "audience": 84
-        },
-        "imdb": null,
-        "boxofficemojo": "https://www.boxofficemojo.com/release/rl3147857921/",
-        "rottentomatoes": "https://www.rottentomatoes.com/m/exit_8_2025",
-        "reviews": [
-          {
-            "source": "RogerEbert.com",
-            "quote": "Still, there’s just enough for fans of the game or modern horror to chew on."
-          },
-          {
-            "source": "The Hollywood Reporter",
-            "quote": "A little more innovation could have gone a long way here, allowing us to escape the redundancy of the maze."
-          },
-          {
-            "source": "Variety",
-            "quote": "While it doesn’t pretend to some grand philosophy, the movie’s sparseness does give it some mileage as an allegory for h..."
-          }
-        ]
-      },
-      {
-        "rank": 8,
-        "title": "Faces of Death",
-        "runtime": 98,
-        "studio": "IFC Films",
-        "weekend": 1368604,
-        "total": 1368604,
-        "worldwide": 1700000,
-        "weeks": 1,
-        "change": null,
-        "theaters": 1600,
-        "poster": "https://resizing.flixster.com/apjYUcTkHrxGqc7ov_zQmVzDqzo=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzQzMTk4NGEyLTU3NzUtNDIxMi1iZTRiLTc0NDM3OGExNDcxMy5qcGc=",
-        "rating": "R",
-        "genre": "Horror",
-        "rt": {
-          "critics": 66,
-          "audience": 68
-        },
-        "imdb": null,
-        "boxofficemojo": "https://www.boxofficemojo.com/release/rl2072936449/",
-        "rottentomatoes": "https://www.rottentomatoes.com/m/faces_of_death_2026",
-        "reviews": [
-          {
-            "source": "RogerEbert.com",
-            "quote": "It becomes a heady swirl of themes and ideas: the moderator of the online age fighting back against what this dark time ..."
-          },
-          {
-            "source": "Los Angeles Times",
-            "quote": "As ever, the most terrifying element in a web-based thriller isn’t the people onscreen."
-          },
-          {
-            "source": "The Hollywood Reporter",
-            "quote": "It all sounds very impressive and very thoughtful."
-          }
-        ]
-      },
-      {
-        "rank": 9,
-        "title": "A Great Awakening",
-        "runtime": 129,
-        "studio": "Roadside Attractions",
-        "weekend": 1271486,
-        "total": 4888757,
-        "worldwide": 4888757,
-        "weeks": 2,
-        "change": -38,
-        "theaters": 1274,
-        "poster": "https://image.tmdb.org/t/p/w500/rd7BsFaHO7JaYlz3WHUvqHjgm60.jpg",
-        "rating": "PG-13",
-        "genre": "Drama / History",
-        "rt": {
-          "critics": 69,
-          "audience": 97
-        },
-        "imdb": "https://www.imdb.com/title/tt33305882/",
-        "boxofficemojo": "https://www.boxofficemojo.com/release/rl3751116801/",
-        "rottentomatoes": "https://www.rottentomatoes.com/m/a_great_awakening",
-        "reviews": [
-          {
-            "source": "New York Times",
-            "quote": "It’s an earnest account of a religious movement that still resonates."
-          },
-          {
-            "source": "Audience",
-            "quote": "The message overpowers everything else in A Great Awakening."
-          },
-          {
-            "source": "Audience",
-            "quote": "The faith-based and hagiographic historical drama \"A Great Awakening\" tells Calvinist Methodist preacher George Whitefie..."
-          }
-        ]
-      },
-      {
-        "rank": 10,
-        "title": "Reminders of Him",
-        "runtime": 114,
-        "studio": "Universal Pictures",
-        "weekend": 1000000,
-        "total": 47455140,
-        "worldwide": 84168140,
-        "weeks": 5,
-        "change": -55,
-        "theaters": 1407,
-        "poster": "https://image.tmdb.org/t/p/w500/7L6rceYgzQ0NeHD7PRDNrRoQ291.jpg",
-        "rating": "PG-13",
-        "genre": "Romance / Drama",
-        "rt": {
-          "critics": 57,
-          "audience": 88
-        },
-        "imdb": "https://www.imdb.com/title/tt33714084/",
-        "boxofficemojo": "https://www.boxofficemojo.com/release/rl2970583041/",
-        "rottentomatoes": "https://www.rottentomatoes.com/m/reminders_of_him",
-        "reviews": [
-          {
-            "source": "Boston Globe",
-            "quote": "If the movie gods are remotely merciful, this horrible adaptation of a 2022 Colleen Hoover novel will top my 10 worst li..."
-          },
-          {
-            "source": "RogerEbert.com",
-            "quote": "It is so preoccupied with tragedy that the romance becomes secondary."
-          },
-          {
-            "source": "San Francisco Chronicle",
-            "quote": "What’s beautiful and impressive about Monroe in this film is her range "
           }
         ]
       }
