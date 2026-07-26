@@ -134,16 +134,16 @@
         "rottentomatoes": "https://www.rottentomatoes.com/m/hadestown_the_musical",
         "reviews": [
           {
-            "source": "Los Angeles Times",
-            "quote": "the vocals were amazing and the show is breath taking"
-          },
-          {
             "source": "RIOTUS",
-            "quote": "I liked this better than what I saw on Broadway in 2022."
+            "quote": "Terrific, singing, acting and play all are outstanding. Would highly encourage everyone to go."
           },
           {
             "source": "The Gate",
-            "quote": "The original cast is sublime. The filming/mixing/editing is very well done - it’s easy to understand the lyrics, and it’..."
+            "quote": "Great story, acting and loved the camera work."
+          },
+          {
+            "source": "Winnipeg Free Press",
+            "quote": "the vocals were amazing and the show is breath taking"
           }
         ]
       },
@@ -307,7 +307,7 @@
         "genre": "Action / Mystery & Thriller",
         "rt": {
           "critics": 64,
-          "audience": 69
+          "audience": 68
         },
         "imdb": null,
         "boxofficemojo": "https://www.boxofficemojo.com/release/rl3795878145/",
@@ -315,15 +315,15 @@
         "reviews": [
           {
             "source": "Tribune News Service",
-            "quote": "It was a good movie even though it was a silent movie. With only 3 or 4 lines towards the end"
+            "quote": "a total of around 12 spoken words total waist of time"
           },
           {
             "source": "Should I See It",
-            "quote": "there&#39;s no dialog which is not advertised but really good movie if you can pay attention to details"
+            "quote": "It’s was great . I like the action. First I see a movie were they speak 🫣"
           },
           {
-            "source": "Movie Files",
-            "quote": "there was almost no words in the movie"
+            "source": "Cine Sin Fronteras",
+            "quote": "Great movie. Was uniquely filmed with minimal dialogue and more reliance on acting, music, and sounds fx."
           }
         ]
       },
