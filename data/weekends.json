@@ -78,7 +78,7 @@
         "genre": "Romance / Comedy",
         "rt": {
           "critics": 46,
-          "audience": 71
+          "audience": 72
         },
         "imdb": null,
         "boxofficemojo": "https://www.boxofficemojo.com/release/rl433750017/",
@@ -86,15 +86,15 @@
         "reviews": [
           {
             "source": "Breakfast All Day",
-            "quote": "I did not expect to laugh that much. It was surprisingly funny and exactly what it needed to be, a cute date night movie..."
+            "quote": "It was actually a really fun movie to watch!"
           },
           {
             "source": "The Movie Cricket",
-            "quote": "Hilarious. Very funny. Must see. Will add to my repeat offender list."
+            "quote": "I did not expect to laugh that much. It was surprisingly funny and exactly what it needed to be, a cute date night movie..."
           },
           {
-            "source": "Audience",
-            "quote": "I did not expect to laugh that much. It was surprisingly funny and exactly what it needed to be, a cute date night movie..."
+            "source": "The Gate",
+            "quote": "Hilarious. Very funny. Must see. Will add to my repeat offender list."
           }
         ]
       },
@@ -258,7 +258,7 @@
         "genre": "Horror",
         "rt": {
           "critics": 27,
-          "audience": 48
+          "audience": 47
         },
         "imdb": null,
         "boxofficemojo": "https://www.boxofficemojo.com/release/rl933134337/",
