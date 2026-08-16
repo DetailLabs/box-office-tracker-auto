@@ -1078,7 +1078,8 @@
       14.8,
       10,
       6.3,
-      3.9
+      3.9,
+      2.3
     ],
     "worldwide": [
       312,
@@ -1088,7 +1089,8 @@
       958.4,
       1022.1,
       1065.9,
-      1094
+      1094,
+      1114.8
     ]
   },
   "Leviticus": {
@@ -1228,13 +1230,15 @@
       124.5,
       87,
       51,
-      31.5
+      31.5,
+      23.2
     ],
     "worldwide": [
       264.1,
       639.6,
       911.4,
-      1104.8
+      1104.8,
+      1290.9
     ]
   },
   "Hadestown: The Musical": {
@@ -1258,11 +1262,13 @@
   "Spider-Man: Brand New Day": {
     "domestic": [
       355,
-      145
+      145,
+      70
     ],
     "worldwide": [
       927,
-      1665.1
+      1665.1,
+      2021.8
     ]
   },
   "I Want Your Sex": {
@@ -1275,10 +1281,12 @@
   },
   "One Night Only": {
     "domestic": [
-      5.7
+      5.7,
+      2
     ],
     "worldwide": [
-      5.7
+      5.7,
+      12.1
     ]
   },
   "Super Troopers 3": {
@@ -1303,6 +1311,54 @@
     ],
     "worldwide": [
       0.6
+    ]
+  },
+  "The End of Oak Street": {
+    "domestic": [
+      21
+    ],
+    "worldwide": [
+      47
+    ]
+  },
+  "PAW Patrol: The Dino Movie": {
+    "domestic": [
+      20.5
+    ],
+    "worldwide": [
+      69
+    ]
+  },
+  "Katseye: Wild Hearts": {
+    "domestic": [
+      4
+    ],
+    "worldwide": [
+      4
+    ]
+  },
+  "Six: The Musical Live!": {
+    "domestic": [
+      3
+    ],
+    "worldwide": [
+      11.9
+    ]
+  },
+  "The Brink of War": {
+    "domestic": [
+      2.7
+    ],
+    "worldwide": [
+      2.7
+    ]
+  },
+  "Vishwanath and Sons": {
+    "domestic": [
+      1.6
+    ],
+    "worldwide": [
+      1.6
     ]
   }
 }
