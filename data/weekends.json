@@ -78,7 +78,7 @@
         "genre": "Mystery & Thriller",
         "rt": {
           "critics": 86,
-          "audience": 78
+          "audience": 77
         },
         "imdb": null,
         "boxofficemojo": "https://www.boxofficemojo.com/release/rl2908717057/",
@@ -86,15 +86,15 @@
         "reviews": [
           {
             "source": "Sight &amp; Sound",
-            "quote": "&#39;a good time, no alcohol required&#39;"
+            "quote": "This movie couldn&#39;t decide whether it was serious/terrifying or funny/silly."
           },
           {
-            "source": "Seattle Refined",
-            "quote": "Awesome most beautiful respected movie!"
+            "source": "The MovieMaven",
+            "quote": "portals to get them in and out is dumb."
           },
           {
             "source": "Splice Today",
-            "quote": "Jumanji meets Jurassic park"
+            "quote": "They acting dumb throughout the movie and it irks me"
           }
         ]
       },
@@ -114,7 +114,7 @@
         "genre": "Kids & Family / Comedy",
         "rt": {
           "critics": 81,
-          "audience": 96
+          "audience": 95
         },
         "imdb": null,
         "boxofficemojo": "https://www.boxofficemojo.com/release/rl4082532353/",
@@ -122,15 +122,15 @@
         "reviews": [
           {
             "source": "RogerEbert.com",
-            "quote": "Good movie overall humdinger was an entertaining presence"
+            "quote": "It was a funny and well written movie."
           },
           {
             "source": "InSession Film",
-            "quote": "Such a great movie. Made me laugh and cry!"
+            "quote": "Good movie overall humdinger was an entertaining presence"
           },
           {
             "source": "Should I See It",
-            "quote": "this was a great movie. I loved the message about always keep trying. my 5 year old laughed the entire time."
+            "quote": "Such a great movie. Made me laugh and cry!"
           }
         ]
       },
@@ -149,17 +149,13 @@
         "rating": null,
         "genre": "Documentary / Music",
         "rt": {
-          "critics": 89,
-          "audience": 89
+          "critics": 90,
+          "audience": 90
         },
         "imdb": null,
         "boxofficemojo": "https://www.boxofficemojo.com/release/rl1941929985/",
         "rottentomatoes": "https://www.rottentomatoes.com/m/katseye_wild_hearts",
         "reviews": [
-          {
-            "source": "San Francisco Chronicle",
-            "quote": "IT WAS SO FUN I went with my friend and we had the best time definitely worth it!!!"
-          },
           {
             "source": "Audience",
             "quote": "IT WAS SO FUN I went with my friend and we had the best time definitely worth it!!!"
@@ -167,6 +163,10 @@
           {
             "source": "Audience",
             "quote": "I was expecting to enjoy the music not sit for 1.5 hours watching interviews and clips I&#39;ve already seen online."
+          },
+          {
+            "source": "Audience",
+            "quote": "The movie was absolutely amazing and emotional!! I enjoyed seeing the documentary of katseye!!"
           }
         ]
       },
@@ -329,8 +329,8 @@
         "rating": null,
         "genre": "Drama / Romance",
         "rt": {
-          "critics": 89,
-          "audience": 89
+          "critics": 90,
+          "audience": 90
         },
         "imdb": null,
         "boxofficemojo": "https://www.boxofficemojo.com/release/rl2823192833/",
