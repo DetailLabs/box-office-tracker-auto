@@ -1387,9 +1387,11 @@
   },
   "Tony": {
     "domestic": [
+      5,
       5
     ],
     "worldwide": [
+      7.1,
       7.1
     ]
   },
@@ -1411,9 +1413,11 @@
   },
   "Teenage Sex and Death at Camp Miasma": {
     "domestic": [
+      1.9,
       1.9
     ],
     "worldwide": [
+      4,
       4
     ]
   }
