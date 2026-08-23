@@ -1231,14 +1231,16 @@
       87,
       51,
       31.5,
-      23.2
+      23.2,
+      19.5
     ],
     "worldwide": [
       264.1,
       639.6,
       911.4,
       1104.8,
-      1290.9
+      1290.9,
+      1446.2
     ]
   },
   "Hadestown: The Musical": {
@@ -1263,12 +1265,14 @@
     "domestic": [
       355,
       145,
-      70
+      70,
+      39
     ],
     "worldwide": [
       927,
       1665.1,
-      2021.8
+      2021.8,
+      2219.9
     ]
   },
   "I Want Your Sex": {
@@ -1315,18 +1319,22 @@
   },
   "The End of Oak Street": {
     "domestic": [
-      21
+      21,
+      9
     ],
     "worldwide": [
-      47
+      47,
+      86
     ]
   },
   "PAW Patrol: The Dino Movie": {
     "domestic": [
-      20.5
+      20.5,
+      9.1
     ],
     "worldwide": [
-      69
+      69,
+      103.4
     ]
   },
   "Katseye: Wild Hearts": {
@@ -1359,6 +1367,54 @@
     ],
     "worldwide": [
       1.6
+    ]
+  },
+  "Insidious: Out of the Further": {
+    "domestic": [
+      25.3
+    ],
+    "worldwide": [
+      60.3
+    ]
+  },
+  "Mutiny": {
+    "domestic": [
+      7.5
+    ],
+    "worldwide": [
+      7.5
+    ]
+  },
+  "Tony": {
+    "domestic": [
+      5
+    ],
+    "worldwide": [
+      7.1
+    ]
+  },
+  "The Fast and the Furious": {
+    "domestic": [
+      3.1
+    ],
+    "worldwide": [
+      3.1
+    ]
+  },
+  "Spa Weekend": {
+    "domestic": [
+      3
+    ],
+    "worldwide": [
+      3
+    ]
+  },
+  "Teenage Sex and Death at Camp Miasma": {
+    "domestic": [
+      1.9
+    ],
+    "worldwide": [
+      4
     ]
   }
 }
