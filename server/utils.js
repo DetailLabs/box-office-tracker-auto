@@ -83,12 +83,10 @@ function hasRTSlugOverride(title) {
 }
 
 /**
- * Generate a Rotten Tomatoes URL slug from a movie title.
- * e.g., "The Super Mario Galaxy Movie" -> "the_super_mario_galaxy_movie"
+ * Normalize an already word-separated title into an RT slug.
  */
-function generateRTSlug(title) {
-  if (RT_SLUG_OVERRIDES[title]) return RT_SLUG_OVERRIDES[title];
-  return title
+function slugify(str) {
+  return str
     .toLowerCase()
     .replace(/['']/g, '')        // Remove apostrophes
     .replace(/&/g, ' and ')      // Replace & with "and" (RT convention)
@@ -96,6 +94,33 @@ function generateRTSlug(title) {
     .replace(/\s+/g, '_')        // Spaces to underscores
     .replace(/_+/g, '_')         // Collapse multiple underscores
     .replace(/^_|_$/g, '');      // Trim underscores
+}
+
+/**
+ * Generate a Rotten Tomatoes URL slug from a movie title.
+ * e.g., "The Super Mario Galaxy Movie" -> "the_super_mario_galaxy_movie"
+ *
+ * Hyphens are word separators on RT, not throwaway punctuation:
+ * "Spider-Man: Brand New Day" -> spider_man_brand_new_day (not spiderman_...),
+ * matching every other Spider-Man page on the site.
+ */
+function generateRTSlug(title) {
+  if (RT_SLUG_OVERRIDES[title]) return RT_SLUG_OVERRIDES[title];
+  return slugify(title.replace(/[-\u2013\u2014]/g, ' '));
+}
+
+/**
+ * Slug candidates for a title, best guess first.
+ * The second form (hyphens dropped rather than split) covers the occasional RT
+ * page that squashes a hyphenated word together, so a miss on the primary slug
+ * self-heals instead of leaving the movie with no poster or scores.
+ */
+function generateRTSlugVariants(title) {
+  if (RT_SLUG_OVERRIDES[title]) return [RT_SLUG_OVERRIDES[title]];
+  const variants = [generateRTSlug(title)];
+  const squashed = slugify(title.replace(/[-\u2013\u2014]/g, ''));
+  if (squashed && !variants.includes(squashed)) variants.push(squashed);
+  return variants;
 }
 
 /**
@@ -128,6 +153,7 @@ module.exports = {
   getWeekendLabel,
   getWeekendId,
   generateRTSlug,
+  generateRTSlugVariants,
   hasRTSlugOverride,
   parseMoney,
   parsePercent,

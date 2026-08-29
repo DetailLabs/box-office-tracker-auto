@@ -33,10 +33,16 @@ function hasRtData(m) {
  *  - our own TMDB placeholder (ends in placeholder.jpg)
  *  - RT's default "no poster" fallback gif served from images.fandango.com,
  *    which keeps the same URL across all movies without a real poster
+ *  - RT's own site assets (the RT logo / Twitter card), which a bad slug used
+ *    to leave behind as a movie's poster
  */
 function isPlaceholderPoster(url) {
   if (!url) return true;
-  return url.endsWith('placeholder.jpg') || url.includes('rt-poster-default');
+  return (
+    url.endsWith('placeholder.jpg') ||
+    url.includes('rt-poster-default') ||
+    /rottentomatoes\.com\/assets\/|RT_TwitterCard/i.test(url)
+  );
 }
 
 function hasTmdbData(m) {

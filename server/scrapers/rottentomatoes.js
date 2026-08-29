@@ -1,6 +1,6 @@
 const axios = require('axios');
 const cheerio = require('cheerio');
-const { generateRTSlug, hasRTSlugOverride, sleep } = require('../utils');
+const { generateRTSlug, generateRTSlugVariants, hasRTSlugOverride, sleep } = require('../utils');
 
 const HEADERS = {
   'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
@@ -10,8 +10,13 @@ const HEADERS = {
 
 /**
  * Fetch an RT movie page and extract its release year (from the LD+JSON
- * "dateCreated" field). Returns { html, $, url, year }, or null when the
- * page doesn't load as a valid HTML document.
+ * "dateCreated" field). Returns { html, $, url, year, isMovie }, or null when
+ * the page doesn't load as a valid HTML document.
+ *
+ * `isMovie` distinguishes a real movie page from the generic RT shell that a
+ * bad slug can land on — that shell still returns 200 and still carries an
+ * og:image (RT's own branding card), which is how a wrong slug used to end up
+ * saved as a movie's "poster".
  */
 async function fetchMoviePage(slug) {
   const url = `https://www.rottentomatoes.com/m/${slug}`;
@@ -24,7 +29,9 @@ async function fetchMoviePage(slug) {
   const $ = cheerio.load(html);
   const yearMatch = html.match(/"dateCreated"\s*:\s*"(\d{4})/);
   const year = yearMatch ? parseInt(yearMatch[1], 10) : null;
-  return { html, $, url, year };
+  const isMovie =
+    /"@type"\s*:\s*"Movie"/.test(html) || html.includes('<media-scorecard');
+  return { html, $, url, year, isMovie };
 }
 
 /**
@@ -41,9 +48,34 @@ async function fetchMoviePage(slug) {
  * as-is and skip the check.
  */
 async function resolveMoviePage(title) {
-  const slug = generateRTSlug(title);
-  console.log(`[RT] Fetching scores: https://www.rottentomatoes.com/m/${slug}`);
-  const page = await fetchMoviePage(slug);
+  // Try each slug spelling until one lands on a real movie page. Keep the first
+  // page that loaded at all as a last resort, so score extraction still gets a
+  // shot if RT's markup changes and the movie-page check stops matching.
+  const variants = generateRTSlugVariants(title);
+  let slug = variants[0];
+  let page = null;
+  let fallback = null;
+  let fallbackSlug = variants[0];
+
+  for (let i = 0; i < variants.length; i++) {
+    if (i > 0) await sleep(1500);
+    console.log(`[RT] Fetching scores: https://www.rottentomatoes.com/m/${variants[i]}`);
+    const candidate = await fetchMoviePage(variants[i]);
+    if (candidate?.isMovie) {
+      slug = variants[i];
+      page = candidate;
+      break;
+    }
+    if (candidate && !fallback) {
+      fallback = candidate;
+      fallbackSlug = variants[i];
+    }
+  }
+
+  if (!page) {
+    page = fallback;
+    slug = fallbackSlug;
+  }
   if (hasRTSlugOverride(title)) return page;
 
   const currentYear = new Date().getFullYear();
@@ -440,6 +472,16 @@ function truncateQuote(quote) {
 }
 
 /**
+ * Is this URL an actual poster image, rather than one of RT's own site assets?
+ * A page without a poster (or a slug that missed) still serves RT branding via
+ * og:image — saving that as the poster produces the RT logo where art belongs.
+ */
+function isRealPoster(url) {
+  if (!url || typeof url !== 'string') return false;
+  return !/rottentomatoes\.com\/assets\/|RT_TwitterCard|rt-poster-default/i.test(url);
+}
+
+/**
  * Extract poster, runtime, genre, and rating from the RT page.
  * This replaces the TMDB dependency — no API key needed.
  */
@@ -454,7 +496,7 @@ function extractMovieMetadata($, html) {
   if (ldJson) {
     try {
       const data = JSON.parse(ldJson);
-      if (data.image) poster = data.image;
+      if (isRealPoster(data.image)) poster = data.image;
       if (data.contentRating) rating = data.contentRating;
       if (Array.isArray(data.genre) && data.genre.length > 0) {
         genre = data.genre.slice(0, 2).join(' / ');
@@ -464,10 +506,12 @@ function extractMovieMetadata($, html) {
 
   // Fallback poster: og:image or scorecard poster
   if (!poster) {
-    poster = $('meta[property="og:image"]').attr('content') || null;
+    const ogImage = $('meta[property="og:image"]').attr('content');
+    if (isRealPoster(ogImage)) poster = ogImage;
   }
   if (!poster) {
-    poster = $('media-scorecard rt-img[slot="poster-image"]').attr('src') || null;
+    const scorecard = $('media-scorecard rt-img[slot="poster-image"]').attr('src');
+    if (isRealPoster(scorecard)) poster = scorecard;
   }
 
   // Runtime from page text (e.g. "1h 38m")
