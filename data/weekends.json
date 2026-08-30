@@ -6,7 +6,7 @@
       {
         "rank": 1,
         "title": "Spider-Man: Brand New Day",
-        "runtime": null,
+        "runtime": 145,
         "studio": "Sony Pictures Releasing",
         "weekend": 22200000,
         "total": 891507928,
@@ -14,17 +14,30 @@
         "weeks": 5,
         "change": -43,
         "theaters": 3678,
-        "poster": "https://image.tmdb.org/t/p/w500/placeholder.jpg",
-        "rating": null,
-        "genre": null,
+        "poster": "https://resizing.flixster.com/A0AhY7vcoHLlqwO6nfwnyOB6wZA=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2E1NWUwMWJhLWI5OTUtNDZkMy04NmE4LWU5Y2I5NTQ2NTE4OC5qcGc=",
+        "rating": "PG-13",
+        "genre": "Action / Adventure",
         "rt": {
-          "critics": null,
-          "audience": null
+          "critics": 89,
+          "audience": 98
         },
         "imdb": null,
         "boxofficemojo": "https://www.boxofficemojo.com/release/rl2299756545/",
-        "rottentomatoes": "https://www.rottentomatoes.com/m/spiderman_brand_new_day",
-        "reviews": []
+        "rottentomatoes": "https://www.rottentomatoes.com/m/spider_man_brand_new_day",
+        "reviews": [
+          {
+            "source": "Washington Post",
+            "quote": "Brand New Day is a messy but largely successful attempt at remembering what makes Spider-Man special: that his greatest ..."
+          },
+          {
+            "source": "Salon.com",
+            "quote": "What is the plot of “Brand New Day?” You may be asking yourself this regardless of whether you’ve already seen the film ..."
+          },
+          {
+            "source": "Filmspotting",
+            "quote": "Beneath the MCU obligations and superhero spectacle lies something surprisingly heartfelt: a Spider-Man movie about lone..."
+          }
+        ]
       },
       {
         "rank": 2,
@@ -50,15 +63,15 @@
         "reviews": [
           {
             "source": "The Ringer",
-            "quote": "This was a great movie!! I very happy that it was released. I love my looney tunes ❤️❤️❤️"
+            "quote": "The self-reflexive satire of Coyote vs. Acme is complemented by the quality of its craftsmanship -- the live-action cine..."
           },
           {
-            "source": "Sarah G Vincent Views",
-            "quote": "This movie was thoroughly entertaining and quite hilarious."
+            "source": "Tribune News Service",
+            "quote": "a sharp, satirical and silly excavation of the some of the ills that plague our culture, while paying loving tribute to ..."
           },
           {
-            "source": "MovieJawn",
-            "quote": "Great movie! Cant believe they wanted to shelf this."
+            "source": "AARP Movies for Grownups",
+            "quote": "Not since Who Framed Roger Rabbit in 1988 has there been such a funny, shrewd and entertaining movie weaving live action..."
           }
         ]
       },
@@ -85,16 +98,16 @@
         "rottentomatoes": "https://www.rottentomatoes.com/m/the_odyssey_2026",
         "reviews": [
           {
-            "source": "Perri Nemiroff (YouTube)",
-            "quote": "I haven’t enjoyed a movie this great in a long time. 5 stars across the board. Going to see it again."
+            "source": "Los Angeles Times",
+            "quote": "What you really need to do is keep your eyes wide open while enjoying a titanic film that may not be perfect but will ke..."
           },
           {
-            "source": "La Estatuilla",
-            "quote": "Nope. Too long, too little action. People actually clapped at the end so maybe we were wrong but I didn’t see what all t..."
+            "source": "DwightBrownInk.com",
+            "quote": "Audiences who start this sojourn will finish it. Like Odysseus, they won’t stop."
           },
           {
-            "source": "TheIndependentCritic.com",
-            "quote": "Movie has a great plot. Great actors. Somehow I felt a disconnect with the authenticity of the movie."
+            "source": "Decent Films",
+            "quote": "Like the filmmaker’s last work, ‘Oppenheimer,’ ‘The Odyssey’ has a downbeat, apocalyptic bent—but, unlike ‘Oppenheimer,’..."
           }
         ]
       },
@@ -121,16 +134,16 @@
         "rottentomatoes": "https://www.rottentomatoes.com/m/insidious_out_of_the_further",
         "reviews": [
           {
-            "source": "The Travers Take",
-            "quote": "The movie felt really slow, but it went good"
+            "source": "The Hollywood Reporter",
+            "quote": "After a while the film’s sustained creepiness gives way to self-parody, with all the grotesquely made-up performers port..."
           },
           {
-            "source": "The Gate",
-            "quote": "Fantastic movie! In my opinion, this was one of THE best ones from the franchise!"
+            "source": "Empire Magazine",
+            "quote": "The Insidious films may have offered diminishing returns since the original, but Out Of The Further is a decent instalme..."
           },
           {
-            "source": "Sarah G Vincent Views",
-            "quote": "not better than the first. not too many scares either."
+            "source": "New York Magazine/Vulture",
+            "quote": "Insidious: Out of the Further might be dumb and predictable in its broad strokes, but as a shock engine it’s occasionall..."
           }
         ]
       },
@@ -158,15 +171,15 @@
         "reviews": [
           {
             "source": "The New Yorker",
-            "quote": "This movie has great visuals during flight, but fails to bring a coherent storyline or any sort of realism to the post a..."
+            "quote": "The heart of the film -- despite gory confrontations with feral marauders -- is the rebuilding of trust, the overcoming ..."
           },
           {
-            "source": "Sarah G Vincent Views",
-            "quote": "Visually stunning. Jacob Elordi, Josh Brolin, Guy Pearce and Margaret Qualley gave exceptional performances."
+            "source": "Tribune News Service",
+            "quote": "an odd curio in Scott’s oeuvre, though it bears its own interesting moments nonetheless."
           },
           {
-            "source": "Movies and Shakers",
-            "quote": "Not a dull moment. Exciting and great acting…"
+            "source": "AARP Movies for Grownups",
+            "quote": "Despite all the mayhem and mushy brains, you can almost hear Louis Armstrong singing “What a Wonderful World.”"
           }
         ]
       },
@@ -194,15 +207,15 @@
         "reviews": [
           {
             "source": "RogerEbert.com",
-            "quote": "A really fun horror movie filled with creativity. Knowing exactly what it needs to be to not disappoint."
+            "quote": "It’s a trippy, ballsy, and genuinely entertaining package that shouldn’t work at all."
           },
           {
-            "source": "Sarah G Vincent Views",
-            "quote": "the exact Barney vibes was on point , great acting"
+            "source": "San Jose Mercury News",
+            "quote": "The voice cast — Keegan-Michael Key freaked me out as Buddy — is almost too good, and the young cast is strong, too."
           },
           {
-            "source": "Film Speak",
-            "quote": "It was a lot better than I expected but not as scary as I thought. It was pretty disturbing and intriguing!"
+            "source": "New York Times",
+            "quote": "Look past some logical holes and desultory messages, and there’s a playfully twisted and unsparingly gory horror romp he..."
           }
         ]
       },
@@ -229,16 +242,16 @@
         "rottentomatoes": "https://www.rottentomatoes.com/m/the_end_of_oak_street",
         "reviews": [
           {
-            "source": "Sight &amp; Sound",
-            "quote": "This movie couldn&#39;t decide whether it was serious/terrifying or funny/silly."
+            "source": "The Ringer",
+            "quote": "On one level, The End of Oak Street is nothing more -- or less -- than a swift, satisfying exercise in fight-or-flight s..."
           },
           {
-            "source": "The MovieMaven",
-            "quote": "portals to get them in and out is dumb."
+            "source": "Autostraddle",
+            "quote": "It’s been a long time since dinosaur films have felt this frightening or tense."
           },
           {
-            "source": "Splice Today",
-            "quote": "They acting dumb throughout the movie and it irks me"
+            "source": "Salon.com",
+            "quote": "Mitchell’s self-imposed moderation might not look radical at first."
           }
         ]
       },
@@ -266,15 +279,15 @@
         "reviews": [
           {
             "source": "RogerEbert.com",
-            "quote": "It was a funny and well written movie."
+            "quote": "[It] couldn’t be more satisfyingly designed for its intended audience, precisely at the age when it is especially reassu..."
           },
           {
-            "source": "InSession Film",
-            "quote": "Good movie overall humdinger was an entertaining presence"
+            "source": "San Jose Mercury News",
+            "quote": "Yup, the kids are going to lap it up. Parents, you will too."
           },
           {
-            "source": "Should I See It",
-            "quote": "Such a great movie. Made me laugh and cry!"
+            "source": "TheWrap",
+            "quote": "It’s hard to shake the idea that we’re watching the type of kids movie Omni Consumer Products would produce for the dyst..."
           }
         ]
       },
@@ -301,16 +314,16 @@
         "rottentomatoes": "https://www.rottentomatoes.com/m/mutiny_2026",
         "reviews": [
           {
+            "source": "MovieFreak.com",
+            "quote": "For what it’s worth, Richet crafts an exhilarating late-summer programmer with more highs than it has lows."
+          },
+          {
+            "source": "The Hollywood Reporter",
+            "quote": "At best, this umpteenth entry in the Statham cannon feels like a throwback to a time when all that was needed to get but..."
+          },
+          {
             "source": "Wall Street Journal",
-            "quote": "Just watched the New movie &quot;Mutiny&quot; and I loved it! Another Lean, Mean, Well-Oiled Jason Statham Machine."
-          },
-          {
-            "source": "Pop Culture Leftovers",
-            "quote": "Great action movie!!"
-          },
-          {
-            "source": "AtHomeInHollywood.com",
-            "quote": "Slow in the beginning but action packed and very entertaining"
+            "quote": "Watching Mr. Statham fight is slightly entertaining, but there has to be more than that to constitute a movie."
           }
         ]
       },
@@ -337,16 +350,16 @@
         "rottentomatoes": "https://www.rottentomatoes.com/m/tony_2026",
         "reviews": [
           {
+            "source": "The Australian",
+            "quote": "You might expect a film about Anthony Bourdain to have tragedy looming over it."
+          },
+          {
             "source": "Tribune News Service",
-            "quote": "Well done. Mr. Bourdain would be proud"
+            "quote": "[Johnson’s] focus is on transporting us into this world with immediacy, scattering pertinent story details with a playfu..."
           },
           {
-            "source": "Epoch Times",
-            "quote": "An angsty, testosterone fueled Bourdain drives this hangout film to wonderful places, drives the biopic even further."
-          },
-          {
-            "source": "Should I See It",
-            "quote": "Good story and music, good acting"
+            "source": "Seattle Times",
+            "quote": "A truer-to-life “Tony” — with Bourdain’s burgeoning fascination with the real characters of restaurants taken from the p..."
           }
         ]
       }
@@ -359,7 +372,7 @@
       {
         "rank": 1,
         "title": "Spider-Man: Brand New Day",
-        "runtime": null,
+        "runtime": 145,
         "studio": "Sony Pictures Releasing",
         "weekend": 39000000,
         "total": 854901026,
@@ -367,17 +380,30 @@
         "weeks": 4,
         "change": -45,
         "theaters": 4006,
-        "poster": "https://image.tmdb.org/t/p/w500/placeholder.jpg",
-        "rating": null,
-        "genre": null,
+        "poster": "https://resizing.flixster.com/A0AhY7vcoHLlqwO6nfwnyOB6wZA=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2E1NWUwMWJhLWI5OTUtNDZkMy04NmE4LWU5Y2I5NTQ2NTE4OC5qcGc=",
+        "rating": "PG-13",
+        "genre": "Action / Adventure",
         "rt": {
-          "critics": null,
-          "audience": null
+          "critics": 89,
+          "audience": 98
         },
         "imdb": null,
         "boxofficemojo": "https://www.boxofficemojo.com/release/rl2299756545/",
-        "rottentomatoes": "https://www.rottentomatoes.com/m/spiderman_brand_new_day",
-        "reviews": []
+        "rottentomatoes": "https://www.rottentomatoes.com/m/spider_man_brand_new_day",
+        "reviews": [
+          {
+            "source": "Washington Post",
+            "quote": "Brand New Day is a messy but largely successful attempt at remembering what makes Spider-Man special: that his greatest ..."
+          },
+          {
+            "source": "Salon.com",
+            "quote": "What is the plot of “Brand New Day?” You may be asking yourself this regardless of whether you’ve already seen the film ..."
+          },
+          {
+            "source": "Filmspotting",
+            "quote": "Beneath the MCU obligations and superhero spectacle lies something surprisingly heartfelt: a Spider-Man movie about lone..."
+          }
+        ]
       },
       {
         "rank": 2,
@@ -402,16 +428,16 @@
         "rottentomatoes": "https://www.rottentomatoes.com/m/insidious_out_of_the_further",
         "reviews": [
           {
-            "source": "The Travers Take",
-            "quote": "The movie felt really slow, but it went good"
+            "source": "The Hollywood Reporter",
+            "quote": "After a while the film’s sustained creepiness gives way to self-parody, with all the grotesquely made-up performers port..."
           },
           {
-            "source": "The Gate",
-            "quote": "Fantastic movie! In my opinion, this was one of THE best ones from the franchise!"
+            "source": "Empire Magazine",
+            "quote": "The Insidious films may have offered diminishing returns since the original, but Out Of The Further is a decent instalme..."
           },
           {
-            "source": "Sarah G Vincent Views",
-            "quote": "not better than the first. not too many scares either."
+            "source": "New York Magazine/Vulture",
+            "quote": "Insidious: Out of the Further might be dumb and predictable in its broad strokes, but as a shock engine it’s occasionall..."
           }
         ]
       },
@@ -438,16 +464,16 @@
         "rottentomatoes": "https://www.rottentomatoes.com/m/the_odyssey_2026",
         "reviews": [
           {
-            "source": "Perri Nemiroff (YouTube)",
-            "quote": "I haven’t enjoyed a movie this great in a long time. 5 stars across the board. Going to see it again."
+            "source": "Los Angeles Times",
+            "quote": "What you really need to do is keep your eyes wide open while enjoying a titanic film that may not be perfect but will ke..."
           },
           {
-            "source": "La Estatuilla",
-            "quote": "Nope. Too long, too little action. People actually clapped at the end so maybe we were wrong but I didn’t see what all t..."
+            "source": "DwightBrownInk.com",
+            "quote": "Audiences who start this sojourn will finish it. Like Odysseus, they won’t stop."
           },
           {
-            "source": "TheIndependentCritic.com",
-            "quote": "Movie has a great plot. Great actors. Somehow I felt a disconnect with the authenticity of the movie."
+            "source": "Decent Films",
+            "quote": "Like the filmmaker’s last work, ‘Oppenheimer,’ ‘The Odyssey’ has a downbeat, apocalyptic bent—but, unlike ‘Oppenheimer,’..."
           }
         ]
       },
@@ -475,15 +501,15 @@
         "reviews": [
           {
             "source": "RogerEbert.com",
-            "quote": "It was a funny and well written movie."
+            "quote": "[It] couldn’t be more satisfyingly designed for its intended audience, precisely at the age when it is especially reassu..."
           },
           {
-            "source": "InSession Film",
-            "quote": "Good movie overall humdinger was an entertaining presence"
+            "source": "San Jose Mercury News",
+            "quote": "Yup, the kids are going to lap it up. Parents, you will too."
           },
           {
-            "source": "Should I See It",
-            "quote": "Such a great movie. Made me laugh and cry!"
+            "source": "TheWrap",
+            "quote": "It’s hard to shake the idea that we’re watching the type of kids movie Omni Consumer Products would produce for the dyst..."
           }
         ]
       },
@@ -510,16 +536,16 @@
         "rottentomatoes": "https://www.rottentomatoes.com/m/the_end_of_oak_street",
         "reviews": [
           {
-            "source": "Sight &amp; Sound",
-            "quote": "This movie couldn&#39;t decide whether it was serious/terrifying or funny/silly."
+            "source": "The Ringer",
+            "quote": "On one level, The End of Oak Street is nothing more -- or less -- than a swift, satisfying exercise in fight-or-flight s..."
           },
           {
-            "source": "The MovieMaven",
-            "quote": "portals to get them in and out is dumb."
+            "source": "Autostraddle",
+            "quote": "It’s been a long time since dinosaur films have felt this frightening or tense."
           },
           {
-            "source": "Splice Today",
-            "quote": "They acting dumb throughout the movie and it irks me"
+            "source": "Salon.com",
+            "quote": "Mitchell’s self-imposed moderation might not look radical at first."
           }
         ]
       },
@@ -546,16 +572,16 @@
         "rottentomatoes": "https://www.rottentomatoes.com/m/mutiny_2026",
         "reviews": [
           {
+            "source": "MovieFreak.com",
+            "quote": "For what it’s worth, Richet crafts an exhilarating late-summer programmer with more highs than it has lows."
+          },
+          {
+            "source": "The Hollywood Reporter",
+            "quote": "At best, this umpteenth entry in the Statham cannon feels like a throwback to a time when all that was needed to get but..."
+          },
+          {
             "source": "Wall Street Journal",
-            "quote": "Just watched the New movie &quot;Mutiny&quot; and I loved it! Another Lean, Mean, Well-Oiled Jason Statham Machine."
-          },
-          {
-            "source": "Pop Culture Leftovers",
-            "quote": "Great action movie!!"
-          },
-          {
-            "source": "AtHomeInHollywood.com",
-            "quote": "Slow in the beginning but action packed and very entertaining"
+            "quote": "Watching Mr. Statham fight is slightly entertaining, but there has to be more than that to constitute a movie."
           }
         ]
       },
@@ -582,16 +608,16 @@
         "rottentomatoes": "https://www.rottentomatoes.com/m/tony_2026",
         "reviews": [
           {
+            "source": "The Australian",
+            "quote": "You might expect a film about Anthony Bourdain to have tragedy looming over it."
+          },
+          {
             "source": "Tribune News Service",
-            "quote": "Well done. Mr. Bourdain would be proud"
+            "quote": "[Johnson’s] focus is on transporting us into this world with immediacy, scattering pertinent story details with a playfu..."
           },
           {
-            "source": "Epoch Times",
-            "quote": "An angsty, testosterone fueled Bourdain drives this hangout film to wonderful places, drives the biopic even further."
-          },
-          {
-            "source": "Should I See It",
-            "quote": "Good story and music, good acting"
+            "source": "Seattle Times",
+            "quote": "A truer-to-life “Tony” — with Bourdain’s burgeoning fascination with the real characters of restaurants taken from the p..."
           }
         ]
       },
@@ -618,16 +644,16 @@
         "rottentomatoes": "https://www.rottentomatoes.com/m/the_fast_and_the_furious",
         "reviews": [
           {
+            "source": "Variety",
+            "quote": "A gritty and gratifying cheap thrill, Rob Cohen's high-octane hot-car meller is a true rarity these days, a really good ..."
+          },
+          {
             "source": "Common Sense Media",
-            "quote": "I enjoyed the story, action and the bond between the main characters a/k/a Dom&#39;s crew."
+            "quote": "This is a bad, bad movie. Skip it."
           },
           {
-            "source": "Rachel&#39;s Reviews (YouTube)",
-            "quote": "Still an amazing classic. the 4DX was outstanding and highly recommend to experience it!!"
-          },
-          {
-            "source": "United Press International",
-            "quote": "Overall , high octane fun."
+            "source": "Chicago Reader",
+            "quote": "While few of the paper-thin characters register long enough to make much of an impression, Diesel carries the movie with..."
           }
         ]
       },
@@ -654,16 +680,16 @@
         "rottentomatoes": "https://www.rottentomatoes.com/m/spa_weekend",
         "reviews": [
           {
-            "source": "Financial Times",
-            "quote": "Some very funny moment. Crude humor is some areas. Entertaining but not a top movie. Matinee worthy but not full price."
+            "source": "The Hollywood Reporter",
+            "quote": "In execution, the hijinks feel awfully tame, the emotion shallow, the stars underserved."
           },
           {
-            "source": "The Gate",
-            "quote": "Funniest movie I’ve seen in a really long time! Enjoyed it very much"
+            "source": "Observer (UK)",
+            "quote": "Sometimes the only appropriate response to a film is a primal howl of despair."
           },
           {
-            "source": "Pop Culture Leftovers",
-            "quote": "This movie was hilarious. I absolutely loved it."
+            "source": "Irish Times",
+            "quote": "This comedy is mostly about driving golf carts over sand dunes and misidentifying coppers as strippers."
           }
         ]
       },
@@ -690,16 +716,16 @@
         "rottentomatoes": "https://www.rottentomatoes.com/m/teenage_sex_and_death_at_camp_miasma",
         "reviews": [
           {
-            "source": "The Times (UK)",
-            "quote": "Simply put- one of the worst movies I’ve ever seen."
+            "source": "Salon.com",
+            "quote": "At every turn, Schoenbrun buries “Teenage Sex and Death at Camp Miasma” alive, heaping layer upon layer of meta subtext ..."
           },
           {
-            "source": "Voice Magazine",
-            "quote": "It’s like Tropic Thunder but it’s not funny and it’s about a horror movie and it’s actually about lesbianism."
+            "source": "Daily Mail (UK)",
+            "quote": "Schoenbrun keeps an impressively firm grip on tone, even as it veers between spot-on slasher spoof, psychosexual fever d..."
           },
           {
-            "source": "KCCI (Des Moines, IA)",
-            "quote": "one of the most fascinating, surreal, and meta movies we’ve ever seen."
+            "source": "Kermode and Mayo's Take (YouTube)",
+            "quote": "It's really entertaining."
           }
         ]
       }
@@ -712,7 +738,7 @@
       {
         "rank": 1,
         "title": "Spider-Man: Brand New Day",
-        "runtime": null,
+        "runtime": 145,
         "studio": "Sony Pictures Releasing",
         "weekend": 70000000,
         "total": 785831670,
@@ -720,17 +746,30 @@
         "weeks": 3,
         "change": -51,
         "theaters": 4539,
-        "poster": "https://image.tmdb.org/t/p/w500/placeholder.jpg",
-        "rating": null,
-        "genre": null,
+        "poster": "https://resizing.flixster.com/A0AhY7vcoHLlqwO6nfwnyOB6wZA=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2E1NWUwMWJhLWI5OTUtNDZkMy04NmE4LWU5Y2I5NTQ2NTE4OC5qcGc=",
+        "rating": "PG-13",
+        "genre": "Action / Adventure",
         "rt": {
-          "critics": null,
-          "audience": null
+          "critics": 89,
+          "audience": 98
         },
         "imdb": null,
         "boxofficemojo": "https://www.boxofficemojo.com/release/rl2299756545/",
-        "rottentomatoes": "https://www.rottentomatoes.com/m/spiderman_brand_new_day",
-        "reviews": []
+        "rottentomatoes": "https://www.rottentomatoes.com/m/spider_man_brand_new_day",
+        "reviews": [
+          {
+            "source": "Washington Post",
+            "quote": "Brand New Day is a messy but largely successful attempt at remembering what makes Spider-Man special: that his greatest ..."
+          },
+          {
+            "source": "Salon.com",
+            "quote": "What is the plot of “Brand New Day?” You may be asking yourself this regardless of whether you’ve already seen the film ..."
+          },
+          {
+            "source": "Filmspotting",
+            "quote": "Beneath the MCU obligations and superhero spectacle lies something surprisingly heartfelt: a Spider-Man movie about lone..."
+          }
+        ]
       },
       {
         "rank": 2,
@@ -755,16 +794,16 @@
         "rottentomatoes": "https://www.rottentomatoes.com/m/the_odyssey_2026",
         "reviews": [
           {
-            "source": "Perri Nemiroff (YouTube)",
-            "quote": "I haven’t enjoyed a movie this great in a long time. 5 stars across the board. Going to see it again."
+            "source": "Los Angeles Times",
+            "quote": "What you really need to do is keep your eyes wide open while enjoying a titanic film that may not be perfect but will ke..."
           },
           {
-            "source": "La Estatuilla",
-            "quote": "Nope. Too long, too little action. People actually clapped at the end so maybe we were wrong but I didn’t see what all t..."
+            "source": "DwightBrownInk.com",
+            "quote": "Audiences who start this sojourn will finish it. Like Odysseus, they won’t stop."
           },
           {
-            "source": "TheIndependentCritic.com",
-            "quote": "Movie has a great plot. Great actors. Somehow I felt a disconnect with the authenticity of the movie."
+            "source": "Decent Films",
+            "quote": "Like the filmmaker’s last work, ‘Oppenheimer,’ ‘The Odyssey’ has a downbeat, apocalyptic bent—but, unlike ‘Oppenheimer,’..."
           }
         ]
       },
@@ -791,16 +830,16 @@
         "rottentomatoes": "https://www.rottentomatoes.com/m/the_end_of_oak_street",
         "reviews": [
           {
-            "source": "Sight &amp; Sound",
-            "quote": "This movie couldn&#39;t decide whether it was serious/terrifying or funny/silly."
+            "source": "The Ringer",
+            "quote": "On one level, The End of Oak Street is nothing more -- or less -- than a swift, satisfying exercise in fight-or-flight s..."
           },
           {
-            "source": "The MovieMaven",
-            "quote": "portals to get them in and out is dumb."
+            "source": "Autostraddle",
+            "quote": "It’s been a long time since dinosaur films have felt this frightening or tense."
           },
           {
-            "source": "Splice Today",
-            "quote": "They acting dumb throughout the movie and it irks me"
+            "source": "Salon.com",
+            "quote": "Mitchell’s self-imposed moderation might not look radical at first."
           }
         ]
       },
@@ -828,15 +867,15 @@
         "reviews": [
           {
             "source": "RogerEbert.com",
-            "quote": "It was a funny and well written movie."
+            "quote": "[It] couldn’t be more satisfyingly designed for its intended audience, precisely at the age when it is especially reassu..."
           },
           {
-            "source": "InSession Film",
-            "quote": "Good movie overall humdinger was an entertaining presence"
+            "source": "San Jose Mercury News",
+            "quote": "Yup, the kids are going to lap it up. Parents, you will too."
           },
           {
-            "source": "Should I See It",
-            "quote": "Such a great movie. Made me laugh and cry!"
+            "source": "TheWrap",
+            "quote": "It’s hard to shake the idea that we’re watching the type of kids movie Omni Consumer Products would produce for the dyst..."
           }
         ]
       },
@@ -863,16 +902,16 @@
         "rottentomatoes": "https://www.rottentomatoes.com/m/katseye_wild_hearts",
         "reviews": [
           {
-            "source": "Audience",
-            "quote": "IT WAS SO FUN I went with my friend and we had the best time definitely worth it!!!"
+            "source": "San Francisco Chronicle",
+            "quote": "It’s both an intimate look and cautionary tale."
           },
           {
-            "source": "Audience",
-            "quote": "I was expecting to enjoy the music not sit for 1.5 hours watching interviews and clips I&#39;ve already seen online."
+            "source": "Culture Mix",
+            "quote": "This extended electronic press kit masquerading as a documentary should be called Katseye: Exploited Hearts."
           },
           {
-            "source": "Audience",
-            "quote": "The movie was absolutely amazing and emotional!! I enjoyed seeing the documentary of katseye!!"
+            "source": "Common Sense Media",
+            "quote": "The members come across as fun, kind, at times humble and at others fiercely determined, and there's a dynamic energy to..."
           }
         ]
       },
@@ -899,16 +938,16 @@
         "rottentomatoes": "https://www.rottentomatoes.com/m/six_the_musical_live",
         "reviews": [
           {
+            "source": "FilmWeek (LAist)",
+            "quote": "There's such incredible talent on display."
+          },
+          {
             "source": "TheWrap",
-            "quote": "Cinematography was exceptional. Enjoyed the short documentary before the pro-shot started. Would def see again."
+            "quote": "A fabulous document of a fabulous stage show."
           },
           {
-            "source": "Mark Reviews Movies",
-            "quote": "It&#39;s a fantastic filming of a fantastic show! Absolute recommend!"
-          },
-          {
-            "source": "Screen Zealots",
-            "quote": "Just as awesome as the stage show but even better because you can see more of their facial expressions and understand a ..."
+            "source": "Assignment X",
+            "quote": "This is an outstanding permanent of a splendid performance and production."
           }
         ]
       },
@@ -935,16 +974,16 @@
         "rottentomatoes": "https://www.rottentomatoes.com/m/the_brink_of_war",
         "reviews": [
           {
-            "source": "The SS Ben Hecht",
-            "quote": "Liked knowing the history."
+            "source": "TheWrap",
+            "quote": "Gunn’s lacking aptitude as a first-time feature director limits the drama that can be wrung out of two men "
           },
           {
-            "source": "HollywoodChicago.com",
-            "quote": "Great acting and told the history of the event so well"
+            "source": "The Travers Take",
+            "quote": "Jeff Daniels is Reagan and Jared Harris is Gorbachev."
           },
           {
-            "source": "Keith &amp; the Movies",
-            "quote": "Very good film. See it!"
+            "source": "Filmspotting",
+            "quote": "An on-the-nose paean to good ol’ boy diplomacy that’s nevertheless enjoyable—and worth heeding."
           }
         ]
       },
@@ -971,16 +1010,16 @@
         "rottentomatoes": "https://www.rottentomatoes.com/m/toy_story_5",
         "reviews": [
           {
-            "source": "Slate",
-            "quote": "What’s most heartening, and most surprising, is how consistently this latest installment in a venerable franchise makes ..."
+            "source": "The Ringer",
+            "quote": "Toy Story 5 is eager to raise the alarms and then grimly determined to mute them."
           },
           {
-            "source": "Detroit News",
-            "quote": "There's a folksy charm that's still at the center of the \"Toy Story\" series, which is now like revisiting an old friend."
+            "source": "Salon.com",
+            "quote": "Rarely does the movie hit on any salient points that the series hasn’t already made, opting instead to repeat narrative ..."
           },
           {
-            "source": "Los Angeles Times",
-            "quote": "Lilypad’s creativity-zapping existence throws off Pixar’s ability to brainstorm a dynamic story."
+            "source": "The Nightly (AU)",
+            "quote": "Toy Story 5 has its moments of joy – and some great animation in the play sequences - but it’s an inconsequential entry ..."
           }
         ]
       },
@@ -1007,16 +1046,16 @@
         "rottentomatoes": "https://www.rottentomatoes.com/m/one_night_only_2026",
         "reviews": [
           {
-            "source": "Breakfast All Day",
-            "quote": "A bit predictable., but entertaining enough."
+            "source": "Daily Telegraph (UK)",
+            "quote": "Some premises for a romantic comedy can get straight in the bin."
           },
           {
-            "source": "The Movie Cricket",
-            "quote": "It was actually a really fun movie to watch!"
+            "source": "Empire Magazine",
+            "quote": "One Night Only places attractive, likable stars in a world where neither the people nor the politics make much sense."
           },
           {
-            "source": "The Gate",
-            "quote": "I did not expect to laugh that much. It was surprisingly funny and exactly what it needed to be, a cute date night movie..."
+            "source": "HeyUGuys",
+            "quote": "One Night Only might have been considerably better if it had been built around an idea that didn't require the audience ..."
           }
         ]
       },
@@ -1043,16 +1082,16 @@
         "rottentomatoes": "https://www.rottentomatoes.com/m/vishwanath_and_sons",
         "reviews": [
           {
+            "source": "The Week India",
+            "quote": "This is a movie that requires you to be open-minded. It requires you to go with the flow."
+          },
+          {
+            "source": "The New Indian Express",
+            "quote": "It is a rather straightforward film that relies more on getting the moments right."
+          },
+          {
             "source": "The Hollywood Reporter India",
-            "quote": "Good Drama movie to watch"
-          },
-          {
-            "source": "Hindustan Times",
-            "quote": "Calm, steady and peaceful ✌️"
-          },
-          {
-            "source": "The Indian Express",
-            "quote": "Blockbuster! Venky again proved that he has different arc in directing movies and stories with more depth in emotions."
+            "quote": "Embarrassingly old-school."
           }
         ]
       }
@@ -1065,7 +1104,7 @@
       {
         "rank": 1,
         "title": "Spider-Man: Brand New Day",
-        "runtime": null,
+        "runtime": 145,
         "studio": "Sony Pictures Releasing",
         "weekend": 145000000,
         "total": 655088528,
@@ -1073,17 +1112,30 @@
         "weeks": 2,
         "change": -60,
         "theaters": 4487,
-        "poster": "https://image.tmdb.org/t/p/w500/placeholder.jpg",
-        "rating": null,
-        "genre": null,
+        "poster": "https://resizing.flixster.com/A0AhY7vcoHLlqwO6nfwnyOB6wZA=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2E1NWUwMWJhLWI5OTUtNDZkMy04NmE4LWU5Y2I5NTQ2NTE4OC5qcGc=",
+        "rating": "PG-13",
+        "genre": "Action / Adventure",
         "rt": {
-          "critics": null,
-          "audience": null
+          "critics": 89,
+          "audience": 98
         },
         "imdb": null,
         "boxofficemojo": "https://www.boxofficemojo.com/release/rl2299756545/",
-        "rottentomatoes": "https://www.rottentomatoes.com/m/spiderman_brand_new_day",
-        "reviews": []
+        "rottentomatoes": "https://www.rottentomatoes.com/m/spider_man_brand_new_day",
+        "reviews": [
+          {
+            "source": "Washington Post",
+            "quote": "Brand New Day is a messy but largely successful attempt at remembering what makes Spider-Man special: that his greatest ..."
+          },
+          {
+            "source": "Salon.com",
+            "quote": "What is the plot of “Brand New Day?” You may be asking yourself this regardless of whether you’ve already seen the film ..."
+          },
+          {
+            "source": "Filmspotting",
+            "quote": "Beneath the MCU obligations and superhero spectacle lies something surprisingly heartfelt: a Spider-Man movie about lone..."
+          }
+        ]
       },
       {
         "rank": 2,
@@ -1108,16 +1160,16 @@
         "rottentomatoes": "https://www.rottentomatoes.com/m/the_odyssey_2026",
         "reviews": [
           {
-            "source": "Perri Nemiroff (YouTube)",
-            "quote": "I haven’t enjoyed a movie this great in a long time. 5 stars across the board. Going to see it again."
+            "source": "Los Angeles Times",
+            "quote": "What you really need to do is keep your eyes wide open while enjoying a titanic film that may not be perfect but will ke..."
           },
           {
-            "source": "La Estatuilla",
-            "quote": "Nope. Too long, too little action. People actually clapped at the end so maybe we were wrong but I didn’t see what all t..."
+            "source": "DwightBrownInk.com",
+            "quote": "Audiences who start this sojourn will finish it. Like Odysseus, they won’t stop."
           },
           {
-            "source": "TheIndependentCritic.com",
-            "quote": "Movie has a great plot. Great actors. Somehow I felt a disconnect with the authenticity of the movie."
+            "source": "Decent Films",
+            "quote": "Like the filmmaker’s last work, ‘Oppenheimer,’ ‘The Odyssey’ has a downbeat, apocalyptic bent—but, unlike ‘Oppenheimer,’..."
           }
         ]
       },
@@ -1144,16 +1196,16 @@
         "rottentomatoes": "https://www.rottentomatoes.com/m/one_night_only_2026",
         "reviews": [
           {
-            "source": "Breakfast All Day",
-            "quote": "A bit predictable., but entertaining enough."
+            "source": "Daily Telegraph (UK)",
+            "quote": "Some premises for a romantic comedy can get straight in the bin."
           },
           {
-            "source": "The Movie Cricket",
-            "quote": "It was actually a really fun movie to watch!"
+            "source": "Empire Magazine",
+            "quote": "One Night Only places attractive, likable stars in a world where neither the people nor the politics make much sense."
           },
           {
-            "source": "The Gate",
-            "quote": "I did not expect to laugh that much. It was surprisingly funny and exactly what it needed to be, a cute date night movie..."
+            "source": "HeyUGuys",
+            "quote": "One Night Only might have been considerably better if it had been built around an idea that didn't require the audience ..."
           }
         ]
       },
@@ -1181,15 +1233,15 @@
         "reviews": [
           {
             "source": "RogerEbert.com",
-            "quote": "So funny like the other ones. Can’t wait for the forth one to come out!"
+            "quote": "This is a shaggy, patched-together, but still likable movie, worth seeing in a theater if you’re a fan."
           },
           {
-            "source": "Geek Vibes Nation",
-            "quote": "Has moments but slow, not very well."
+            "source": "AV Club",
+            "quote": "As with its predecessors, ramshackle high spirits carry Super Troopers 3 through its less inspired patches, and toward t..."
           },
           {
-            "source": "Movie Madness Podcast",
-            "quote": "Best wedding of 2026"
+            "source": "Guardian",
+            "quote": "Super Troopers 3 is exactly as good as you would expect the third installment of a time-capsule comedy to be, a dick jok..."
           }
         ]
       },
@@ -1216,16 +1268,16 @@
         "rottentomatoes": "https://www.rottentomatoes.com/m/toy_story_5",
         "reviews": [
           {
-            "source": "Slate",
-            "quote": "What’s most heartening, and most surprising, is how consistently this latest installment in a venerable franchise makes ..."
+            "source": "The Ringer",
+            "quote": "Toy Story 5 is eager to raise the alarms and then grimly determined to mute them."
           },
           {
-            "source": "Detroit News",
-            "quote": "There's a folksy charm that's still at the center of the \"Toy Story\" series, which is now like revisiting an old friend."
+            "source": "Salon.com",
+            "quote": "Rarely does the movie hit on any salient points that the series hasn’t already made, opting instead to repeat narrative ..."
           },
           {
-            "source": "Los Angeles Times",
-            "quote": "Lilypad’s creativity-zapping existence throws off Pixar’s ability to brainstorm a dynamic story."
+            "source": "The Nightly (AU)",
+            "quote": "Toy Story 5 has its moments of joy – and some great animation in the play sequences - but it’s an inconsequential entry ..."
           }
         ]
       },
@@ -1252,16 +1304,16 @@
         "rottentomatoes": "https://www.rottentomatoes.com/m/minions_and_monsters",
         "reviews": [
           {
-            "source": "IndieWire",
-            "quote": "Even when “Minions & Monsters” is at its weakest, there is a sense of genuine creative glee within it that’s all too oft..."
+            "source": "MovieFreak.com",
+            "quote": "The filmmakers made this animated jolt of anarchic madness to be watched communally, in darkness, and, most importantly,..."
           },
           {
-            "source": "Los Angeles Times",
-            "quote": "I’ll admit, I snorted the first time I saw a TikTok of teens gussied up in suits to see a Minions movie."
+            "source": "AARP Movies for Grownups",
+            "quote": "If this seventh iteration of the Despicable Me franchise isn’t a laugh riot, it’s at least a chuckle-fest."
           },
           {
-            "source": "New York Post",
-            "quote": "Minions. While the opposite of realistic, they are a rarity in the constructed world of animation."
+            "source": "Time Out",
+            "quote": "Watching the Minions being fed through Modern Times’ industrial cogs or gatecrashing Buster Keaton’s Steamboat Bill, Jr ..."
           }
         ]
       },
@@ -1288,16 +1340,16 @@
         "rottentomatoes": "https://www.rottentomatoes.com/m/moana_2026",
         "reviews": [
           {
-            "source": "Los Angeles Times",
-            "quote": "Johnson’s carapace is detailed with skin-like textures, swollen bicep veins and living tattoos that offer him encouragem..."
+            "source": "USA Today",
+            "quote": "Watching them sail across the sea and deliver the heart of Te Fiti is an amazing odyssey."
           },
           {
-            "source": "San Francisco Chronicle",
-            "quote": "The existence of a live-action version of “Moana” is easy enough to explain — it’s a money grab."
+            "source": "DwightBrownInk.com",
+            "quote": "The beguiling spirit of this South Pacific fable remains enchanting, even if this live-action adaptation never becomes a..."
           },
           {
-            "source": "Polygon",
-            "quote": "Virtually every line, beat, and song in the new movie is identical to the 2016 version, apart from a few minor punch-ups..."
+            "source": "Observer (UK)",
+            "quote": "This is an unimaginatively faithful remake that leaves the original intact, complete with songs co-written by Lin-Manuel..."
           }
         ]
       },
@@ -1324,16 +1376,16 @@
         "rottentomatoes": "https://www.rottentomatoes.com/m/ice_cream_man_2026",
         "reviews": [
           {
-            "source": "Big Picture Big Sound",
-            "quote": "Teenage gore mixed with campy story line and humor. Enough to entertain me. Throwback formula from the 80’s."
+            "source": "Daily Telegraph (UK)",
+            "quote": "The laughably bad Ice Cream Man is rather like last year’s smash-hit horror Weapons, if you tried to spoof it with terri..."
           },
           {
-            "source": "The Latino Slant",
-            "quote": "amazing! gory and funny. best of both worlds"
+            "source": "The Times (UK)",
+            "quote": "This kind of thing needs a sharp script to go with the gore and there aren’t enough zingers here."
           },
           {
-            "source": "Culture Mix",
-            "quote": "wasn&#39;t as bad as everyone saying it was but it wasn&#39;t good either"
+            "source": "Empire Magazine",
+            "quote": "Ugly, unpleasant and utterly insubstantial, this ice cream just leaves a bad taste in the mouth."
           }
         ]
       },
@@ -1360,16 +1412,16 @@
         "rottentomatoes": "https://www.rottentomatoes.com/m/the_invite",
         "reviews": [
           {
-            "source": "Boston Globe",
-            "quote": "Wilde directs the cast well and keeps the pace as quick as the screenplay’s wit."
+            "source": "Ty Burr's Watch List (Substack)",
+            "quote": "An urban meet-the-neighbors cringe comedy that gets airborne on the strength of its four performances."
           },
           {
-            "source": "San Francisco Chronicle",
-            "quote": "As the visiting neighbors, Penélope Cruz and Edward Norton couldn’t be better, and that also says something about Wilde ..."
+            "source": "DwightBrownInk.com",
+            "quote": "Guess who’s coming to dinner? You’re the extra guest … and you’re ready for anything, too."
           },
           {
-            "source": "Rolling Stone",
-            "quote": "Whether this is the beginning of the hyphenate finding a distinctive voice as a director -- a Wilde style -- is TBD."
+            "source": "The Spectator",
+            "quote": "If there is more pleasure to be had than watching great actors behaving badly, I would genuinely wish to know about it."
           }
         ]
       },
@@ -1394,7 +1446,20 @@
         "imdb": null,
         "boxofficemojo": "https://www.boxofficemojo.com/release/rl2878242817/",
         "rottentomatoes": "https://www.rottentomatoes.com/m/catvideofest_2026",
-        "reviews": []
+        "reviews": [
+          {
+            "source": "Subculture Entertainment",
+            "quote": "There are videos that will make you laugh. Videos that will make you cry. Videos that will make you think."
+          },
+          {
+            "source": "jimschembri.com",
+            "quote": "Apart from being cute and cuddly, cats also cause big problems..."
+          },
+          {
+            "source": "Audience",
+            "quote": "As was the case with prior entries in this series, CatVideoFest 2026 offers up another thoroughly enjoyable compilation ..."
+          }
+        ]
       }
     ]
   },
@@ -1405,7 +1470,7 @@
       {
         "rank": 1,
         "title": "Spider-Man: Brand New Day",
-        "runtime": null,
+        "runtime": 145,
         "studio": "Sony Pictures Releasing",
         "weekend": 355000000,
         "total": 355000000,
@@ -1413,17 +1478,30 @@
         "weeks": 1,
         "change": null,
         "theaters": 4487,
-        "poster": "https://image.tmdb.org/t/p/w500/placeholder.jpg",
-        "rating": null,
-        "genre": null,
+        "poster": "https://resizing.flixster.com/A0AhY7vcoHLlqwO6nfwnyOB6wZA=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2E1NWUwMWJhLWI5OTUtNDZkMy04NmE4LWU5Y2I5NTQ2NTE4OC5qcGc=",
+        "rating": "PG-13",
+        "genre": "Action / Adventure",
         "rt": {
-          "critics": null,
-          "audience": null
+          "critics": 89,
+          "audience": 98
         },
         "imdb": null,
         "boxofficemojo": "https://www.boxofficemojo.com/release/rl2299756545/",
-        "rottentomatoes": "https://www.rottentomatoes.com/m/spiderman_brand_new_day",
-        "reviews": []
+        "rottentomatoes": "https://www.rottentomatoes.com/m/spider_man_brand_new_day",
+        "reviews": [
+          {
+            "source": "Washington Post",
+            "quote": "Brand New Day is a messy but largely successful attempt at remembering what makes Spider-Man special: that his greatest ..."
+          },
+          {
+            "source": "Salon.com",
+            "quote": "What is the plot of “Brand New Day?” You may be asking yourself this regardless of whether you’ve already seen the film ..."
+          },
+          {
+            "source": "Filmspotting",
+            "quote": "Beneath the MCU obligations and superhero spectacle lies something surprisingly heartfelt: a Spider-Man movie about lone..."
+          }
+        ]
       },
       {
         "rank": 2,
@@ -1448,16 +1526,16 @@
         "rottentomatoes": "https://www.rottentomatoes.com/m/the_odyssey_2026",
         "reviews": [
           {
-            "source": "Perri Nemiroff (YouTube)",
-            "quote": "I haven’t enjoyed a movie this great in a long time. 5 stars across the board. Going to see it again."
+            "source": "Los Angeles Times",
+            "quote": "What you really need to do is keep your eyes wide open while enjoying a titanic film that may not be perfect but will ke..."
           },
           {
-            "source": "La Estatuilla",
-            "quote": "Nope. Too long, too little action. People actually clapped at the end so maybe we were wrong but I didn’t see what all t..."
+            "source": "DwightBrownInk.com",
+            "quote": "Audiences who start this sojourn will finish it. Like Odysseus, they won’t stop."
           },
           {
-            "source": "TheIndependentCritic.com",
-            "quote": "Movie has a great plot. Great actors. Somehow I felt a disconnect with the authenticity of the movie."
+            "source": "Decent Films",
+            "quote": "Like the filmmaker’s last work, ‘Oppenheimer,’ ‘The Odyssey’ has a downbeat, apocalyptic bent—but, unlike ‘Oppenheimer,’..."
           }
         ]
       },
@@ -1484,16 +1562,16 @@
         "rottentomatoes": "https://www.rottentomatoes.com/m/toy_story_5",
         "reviews": [
           {
-            "source": "Slate",
-            "quote": "What’s most heartening, and most surprising, is how consistently this latest installment in a venerable franchise makes ..."
+            "source": "The Ringer",
+            "quote": "Toy Story 5 is eager to raise the alarms and then grimly determined to mute them."
           },
           {
-            "source": "Detroit News",
-            "quote": "There's a folksy charm that's still at the center of the \"Toy Story\" series, which is now like revisiting an old friend."
+            "source": "Salon.com",
+            "quote": "Rarely does the movie hit on any salient points that the series hasn’t already made, opting instead to repeat narrative ..."
           },
           {
-            "source": "Los Angeles Times",
-            "quote": "Lilypad’s creativity-zapping existence throws off Pixar’s ability to brainstorm a dynamic story."
+            "source": "The Nightly (AU)",
+            "quote": "Toy Story 5 has its moments of joy – and some great animation in the play sequences - but it’s an inconsequential entry ..."
           }
         ]
       },
@@ -1520,16 +1598,16 @@
         "rottentomatoes": "https://www.rottentomatoes.com/m/minions_and_monsters",
         "reviews": [
           {
-            "source": "IndieWire",
-            "quote": "Even when “Minions & Monsters” is at its weakest, there is a sense of genuine creative glee within it that’s all too oft..."
+            "source": "MovieFreak.com",
+            "quote": "The filmmakers made this animated jolt of anarchic madness to be watched communally, in darkness, and, most importantly,..."
           },
           {
-            "source": "Los Angeles Times",
-            "quote": "I’ll admit, I snorted the first time I saw a TikTok of teens gussied up in suits to see a Minions movie."
+            "source": "AARP Movies for Grownups",
+            "quote": "If this seventh iteration of the Despicable Me franchise isn’t a laugh riot, it’s at least a chuckle-fest."
           },
           {
-            "source": "New York Post",
-            "quote": "Minions. While the opposite of realistic, they are a rarity in the constructed world of animation."
+            "source": "Time Out",
+            "quote": "Watching the Minions being fed through Modern Times’ industrial cogs or gatecrashing Buster Keaton’s Steamboat Bill, Jr ..."
           }
         ]
       },
@@ -1556,16 +1634,16 @@
         "rottentomatoes": "https://www.rottentomatoes.com/m/moana_2026",
         "reviews": [
           {
-            "source": "Los Angeles Times",
-            "quote": "Johnson’s carapace is detailed with skin-like textures, swollen bicep veins and living tattoos that offer him encouragem..."
+            "source": "USA Today",
+            "quote": "Watching them sail across the sea and deliver the heart of Te Fiti is an amazing odyssey."
           },
           {
-            "source": "San Francisco Chronicle",
-            "quote": "The existence of a live-action version of “Moana” is easy enough to explain — it’s a money grab."
+            "source": "DwightBrownInk.com",
+            "quote": "The beguiling spirit of this South Pacific fable remains enchanting, even if this live-action adaptation never becomes a..."
           },
           {
-            "source": "Polygon",
-            "quote": "Virtually every line, beat, and song in the new movie is identical to the 2016 version, apart from a few minor punch-ups..."
+            "source": "Observer (UK)",
+            "quote": "This is an unimaginatively faithful remake that leaves the original intact, complete with songs co-written by Lin-Manuel..."
           }
         ]
       },
@@ -1592,16 +1670,16 @@
         "rottentomatoes": "https://www.rottentomatoes.com/m/hadestown_the_musical",
         "reviews": [
           {
+            "source": "Variety",
+            "quote": "A splendid opportunity for anyone who hasn’t seen “Hadestown” onstage to experience it."
+          },
+          {
             "source": "Los Angeles Times",
-            "quote": "I&#39;ve seen this on stage (national tour) and was underwhelmed, but knowing others who had seen the OBC and ranged abo..."
+            "quote": "This production feels like a fleeting moment "
           },
           {
-            "source": "RIOTUS",
-            "quote": "amazing! captivating! catchy!"
-          },
-          {
-            "source": "Winnipeg Free Press",
-            "quote": "Terrific, singing, acting and play all are outstanding. Would highly encourage everyone to go."
+            "source": "The Travers Take",
+            "quote": "Move over \"Odyssey,\" here’s another Greek tragedy of love and war, done as a fabulous musical."
           }
         ]
       },
@@ -1628,16 +1706,16 @@
         "rottentomatoes": "https://www.rottentomatoes.com/m/the_invite",
         "reviews": [
           {
-            "source": "Boston Globe",
-            "quote": "Wilde directs the cast well and keeps the pace as quick as the screenplay’s wit."
+            "source": "Ty Burr's Watch List (Substack)",
+            "quote": "An urban meet-the-neighbors cringe comedy that gets airborne on the strength of its four performances."
           },
           {
-            "source": "San Francisco Chronicle",
-            "quote": "As the visiting neighbors, Penélope Cruz and Edward Norton couldn’t be better, and that also says something about Wilde ..."
+            "source": "DwightBrownInk.com",
+            "quote": "Guess who’s coming to dinner? You’re the extra guest … and you’re ready for anything, too."
           },
           {
-            "source": "Rolling Stone",
-            "quote": "Whether this is the beginning of the hyphenate finding a distinctive voice as a director -- a Wilde style -- is TBD."
+            "source": "The Spectator",
+            "quote": "If there is more pleasure to be had than watching great actors behaving badly, I would genuinely wish to know about it."
           }
         ]
       },
@@ -1664,16 +1742,16 @@
         "rottentomatoes": "https://www.rottentomatoes.com/m/i_want_your_sex",
         "reviews": [
           {
-            "source": "Chicago Reader",
-            "quote": "I genuinely have no idea what I just watched. At least it was entertaining? It got afew laughs out of me."
+            "source": "Daily Telegraph (UK)",
+            "quote": "The sex promised by its title certainly features in brightly lit abundance..."
           },
           {
-            "source": "Common Sense Media",
-            "quote": "Has something to say, fun, real, looks great"
+            "source": "Sydney Morning Herald",
+            "quote": "I was never bored by I Want Your Sex, largely thanks to the conviction Hoffman brings to his side of the equation."
           },
           {
-            "source": "Sarah G Vincent Views",
-            "quote": "Fun movie. Glad to have Araki back."
+            "source": "Financial Times",
+            "quote": "Araki can do gravity when he wants, and there is surely a smart, differently provocative film to be made about why young..."
           }
         ]
       },
@@ -1701,15 +1779,15 @@
         "reviews": [
           {
             "source": "Los Angeles Times",
-            "quote": "This movie is not for those who want anything beyond a steak served blue."
+            "quote": "There will be no shortage of viewers who enthusiastically accept what is happening on the screen, captured with a combin..."
           },
           {
-            "source": "Mashable",
-            "quote": "A sequel that feels tedious, gray, and soulless."
+            "source": "The Australian",
+            "quote": "The dialogue is woeful, the acting (mostly) a hamfest and the plot feels like a nuisance foisted upon French writer-dire..."
           },
           {
-            "source": "Associated Press",
-            "quote": "We’ve come a long way since Sam Raimi’s original trilogy, and not in a good way."
+            "source": "Guardian",
+            "quote": "The movie works better than its predecessor."
           }
         ]
       },
@@ -1736,16 +1814,16 @@
         "rottentomatoes": "https://www.rottentomatoes.com/m/young_washington",
         "reviews": [
           {
-            "source": "The Hollywood Reporter",
-            "quote": "Feeling much longer than its two hours, Young Washington suffers from the stiff, stodgy quality of so many historical dr..."
+            "source": "San Francisco Chronicle",
+            "quote": "The movie is artistically conservative, with some of the bland sincerity of an afternoon special."
           },
           {
-            "source": "RogerEbert.com",
-            "quote": "[It is] a well-crafted but accessible biopic about the maturation of a person who helped shape the nation’s image of its..."
+            "source": "New York Post",
+            "quote": "What the movie lacks is a clear moment when we collectively know that George is going to be the guy."
           },
           {
-            "source": "Variety",
-            "quote": "Young Washington is just competent enough to create that crisp tug of schoolkid patriotism the books we read as children..."
+            "source": "AARP Movies for Grownups",
+            "quote": "Stirring and inspirational without being preachy, Young Washington dramatizes the lesson that a brave man’s mistakes, wh..."
           }
         ]
       }
@@ -1778,16 +1856,16 @@
         "rottentomatoes": "https://www.rottentomatoes.com/m/the_odyssey_2026",
         "reviews": [
           {
-            "source": "Perri Nemiroff (YouTube)",
-            "quote": "I haven’t enjoyed a movie this great in a long time. 5 stars across the board. Going to see it again."
+            "source": "Los Angeles Times",
+            "quote": "What you really need to do is keep your eyes wide open while enjoying a titanic film that may not be perfect but will ke..."
           },
           {
-            "source": "La Estatuilla",
-            "quote": "Nope. Too long, too little action. People actually clapped at the end so maybe we were wrong but I didn’t see what all t..."
+            "source": "DwightBrownInk.com",
+            "quote": "Audiences who start this sojourn will finish it. Like Odysseus, they won’t stop."
           },
           {
-            "source": "TheIndependentCritic.com",
-            "quote": "Movie has a great plot. Great actors. Somehow I felt a disconnect with the authenticity of the movie."
+            "source": "Decent Films",
+            "quote": "Like the filmmaker’s last work, ‘Oppenheimer,’ ‘The Odyssey’ has a downbeat, apocalyptic bent—but, unlike ‘Oppenheimer,’..."
           }
         ]
       },
@@ -1814,16 +1892,16 @@
         "rottentomatoes": "https://www.rottentomatoes.com/m/moana_2026",
         "reviews": [
           {
-            "source": "Los Angeles Times",
-            "quote": "Johnson’s carapace is detailed with skin-like textures, swollen bicep veins and living tattoos that offer him encouragem..."
+            "source": "USA Today",
+            "quote": "Watching them sail across the sea and deliver the heart of Te Fiti is an amazing odyssey."
           },
           {
-            "source": "San Francisco Chronicle",
-            "quote": "The existence of a live-action version of “Moana” is easy enough to explain — it’s a money grab."
+            "source": "DwightBrownInk.com",
+            "quote": "The beguiling spirit of this South Pacific fable remains enchanting, even if this live-action adaptation never becomes a..."
           },
           {
-            "source": "Polygon",
-            "quote": "Virtually every line, beat, and song in the new movie is identical to the 2016 version, apart from a few minor punch-ups..."
+            "source": "Observer (UK)",
+            "quote": "This is an unimaginatively faithful remake that leaves the original intact, complete with songs co-written by Lin-Manuel..."
           }
         ]
       },
@@ -1850,16 +1928,16 @@
         "rottentomatoes": "https://www.rottentomatoes.com/m/toy_story_5",
         "reviews": [
           {
-            "source": "Slate",
-            "quote": "What’s most heartening, and most surprising, is how consistently this latest installment in a venerable franchise makes ..."
+            "source": "The Ringer",
+            "quote": "Toy Story 5 is eager to raise the alarms and then grimly determined to mute them."
           },
           {
-            "source": "Detroit News",
-            "quote": "There's a folksy charm that's still at the center of the \"Toy Story\" series, which is now like revisiting an old friend."
+            "source": "Salon.com",
+            "quote": "Rarely does the movie hit on any salient points that the series hasn’t already made, opting instead to repeat narrative ..."
           },
           {
-            "source": "Los Angeles Times",
-            "quote": "Lilypad’s creativity-zapping existence throws off Pixar’s ability to brainstorm a dynamic story."
+            "source": "The Nightly (AU)",
+            "quote": "Toy Story 5 has its moments of joy – and some great animation in the play sequences - but it’s an inconsequential entry ..."
           }
         ]
       },
@@ -1886,16 +1964,16 @@
         "rottentomatoes": "https://www.rottentomatoes.com/m/hadestown_the_musical",
         "reviews": [
           {
+            "source": "Variety",
+            "quote": "A splendid opportunity for anyone who hasn’t seen “Hadestown” onstage to experience it."
+          },
+          {
             "source": "Los Angeles Times",
-            "quote": "I&#39;ve seen this on stage (national tour) and was underwhelmed, but knowing others who had seen the OBC and ranged abo..."
+            "quote": "This production feels like a fleeting moment "
           },
           {
-            "source": "RIOTUS",
-            "quote": "amazing! captivating! catchy!"
-          },
-          {
-            "source": "Winnipeg Free Press",
-            "quote": "Terrific, singing, acting and play all are outstanding. Would highly encourage everyone to go."
+            "source": "The Travers Take",
+            "quote": "Move over \"Odyssey,\" here’s another Greek tragedy of love and war, done as a fabulous musical."
           }
         ]
       },
@@ -1922,16 +2000,16 @@
         "rottentomatoes": "https://www.rottentomatoes.com/m/minions_and_monsters",
         "reviews": [
           {
-            "source": "IndieWire",
-            "quote": "Even when “Minions & Monsters” is at its weakest, there is a sense of genuine creative glee within it that’s all too oft..."
+            "source": "MovieFreak.com",
+            "quote": "The filmmakers made this animated jolt of anarchic madness to be watched communally, in darkness, and, most importantly,..."
           },
           {
-            "source": "Los Angeles Times",
-            "quote": "I’ll admit, I snorted the first time I saw a TikTok of teens gussied up in suits to see a Minions movie."
+            "source": "AARP Movies for Grownups",
+            "quote": "If this seventh iteration of the Despicable Me franchise isn’t a laugh riot, it’s at least a chuckle-fest."
           },
           {
-            "source": "New York Post",
-            "quote": "Minions. While the opposite of realistic, they are a rarity in the constructed world of animation."
+            "source": "Time Out",
+            "quote": "Watching the Minions being fed through Modern Times’ industrial cogs or gatecrashing Buster Keaton’s Steamboat Bill, Jr ..."
           }
         ]
       },
@@ -1958,16 +2036,16 @@
         "rottentomatoes": "https://www.rottentomatoes.com/m/the_invite",
         "reviews": [
           {
-            "source": "Boston Globe",
-            "quote": "Wilde directs the cast well and keeps the pace as quick as the screenplay’s wit."
+            "source": "Ty Burr's Watch List (Substack)",
+            "quote": "An urban meet-the-neighbors cringe comedy that gets airborne on the strength of its four performances."
           },
           {
-            "source": "San Francisco Chronicle",
-            "quote": "As the visiting neighbors, Penélope Cruz and Edward Norton couldn’t be better, and that also says something about Wilde ..."
+            "source": "DwightBrownInk.com",
+            "quote": "Guess who’s coming to dinner? You’re the extra guest … and you’re ready for anything, too."
           },
           {
-            "source": "Rolling Stone",
-            "quote": "Whether this is the beginning of the hyphenate finding a distinctive voice as a director -- a Wilde style -- is TBD."
+            "source": "The Spectator",
+            "quote": "If there is more pleasure to be had than watching great actors behaving badly, I would genuinely wish to know about it."
           }
         ]
       },
@@ -1995,15 +2073,15 @@
         "reviews": [
           {
             "source": "Los Angeles Times",
-            "quote": "This movie is not for those who want anything beyond a steak served blue."
+            "quote": "There will be no shortage of viewers who enthusiastically accept what is happening on the screen, captured with a combin..."
           },
           {
-            "source": "Mashable",
-            "quote": "A sequel that feels tedious, gray, and soulless."
+            "source": "The Australian",
+            "quote": "The dialogue is woeful, the acting (mostly) a hamfest and the plot feels like a nuisance foisted upon French writer-dire..."
           },
           {
-            "source": "Associated Press",
-            "quote": "We’ve come a long way since Sam Raimi’s original trilogy, and not in a good way."
+            "source": "Guardian",
+            "quote": "The movie works better than its predecessor."
           }
         ]
       },
@@ -2030,16 +2108,16 @@
         "rottentomatoes": "https://www.rottentomatoes.com/m/young_washington",
         "reviews": [
           {
-            "source": "The Hollywood Reporter",
-            "quote": "Feeling much longer than its two hours, Young Washington suffers from the stiff, stodgy quality of so many historical dr..."
+            "source": "San Francisco Chronicle",
+            "quote": "The movie is artistically conservative, with some of the bland sincerity of an afternoon special."
           },
           {
-            "source": "RogerEbert.com",
-            "quote": "[It is] a well-crafted but accessible biopic about the maturation of a person who helped shape the nation’s image of its..."
+            "source": "New York Post",
+            "quote": "What the movie lacks is a clear moment when we collectively know that George is going to be the guy."
           },
           {
-            "source": "Variety",
-            "quote": "Young Washington is just competent enough to create that crisp tug of schoolkid patriotism the books we read as children..."
+            "source": "AARP Movies for Grownups",
+            "quote": "Stirring and inspirational without being preachy, Young Washington dramatizes the lesson that a brave man’s mistakes, wh..."
           }
         ]
       },
@@ -2066,16 +2144,16 @@
         "rottentomatoes": "https://www.rottentomatoes.com/m/motor_city",
         "reviews": [
           {
-            "source": "Tribune News Service",
-            "quote": "It was an ok movie for one with no dialogue. However, I would have been happier with more graphic, gratuitous violence."
+            "source": "Salon.com",
+            "quote": "Motor City contains around five lines from the opening moments to the end credits."
           },
           {
-            "source": "Should I See It",
-            "quote": "a total of around 12 spoken words total waist of time"
+            "source": "AARP Movies for Grownups",
+            "quote": "If you’re an action junkie, this is your fix."
           },
           {
-            "source": "Cine Sin Fronteras",
-            "quote": "It’s was great . I like the action. First I see a movie were they speak 🫣"
+            "source": "AV Club",
+            "quote": "For movie-watchers who have wished that modern cinema was less reliant on boilerplate dialogue and tell-don’t-show expos..."
           }
         ]
       },
@@ -2106,12 +2184,12 @@
             "quote": "At 26 years old, Barker is speaking directly to his own generation -- the moviegoing Zoomers -- by making a meal out of ..."
           },
           {
-            "source": "Slate",
-            "quote": "There are far scarier movies than Obsession."
+            "source": "Filmspotting",
+            "quote": "That’s the whole concept and Barker’s insight. If you want to make someone love you above all else..."
           },
           {
-            "source": "The New Yorker",
-            "quote": "[Obsession] opens in the realm of the straightforward and ultimately reveals itself to be something far more thoughtful ..."
+            "source": "Salon.com",
+            "quote": "Obsession desperately wants to be a modern film, but can’t do anything more bold than gesturing to the bleakness and inc..."
           }
         ]
       }
@@ -2144,16 +2222,16 @@
         "rottentomatoes": "https://www.rottentomatoes.com/m/the_odyssey_2026",
         "reviews": [
           {
-            "source": "Perri Nemiroff (YouTube)",
-            "quote": "I haven’t enjoyed a movie this great in a long time. 5 stars across the board. Going to see it again."
+            "source": "Los Angeles Times",
+            "quote": "What you really need to do is keep your eyes wide open while enjoying a titanic film that may not be perfect but will ke..."
           },
           {
-            "source": "La Estatuilla",
-            "quote": "Nope. Too long, too little action. People actually clapped at the end so maybe we were wrong but I didn’t see what all t..."
+            "source": "DwightBrownInk.com",
+            "quote": "Audiences who start this sojourn will finish it. Like Odysseus, they won’t stop."
           },
           {
-            "source": "TheIndependentCritic.com",
-            "quote": "Movie has a great plot. Great actors. Somehow I felt a disconnect with the authenticity of the movie."
+            "source": "Decent Films",
+            "quote": "Like the filmmaker’s last work, ‘Oppenheimer,’ ‘The Odyssey’ has a downbeat, apocalyptic bent—but, unlike ‘Oppenheimer,’..."
           }
         ]
       },
@@ -2180,16 +2258,16 @@
         "rottentomatoes": "https://www.rottentomatoes.com/m/moana_2026",
         "reviews": [
           {
-            "source": "Los Angeles Times",
-            "quote": "Johnson’s carapace is detailed with skin-like textures, swollen bicep veins and living tattoos that offer him encouragem..."
+            "source": "USA Today",
+            "quote": "Watching them sail across the sea and deliver the heart of Te Fiti is an amazing odyssey."
           },
           {
-            "source": "San Francisco Chronicle",
-            "quote": "The existence of a live-action version of “Moana” is easy enough to explain — it’s a money grab."
+            "source": "DwightBrownInk.com",
+            "quote": "The beguiling spirit of this South Pacific fable remains enchanting, even if this live-action adaptation never becomes a..."
           },
           {
-            "source": "Polygon",
-            "quote": "Virtually every line, beat, and song in the new movie is identical to the 2016 version, apart from a few minor punch-ups..."
+            "source": "Observer (UK)",
+            "quote": "This is an unimaginatively faithful remake that leaves the original intact, complete with songs co-written by Lin-Manuel..."
           }
         ]
       },
@@ -2216,16 +2294,16 @@
         "rottentomatoes": "https://www.rottentomatoes.com/m/minions_and_monsters",
         "reviews": [
           {
-            "source": "IndieWire",
-            "quote": "Even when “Minions & Monsters” is at its weakest, there is a sense of genuine creative glee within it that’s all too oft..."
+            "source": "MovieFreak.com",
+            "quote": "The filmmakers made this animated jolt of anarchic madness to be watched communally, in darkness, and, most importantly,..."
           },
           {
-            "source": "Los Angeles Times",
-            "quote": "I’ll admit, I snorted the first time I saw a TikTok of teens gussied up in suits to see a Minions movie."
+            "source": "AARP Movies for Grownups",
+            "quote": "If this seventh iteration of the Despicable Me franchise isn’t a laugh riot, it’s at least a chuckle-fest."
           },
           {
-            "source": "New York Post",
-            "quote": "Minions. While the opposite of realistic, they are a rarity in the constructed world of animation."
+            "source": "Time Out",
+            "quote": "Watching the Minions being fed through Modern Times’ industrial cogs or gatecrashing Buster Keaton’s Steamboat Bill, Jr ..."
           }
         ]
       },
@@ -2252,16 +2330,16 @@
         "rottentomatoes": "https://www.rottentomatoes.com/m/toy_story_5",
         "reviews": [
           {
-            "source": "Slate",
-            "quote": "What’s most heartening, and most surprising, is how consistently this latest installment in a venerable franchise makes ..."
+            "source": "The Ringer",
+            "quote": "Toy Story 5 is eager to raise the alarms and then grimly determined to mute them."
           },
           {
-            "source": "Detroit News",
-            "quote": "There's a folksy charm that's still at the center of the \"Toy Story\" series, which is now like revisiting an old friend."
+            "source": "Salon.com",
+            "quote": "Rarely does the movie hit on any salient points that the series hasn’t already made, opting instead to repeat narrative ..."
           },
           {
-            "source": "Los Angeles Times",
-            "quote": "Lilypad’s creativity-zapping existence throws off Pixar’s ability to brainstorm a dynamic story."
+            "source": "The Nightly (AU)",
+            "quote": "Toy Story 5 has its moments of joy – and some great animation in the play sequences - but it’s an inconsequential entry ..."
           }
         ]
       },
@@ -2289,15 +2367,15 @@
         "reviews": [
           {
             "source": "Los Angeles Times",
-            "quote": "This movie is not for those who want anything beyond a steak served blue."
+            "quote": "There will be no shortage of viewers who enthusiastically accept what is happening on the screen, captured with a combin..."
           },
           {
-            "source": "Mashable",
-            "quote": "A sequel that feels tedious, gray, and soulless."
+            "source": "The Australian",
+            "quote": "The dialogue is woeful, the acting (mostly) a hamfest and the plot feels like a nuisance foisted upon French writer-dire..."
           },
           {
-            "source": "Associated Press",
-            "quote": "We’ve come a long way since Sam Raimi’s original trilogy, and not in a good way."
+            "source": "Guardian",
+            "quote": "The movie works better than its predecessor."
           }
         ]
       },
@@ -2324,16 +2402,16 @@
         "rottentomatoes": "https://www.rottentomatoes.com/m/the_invite",
         "reviews": [
           {
-            "source": "Boston Globe",
-            "quote": "Wilde directs the cast well and keeps the pace as quick as the screenplay’s wit."
+            "source": "Ty Burr's Watch List (Substack)",
+            "quote": "An urban meet-the-neighbors cringe comedy that gets airborne on the strength of its four performances."
           },
           {
-            "source": "San Francisco Chronicle",
-            "quote": "As the visiting neighbors, Penélope Cruz and Edward Norton couldn’t be better, and that also says something about Wilde ..."
+            "source": "DwightBrownInk.com",
+            "quote": "Guess who’s coming to dinner? You’re the extra guest … and you’re ready for anything, too."
           },
           {
-            "source": "Rolling Stone",
-            "quote": "Whether this is the beginning of the hyphenate finding a distinctive voice as a director -- a Wilde style -- is TBD."
+            "source": "The Spectator",
+            "quote": "If there is more pleasure to be had than watching great actors behaving badly, I would genuinely wish to know about it."
           }
         ]
       },
@@ -2360,16 +2438,16 @@
         "rottentomatoes": "https://www.rottentomatoes.com/m/young_washington",
         "reviews": [
           {
-            "source": "The Hollywood Reporter",
-            "quote": "Feeling much longer than its two hours, Young Washington suffers from the stiff, stodgy quality of so many historical dr..."
+            "source": "San Francisco Chronicle",
+            "quote": "The movie is artistically conservative, with some of the bland sincerity of an afternoon special."
           },
           {
-            "source": "RogerEbert.com",
-            "quote": "[It is] a well-crafted but accessible biopic about the maturation of a person who helped shape the nation’s image of its..."
+            "source": "New York Post",
+            "quote": "What the movie lacks is a clear moment when we collectively know that George is going to be the guy."
           },
           {
-            "source": "Variety",
-            "quote": "Young Washington is just competent enough to create that crisp tug of schoolkid patriotism the books we read as children..."
+            "source": "AARP Movies for Grownups",
+            "quote": "Stirring and inspirational without being preachy, Young Washington dramatizes the lesson that a brave man’s mistakes, wh..."
           }
         ]
       },
@@ -2400,12 +2478,12 @@
             "quote": "At 26 years old, Barker is speaking directly to his own generation -- the moviegoing Zoomers -- by making a meal out of ..."
           },
           {
-            "source": "Slate",
-            "quote": "There are far scarier movies than Obsession."
+            "source": "Filmspotting",
+            "quote": "That’s the whole concept and Barker’s insight. If you want to make someone love you above all else..."
           },
           {
-            "source": "The New Yorker",
-            "quote": "[Obsession] opens in the realm of the straightforward and ultimately reveals itself to be something far more thoughtful ..."
+            "source": "Salon.com",
+            "quote": "Obsession desperately wants to be a modern film, but can’t do anything more bold than gesturing to the bleakness and inc..."
           }
         ]
       },
@@ -2432,16 +2510,16 @@
         "rottentomatoes": "https://www.rottentomatoes.com/m/supergirl_2026",
         "reviews": [
           {
-            "source": "Polygon",
-            "quote": "Director Craig Gillespie goes all-in on replicating James Gunn's directorial style."
+            "source": "MovieFreak.com",
+            "quote": "[Alcock] brings true pain and pathos to her performance, yet also effortlessly taps into Kara’s inherent goodness and gr..."
           },
           {
-            "source": "The Atlantic",
-            "quote": "Supergirl the character still has a lot going for her, presumably including a future in the DC Universe."
+            "source": "DwightBrownInk.com",
+            "quote": "Supergirl’s life is a super mess, and her film is close to being a super miss."
           },
           {
-            "source": "Slate",
-            "quote": "Despite an appealingly rough-edged title character played with scrappy aplomb by Milly Alcock, this second installment i..."
+            "source": "Salon.com",
+            "quote": "Despite the movie’s theoretical scope, its execution is painfully and frustratingly diminutive."
           }
         ]
       },
@@ -2468,16 +2546,16 @@
         "rottentomatoes": "https://www.rottentomatoes.com/m/disclosure_day",
         "reviews": [
           {
-            "source": "Boston Globe",
-            "quote": "This thrilling film is all about its questions, not its answers. That is the mark of a true elder statesman’s wisdom."
+            "source": "The Nightly (AU)",
+            "quote": "Disclosure Day is classic Spielberg popcorn – it has heft, sure, but it is mostly about being along for an entertaining ..."
           },
           {
-            "source": "TIME Magazine",
-            "quote": "Even though Disclosure Day absolutely qualifies as a big Hollywood entertainment, conventional on its surface, it still ..."
+            "source": "DwightBrownInk.com",
+            "quote": "A spectacle by a master filmmaker who’s out to prove that alien conspiracies are worth our attention."
           },
           {
-            "source": "Slate",
-            "quote": "There’s an odd asymmetry to the script’s character development, in that some secondary characters emerge as more distinc..."
+            "source": "Filmspotting",
+            "quote": "Blunt’s Margaret doesn’t just experience the overwhelming wonder we associate with so many Spielberg characters "
           }
         ]
       }
@@ -2510,16 +2588,16 @@
         "rottentomatoes": "https://www.rottentomatoes.com/m/moana_2026",
         "reviews": [
           {
-            "source": "Los Angeles Times",
-            "quote": "Johnson’s carapace is detailed with skin-like textures, swollen bicep veins and living tattoos that offer him encouragem..."
+            "source": "USA Today",
+            "quote": "Watching them sail across the sea and deliver the heart of Te Fiti is an amazing odyssey."
           },
           {
-            "source": "San Francisco Chronicle",
-            "quote": "The existence of a live-action version of “Moana” is easy enough to explain — it’s a money grab."
+            "source": "DwightBrownInk.com",
+            "quote": "The beguiling spirit of this South Pacific fable remains enchanting, even if this live-action adaptation never becomes a..."
           },
           {
-            "source": "Polygon",
-            "quote": "Virtually every line, beat, and song in the new movie is identical to the 2016 version, apart from a few minor punch-ups..."
+            "source": "Observer (UK)",
+            "quote": "This is an unimaginatively faithful remake that leaves the original intact, complete with songs co-written by Lin-Manuel..."
           }
         ]
       },
@@ -2546,16 +2624,16 @@
         "rottentomatoes": "https://www.rottentomatoes.com/m/minions_and_monsters",
         "reviews": [
           {
-            "source": "IndieWire",
-            "quote": "Even when “Minions & Monsters” is at its weakest, there is a sense of genuine creative glee within it that’s all too oft..."
+            "source": "MovieFreak.com",
+            "quote": "The filmmakers made this animated jolt of anarchic madness to be watched communally, in darkness, and, most importantly,..."
           },
           {
-            "source": "Los Angeles Times",
-            "quote": "I’ll admit, I snorted the first time I saw a TikTok of teens gussied up in suits to see a Minions movie."
+            "source": "AARP Movies for Grownups",
+            "quote": "If this seventh iteration of the Despicable Me franchise isn’t a laugh riot, it’s at least a chuckle-fest."
           },
           {
-            "source": "New York Post",
-            "quote": "Minions. While the opposite of realistic, they are a rarity in the constructed world of animation."
+            "source": "Time Out",
+            "quote": "Watching the Minions being fed through Modern Times’ industrial cogs or gatecrashing Buster Keaton’s Steamboat Bill, Jr ..."
           }
         ]
       },
@@ -2582,16 +2660,16 @@
         "rottentomatoes": "https://www.rottentomatoes.com/m/toy_story_5",
         "reviews": [
           {
-            "source": "Slate",
-            "quote": "What’s most heartening, and most surprising, is how consistently this latest installment in a venerable franchise makes ..."
+            "source": "The Ringer",
+            "quote": "Toy Story 5 is eager to raise the alarms and then grimly determined to mute them."
           },
           {
-            "source": "Detroit News",
-            "quote": "There's a folksy charm that's still at the center of the \"Toy Story\" series, which is now like revisiting an old friend."
+            "source": "Salon.com",
+            "quote": "Rarely does the movie hit on any salient points that the series hasn’t already made, opting instead to repeat narrative ..."
           },
           {
-            "source": "Los Angeles Times",
-            "quote": "Lilypad’s creativity-zapping existence throws off Pixar’s ability to brainstorm a dynamic story."
+            "source": "The Nightly (AU)",
+            "quote": "Toy Story 5 has its moments of joy – and some great animation in the play sequences - but it’s an inconsequential entry ..."
           }
         ]
       },
@@ -2619,15 +2697,15 @@
         "reviews": [
           {
             "source": "Los Angeles Times",
-            "quote": "This movie is not for those who want anything beyond a steak served blue."
+            "quote": "There will be no shortage of viewers who enthusiastically accept what is happening on the screen, captured with a combin..."
           },
           {
-            "source": "Mashable",
-            "quote": "A sequel that feels tedious, gray, and soulless."
+            "source": "The Australian",
+            "quote": "The dialogue is woeful, the acting (mostly) a hamfest and the plot feels like a nuisance foisted upon French writer-dire..."
           },
           {
-            "source": "Associated Press",
-            "quote": "We’ve come a long way since Sam Raimi’s original trilogy, and not in a good way."
+            "source": "Guardian",
+            "quote": "The movie works better than its predecessor."
           }
         ]
       },
@@ -2654,16 +2732,16 @@
         "rottentomatoes": "https://www.rottentomatoes.com/m/young_washington",
         "reviews": [
           {
-            "source": "The Hollywood Reporter",
-            "quote": "Feeling much longer than its two hours, Young Washington suffers from the stiff, stodgy quality of so many historical dr..."
+            "source": "San Francisco Chronicle",
+            "quote": "The movie is artistically conservative, with some of the bland sincerity of an afternoon special."
           },
           {
-            "source": "RogerEbert.com",
-            "quote": "[It is] a well-crafted but accessible biopic about the maturation of a person who helped shape the nation’s image of its..."
+            "source": "New York Post",
+            "quote": "What the movie lacks is a clear moment when we collectively know that George is going to be the guy."
           },
           {
-            "source": "Variety",
-            "quote": "Young Washington is just competent enough to create that crisp tug of schoolkid patriotism the books we read as children..."
+            "source": "AARP Movies for Grownups",
+            "quote": "Stirring and inspirational without being preachy, Young Washington dramatizes the lesson that a brave man’s mistakes, wh..."
           }
         ]
       },
@@ -2690,16 +2768,16 @@
         "rottentomatoes": "https://www.rottentomatoes.com/m/the_invite",
         "reviews": [
           {
-            "source": "Boston Globe",
-            "quote": "Wilde directs the cast well and keeps the pace as quick as the screenplay’s wit."
+            "source": "Ty Burr's Watch List (Substack)",
+            "quote": "An urban meet-the-neighbors cringe comedy that gets airborne on the strength of its four performances."
           },
           {
-            "source": "San Francisco Chronicle",
-            "quote": "As the visiting neighbors, Penélope Cruz and Edward Norton couldn’t be better, and that also says something about Wilde ..."
+            "source": "DwightBrownInk.com",
+            "quote": "Guess who’s coming to dinner? You’re the extra guest … and you’re ready for anything, too."
           },
           {
-            "source": "Rolling Stone",
-            "quote": "Whether this is the beginning of the hyphenate finding a distinctive voice as a director -- a Wilde style -- is TBD."
+            "source": "The Spectator",
+            "quote": "If there is more pleasure to be had than watching great actors behaving badly, I would genuinely wish to know about it."
           }
         ]
       },
@@ -2730,12 +2808,12 @@
             "quote": "At 26 years old, Barker is speaking directly to his own generation -- the moviegoing Zoomers -- by making a meal out of ..."
           },
           {
-            "source": "Slate",
-            "quote": "There are far scarier movies than Obsession."
+            "source": "Filmspotting",
+            "quote": "That’s the whole concept and Barker’s insight. If you want to make someone love you above all else..."
           },
           {
-            "source": "The New Yorker",
-            "quote": "[Obsession] opens in the realm of the straightforward and ultimately reveals itself to be something far more thoughtful ..."
+            "source": "Salon.com",
+            "quote": "Obsession desperately wants to be a modern film, but can’t do anything more bold than gesturing to the bleakness and inc..."
           }
         ]
       },
@@ -2762,16 +2840,16 @@
         "rottentomatoes": "https://www.rottentomatoes.com/m/supergirl_2026",
         "reviews": [
           {
-            "source": "Polygon",
-            "quote": "Director Craig Gillespie goes all-in on replicating James Gunn's directorial style."
+            "source": "MovieFreak.com",
+            "quote": "[Alcock] brings true pain and pathos to her performance, yet also effortlessly taps into Kara’s inherent goodness and gr..."
           },
           {
-            "source": "The Atlantic",
-            "quote": "Supergirl the character still has a lot going for her, presumably including a future in the DC Universe."
+            "source": "DwightBrownInk.com",
+            "quote": "Supergirl’s life is a super mess, and her film is close to being a super miss."
           },
           {
-            "source": "Slate",
-            "quote": "Despite an appealingly rough-edged title character played with scrappy aplomb by Milly Alcock, this second installment i..."
+            "source": "Salon.com",
+            "quote": "Despite the movie’s theoretical scope, its execution is painfully and frustratingly diminutive."
           }
         ]
       },
@@ -2798,16 +2876,16 @@
         "rottentomatoes": "https://www.rottentomatoes.com/m/disclosure_day",
         "reviews": [
           {
-            "source": "Boston Globe",
-            "quote": "This thrilling film is all about its questions, not its answers. That is the mark of a true elder statesman’s wisdom."
+            "source": "The Nightly (AU)",
+            "quote": "Disclosure Day is classic Spielberg popcorn – it has heft, sure, but it is mostly about being along for an entertaining ..."
           },
           {
-            "source": "TIME Magazine",
-            "quote": "Even though Disclosure Day absolutely qualifies as a big Hollywood entertainment, conventional on its surface, it still ..."
+            "source": "DwightBrownInk.com",
+            "quote": "A spectacle by a master filmmaker who’s out to prove that alien conspiracies are worth our attention."
           },
           {
-            "source": "Slate",
-            "quote": "There’s an odd asymmetry to the script’s character development, in that some secondary characters emerge as more distinc..."
+            "source": "Filmspotting",
+            "quote": "Blunt’s Margaret doesn’t just experience the overwhelming wonder we associate with so many Spielberg characters "
           }
         ]
       },
@@ -2834,16 +2912,16 @@
         "rottentomatoes": "https://www.rottentomatoes.com/m/backrooms",
         "reviews": [
           {
-            "source": "Rolling Stone",
-            "quote": "It’s the carbonara of creepypasta cinema, adding savory Kubrickian elements to its source material’s heavily salted Blai..."
+            "source": "Slate",
+            "quote": "The Backrooms part of Backrooms is great, well-rendered, and incredibly unsettling."
           },
           {
-            "source": "RogerEbert.com",
-            "quote": "It is a sign of what could be built within this subgenre and what its creator could make in the future."
+            "source": "DwightBrownInk.com",
+            "quote": "Scare the weak. Rattle the strong. Leave no one behind. This fright fest is a credit to the genre."
           },
           {
-            "source": "Polygon",
-            "quote": "Backrooms is deeply unnerving. Better yet, it’s haunting, leaving behind lingering shivers and ongoing anxieties."
+            "source": "Ty Burr's Watch List (Substack)",
+            "quote": "The movie’s grip holds, even past the point where it’s clear no traditional explanation is coming to save the characters..."
           }
         ]
       }
@@ -2876,16 +2954,16 @@
         "rottentomatoes": "https://www.rottentomatoes.com/m/minions_and_monsters",
         "reviews": [
           {
-            "source": "IndieWire",
-            "quote": "Even when “Minions & Monsters” is at its weakest, there is a sense of genuine creative glee within it that’s all too oft..."
+            "source": "MovieFreak.com",
+            "quote": "The filmmakers made this animated jolt of anarchic madness to be watched communally, in darkness, and, most importantly,..."
           },
           {
-            "source": "Los Angeles Times",
-            "quote": "I’ll admit, I snorted the first time I saw a TikTok of teens gussied up in suits to see a Minions movie."
+            "source": "AARP Movies for Grownups",
+            "quote": "If this seventh iteration of the Despicable Me franchise isn’t a laugh riot, it’s at least a chuckle-fest."
           },
           {
-            "source": "New York Post",
-            "quote": "Minions. While the opposite of realistic, they are a rarity in the constructed world of animation."
+            "source": "Time Out",
+            "quote": "Watching the Minions being fed through Modern Times’ industrial cogs or gatecrashing Buster Keaton’s Steamboat Bill, Jr ..."
           }
         ]
       },
@@ -2912,16 +2990,16 @@
         "rottentomatoes": "https://www.rottentomatoes.com/m/toy_story_5",
         "reviews": [
           {
-            "source": "Slate",
-            "quote": "What’s most heartening, and most surprising, is how consistently this latest installment in a venerable franchise makes ..."
+            "source": "The Ringer",
+            "quote": "Toy Story 5 is eager to raise the alarms and then grimly determined to mute them."
           },
           {
-            "source": "Detroit News",
-            "quote": "There's a folksy charm that's still at the center of the \"Toy Story\" series, which is now like revisiting an old friend."
+            "source": "Salon.com",
+            "quote": "Rarely does the movie hit on any salient points that the series hasn’t already made, opting instead to repeat narrative ..."
           },
           {
-            "source": "Los Angeles Times",
-            "quote": "Lilypad’s creativity-zapping existence throws off Pixar’s ability to brainstorm a dynamic story."
+            "source": "The Nightly (AU)",
+            "quote": "Toy Story 5 has its moments of joy – and some great animation in the play sequences - but it’s an inconsequential entry ..."
           }
         ]
       },
@@ -2948,16 +3026,16 @@
         "rottentomatoes": "https://www.rottentomatoes.com/m/young_washington",
         "reviews": [
           {
-            "source": "The Hollywood Reporter",
-            "quote": "Feeling much longer than its two hours, Young Washington suffers from the stiff, stodgy quality of so many historical dr..."
+            "source": "San Francisco Chronicle",
+            "quote": "The movie is artistically conservative, with some of the bland sincerity of an afternoon special."
           },
           {
-            "source": "RogerEbert.com",
-            "quote": "[It is] a well-crafted but accessible biopic about the maturation of a person who helped shape the nation’s image of its..."
+            "source": "New York Post",
+            "quote": "What the movie lacks is a clear moment when we collectively know that George is going to be the guy."
           },
           {
-            "source": "Variety",
-            "quote": "Young Washington is just competent enough to create that crisp tug of schoolkid patriotism the books we read as children..."
+            "source": "AARP Movies for Grownups",
+            "quote": "Stirring and inspirational without being preachy, Young Washington dramatizes the lesson that a brave man’s mistakes, wh..."
           }
         ]
       },
@@ -2984,16 +3062,16 @@
         "rottentomatoes": "https://www.rottentomatoes.com/m/supergirl_2026",
         "reviews": [
           {
-            "source": "Polygon",
-            "quote": "Director Craig Gillespie goes all-in on replicating James Gunn's directorial style."
+            "source": "MovieFreak.com",
+            "quote": "[Alcock] brings true pain and pathos to her performance, yet also effortlessly taps into Kara’s inherent goodness and gr..."
           },
           {
-            "source": "The Atlantic",
-            "quote": "Supergirl the character still has a lot going for her, presumably including a future in the DC Universe."
+            "source": "DwightBrownInk.com",
+            "quote": "Supergirl’s life is a super mess, and her film is close to being a super miss."
           },
           {
-            "source": "Slate",
-            "quote": "Despite an appealingly rough-edged title character played with scrappy aplomb by Milly Alcock, this second installment i..."
+            "source": "Salon.com",
+            "quote": "Despite the movie’s theoretical scope, its execution is painfully and frustratingly diminutive."
           }
         ]
       },
@@ -3020,16 +3098,16 @@
         "rottentomatoes": "https://www.rottentomatoes.com/m/disclosure_day",
         "reviews": [
           {
-            "source": "Boston Globe",
-            "quote": "This thrilling film is all about its questions, not its answers. That is the mark of a true elder statesman’s wisdom."
+            "source": "The Nightly (AU)",
+            "quote": "Disclosure Day is classic Spielberg popcorn – it has heft, sure, but it is mostly about being along for an entertaining ..."
           },
           {
-            "source": "TIME Magazine",
-            "quote": "Even though Disclosure Day absolutely qualifies as a big Hollywood entertainment, conventional on its surface, it still ..."
+            "source": "DwightBrownInk.com",
+            "quote": "A spectacle by a master filmmaker who’s out to prove that alien conspiracies are worth our attention."
           },
           {
-            "source": "Slate",
-            "quote": "There’s an odd asymmetry to the script’s character development, in that some secondary characters emerge as more distinc..."
+            "source": "Filmspotting",
+            "quote": "Blunt’s Margaret doesn’t just experience the overwhelming wonder we associate with so many Spielberg characters "
           }
         ]
       },
@@ -3060,12 +3138,12 @@
             "quote": "At 26 years old, Barker is speaking directly to his own generation -- the moviegoing Zoomers -- by making a meal out of ..."
           },
           {
-            "source": "Slate",
-            "quote": "There are far scarier movies than Obsession."
+            "source": "Filmspotting",
+            "quote": "That’s the whole concept and Barker’s insight. If you want to make someone love you above all else..."
           },
           {
-            "source": "The New Yorker",
-            "quote": "[Obsession] opens in the realm of the straightforward and ultimately reveals itself to be something far more thoughtful ..."
+            "source": "Salon.com",
+            "quote": "Obsession desperately wants to be a modern film, but can’t do anything more bold than gesturing to the bleakness and inc..."
           }
         ]
       },
@@ -3092,16 +3170,16 @@
         "rottentomatoes": "https://www.rottentomatoes.com/m/backrooms",
         "reviews": [
           {
-            "source": "Rolling Stone",
-            "quote": "It’s the carbonara of creepypasta cinema, adding savory Kubrickian elements to its source material’s heavily salted Blai..."
+            "source": "Slate",
+            "quote": "The Backrooms part of Backrooms is great, well-rendered, and incredibly unsettling."
           },
           {
-            "source": "RogerEbert.com",
-            "quote": "It is a sign of what could be built within this subgenre and what its creator could make in the future."
+            "source": "DwightBrownInk.com",
+            "quote": "Scare the weak. Rattle the strong. Leave no one behind. This fright fest is a credit to the genre."
           },
           {
-            "source": "Polygon",
-            "quote": "Backrooms is deeply unnerving. Better yet, it’s haunting, leaving behind lingering shivers and ongoing anxieties."
+            "source": "Ty Burr's Watch List (Substack)",
+            "quote": "The movie’s grip holds, even past the point where it’s clear no traditional explanation is coming to save the characters..."
           }
         ]
       },
@@ -3128,16 +3206,16 @@
         "rottentomatoes": "https://www.rottentomatoes.com/m/jackass_best_and_last",
         "reviews": [
           {
-            "source": "Los Angeles Times",
-            "quote": "I’m no sadist. They’ve suffered plenty for our amusement."
+            "source": "Guardian",
+            "quote": "Seeing a Jackass movie with a crowd is still a kick, and Knoxville’s still got it."
           },
           {
-            "source": "Rolling Stone",
-            "quote": "Cinema began with a train pulling into a station."
+            "source": "Sydney Morning Herald",
+            "quote": "I think I’m safe in saying that the gross-out movie is uniquely American."
           },
           {
-            "source": "Los Angeles Times",
-            "quote": "The closing film continues to display that furious, transgressive, and unusually artistic tendency that has always chara..."
+            "source": "New York Magazine/Vulture",
+            "quote": "So what if some of the new crewmembers introduced in the previous movie don’t have much to do this time around? Jackass:..."
           }
         ]
       },
@@ -3168,12 +3246,12 @@
             "quote": "The gentrification of genre is a real and consequential development, and yet the prevailing feeling watching the latest ..."
           },
           {
-            "source": "Los Angeles Times",
-            "quote": "Good is a stretch. \"Scary Movie\" is as lazy, dumb and offensive as the others."
+            "source": "Salon.com",
+            "quote": "The new “Scary Movie” is stuck somewhere between then and now, with one foot in the early-millennial absurdism that spaw..."
           },
           {
-            "source": "RogerEbert.com",
-            "quote": "I kinda loved the brutal, ludicrous final twist, which matched the opening scene for bold humor."
+            "source": "New York Magazine/Vulture",
+            "quote": "We laugh because we’re defeated. That requires more effort than Scary Movie is usually willing to expend, but every once..."
           }
         ]
       },
@@ -3200,16 +3278,16 @@
         "rottentomatoes": "https://www.rottentomatoes.com/m/the_invite",
         "reviews": [
           {
-            "source": "Boston Globe",
-            "quote": "Wilde directs the cast well and keeps the pace as quick as the screenplay’s wit."
+            "source": "Ty Burr's Watch List (Substack)",
+            "quote": "An urban meet-the-neighbors cringe comedy that gets airborne on the strength of its four performances."
           },
           {
-            "source": "San Francisco Chronicle",
-            "quote": "As the visiting neighbors, Penélope Cruz and Edward Norton couldn’t be better, and that also says something about Wilde ..."
+            "source": "DwightBrownInk.com",
+            "quote": "Guess who’s coming to dinner? You’re the extra guest … and you’re ready for anything, too."
           },
           {
-            "source": "Rolling Stone",
-            "quote": "Whether this is the beginning of the hyphenate finding a distinctive voice as a director -- a Wilde style -- is TBD."
+            "source": "The Spectator",
+            "quote": "If there is more pleasure to be had than watching great actors behaving badly, I would genuinely wish to know about it."
           }
         ]
       }
@@ -3242,16 +3320,16 @@
         "rottentomatoes": "https://www.rottentomatoes.com/m/toy_story_5",
         "reviews": [
           {
-            "source": "Slate",
-            "quote": "What’s most heartening, and most surprising, is how consistently this latest installment in a venerable franchise makes ..."
+            "source": "The Ringer",
+            "quote": "Toy Story 5 is eager to raise the alarms and then grimly determined to mute them."
           },
           {
-            "source": "Detroit News",
-            "quote": "There's a folksy charm that's still at the center of the \"Toy Story\" series, which is now like revisiting an old friend."
+            "source": "Salon.com",
+            "quote": "Rarely does the movie hit on any salient points that the series hasn’t already made, opting instead to repeat narrative ..."
           },
           {
-            "source": "Los Angeles Times",
-            "quote": "Lilypad’s creativity-zapping existence throws off Pixar’s ability to brainstorm a dynamic story."
+            "source": "The Nightly (AU)",
+            "quote": "Toy Story 5 has its moments of joy – and some great animation in the play sequences - but it’s an inconsequential entry ..."
           }
         ]
       },
@@ -3278,16 +3356,16 @@
         "rottentomatoes": "https://www.rottentomatoes.com/m/supergirl_2026",
         "reviews": [
           {
-            "source": "Polygon",
-            "quote": "Director Craig Gillespie goes all-in on replicating James Gunn's directorial style."
+            "source": "MovieFreak.com",
+            "quote": "[Alcock] brings true pain and pathos to her performance, yet also effortlessly taps into Kara’s inherent goodness and gr..."
           },
           {
-            "source": "The Atlantic",
-            "quote": "Supergirl the character still has a lot going for her, presumably including a future in the DC Universe."
+            "source": "DwightBrownInk.com",
+            "quote": "Supergirl’s life is a super mess, and her film is close to being a super miss."
           },
           {
-            "source": "Slate",
-            "quote": "Despite an appealingly rough-edged title character played with scrappy aplomb by Milly Alcock, this second installment i..."
+            "source": "Salon.com",
+            "quote": "Despite the movie’s theoretical scope, its execution is painfully and frustratingly diminutive."
           }
         ]
       },
@@ -3318,12 +3396,12 @@
             "quote": "At 26 years old, Barker is speaking directly to his own generation -- the moviegoing Zoomers -- by making a meal out of ..."
           },
           {
-            "source": "Slate",
-            "quote": "There are far scarier movies than Obsession."
+            "source": "Filmspotting",
+            "quote": "That’s the whole concept and Barker’s insight. If you want to make someone love you above all else..."
           },
           {
-            "source": "The New Yorker",
-            "quote": "[Obsession] opens in the realm of the straightforward and ultimately reveals itself to be something far more thoughtful ..."
+            "source": "Salon.com",
+            "quote": "Obsession desperately wants to be a modern film, but can’t do anything more bold than gesturing to the bleakness and inc..."
           }
         ]
       },
@@ -3350,16 +3428,16 @@
         "rottentomatoes": "https://www.rottentomatoes.com/m/jackass_best_and_last",
         "reviews": [
           {
-            "source": "Los Angeles Times",
-            "quote": "I’m no sadist. They’ve suffered plenty for our amusement."
+            "source": "Guardian",
+            "quote": "Seeing a Jackass movie with a crowd is still a kick, and Knoxville’s still got it."
           },
           {
-            "source": "Rolling Stone",
-            "quote": "Cinema began with a train pulling into a station."
+            "source": "Sydney Morning Herald",
+            "quote": "I think I’m safe in saying that the gross-out movie is uniquely American."
           },
           {
-            "source": "Los Angeles Times",
-            "quote": "The closing film continues to display that furious, transgressive, and unusually artistic tendency that has always chara..."
+            "source": "New York Magazine/Vulture",
+            "quote": "So what if some of the new crewmembers introduced in the previous movie don’t have much to do this time around? Jackass:..."
           }
         ]
       },
@@ -3386,16 +3464,16 @@
         "rottentomatoes": "https://www.rottentomatoes.com/m/disclosure_day",
         "reviews": [
           {
-            "source": "Boston Globe",
-            "quote": "This thrilling film is all about its questions, not its answers. That is the mark of a true elder statesman’s wisdom."
+            "source": "The Nightly (AU)",
+            "quote": "Disclosure Day is classic Spielberg popcorn – it has heft, sure, but it is mostly about being along for an entertaining ..."
           },
           {
-            "source": "TIME Magazine",
-            "quote": "Even though Disclosure Day absolutely qualifies as a big Hollywood entertainment, conventional on its surface, it still ..."
+            "source": "DwightBrownInk.com",
+            "quote": "A spectacle by a master filmmaker who’s out to prove that alien conspiracies are worth our attention."
           },
           {
-            "source": "Slate",
-            "quote": "There’s an odd asymmetry to the script’s character development, in that some secondary characters emerge as more distinc..."
+            "source": "Filmspotting",
+            "quote": "Blunt’s Margaret doesn’t just experience the overwhelming wonder we associate with so many Spielberg characters "
           }
         ]
       },
@@ -3422,16 +3500,16 @@
         "rottentomatoes": "https://www.rottentomatoes.com/m/backrooms",
         "reviews": [
           {
-            "source": "Rolling Stone",
-            "quote": "It’s the carbonara of creepypasta cinema, adding savory Kubrickian elements to its source material’s heavily salted Blai..."
+            "source": "Slate",
+            "quote": "The Backrooms part of Backrooms is great, well-rendered, and incredibly unsettling."
           },
           {
-            "source": "RogerEbert.com",
-            "quote": "It is a sign of what could be built within this subgenre and what its creator could make in the future."
+            "source": "DwightBrownInk.com",
+            "quote": "Scare the weak. Rattle the strong. Leave no one behind. This fright fest is a credit to the genre."
           },
           {
-            "source": "Polygon",
-            "quote": "Backrooms is deeply unnerving. Better yet, it’s haunting, leaving behind lingering shivers and ongoing anxieties."
+            "source": "Ty Burr's Watch List (Substack)",
+            "quote": "The movie’s grip holds, even past the point where it’s clear no traditional explanation is coming to save the characters..."
           }
         ]
       },
@@ -3462,19 +3540,19 @@
             "quote": "The gentrification of genre is a real and consequential development, and yet the prevailing feeling watching the latest ..."
           },
           {
-            "source": "Los Angeles Times",
-            "quote": "Good is a stretch. \"Scary Movie\" is as lazy, dumb and offensive as the others."
+            "source": "Salon.com",
+            "quote": "The new “Scary Movie” is stuck somewhere between then and now, with one foot in the early-millennial absurdism that spaw..."
           },
           {
-            "source": "RogerEbert.com",
-            "quote": "I kinda loved the brutal, ludicrous final twist, which matched the opening scene for bold humor."
+            "source": "New York Magazine/Vulture",
+            "quote": "We laugh because we’re defeated. That requires more effort than Scary Movie is usually willing to expend, but every once..."
           }
         ]
       },
       {
         "rank": 8,
         "title": "BLEACH: Thousand-Year Blood War - The Calamity",
-        "runtime": null,
+        "runtime": 85,
         "studio": "Fathom Entertainment",
         "weekend": 3000000,
         "total": 3000000,
@@ -3482,17 +3560,30 @@
         "weeks": 1,
         "change": null,
         "theaters": 943,
-        "poster": "https://www.rottentomatoes.com/assets/pizza-pie/head-assets/images/RT_TwitterCard_2018.jpg",
+        "poster": "https://resizing.flixster.com/Fw6IlSGhrGnKdcVK-D--T4wvNSw=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzZmYTg3YmI4LWJmNTUtNGI3Ny1iMDYwLWNmODk0NmYxN2IwYi5qcGc=",
         "rating": null,
-        "genre": null,
+        "genre": "Horror / Fantasy",
         "rt": {
-          "critics": null,
-          "audience": null
+          "critics": 96,
+          "audience": 96
         },
         "imdb": null,
         "boxofficemojo": "https://www.boxofficemojo.com/release/rl2494988289/",
-        "rottentomatoes": "https://www.rottentomatoes.com/m/bleach_thousandyear_blood_war_the_calamity",
-        "reviews": []
+        "rottentomatoes": "https://www.rottentomatoes.com/m/bleach_thousand_year_blood_war_the_calamity",
+        "reviews": [
+          {
+            "source": "Rolling Stone en Español",
+            "quote": "The Calamity represents one of the most visually ambitious moments in the entire franchise and confirms that Ichigo Kuro..."
+          },
+          {
+            "source": "But Why Tho?",
+            "quote": "Apologies to Pixar, Marvel Studios, Steven Spielberg, and Christopher Nolan, but this was my most anticipated theatrical..."
+          },
+          {
+            "source": "FILMINK (Australia)",
+            "quote": "… as Bleach as Bleach gets."
+          }
+        ]
       },
       {
         "rank": 9,
@@ -3517,16 +3608,16 @@
         "rottentomatoes": "https://www.rottentomatoes.com/m/masters_of_the_universe_2026",
         "reviews": [
           {
-            "source": "MovieFreak.com",
-            "quote": "This bizarre mishmash of comedy, social commentary, and high-flying action never won me over."
+            "source": "San Jose Mercury News",
+            "quote": "It’s got the right cast and the right director; now it just needs to surrender to its cheesy outrageousness."
           },
           {
-            "source": "Rolling Stone",
-            "quote": "Fan-service nostalgiabait that wants you to not take it seriously while also very much taking it seriously."
+            "source": "Observer (UK)",
+            "quote": "Hear that? That’s the sound of a barrel being scraped over in Hollywood."
           },
           {
-            "source": "Los Angeles Times",
-            "quote": "As Skeletor, Jared Leto’s grumbling Brit-inflected baritone is an unrecognizable concoction of trilled r’s and plummy vo..."
+            "source": "New York Magazine/Vulture",
+            "quote": "Masters of the Universe belongs to no one — a project engineered at enormous cost from the needs of IP."
           }
         ]
       },
@@ -3553,16 +3644,16 @@
         "rottentomatoes": "https://www.rottentomatoes.com/m/star_wars_the_mandalorian_and_grogu",
         "reviews": [
           {
-            "source": "MovieFreak.com",
-            "quote": "I do think kids will enjoy themselves, and maybe that’s enough to give this middling adventure a pass."
+            "source": "Los Angeles Times",
+            "quote": "If even the greatest master of contemporary cinema succumbed to the charms of the intergalactic mainstream, who are we t..."
           },
           {
-            "source": "Detroit News",
-            "quote": "The movie is, in a sense, a series of strung together action scenes, and while it's not top notch action, it's enough, a..."
+            "source": "Filmspotting",
+            "quote": "…offers gobs of heart, but is as soulless as Mandalorian steel."
           },
           {
-            "source": "Slate",
-            "quote": "If The Mandalorian and Grogu isn’t the worst Star Wars movie—and it might be—it’s certainly the least: the least essenti..."
+            "source": "Chicago Reader",
+            "quote": "The Mandalorian and Grogu is the first Star Wars movie to bring a Disney+ TV show to the big screen, and you can tell."
           }
         ]
       }
@@ -3595,16 +3686,16 @@
         "rottentomatoes": "https://www.rottentomatoes.com/m/toy_story_5",
         "reviews": [
           {
-            "source": "Slate",
-            "quote": "What’s most heartening, and most surprising, is how consistently this latest installment in a venerable franchise makes ..."
+            "source": "The Ringer",
+            "quote": "Toy Story 5 is eager to raise the alarms and then grimly determined to mute them."
           },
           {
-            "source": "Detroit News",
-            "quote": "There's a folksy charm that's still at the center of the \"Toy Story\" series, which is now like revisiting an old friend."
+            "source": "Salon.com",
+            "quote": "Rarely does the movie hit on any salient points that the series hasn’t already made, opting instead to repeat narrative ..."
           },
           {
-            "source": "Los Angeles Times",
-            "quote": "Lilypad’s creativity-zapping existence throws off Pixar’s ability to brainstorm a dynamic story."
+            "source": "The Nightly (AU)",
+            "quote": "Toy Story 5 has its moments of joy – and some great animation in the play sequences - but it’s an inconsequential entry ..."
           }
         ]
       },
@@ -3631,16 +3722,16 @@
         "rottentomatoes": "https://www.rottentomatoes.com/m/disclosure_day",
         "reviews": [
           {
-            "source": "Boston Globe",
-            "quote": "This thrilling film is all about its questions, not its answers. That is the mark of a true elder statesman’s wisdom."
+            "source": "The Nightly (AU)",
+            "quote": "Disclosure Day is classic Spielberg popcorn – it has heft, sure, but it is mostly about being along for an entertaining ..."
           },
           {
-            "source": "TIME Magazine",
-            "quote": "Even though Disclosure Day absolutely qualifies as a big Hollywood entertainment, conventional on its surface, it still ..."
+            "source": "DwightBrownInk.com",
+            "quote": "A spectacle by a master filmmaker who’s out to prove that alien conspiracies are worth our attention."
           },
           {
-            "source": "Slate",
-            "quote": "There’s an odd asymmetry to the script’s character development, in that some secondary characters emerge as more distinc..."
+            "source": "Filmspotting",
+            "quote": "Blunt’s Margaret doesn’t just experience the overwhelming wonder we associate with so many Spielberg characters "
           }
         ]
       },
@@ -3671,12 +3762,12 @@
             "quote": "At 26 years old, Barker is speaking directly to his own generation -- the moviegoing Zoomers -- by making a meal out of ..."
           },
           {
-            "source": "Slate",
-            "quote": "There are far scarier movies than Obsession."
+            "source": "Filmspotting",
+            "quote": "That’s the whole concept and Barker’s insight. If you want to make someone love you above all else..."
           },
           {
-            "source": "The New Yorker",
-            "quote": "[Obsession] opens in the realm of the straightforward and ultimately reveals itself to be something far more thoughtful ..."
+            "source": "Salon.com",
+            "quote": "Obsession desperately wants to be a modern film, but can’t do anything more bold than gesturing to the bleakness and inc..."
           }
         ]
       },
@@ -3703,16 +3794,16 @@
         "rottentomatoes": "https://www.rottentomatoes.com/m/backrooms",
         "reviews": [
           {
-            "source": "Rolling Stone",
-            "quote": "It’s the carbonara of creepypasta cinema, adding savory Kubrickian elements to its source material’s heavily salted Blai..."
+            "source": "Slate",
+            "quote": "The Backrooms part of Backrooms is great, well-rendered, and incredibly unsettling."
           },
           {
-            "source": "RogerEbert.com",
-            "quote": "It is a sign of what could be built within this subgenre and what its creator could make in the future."
+            "source": "DwightBrownInk.com",
+            "quote": "Scare the weak. Rattle the strong. Leave no one behind. This fright fest is a credit to the genre."
           },
           {
-            "source": "Polygon",
-            "quote": "Backrooms is deeply unnerving. Better yet, it’s haunting, leaving behind lingering shivers and ongoing anxieties."
+            "source": "Ty Burr's Watch List (Substack)",
+            "quote": "The movie’s grip holds, even past the point where it’s clear no traditional explanation is coming to save the characters..."
           }
         ]
       },
@@ -3743,12 +3834,12 @@
             "quote": "The gentrification of genre is a real and consequential development, and yet the prevailing feeling watching the latest ..."
           },
           {
-            "source": "Los Angeles Times",
-            "quote": "Good is a stretch. \"Scary Movie\" is as lazy, dumb and offensive as the others."
+            "source": "Salon.com",
+            "quote": "The new “Scary Movie” is stuck somewhere between then and now, with one foot in the early-millennial absurdism that spaw..."
           },
           {
-            "source": "RogerEbert.com",
-            "quote": "I kinda loved the brutal, ludicrous final twist, which matched the opening scene for bold humor."
+            "source": "New York Magazine/Vulture",
+            "quote": "We laugh because we’re defeated. That requires more effort than Scary Movie is usually willing to expend, but every once..."
           }
         ]
       },
@@ -3775,16 +3866,16 @@
         "rottentomatoes": "https://www.rottentomatoes.com/m/masters_of_the_universe_2026",
         "reviews": [
           {
-            "source": "MovieFreak.com",
-            "quote": "This bizarre mishmash of comedy, social commentary, and high-flying action never won me over."
+            "source": "San Jose Mercury News",
+            "quote": "It’s got the right cast and the right director; now it just needs to surrender to its cheesy outrageousness."
           },
           {
-            "source": "Rolling Stone",
-            "quote": "Fan-service nostalgiabait that wants you to not take it seriously while also very much taking it seriously."
+            "source": "Observer (UK)",
+            "quote": "Hear that? That’s the sound of a barrel being scraped over in Hollywood."
           },
           {
-            "source": "Los Angeles Times",
-            "quote": "As Skeletor, Jared Leto’s grumbling Brit-inflected baritone is an unrecognizable concoction of trilled r’s and plummy vo..."
+            "source": "New York Magazine/Vulture",
+            "quote": "Masters of the Universe belongs to no one — a project engineered at enormous cost from the needs of IP."
           }
         ]
       },
@@ -3811,16 +3902,16 @@
         "rottentomatoes": "https://www.rottentomatoes.com/m/star_wars_the_mandalorian_and_grogu",
         "reviews": [
           {
-            "source": "MovieFreak.com",
-            "quote": "I do think kids will enjoy themselves, and maybe that’s enough to give this middling adventure a pass."
+            "source": "Los Angeles Times",
+            "quote": "If even the greatest master of contemporary cinema succumbed to the charms of the intergalactic mainstream, who are we t..."
           },
           {
-            "source": "Detroit News",
-            "quote": "The movie is, in a sense, a series of strung together action scenes, and while it's not top notch action, it's enough, a..."
+            "source": "Filmspotting",
+            "quote": "…offers gobs of heart, but is as soulless as Mandalorian steel."
           },
           {
-            "source": "Slate",
-            "quote": "If The Mandalorian and Grogu isn’t the worst Star Wars movie—and it might be—it’s certainly the least: the least essenti..."
+            "source": "Chicago Reader",
+            "quote": "The Mandalorian and Grogu is the first Star Wars movie to bring a Disney+ TV show to the big screen, and you can tell."
           }
         ]
       },
@@ -3847,16 +3938,16 @@
         "rottentomatoes": "https://www.rottentomatoes.com/m/leviticus",
         "reviews": [
           {
-            "source": "TIME Magazine",
-            "quote": "Together, Bird and Clausen make young queer love seem both transcendent and terrifying."
+            "source": "NPR",
+            "quote": "Breathtakingly well-crafted, Leviticus clearly has queer teen audiences in mind -- all three of these films do -- but no..."
           },
           {
-            "source": "Rolling Stone",
-            "quote": "For the majority of the movie, you’re led to believe you’ve been watching a horror film with a love story burbling under..."
+            "source": "Chicago Reader",
+            "quote": "The film doesn’t trust its audience to understand [its] themes without having them spelled out..."
           },
           {
-            "source": "Associated Press",
-            "quote": "Chiarella’s pro-queer filmmaking extends to his ability to perfectly capture the fumbling ecstasy of new love, the fierc..."
+            "source": "Sydney Morning Herald",
+            "quote": "If you’re not already a dedicated horror buff, it may take some effort to buy into this idea, but the three young actors..."
           }
         ]
       },
@@ -3883,16 +3974,16 @@
         "rottentomatoes": "https://www.rottentomatoes.com/m/the_death_of_robin_hood",
         "reviews": [
           {
-            "source": "Los Angeles Times",
-            "quote": "During a week when the canted economy just created its first trillionaire, I can’t fathom why Sarnoski felt we needed th..."
+            "source": "Filmspotting",
+            "quote": "Sarnoski quickly dispenses with any notion that deserve’s got something to do with it when it comes to Robin’s redemptio..."
           },
           {
-            "source": "The Atlantic",
-            "quote": "Sarnoski and Jackman take a name associated with heroic antics and remove that element, asking the viewer to engage with..."
+            "source": "Sydney Morning Herald",
+            "quote": "The Death of Robin Hood requires you to surrender your illusions at the door."
           },
           {
-            "source": "NPR",
-            "quote": "It's in the film's later stages, where the character grapples with what his youthful righting of wrongs has cost both hi..."
+            "source": "Toronto Star",
+            "quote": "The question of whether a mass audience is going to go for such a down-in-the-mouth interpretation is hard to guess..."
           }
         ]
       },
@@ -3919,16 +4010,16 @@
         "rottentomatoes": "https://www.rottentomatoes.com/m/michael",
         "reviews": [
           {
-            "source": "Slate",
-            "quote": "The purpose of a biopic is to show us aspects of a public figure that the public never had access to."
+            "source": "Los Angeles Times",
+            "quote": "Michael is a work with high production values ​​whose ability to entertain makes it susceptible to being watched several..."
           },
           {
-            "source": "The New Yorker",
-            "quote": "Setting aside the woeful omission, though, and considering the film outside the realm of preëxisting facts, as if it wer..."
+            "source": "DwightBrownInk.com",
+            "quote": "You feel his presence, joy and music. Does the footage push biofilm genre boundaries? No."
           },
           {
-            "source": "TIME Magazine",
-            "quote": "It’s not that any of these vignettes are inaccurate."
+            "source": "FilmWeek (LAist)",
+            "quote": "A hokey, corny, safe, clichéd, sanitized look at Michael Jackson."
           }
         ]
       }
@@ -3961,16 +4052,16 @@
         "rottentomatoes": "https://www.rottentomatoes.com/m/disclosure_day",
         "reviews": [
           {
-            "source": "Boston Globe",
-            "quote": "This thrilling film is all about its questions, not its answers. That is the mark of a true elder statesman’s wisdom."
+            "source": "The Nightly (AU)",
+            "quote": "Disclosure Day is classic Spielberg popcorn – it has heft, sure, but it is mostly about being along for an entertaining ..."
           },
           {
-            "source": "TIME Magazine",
-            "quote": "Even though Disclosure Day absolutely qualifies as a big Hollywood entertainment, conventional on its surface, it still ..."
+            "source": "DwightBrownInk.com",
+            "quote": "A spectacle by a master filmmaker who’s out to prove that alien conspiracies are worth our attention."
           },
           {
-            "source": "Slate",
-            "quote": "There’s an odd asymmetry to the script’s character development, in that some secondary characters emerge as more distinc..."
+            "source": "Filmspotting",
+            "quote": "Blunt’s Margaret doesn’t just experience the overwhelming wonder we associate with so many Spielberg characters "
           }
         ]
       },
@@ -4001,12 +4092,12 @@
             "quote": "At 26 years old, Barker is speaking directly to his own generation -- the moviegoing Zoomers -- by making a meal out of ..."
           },
           {
-            "source": "Slate",
-            "quote": "There are far scarier movies than Obsession."
+            "source": "Filmspotting",
+            "quote": "That’s the whole concept and Barker’s insight. If you want to make someone love you above all else..."
           },
           {
-            "source": "The New Yorker",
-            "quote": "[Obsession] opens in the realm of the straightforward and ultimately reveals itself to be something far more thoughtful ..."
+            "source": "Salon.com",
+            "quote": "Obsession desperately wants to be a modern film, but can’t do anything more bold than gesturing to the bleakness and inc..."
           }
         ]
       },
@@ -4037,12 +4128,12 @@
             "quote": "The gentrification of genre is a real and consequential development, and yet the prevailing feeling watching the latest ..."
           },
           {
-            "source": "Los Angeles Times",
-            "quote": "Good is a stretch. \"Scary Movie\" is as lazy, dumb and offensive as the others."
+            "source": "Salon.com",
+            "quote": "The new “Scary Movie” is stuck somewhere between then and now, with one foot in the early-millennial absurdism that spaw..."
           },
           {
-            "source": "RogerEbert.com",
-            "quote": "I kinda loved the brutal, ludicrous final twist, which matched the opening scene for bold humor."
+            "source": "New York Magazine/Vulture",
+            "quote": "We laugh because we’re defeated. That requires more effort than Scary Movie is usually willing to expend, but every once..."
           }
         ]
       },
@@ -4069,16 +4160,16 @@
         "rottentomatoes": "https://www.rottentomatoes.com/m/backrooms",
         "reviews": [
           {
-            "source": "Rolling Stone",
-            "quote": "It’s the carbonara of creepypasta cinema, adding savory Kubrickian elements to its source material’s heavily salted Blai..."
+            "source": "Slate",
+            "quote": "The Backrooms part of Backrooms is great, well-rendered, and incredibly unsettling."
           },
           {
-            "source": "RogerEbert.com",
-            "quote": "It is a sign of what could be built within this subgenre and what its creator could make in the future."
+            "source": "DwightBrownInk.com",
+            "quote": "Scare the weak. Rattle the strong. Leave no one behind. This fright fest is a credit to the genre."
           },
           {
-            "source": "Polygon",
-            "quote": "Backrooms is deeply unnerving. Better yet, it’s haunting, leaving behind lingering shivers and ongoing anxieties."
+            "source": "Ty Burr's Watch List (Substack)",
+            "quote": "The movie’s grip holds, even past the point where it’s clear no traditional explanation is coming to save the characters..."
           }
         ]
       },
@@ -4105,16 +4196,16 @@
         "rottentomatoes": "https://www.rottentomatoes.com/m/masters_of_the_universe_2026",
         "reviews": [
           {
-            "source": "MovieFreak.com",
-            "quote": "This bizarre mishmash of comedy, social commentary, and high-flying action never won me over."
+            "source": "San Jose Mercury News",
+            "quote": "It’s got the right cast and the right director; now it just needs to surrender to its cheesy outrageousness."
           },
           {
-            "source": "Rolling Stone",
-            "quote": "Fan-service nostalgiabait that wants you to not take it seriously while also very much taking it seriously."
+            "source": "Observer (UK)",
+            "quote": "Hear that? That’s the sound of a barrel being scraped over in Hollywood."
           },
           {
-            "source": "Los Angeles Times",
-            "quote": "As Skeletor, Jared Leto’s grumbling Brit-inflected baritone is an unrecognizable concoction of trilled r’s and plummy vo..."
+            "source": "New York Magazine/Vulture",
+            "quote": "Masters of the Universe belongs to no one — a project engineered at enormous cost from the needs of IP."
           }
         ]
       },
@@ -4141,16 +4232,16 @@
         "rottentomatoes": "https://www.rottentomatoes.com/m/star_wars_the_mandalorian_and_grogu",
         "reviews": [
           {
-            "source": "MovieFreak.com",
-            "quote": "I do think kids will enjoy themselves, and maybe that’s enough to give this middling adventure a pass."
+            "source": "Los Angeles Times",
+            "quote": "If even the greatest master of contemporary cinema succumbed to the charms of the intergalactic mainstream, who are we t..."
           },
           {
-            "source": "Detroit News",
-            "quote": "The movie is, in a sense, a series of strung together action scenes, and while it's not top notch action, it's enough, a..."
+            "source": "Filmspotting",
+            "quote": "…offers gobs of heart, but is as soulless as Mandalorian steel."
           },
           {
-            "source": "Slate",
-            "quote": "If The Mandalorian and Grogu isn’t the worst Star Wars movie—and it might be—it’s certainly the least: the least essenti..."
+            "source": "Chicago Reader",
+            "quote": "The Mandalorian and Grogu is the first Star Wars movie to bring a Disney+ TV show to the big screen, and you can tell."
           }
         ]
       },
@@ -4177,16 +4268,16 @@
         "rottentomatoes": "https://www.rottentomatoes.com/m/michael",
         "reviews": [
           {
-            "source": "Slate",
-            "quote": "The purpose of a biopic is to show us aspects of a public figure that the public never had access to."
+            "source": "Los Angeles Times",
+            "quote": "Michael is a work with high production values ​​whose ability to entertain makes it susceptible to being watched several..."
           },
           {
-            "source": "The New Yorker",
-            "quote": "Setting aside the woeful omission, though, and considering the film outside the realm of preëxisting facts, as if it wer..."
+            "source": "DwightBrownInk.com",
+            "quote": "You feel his presence, joy and music. Does the footage push biofilm genre boundaries? No."
           },
           {
-            "source": "TIME Magazine",
-            "quote": "It’s not that any of these vignettes are inaccurate."
+            "source": "FilmWeek (LAist)",
+            "quote": "A hokey, corny, safe, clichéd, sanitized look at Michael Jackson."
           }
         ]
       },
@@ -4214,15 +4305,15 @@
         "reviews": [
           {
             "source": "Audience",
-            "quote": "Amazing!!! BTS was phenomenal!!!!"
+            "quote": "amazing performance. wonderful music. loved every second."
           },
           {
             "source": "Audience",
-            "quote": "I really had fun with the movie and I love it so much 😭🫶🏻"
+            "quote": "awesome, spectacular, was incredible, i love BTS, Army until the end 💜"
           },
           {
             "source": "Audience",
-            "quote": "Wish it wasn’t in AMC theaters but the show was excellent"
+            "quote": "I had so much fun! The other fans in the audience made me feel like I was at the actual concert."
           }
         ]
       },
@@ -4249,16 +4340,16 @@
         "rottentomatoes": "https://www.rottentomatoes.com/m/the_furious_2025",
         "reviews": [
           {
-            "source": "IndieWire",
-            "quote": "When the highs are this high, you’d be mad to focus on what comes between them."
+            "source": "Empire Magazine",
+            "quote": "Tipping its hat to countless Hong Kong classics, this is a relentlessly entertaining martial-arts epic that knows exactl..."
           },
           {
-            "source": "Variety",
-            "quote": "The Furious is such a feat of mass physical coordination that such niceties as character and narrative can afford to be ..."
+            "source": "Observer (UK)",
+            "quote": "Beefed up by sound design that revels in crunching spinal cords, swishing machete blades and the thud of axe on flesh, t..."
           },
           {
-            "source": "The Daily Beast",
-            "quote": "The summer’s must-see for anyone with a taste for ferocious pandemonium."
+            "source": "Sight & Sound",
+            "quote": "Nonetheless, the commitment to relentless mayhem positions The Furious in the tradition of 1970s kung fu cinema and as a..."
           }
         ]
       },
@@ -4285,16 +4376,16 @@
         "rottentomatoes": "https://www.rottentomatoes.com/m/stop_that_train",
         "reviews": [
           {
-            "source": "IndieWire",
-            "quote": "A movie best enjoyed about three margaritas deep, it’s not as disposable as your average acting challenge sketch from th..."
+            "source": "Observer (UK)",
+            "quote": "A deliriously flamboyant, if somewhat repetitive, high-camp romp."
           },
           {
-            "source": "Mashable",
-            "quote": "It's 'Airplane!' with drag queens. What more could we ask for?"
+            "source": "Little White Lies",
+            "quote": "Turn your brain off and you may find Stop! That! Train! passable enough but it’s hard to shake the feeling that RuPaul a..."
           },
           {
-            "source": "RogerEbert.com",
-            "quote": "It’s the type of slop, like those chicken nuggets made from pink slime, that may taste good at first but has absolutely ..."
+            "source": "Irish Times",
+            "quote": "The performers keep this peculiar train moving."
           }
         ]
       }
@@ -4331,12 +4422,12 @@
             "quote": "The gentrification of genre is a real and consequential development, and yet the prevailing feeling watching the latest ..."
           },
           {
-            "source": "Los Angeles Times",
-            "quote": "Good is a stretch. \"Scary Movie\" is as lazy, dumb and offensive as the others."
+            "source": "Salon.com",
+            "quote": "The new “Scary Movie” is stuck somewhere between then and now, with one foot in the early-millennial absurdism that spaw..."
           },
           {
-            "source": "RogerEbert.com",
-            "quote": "I kinda loved the brutal, ludicrous final twist, which matched the opening scene for bold humor."
+            "source": "New York Magazine/Vulture",
+            "quote": "We laugh because we’re defeated. That requires more effort than Scary Movie is usually willing to expend, but every once..."
           }
         ]
       },
@@ -4363,16 +4454,16 @@
         "rottentomatoes": "https://www.rottentomatoes.com/m/masters_of_the_universe_2026",
         "reviews": [
           {
-            "source": "MovieFreak.com",
-            "quote": "This bizarre mishmash of comedy, social commentary, and high-flying action never won me over."
+            "source": "San Jose Mercury News",
+            "quote": "It’s got the right cast and the right director; now it just needs to surrender to its cheesy outrageousness."
           },
           {
-            "source": "Rolling Stone",
-            "quote": "Fan-service nostalgiabait that wants you to not take it seriously while also very much taking it seriously."
+            "source": "Observer (UK)",
+            "quote": "Hear that? That’s the sound of a barrel being scraped over in Hollywood."
           },
           {
-            "source": "Los Angeles Times",
-            "quote": "As Skeletor, Jared Leto’s grumbling Brit-inflected baritone is an unrecognizable concoction of trilled r’s and plummy vo..."
+            "source": "New York Magazine/Vulture",
+            "quote": "Masters of the Universe belongs to no one — a project engineered at enormous cost from the needs of IP."
           }
         ]
       },
@@ -4399,16 +4490,16 @@
         "rottentomatoes": "https://www.rottentomatoes.com/m/backrooms",
         "reviews": [
           {
-            "source": "Rolling Stone",
-            "quote": "It’s the carbonara of creepypasta cinema, adding savory Kubrickian elements to its source material’s heavily salted Blai..."
+            "source": "Slate",
+            "quote": "The Backrooms part of Backrooms is great, well-rendered, and incredibly unsettling."
           },
           {
-            "source": "RogerEbert.com",
-            "quote": "It is a sign of what could be built within this subgenre and what its creator could make in the future."
+            "source": "DwightBrownInk.com",
+            "quote": "Scare the weak. Rattle the strong. Leave no one behind. This fright fest is a credit to the genre."
           },
           {
-            "source": "Polygon",
-            "quote": "Backrooms is deeply unnerving. Better yet, it’s haunting, leaving behind lingering shivers and ongoing anxieties."
+            "source": "Ty Burr's Watch List (Substack)",
+            "quote": "The movie’s grip holds, even past the point where it’s clear no traditional explanation is coming to save the characters..."
           }
         ]
       },
@@ -4439,12 +4530,12 @@
             "quote": "At 26 years old, Barker is speaking directly to his own generation -- the moviegoing Zoomers -- by making a meal out of ..."
           },
           {
-            "source": "Slate",
-            "quote": "There are far scarier movies than Obsession."
+            "source": "Filmspotting",
+            "quote": "That’s the whole concept and Barker’s insight. If you want to make someone love you above all else..."
           },
           {
-            "source": "The New Yorker",
-            "quote": "[Obsession] opens in the realm of the straightforward and ultimately reveals itself to be something far more thoughtful ..."
+            "source": "Salon.com",
+            "quote": "Obsession desperately wants to be a modern film, but can’t do anything more bold than gesturing to the bleakness and inc..."
           }
         ]
       },
@@ -4475,12 +4566,12 @@
             "quote": "A funny and frightening, heartwarming and heartbreaking, confrontational masterwork that explores our shared experience ..."
           },
           {
-            "source": "Audience",
-            "quote": "My son loved it. He said it was a great next episode and fun to watch in long format on the big screen."
+            "source": "The Cosmic Circus",
+            "quote": "The Amazing Digital Circus‘s closing scenes exhibit the loveliness of remembering our roots."
           },
           {
-            "source": "Audience",
-            "quote": "SO good! I couldn&#39;t have imagined a better ending to this amazing series."
+            "source": "Rachel's Reviews (YouTube)",
+            "quote": "Experimental and creative"
           }
         ]
       },
@@ -4507,16 +4598,16 @@
         "rottentomatoes": "https://www.rottentomatoes.com/m/star_wars_the_mandalorian_and_grogu",
         "reviews": [
           {
-            "source": "MovieFreak.com",
-            "quote": "I do think kids will enjoy themselves, and maybe that’s enough to give this middling adventure a pass."
+            "source": "Los Angeles Times",
+            "quote": "If even the greatest master of contemporary cinema succumbed to the charms of the intergalactic mainstream, who are we t..."
           },
           {
-            "source": "Detroit News",
-            "quote": "The movie is, in a sense, a series of strung together action scenes, and while it's not top notch action, it's enough, a..."
+            "source": "Filmspotting",
+            "quote": "…offers gobs of heart, but is as soulless as Mandalorian steel."
           },
           {
-            "source": "Slate",
-            "quote": "If The Mandalorian and Grogu isn’t the worst Star Wars movie—and it might be—it’s certainly the least: the least essenti..."
+            "source": "Chicago Reader",
+            "quote": "The Mandalorian and Grogu is the first Star Wars movie to bring a Disney+ TV show to the big screen, and you can tell."
           }
         ]
       },
@@ -4543,16 +4634,16 @@
         "rottentomatoes": "https://www.rottentomatoes.com/m/michael",
         "reviews": [
           {
-            "source": "Slate",
-            "quote": "The purpose of a biopic is to show us aspects of a public figure that the public never had access to."
+            "source": "Los Angeles Times",
+            "quote": "Michael is a work with high production values ​​whose ability to entertain makes it susceptible to being watched several..."
           },
           {
-            "source": "The New Yorker",
-            "quote": "Setting aside the woeful omission, though, and considering the film outside the realm of preëxisting facts, as if it wer..."
+            "source": "DwightBrownInk.com",
+            "quote": "You feel his presence, joy and music. Does the footage push biofilm genre boundaries? No."
           },
           {
-            "source": "TIME Magazine",
-            "quote": "It’s not that any of these vignettes are inaccurate."
+            "source": "FilmWeek (LAist)",
+            "quote": "A hokey, corny, safe, clichéd, sanitized look at Michael Jackson."
           }
         ]
       },
@@ -4583,12 +4674,12 @@
             "quote": "It’s as flat, simple, and static as possible."
           },
           {
-            "source": "Boston Globe",
-            "quote": "“The Breadwinner” thinks big laughs should come from scenes where a father doesn’t know a damn thing about his kids."
+            "source": "Guardian",
+            "quote": "Regardless of the wisdom it tries to impart, no one here (save Forte) seems to be working very hard."
           },
           {
-            "source": "RogerEbert.com",
-            "quote": "These sorts of movies do more damage to the culture than any bloody horror flick you can name, because they make the unf..."
+            "source": "AARP Movies for Grownups",
+            "quote": "Silly, sincere and safe for the entire family, The Breadwinner is Mr. Mom for the smartphone generation."
           }
         ]
       },
@@ -4615,16 +4706,16 @@
         "rottentomatoes": "https://www.rottentomatoes.com/m/pressure_2026",
         "reviews": [
           {
-            "source": "The Atlantic",
-            "quote": "As a chamber piece set within the grander opera of battle, it’s a comforting watch."
+            "source": "Time Out",
+            "quote": "Pressure is less of a traditional war flick than a satisfying chamber piece about how people use and communicate informa..."
           },
           {
-            "source": "Associated Press",
-            "quote": "Fraser’s Eisenhower is physically imposing and stubborn too..."
+            "source": "AARP Movies for Grownups",
+            "quote": "We all know how it turned out, but Pressure cranks up the dramatic stress in a character-driven saga that retells a less..."
           },
           {
-            "source": "NPR",
-            "quote": "For all the prior cinematic depictions of storming bunkers and camaraderie under fire, Pressure offers us the quiet hero..."
+            "source": "Tribune News Service",
+            "quote": "\"Pressure\" is skillfully directed, sweeping us into this world with a kind of addictive immediacy."
           }
         ]
       },
@@ -4651,16 +4742,16 @@
         "rottentomatoes": "https://www.rottentomatoes.com/m/the_devil_wears_prada_2",
         "reviews": [
           {
-            "source": "TIME Magazine",
-            "quote": "The Devil Wears Prada 2, imperfect as it is, is actually a better movie than its predecessor."
+            "source": "Los Angeles Times",
+            "quote": "It's certainly a pleasure to see a cast back in action who, despite the passage of two decades, remain in top form and a..."
           },
           {
-            "source": "Slate",
-            "quote": "This sparkly sequel provides a satisfying balance between nostalgic callbacks and intelligent updates to suit a more con..."
+            "source": "Sight & Sound",
+            "quote": "The film can’t pull off its wishful combination of an industry’s existential crisis, and a fairytale ending."
           },
           {
-            "source": "Detroit News",
-            "quote": "While it's not as fun as it was the first time around, \"Prada 2\" gives viewers more to think about than just high fashio..."
+            "source": "Filmspotting",
+            "quote": "Streep is stuck playing a de-fanged Miranda Priestly."
           }
         ]
       }
@@ -4693,16 +4784,16 @@
         "rottentomatoes": "https://www.rottentomatoes.com/m/backrooms",
         "reviews": [
           {
-            "source": "Rolling Stone",
-            "quote": "It’s the carbonara of creepypasta cinema, adding savory Kubrickian elements to its source material’s heavily salted Blai..."
+            "source": "Slate",
+            "quote": "The Backrooms part of Backrooms is great, well-rendered, and incredibly unsettling."
           },
           {
-            "source": "RogerEbert.com",
-            "quote": "It is a sign of what could be built within this subgenre and what its creator could make in the future."
+            "source": "DwightBrownInk.com",
+            "quote": "Scare the weak. Rattle the strong. Leave no one behind. This fright fest is a credit to the genre."
           },
           {
-            "source": "Polygon",
-            "quote": "Backrooms is deeply unnerving. Better yet, it’s haunting, leaving behind lingering shivers and ongoing anxieties."
+            "source": "Ty Burr's Watch List (Substack)",
+            "quote": "The movie’s grip holds, even past the point where it’s clear no traditional explanation is coming to save the characters..."
           }
         ]
       },
@@ -4733,12 +4824,12 @@
             "quote": "At 26 years old, Barker is speaking directly to his own generation -- the moviegoing Zoomers -- by making a meal out of ..."
           },
           {
-            "source": "Slate",
-            "quote": "There are far scarier movies than Obsession."
+            "source": "Filmspotting",
+            "quote": "That’s the whole concept and Barker’s insight. If you want to make someone love you above all else..."
           },
           {
-            "source": "The New Yorker",
-            "quote": "[Obsession] opens in the realm of the straightforward and ultimately reveals itself to be something far more thoughtful ..."
+            "source": "Salon.com",
+            "quote": "Obsession desperately wants to be a modern film, but can’t do anything more bold than gesturing to the bleakness and inc..."
           }
         ]
       },
@@ -4765,16 +4856,16 @@
         "rottentomatoes": "https://www.rottentomatoes.com/m/star_wars_the_mandalorian_and_grogu",
         "reviews": [
           {
-            "source": "MovieFreak.com",
-            "quote": "I do think kids will enjoy themselves, and maybe that’s enough to give this middling adventure a pass."
+            "source": "Los Angeles Times",
+            "quote": "If even the greatest master of contemporary cinema succumbed to the charms of the intergalactic mainstream, who are we t..."
           },
           {
-            "source": "Detroit News",
-            "quote": "The movie is, in a sense, a series of strung together action scenes, and while it's not top notch action, it's enough, a..."
+            "source": "Filmspotting",
+            "quote": "…offers gobs of heart, but is as soulless as Mandalorian steel."
           },
           {
-            "source": "Slate",
-            "quote": "If The Mandalorian and Grogu isn’t the worst Star Wars movie—and it might be—it’s certainly the least: the least essenti..."
+            "source": "Chicago Reader",
+            "quote": "The Mandalorian and Grogu is the first Star Wars movie to bring a Disney+ TV show to the big screen, and you can tell."
           }
         ]
       },
@@ -4801,16 +4892,16 @@
         "rottentomatoes": "https://www.rottentomatoes.com/m/michael",
         "reviews": [
           {
-            "source": "Slate",
-            "quote": "The purpose of a biopic is to show us aspects of a public figure that the public never had access to."
+            "source": "Los Angeles Times",
+            "quote": "Michael is a work with high production values ​​whose ability to entertain makes it susceptible to being watched several..."
           },
           {
-            "source": "The New Yorker",
-            "quote": "Setting aside the woeful omission, though, and considering the film outside the realm of preëxisting facts, as if it wer..."
+            "source": "DwightBrownInk.com",
+            "quote": "You feel his presence, joy and music. Does the footage push biofilm genre boundaries? No."
           },
           {
-            "source": "TIME Magazine",
-            "quote": "It’s not that any of these vignettes are inaccurate."
+            "source": "FilmWeek (LAist)",
+            "quote": "A hokey, corny, safe, clichéd, sanitized look at Michael Jackson."
           }
         ]
       },
@@ -4841,12 +4932,12 @@
             "quote": "It’s as flat, simple, and static as possible."
           },
           {
-            "source": "Boston Globe",
-            "quote": "“The Breadwinner” thinks big laughs should come from scenes where a father doesn’t know a damn thing about his kids."
+            "source": "Guardian",
+            "quote": "Regardless of the wisdom it tries to impart, no one here (save Forte) seems to be working very hard."
           },
           {
-            "source": "RogerEbert.com",
-            "quote": "These sorts of movies do more damage to the culture than any bloody horror flick you can name, because they make the unf..."
+            "source": "AARP Movies for Grownups",
+            "quote": "Silly, sincere and safe for the entire family, The Breadwinner is Mr. Mom for the smartphone generation."
           }
         ]
       },
@@ -4873,16 +4964,16 @@
         "rottentomatoes": "https://www.rottentomatoes.com/m/the_devil_wears_prada_2",
         "reviews": [
           {
-            "source": "TIME Magazine",
-            "quote": "The Devil Wears Prada 2, imperfect as it is, is actually a better movie than its predecessor."
+            "source": "Los Angeles Times",
+            "quote": "It's certainly a pleasure to see a cast back in action who, despite the passage of two decades, remain in top form and a..."
           },
           {
-            "source": "Slate",
-            "quote": "This sparkly sequel provides a satisfying balance between nostalgic callbacks and intelligent updates to suit a more con..."
+            "source": "Sight & Sound",
+            "quote": "The film can’t pull off its wishful combination of an industry’s existential crisis, and a fairytale ending."
           },
           {
-            "source": "Detroit News",
-            "quote": "While it's not as fun as it was the first time around, \"Prada 2\" gives viewers more to think about than just high fashio..."
+            "source": "Filmspotting",
+            "quote": "Streep is stuck playing a de-fanged Miranda Priestly."
           }
         ]
       },
@@ -4909,16 +5000,16 @@
         "rottentomatoes": "https://www.rottentomatoes.com/m/pressure_2026",
         "reviews": [
           {
-            "source": "The Atlantic",
-            "quote": "As a chamber piece set within the grander opera of battle, it’s a comforting watch."
+            "source": "Time Out",
+            "quote": "Pressure is less of a traditional war flick than a satisfying chamber piece about how people use and communicate informa..."
           },
           {
-            "source": "Associated Press",
-            "quote": "Fraser’s Eisenhower is physically imposing and stubborn too..."
+            "source": "AARP Movies for Grownups",
+            "quote": "We all know how it turned out, but Pressure cranks up the dramatic stress in a character-driven saga that retells a less..."
           },
           {
-            "source": "NPR",
-            "quote": "For all the prior cinematic depictions of storming bunkers and camaraderie under fire, Pressure offers us the quiet hero..."
+            "source": "Tribune News Service",
+            "quote": "\"Pressure\" is skillfully directed, sweeping us into this world with a kind of addictive immediacy."
           }
         ]
       },
@@ -4945,16 +5036,16 @@
         "rottentomatoes": "https://www.rottentomatoes.com/m/the_sheep_detectives",
         "reviews": [
           {
-            "source": "San Francisco Chronicle",
-            "quote": "About as delightfully easygoing as a murder mystery can get."
+            "source": "The Atlantic",
+            "quote": "The result may just be the most tonally surprising feature of the year so far, a rare, unabashedly earnest PG-rated film..."
           },
           {
-            "source": "Slate",
-            "quote": "The movie is endlessly charming and pleasingly clever, as well as surprisingly moving in spots."
+            "source": "Filmspotting",
+            "quote": "Mister Rogers-esque in its direct but delicate handling of difficult topics for a young audience."
           },
           {
-            "source": "IndieWire",
-            "quote": "If “The Sheep Detectives” were just a gimmicky movie about a flock solving a human murder, it would still be a relativel..."
+            "source": "Salon.com",
+            "quote": "Like “Babe” and “Homeward Bound” before it, the film treats its younger audience with the respect and maturity they dese..."
           }
         ]
       },
@@ -5017,16 +5108,16 @@
         "rottentomatoes": "https://www.rottentomatoes.com/m/mortal_kombat_ii",
         "reviews": [
           {
-            "source": "New York Post",
-            "quote": "Now it’s just repetitive kills from bottom-drawer cartoons."
+            "source": "MovieFreak.com",
+            "quote": "The film, despite its end-of-the-world stakes, lacks urgency. I found it to be a waste of time."
           },
           {
-            "source": "Mashable",
-            "quote": "The bar is in hell for video game movies, huh?"
+            "source": "Observer (UK)",
+            "quote": "If [this] sounds suspiciously like the set-up to Galaxy Quest, that’s because it is -- minus the humour and satisfyingly..."
           },
           {
-            "source": "RogerEbert.com",
-            "quote": "It makes good on its grisly promise whenever its meat-puppet protagonists stop talking and start pummeling each other."
+            "source": "Chicago Reader",
+            "quote": "Ultimately, Mortal Kombat II delivers visceral spectacle but limited dramatic weight, racing toward a finale that feels ..."
           }
         ]
       }

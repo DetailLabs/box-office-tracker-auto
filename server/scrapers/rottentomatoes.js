@@ -1,6 +1,6 @@
 const axios = require('axios');
 const cheerio = require('cheerio');
-const { generateRTSlug, hasRTSlugOverride, sleep } = require('../utils');
+const { generateRTSlug, generateRTSlugVariants, hasRTSlugOverride, sleep } = require('../utils');
 
 const HEADERS = {
   'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
@@ -10,8 +10,13 @@ const HEADERS = {
 
 /**
  * Fetch an RT movie page and extract its release year (from the LD+JSON
- * "dateCreated" field). Returns { html, $, url, year }, or null when the
- * page doesn't load as a valid HTML document.
+ * "dateCreated" field). Returns { html, $, url, year, isMovie }, or null when
+ * the page doesn't load as a valid HTML document.
+ *
+ * `isMovie` distinguishes a real movie page from the generic RT shell that a
+ * bad slug can land on — that shell still returns 200 and still carries an
+ * og:image (RT's own branding card), which is how a wrong slug used to end up
+ * saved as a movie's "poster".
  */
 async function fetchMoviePage(slug) {
   const url = `https://www.rottentomatoes.com/m/${slug}`;
@@ -24,7 +29,9 @@ async function fetchMoviePage(slug) {
   const $ = cheerio.load(html);
   const yearMatch = html.match(/"dateCreated"\s*:\s*"(\d{4})/);
   const year = yearMatch ? parseInt(yearMatch[1], 10) : null;
-  return { html, $, url, year };
+  const isMovie =
+    /"@type"\s*:\s*"Movie"/.test(html) || html.includes('<media-scorecard');
+  return { html, $, url, year, isMovie };
 }
 
 /**
@@ -41,9 +48,34 @@ async function fetchMoviePage(slug) {
  * as-is and skip the check.
  */
 async function resolveMoviePage(title) {
-  const slug = generateRTSlug(title);
-  console.log(`[RT] Fetching scores: https://www.rottentomatoes.com/m/${slug}`);
-  const page = await fetchMoviePage(slug);
+  // Try each slug spelling until one lands on a real movie page. Keep the first
+  // page that loaded at all as a last resort, so score extraction still gets a
+  // shot if RT's markup changes and the movie-page check stops matching.
+  const variants = generateRTSlugVariants(title);
+  let slug = variants[0];
+  let page = null;
+  let fallback = null;
+  let fallbackSlug = variants[0];
+
+  for (let i = 0; i < variants.length; i++) {
+    if (i > 0) await sleep(1500);
+    console.log(`[RT] Fetching scores: https://www.rottentomatoes.com/m/${variants[i]}`);
+    const candidate = await fetchMoviePage(variants[i]);
+    if (candidate?.isMovie) {
+      slug = variants[i];
+      page = candidate;
+      break;
+    }
+    if (candidate && !fallback) {
+      fallback = candidate;
+      fallbackSlug = variants[i];
+    }
+  }
+
+  if (!page) {
+    page = fallback;
+    slug = fallbackSlug;
+  }
   if (hasRTSlugOverride(title)) return page;
 
   const currentYear = new Date().getFullYear();
@@ -273,8 +305,39 @@ function isUSPublication(pub) {
 }
 
 /**
+ * Card elements RT has used for reviews, newest markup first.
+ * The site renamed <review-card> to <review-card-critic>/<review-card-audience>
+ * and swapped the "top-critic"/"approved-critic" markers for
+ * "top-publication"/"approved-publication"; both spellings are accepted so a
+ * future rename back doesn't silently empty the reviews again.
+ */
+const CRITIC_CARD_SELECTOR = 'review-card-critic, review-card';
+const AUDIENCE_CARD_SELECTOR = 'review-card-audience';
+
+/**
+ * Pull the publication and quote out of one review card.
+ * Reading both from the SAME card is the point: pairing a publication list
+ * against a separately-collected quote list is what used to attribute audience
+ * blurbs to real outlets ("Washington Post: Love the story great storyline").
+ */
+function extractCardReview($, card) {
+  const publication = card.find('[slot="publication"]').first().text().trim();
+  // Newer markup puts the quote directly in slot="review"; older markup nested
+  // it in a slot="content" span.
+  const quote = (
+    card.find('[slot="review"] [slot="content"]').first().text().trim() ||
+    card.find('[slot="review"]').first().text().trim() ||
+    card.find('[slot="content"]').first().text().trim()
+  );
+  return { publication, quote };
+}
+
+/**
  * Extract critic reviews from the main RT movie page.
- * RT uses <review-card> web components with specific slot attributes.
+ * Priority: US top-critic > non-US top-critic > US approved > non-US approved,
+ * then any remaining critic card, so a movie whose critics are all unlisted
+ * publications still gets real critic quotes rather than falling through to
+ * audience reviews.
  */
 function extractCriticReviews($, html) {
   const reviews = [];
@@ -293,88 +356,60 @@ function extractCriticReviews($, html) {
     return true;
   }
 
-  // Strategy 1: Parse <review-card> elements (RT's current structure)
-  // Priority: US top-critic > non-US top-critic > US approved-critic > non-US approved-critic
-  function extractCardReview(card) {
-    const publication = card.find('[slot="publication"]').text().trim();
-    let quote = card.find('[slot="review"] [slot="content"]').text().trim();
-    if (!quote) {
-      quote = card.find('[slot="review"]').text().trim();
-    }
-    return { publication, quote };
-  }
+  // Tier order is the priority order: every top-critic review outranks every
+  // non-top one, and US publications are preferred within each tier.
+  const buckets = {
+    usTop: [], nonUsTop: [], usApproved: [], nonUsApproved: [], rest: [],
+  };
+  const TIER_OF = {
+    usTop: 'top', nonUsTop: 'top',
+    usApproved: 'approved', nonUsApproved: 'approved',
+    rest: 'other',
+  };
 
-  // Collect all critic cards into buckets by priority
-  const buckets = { usTop: [], nonUsTop: [], usApproved: [], nonUsApproved: [] };
-  $('review-card').each((_, el) => {
+  $(CRITIC_CARD_SELECTOR).each((_, el) => {
     const card = $(el);
-    const cardHtml = $.html(card);
-    const isTop = cardHtml.includes('top-critic');
-    const isApproved = cardHtml.includes('approved-critic');
-    if (!isTop && !isApproved) return;
-    const { publication, quote } = extractCardReview(card);
+    const isTop = card.is('[top-publication]') || $.html(card).includes('top-critic');
+    const isApproved =
+      card.is('[approved-publication]') || $.html(card).includes('approved-critic');
+
+    const { publication, quote } = extractCardReview($, card);
     if (!publication || !quote) return;
+
     const isUS = isUSPublication(publication);
     if (isTop && isUS) buckets.usTop.push({ publication, quote });
     else if (isTop) buckets.nonUsTop.push({ publication, quote });
-    else if (isUS) buckets.usApproved.push({ publication, quote });
-    else buckets.nonUsApproved.push({ publication, quote });
+    else if (isApproved && isUS) buckets.usApproved.push({ publication, quote });
+    else if (isApproved) buckets.nonUsApproved.push({ publication, quote });
+    else buckets.rest.push({ publication, quote });
   });
 
-  // Add reviews in priority order
-  for (const bucket of [buckets.usTop, buckets.nonUsTop, buckets.usApproved, buckets.nonUsApproved]) {
+  const used = { top: 0, approved: 0, other: 0 };
+  for (const name of ['usTop', 'nonUsTop', 'usApproved', 'nonUsApproved', 'rest']) {
     if (reviews.length >= 3) break;
-    for (const { publication, quote } of bucket) {
+    for (const { publication, quote } of buckets[name]) {
       if (reviews.length >= 3) break;
+      if (addReview(publication, quote)) used[TIER_OF[name]]++;
+    }
+  }
+  if (reviews.length > 0) {
+    console.log(
+      `[RT] Critic review tiers used: ${used.top} top, ${used.approved} approved, ${used.other} other ` +
+      `(available: ${buckets.usTop.length + buckets.nonUsTop.length} top, ` +
+      `${buckets.usApproved.length + buckets.nonUsApproved.length} approved, ${buckets.rest.length} other)`
+    );
+  }
+
+  // Fallback: RT changed its card element again. Slice the raw HTML into
+  // per-card blocks and read each block's own publication and quote, so an
+  // attribution can never be borrowed from a neighbouring card.
+  if (reviews.length === 0) {
+    const blockPattern = /<review-card[a-z-]*\b[\s\S]*?<\/review-card[a-z-]*>/g;
+    let block;
+    while ((block = blockPattern.exec(html)) !== null && reviews.length < 3) {
+      const $block = cheerio.load(block[0]);
+      const { publication, quote } = extractCardReview($block, $block.root());
       addReview(publication, quote);
-    }
-  }
-
-  // Strategy 2: Look for review-quote data-qa elements
-  if (reviews.length < 3) {
-    $('[data-qa="review-quote"], .review-text').each((_, el) => {
-      if (reviews.length >= 3) return;
-      const quote = $(el).text().trim();
-      if (quote.length < 20 || quote.length > 300) return;
-      const row = $(el).closest('[data-qa="review-item"], article, .review-row');
-      const source = row.find('[data-qa="review-publication"], .publication').text().trim() || 'Critic';
-      addReview(source, quote);
-    });
-  }
-
-  // Strategy 3: Regex-based extraction from raw HTML (top-critic first, then approved-critic)
-  if (reviews.length < 3) {
-    const topCriticPattern = /top-critic[\s\S]*?slot="publication"[^>]*>([\s\S]*?)<\/rt-link>[\s\S]*?slot="content">([\s\S]*?)<\/span>/g;
-    let match;
-    while ((match = topCriticPattern.exec(html)) !== null && reviews.length < 3) {
-      addReview(match[1].trim(), match[2].trim().replace(/\s+/g, ' '));
-    }
-  }
-  if (reviews.length < 3) {
-    const approvedCriticPattern = /approved-critic[\s\S]*?slot="publication"[^>]*>([\s\S]*?)<\/rt-link>[\s\S]*?slot="content">([\s\S]*?)<\/span>/g;
-    let match;
-    while ((match = approvedCriticPattern.exec(html)) !== null && reviews.length < 3) {
-      addReview(match[1].trim(), match[2].trim().replace(/\s+/g, ' '));
-    }
-  }
-
-  // Strategy 4: Broader regex for slot="content" near slot="publication"
-  if (reviews.length < 3) {
-    const pubRegex = /slot="publication"[^>]*>\s*([^<]+?)\s*<\/rt-link>/g;
-    const contentRegex = /slot="content">\s*([\s\S]*?)\s*<\/span>/g;
-
-    const pubs = [];
-    const contents = [];
-    let m;
-    while ((m = pubRegex.exec(html)) !== null) pubs.push(m[1].trim());
-    while ((m = contentRegex.exec(html)) !== null) {
-      const text = m[1].trim().replace(/\s+/g, ' ');
-      if (text.length >= 20) contents.push(text);
-    }
-
-    // Match pubs with contents (they appear in order on the page)
-    for (let i = 0; i < Math.min(pubs.length, contents.length) && reviews.length < 3; i++) {
-      addReview(pubs[i], contents[i]);
     }
   }
 
@@ -383,7 +418,8 @@ function extractCriticReviews($, html) {
 
 /**
  * Extract audience reviews as fallback when critic reviews are scarce.
- * Audience review cards lack "approved-critic"/"top-critic" attributes.
+ * Only reads audience cards — never the generic slot="content" sweep that
+ * used to pick up whatever text happened to match.
  */
 function extractAudienceReviews($, html) {
   const reviews = [];
@@ -400,28 +436,20 @@ function extractAudienceReviews($, html) {
     return true;
   }
 
-  // Look for review-card elements that are NOT critic reviews
-  $('review-card').each((_, el) => {
+  $(AUDIENCE_CARD_SELECTOR).each((_, el) => {
     if (reviews.length >= 3) return;
-    const card = $(el);
-    const cardHtml = $.html(card);
-    if (cardHtml.includes('approved-critic') || cardHtml.includes('top-critic')) return;
-
-    let quote = card.find('[slot="content"]').text().trim();
-    if (!quote) {
-      quote = card.find('[slot="review"]').text().trim();
-    }
-    addReview(quote);
+    addReview(extractCardReview($, $(el)).quote);
   });
 
-  // Regex fallback for audience review content
+  // Legacy markup: <review-card> elements without a critic marker.
   if (reviews.length < 3) {
-    const contentRegex = /slot="content">\s*([\s\S]*?)\s*<\/span>/g;
-    let m;
-    while ((m = contentRegex.exec(html)) !== null && reviews.length < 3) {
-      const text = m[1].trim().replace(/\s+/g, ' ');
-      addReview(text);
-    }
+    $('review-card').each((_, el) => {
+      if (reviews.length >= 3) return;
+      const card = $(el);
+      const cardHtml = $.html(card);
+      if (cardHtml.includes('approved-critic') || cardHtml.includes('top-critic')) return;
+      addReview(extractCardReview($, card).quote);
+    });
   }
 
   return reviews;
@@ -440,6 +468,16 @@ function truncateQuote(quote) {
 }
 
 /**
+ * Is this URL an actual poster image, rather than one of RT's own site assets?
+ * A page without a poster (or a slug that missed) still serves RT branding via
+ * og:image — saving that as the poster produces the RT logo where art belongs.
+ */
+function isRealPoster(url) {
+  if (!url || typeof url !== 'string') return false;
+  return !/rottentomatoes\.com\/assets\/|RT_TwitterCard|rt-poster-default/i.test(url);
+}
+
+/**
  * Extract poster, runtime, genre, and rating from the RT page.
  * This replaces the TMDB dependency — no API key needed.
  */
@@ -454,7 +492,7 @@ function extractMovieMetadata($, html) {
   if (ldJson) {
     try {
       const data = JSON.parse(ldJson);
-      if (data.image) poster = data.image;
+      if (isRealPoster(data.image)) poster = data.image;
       if (data.contentRating) rating = data.contentRating;
       if (Array.isArray(data.genre) && data.genre.length > 0) {
         genre = data.genre.slice(0, 2).join(' / ');
@@ -464,10 +502,12 @@ function extractMovieMetadata($, html) {
 
   // Fallback poster: og:image or scorecard poster
   if (!poster) {
-    poster = $('meta[property="og:image"]').attr('content') || null;
+    const ogImage = $('meta[property="og:image"]').attr('content');
+    if (isRealPoster(ogImage)) poster = ogImage;
   }
   if (!poster) {
-    poster = $('media-scorecard rt-img[slot="poster-image"]').attr('src') || null;
+    const scorecard = $('media-scorecard rt-img[slot="poster-image"]').attr('src');
+    if (isRealPoster(scorecard)) poster = scorecard;
   }
 
   // Runtime from page text (e.g. "1h 38m")
