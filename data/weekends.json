@@ -1,5 +1,358 @@
 [
   {
+    "id": "2026-08-28",
+    "label": "August 28–30, 2026",
+    "movies": [
+      {
+        "rank": 1,
+        "title": "Spider-Man: Brand New Day",
+        "runtime": null,
+        "studio": "Sony Pictures Releasing",
+        "weekend": 22200000,
+        "total": 891507928,
+        "worldwide": 2332507928,
+        "weeks": 5,
+        "change": -43,
+        "theaters": 3678,
+        "poster": "https://image.tmdb.org/t/p/w500/placeholder.jpg",
+        "rating": null,
+        "genre": null,
+        "rt": {
+          "critics": null,
+          "audience": null
+        },
+        "imdb": null,
+        "boxofficemojo": "https://www.boxofficemojo.com/release/rl2299756545/",
+        "rottentomatoes": "https://www.rottentomatoes.com/m/spiderman_brand_new_day",
+        "reviews": []
+      },
+      {
+        "rank": 2,
+        "title": "Coyote vs. Acme",
+        "runtime": 101,
+        "studio": "Ketchup Entertainment",
+        "weekend": 15468754,
+        "total": 15468754,
+        "worldwide": 15468754,
+        "weeks": 1,
+        "change": null,
+        "theaters": 3575,
+        "poster": "https://resizing.flixster.com/2tWOVnwNoN3mVPGeTtFxCACoAPM=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2UwMjUzNTNmLWNkZWQtNDVmNS1iZWI3LTY4MjQ4OTc5NGNlZi5qcGc=",
+        "rating": "PG",
+        "genre": "Kids & Family / Comedy",
+        "rt": {
+          "critics": 96,
+          "audience": 94
+        },
+        "imdb": null,
+        "boxofficemojo": "https://www.boxofficemojo.com/release/rl409240321/",
+        "rottentomatoes": "https://www.rottentomatoes.com/m/coyote_vs_acme",
+        "reviews": [
+          {
+            "source": "The Ringer",
+            "quote": "This was a great movie!! I very happy that it was released. I love my looney tunes ❤️❤️❤️"
+          },
+          {
+            "source": "Sarah G Vincent Views",
+            "quote": "This movie was thoroughly entertaining and quite hilarious."
+          },
+          {
+            "source": "MovieJawn",
+            "quote": "Great movie! Cant believe they wanted to shelf this."
+          }
+        ]
+      },
+      {
+        "rank": 3,
+        "title": "The Odyssey",
+        "runtime": 172,
+        "studio": "Universal Pictures",
+        "weekend": 14300000,
+        "total": 563821605,
+        "worldwide": 1552604605,
+        "weeks": 7,
+        "change": -27,
+        "theaters": 2617,
+        "poster": "https://resizing.flixster.com/A6I9ex8FRe7tDW-mI3eP3tx_HmE=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzkyOGVlMzAxLThhN2ItNGYyMy04NzdjLTYyNTEyMDRmYTQzOS5qcGc=",
+        "rating": "R",
+        "genre": "Adventure / Action",
+        "rt": {
+          "critics": 94,
+          "audience": 97
+        },
+        "imdb": null,
+        "boxofficemojo": "https://www.boxofficemojo.com/release/rl170295297/",
+        "rottentomatoes": "https://www.rottentomatoes.com/m/the_odyssey_2026",
+        "reviews": [
+          {
+            "source": "Perri Nemiroff (YouTube)",
+            "quote": "I haven’t enjoyed a movie this great in a long time. 5 stars across the board. Going to see it again."
+          },
+          {
+            "source": "La Estatuilla",
+            "quote": "Nope. Too long, too little action. People actually clapped at the end so maybe we were wrong but I didn’t see what all t..."
+          },
+          {
+            "source": "TheIndependentCritic.com",
+            "quote": "Movie has a great plot. Great actors. Somehow I felt a disconnect with the authenticity of the movie."
+          }
+        ]
+      },
+      {
+        "rank": 4,
+        "title": "Insidious: Out of the Further",
+        "runtime": 106,
+        "studio": "Sony Pictures Releasing",
+        "weekend": 10100000,
+        "total": 43630107,
+        "worldwide": 110230107,
+        "weeks": 2,
+        "change": -60,
+        "theaters": 3303,
+        "poster": "https://resizing.flixster.com/Lv7PBdDa3y9tPMgQQtTD143WPpo=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2U1MTA2NTUwLTEzZGEtNGY0ZC1iZjZmLTZmYjFhMjg0MWJhZC5qcGc=",
+        "rating": "PG-13",
+        "genre": "Horror / Mystery & Thriller",
+        "rt": {
+          "critics": 57,
+          "audience": 69
+        },
+        "imdb": null,
+        "boxofficemojo": "https://www.boxofficemojo.com/release/rl141197313/",
+        "rottentomatoes": "https://www.rottentomatoes.com/m/insidious_out_of_the_further",
+        "reviews": [
+          {
+            "source": "The Travers Take",
+            "quote": "The movie felt really slow, but it went good"
+          },
+          {
+            "source": "The Gate",
+            "quote": "Fantastic movie! In my opinion, this was one of THE best ones from the franchise!"
+          },
+          {
+            "source": "Sarah G Vincent Views",
+            "quote": "not better than the first. not too many scares either."
+          }
+        ]
+      },
+      {
+        "rank": 5,
+        "title": "The Dog Stars",
+        "runtime": 118,
+        "studio": "Walt Disney Studios Motion Pictures",
+        "weekend": 8000000,
+        "total": 8000000,
+        "worldwide": 19300000,
+        "weeks": 1,
+        "change": null,
+        "theaters": 3330,
+        "poster": "https://resizing.flixster.com/uxQbW7sjcNy0ij9j0XlPxuxhi6o=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2VlMjZmNGZjLTcxODMtNDgyYi1hZThhLWNiZDA3OGE5YzRmMS5qcGc=",
+        "rating": "R",
+        "genre": "Adventure / Mystery & Thriller",
+        "rt": {
+          "critics": 40,
+          "audience": 71
+        },
+        "imdb": null,
+        "boxofficemojo": "https://www.boxofficemojo.com/release/rl147357697/",
+        "rottentomatoes": "https://www.rottentomatoes.com/m/the_dog_stars",
+        "reviews": [
+          {
+            "source": "The New Yorker",
+            "quote": "This movie has great visuals during flight, but fails to bring a coherent storyline or any sort of realism to the post a..."
+          },
+          {
+            "source": "Sarah G Vincent Views",
+            "quote": "Visually stunning. Jacob Elordi, Josh Brolin, Guy Pearce and Margaret Qualley gave exceptional performances."
+          },
+          {
+            "source": "Movies and Shakers",
+            "quote": "Not a dull moment. Exciting and great acting…"
+          }
+        ]
+      },
+      {
+        "rank": 6,
+        "title": "Buddy",
+        "runtime": 95,
+        "studio": "Roadside Attractions",
+        "weekend": 5363827,
+        "total": 5363827,
+        "worldwide": 5363827,
+        "weeks": 1,
+        "change": null,
+        "theaters": 1258,
+        "poster": "https://resizing.flixster.com/yl5JN7R8Zb7ZuFbu4xFCxx-Npzs=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2Y5N2E5Yjc2LTEzNjEtNDhiYi05MWQ5LWQ3ODg4YzY2NzRhYi5qcGc=",
+        "rating": "R",
+        "genre": "Horror / Comedy",
+        "rt": {
+          "critics": 88,
+          "audience": 79
+        },
+        "imdb": null,
+        "boxofficemojo": "https://www.boxofficemojo.com/release/rl1101299713/",
+        "rottentomatoes": "https://www.rottentomatoes.com/m/buddy_2026",
+        "reviews": [
+          {
+            "source": "RogerEbert.com",
+            "quote": "A really fun horror movie filled with creativity. Knowing exactly what it needs to be to not disappoint."
+          },
+          {
+            "source": "Sarah G Vincent Views",
+            "quote": "the exact Barney vibes was on point , great acting"
+          },
+          {
+            "source": "Film Speak",
+            "quote": "It was a lot better than I expected but not as scary as I thought. It was pretty disturbing and intriguing!"
+          }
+        ]
+      },
+      {
+        "rank": 7,
+        "title": "The End of Oak Street",
+        "runtime": 99,
+        "studio": "Warner Bros.",
+        "weekend": 4950000,
+        "total": 46030124,
+        "worldwide": 105030124,
+        "weeks": 3,
+        "change": -43,
+        "theaters": 2923,
+        "poster": "https://resizing.flixster.com/mh5WwBB4gOPvlxaLkoz6aYdsisg=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzllNzkxYjJhLWEyNTgtNDNlNS1iZGM5LWQyOTU4ZGQ0YWI4MC5qcGc=",
+        "rating": "PG-13",
+        "genre": "Mystery & Thriller",
+        "rt": {
+          "critics": 86,
+          "audience": 77
+        },
+        "imdb": null,
+        "boxofficemojo": "https://www.boxofficemojo.com/release/rl2908717057/",
+        "rottentomatoes": "https://www.rottentomatoes.com/m/the_end_of_oak_street",
+        "reviews": [
+          {
+            "source": "Sight &amp; Sound",
+            "quote": "This movie couldn&#39;t decide whether it was serious/terrifying or funny/silly."
+          },
+          {
+            "source": "The MovieMaven",
+            "quote": "portals to get them in and out is dumb."
+          },
+          {
+            "source": "Splice Today",
+            "quote": "They acting dumb throughout the movie and it irks me"
+          }
+        ]
+      },
+      {
+        "rank": 8,
+        "title": "PAW Patrol: The Dino Movie",
+        "runtime": 88,
+        "studio": "Paramount Pictures International",
+        "weekend": 4875000,
+        "total": 43311049,
+        "worldwide": 124611049,
+        "weeks": 3,
+        "change": -47,
+        "theaters": 3110,
+        "poster": "https://resizing.flixster.com/yJUONjqYreK_JOsSliiXcjNgTqI=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzFiZGE5MjE5LTVhZGItNDQzMS04ZjFkLTc1MWI0YjljNDU2ZC5qcGc=",
+        "rating": "PG",
+        "genre": "Kids & Family / Comedy",
+        "rt": {
+          "critics": 81,
+          "audience": 95
+        },
+        "imdb": null,
+        "boxofficemojo": "https://www.boxofficemojo.com/release/rl4082532353/",
+        "rottentomatoes": "https://www.rottentomatoes.com/m/paw_patrol_the_dino_movie",
+        "reviews": [
+          {
+            "source": "RogerEbert.com",
+            "quote": "It was a funny and well written movie."
+          },
+          {
+            "source": "InSession Film",
+            "quote": "Good movie overall humdinger was an entertaining presence"
+          },
+          {
+            "source": "Should I See It",
+            "quote": "Such a great movie. Made me laugh and cry!"
+          }
+        ]
+      },
+      {
+        "rank": 9,
+        "title": "Mutiny",
+        "runtime": 95,
+        "studio": "Lionsgate",
+        "weekend": 2750000,
+        "total": 13228665,
+        "worldwide": 19828665,
+        "weeks": 2,
+        "change": -64,
+        "theaters": 2703,
+        "poster": "https://resizing.flixster.com/2KR3Tzc0443EU9OK5YtfNu2BG2s=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzdmYTJmNjg5LWNlMzQtNGEzNC05YjRhLWMwNGFlNjk0Yjg5Yy5qcGc=",
+        "rating": "R",
+        "genre": "Action / Mystery & Thriller",
+        "rt": {
+          "critics": 49,
+          "audience": 86
+        },
+        "imdb": null,
+        "boxofficemojo": "https://www.boxofficemojo.com/release/rl3593568257/",
+        "rottentomatoes": "https://www.rottentomatoes.com/m/mutiny_2026",
+        "reviews": [
+          {
+            "source": "Wall Street Journal",
+            "quote": "Just watched the New movie &quot;Mutiny&quot; and I loved it! Another Lean, Mean, Well-Oiled Jason Statham Machine."
+          },
+          {
+            "source": "Pop Culture Leftovers",
+            "quote": "Great action movie!!"
+          },
+          {
+            "source": "AtHomeInHollywood.com",
+            "quote": "Slow in the beginning but action packed and very entertaining"
+          }
+        ]
+      },
+      {
+        "rank": 10,
+        "title": "Tony",
+        "runtime": 106,
+        "studio": "A24",
+        "weekend": 2220448,
+        "total": 11053129,
+        "worldwide": 12795749,
+        "weeks": 4,
+        "change": -55,
+        "theaters": 1907,
+        "poster": "https://resizing.flixster.com/wkFWwoeNKmokBeBJkElVv2BzteI=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzgyNGRhNDYyLTQ1NTMtNGQ1OC04YTJiLTYxYzc0MGVlNDNjZS5qcGc=",
+        "rating": "R",
+        "genre": "Biography / Drama",
+        "rt": {
+          "critics": 94,
+          "audience": 92
+        },
+        "imdb": null,
+        "boxofficemojo": "https://www.boxofficemojo.com/release/rl4222189569/",
+        "rottentomatoes": "https://www.rottentomatoes.com/m/tony_2026",
+        "reviews": [
+          {
+            "source": "Tribune News Service",
+            "quote": "Well done. Mr. Bourdain would be proud"
+          },
+          {
+            "source": "Epoch Times",
+            "quote": "An angsty, testosterone fueled Bourdain drives this hangout film to wonderful places, drives the biopic even further."
+          },
+          {
+            "source": "Should I See It",
+            "quote": "Good story and music, good acting"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": "2026-08-21",
     "label": "August 21–23, 2026",
     "movies": [
@@ -4674,372 +5027,6 @@
           {
             "source": "RogerEbert.com",
             "quote": "It makes good on its grisly promise whenever its meat-puppet protagonists stop talking and start pummeling each other."
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": "2026-05-22",
-    "label": "May 22–24, 2026",
-    "movies": [
-      {
-        "rank": 1,
-        "title": "Star Wars: The Mandalorian and Grogu",
-        "runtime": 132,
-        "studio": "Walt Disney Studios Motion Pictures",
-        "weekend": 81960000,
-        "total": 81960000,
-        "worldwide": 165000000,
-        "weeks": 1,
-        "change": null,
-        "theaters": 4300,
-        "poster": "https://resizing.flixster.com/7VbCcCm-b4yZ4xnk-SAvyAUifVU=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzIxY2E4ZWVmLWE1MWEtNDk4Yi04YjkzLTgzN2VlYmM4MzQwYy5qcGc=",
-        "rating": "PG-13",
-        "genre": "Sci-Fi / Adventure",
-        "rt": {
-          "critics": 62,
-          "audience": 89
-        },
-        "imdb": null,
-        "boxofficemojo": "https://www.boxofficemojo.com/release/rl3294527489/",
-        "rottentomatoes": "https://www.rottentomatoes.com/m/star_wars_the_mandalorian_and_grogu",
-        "reviews": [
-          {
-            "source": "MovieFreak.com",
-            "quote": "I do think kids will enjoy themselves, and maybe that’s enough to give this middling adventure a pass."
-          },
-          {
-            "source": "Detroit News",
-            "quote": "The movie is, in a sense, a series of strung together action scenes, and while it's not top notch action, it's enough, a..."
-          },
-          {
-            "source": "Slate",
-            "quote": "If The Mandalorian and Grogu isn’t the worst Star Wars movie—and it might be—it’s certainly the least: the least essenti..."
-          }
-        ]
-      },
-      {
-        "rank": 2,
-        "title": "Obsession",
-        "runtime": 67,
-        "studio": "Focus Features",
-        "weekend": 22400000,
-        "total": 52784010,
-        "worldwide": 79789010,
-        "weeks": 2,
-        "change": 30,
-        "theaters": 2655,
-        "poster": "https://resizing.flixster.com/wciPMzUm5zbBhWKN24eGdoRfK8I=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzBlZDNhZmI5LTM3N2EtNGIyZC1iZTA5LTU0NzUyY2M2ZGYyYi5qcGc=",
-        "rating": "R",
-        "genre": "Mystery & Thriller",
-        "rt": {
-          "critics": 94,
-          "audience": 94
-        },
-        "imdb": null,
-        "boxofficemojo": "https://www.boxofficemojo.com/release/rl1660846081/",
-        "rottentomatoes": "https://www.rottentomatoes.com/m/obsession_2025",
-        "reviews": [
-          {
-            "source": "The Atlantic",
-            "quote": "At 26 years old, Barker is speaking directly to his own generation -- the moviegoing Zoomers -- by making a meal out of ..."
-          },
-          {
-            "source": "Slate",
-            "quote": "There are far scarier movies than Obsession."
-          },
-          {
-            "source": "The New Yorker",
-            "quote": "[Obsession] opens in the realm of the straightforward and ultimately reveals itself to be something far more thoughtful ..."
-          }
-        ]
-      },
-      {
-        "rank": 3,
-        "title": "Michael",
-        "runtime": 127,
-        "studio": "Lionsgate",
-        "weekend": 20010000,
-        "total": 314220189,
-        "worldwide": 788047189,
-        "weeks": 5,
-        "change": -23,
-        "theaters": 3560,
-        "poster": "https://resizing.flixster.com/hcHFyHYxNIIgMilY0mC2JoIhggk=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2JlYTIxNGM2LTkyZmEtNDJlMC05ODA4LWQ3YTBjYzE2MzQzNi5qcGc=",
-        "rating": "PG-13",
-        "genre": "Biography / Drama",
-        "rt": {
-          "critics": 39,
-          "audience": 97
-        },
-        "imdb": null,
-        "boxofficemojo": "https://www.boxofficemojo.com/release/rl1246593025/",
-        "rottentomatoes": "https://www.rottentomatoes.com/m/michael",
-        "reviews": [
-          {
-            "source": "Slate",
-            "quote": "The purpose of a biopic is to show us aspects of a public figure that the public never had access to."
-          },
-          {
-            "source": "The New Yorker",
-            "quote": "Setting aside the woeful omission, though, and considering the film outside the realm of preëxisting facts, as if it wer..."
-          },
-          {
-            "source": "TIME Magazine",
-            "quote": "It’s not that any of these vignettes are inaccurate."
-          }
-        ]
-      },
-      {
-        "rank": 4,
-        "title": "The Devil Wears Prada 2",
-        "runtime": 119,
-        "studio": "Walt Disney Studios Motion Pictures",
-        "weekend": 12593000,
-        "total": 196118726,
-        "worldwide": 608025726,
-        "weeks": 4,
-        "change": -29,
-        "theaters": 3300,
-        "poster": "https://resizing.flixster.com/nDyeWG-KIXjAvnuOzKB2sLzbaNI=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzZiNzQyMTM3LWMwMWEtNDcwZS1hYTNmLWIwZTRlOWU1ODcyOC5qcGc=",
-        "rating": "PG-13",
-        "genre": "Comedy / Drama",
-        "rt": {
-          "critics": 78,
-          "audience": 85
-        },
-        "imdb": null,
-        "boxofficemojo": "https://www.boxofficemojo.com/release/rl365461505/",
-        "rottentomatoes": "https://www.rottentomatoes.com/m/the_devil_wears_prada_2",
-        "reviews": [
-          {
-            "source": "TIME Magazine",
-            "quote": "The Devil Wears Prada 2, imperfect as it is, is actually a better movie than its predecessor."
-          },
-          {
-            "source": "Slate",
-            "quote": "This sparkly sequel provides a satisfying balance between nostalgic callbacks and intelligent updates to suit a more con..."
-          },
-          {
-            "source": "Detroit News",
-            "quote": "While it's not as fun as it was the first time around, \"Prada 2\" gives viewers more to think about than just high fashio..."
-          }
-        ]
-      },
-      {
-        "rank": 5,
-        "title": "The Sheep Detectives",
-        "runtime": 109,
-        "studio": "Amazon MGM Studios",
-        "weekend": 8982000,
-        "total": 43519041,
-        "worldwide": 76474886,
-        "weeks": 3,
-        "change": -6,
-        "theaters": 3207,
-        "poster": "https://resizing.flixster.com/LviGdc9-5BykrMyhX1oGyU-HhXE=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzYzNjA4ZWQ1LTE1M2UtNGI2Mi05NTJlLWM0ZTg2NWM5ODJhNC5qcGc=",
-        "rating": "PG",
-        "genre": "Kids & Family / Comedy",
-        "rt": {
-          "critics": 94,
-          "audience": 96
-        },
-        "imdb": null,
-        "boxofficemojo": "https://www.boxofficemojo.com/release/rl1601339393/",
-        "rottentomatoes": "https://www.rottentomatoes.com/m/the_sheep_detectives",
-        "reviews": [
-          {
-            "source": "San Francisco Chronicle",
-            "quote": "About as delightfully easygoing as a murder mystery can get."
-          },
-          {
-            "source": "Slate",
-            "quote": "The movie is endlessly charming and pleasingly clever, as well as surprisingly moving in spots."
-          },
-          {
-            "source": "IndieWire",
-            "quote": "If “The Sheep Detectives” were just a gimmicky movie about a flock solving a human murder, it would still be a relativel..."
-          }
-        ]
-      },
-      {
-        "rank": 6,
-        "title": "Passenger",
-        "runtime": 94,
-        "studio": "Paramount Pictures",
-        "weekend": 8700000,
-        "total": 8700000,
-        "worldwide": 15300000,
-        "weeks": 1,
-        "change": null,
-        "theaters": 2534,
-        "poster": "https://resizing.flixster.com/gZU12u7tSxIDDfIa3K1r2Fr0uao=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzgwNjJmOWVkLTYyZTEtNGY3Mi05ODBhLThhMzgyZDAwNzAwOC5qcGc=",
-        "rating": "R",
-        "genre": "Horror / Mystery & Thriller",
-        "rt": {
-          "critics": 49,
-          "audience": 55
-        },
-        "imdb": null,
-        "boxofficemojo": "https://www.boxofficemojo.com/release/rl4253450241/",
-        "rottentomatoes": "https://www.rottentomatoes.com/m/passenger_2026",
-        "reviews": [
-          {
-            "source": "Variety",
-            "quote": "Norwegian director André Øvredal does not reinvent the wheel with this humble genre entry, but the film’s slick formal l..."
-          },
-          {
-            "source": "The Hollywood Reporter",
-            "quote": "Like a bright headlight facing you dead on or the sudden honk of a loud horn, only the jump scares keep you from falling..."
-          },
-          {
-            "source": "RogerEbert.com",
-            "quote": "It is a fairly solid bit of genre craftwork that is a lot more impressive than its desultory release might suggest."
-          }
-        ]
-      },
-      {
-        "rank": 7,
-        "title": "Mortal Kombat II",
-        "runtime": 116,
-        "studio": "Warner Bros.",
-        "weekend": 6170000,
-        "total": 72766785,
-        "worldwide": 120001785,
-        "weeks": 3,
-        "change": -54,
-        "theaters": 2726,
-        "poster": "https://resizing.flixster.com/FSCuS9jUdx2PdRbxpXjnB8mo6mc=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzZjMjVmM2QwLTBmZWYtNGI4ZC1iN2M3LWYxODVkNGI5MTcxNC5qcGc=",
-        "rating": "R",
-        "genre": "Action / Adventure",
-        "rt": {
-          "critics": 64,
-          "audience": 88
-        },
-        "imdb": null,
-        "boxofficemojo": "https://www.boxofficemojo.com/release/rl3832053761/",
-        "rottentomatoes": "https://www.rottentomatoes.com/m/mortal_kombat_ii",
-        "reviews": [
-          {
-            "source": "New York Post",
-            "quote": "Now it’s just repetitive kills from bottom-drawer cartoons."
-          },
-          {
-            "source": "Mashable",
-            "quote": "The bar is in hell for video game movies, huh?"
-          },
-          {
-            "source": "RogerEbert.com",
-            "quote": "It makes good on its grisly promise whenever its meat-puppet protagonists stop talking and start pummeling each other."
-          }
-        ]
-      },
-      {
-        "rank": 8,
-        "title": "I Love Boosters",
-        "runtime": 115,
-        "studio": "Neon",
-        "weekend": 3723000,
-        "total": 3723000,
-        "worldwide": 4565400,
-        "weeks": 1,
-        "change": null,
-        "theaters": 1750,
-        "poster": "https://resizing.flixster.com/buDvWJ5KfAV4_4MVcFG_-nZBqLQ=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzNiZGNiNDA2LTY0NDItNGJlNy04NmRlLTM0OTllZjk0ZGQ2MS5qcGc=",
-        "rating": "R",
-        "genre": "Comedy / Adventure",
-        "rt": {
-          "critics": 92,
-          "audience": 75
-        },
-        "imdb": null,
-        "boxofficemojo": "https://www.boxofficemojo.com/release/rl2627698689/",
-        "rottentomatoes": "https://www.rottentomatoes.com/m/i_love_boosters",
-        "reviews": [
-          {
-            "source": "Associated Press",
-            "quote": "It is a crime that this is only Riley’s second produced movie."
-          },
-          {
-            "source": "San Francisco Chronicle",
-            "quote": "It’s hard to imagine a more original movie or a more unfiltered vision from the mind of its maker."
-          },
-          {
-            "source": "Detroit News",
-            "quote": "\"I Love Boosters\" is proof that creativity is alive and well, if you know where to look for it."
-          }
-        ]
-      },
-      {
-        "rank": 9,
-        "title": "The Super Mario Galaxy Movie",
-        "runtime": 98,
-        "studio": "Universal Pictures",
-        "weekend": 3170000,
-        "total": 423637830,
-        "worldwide": 980333830,
-        "weeks": 8,
-        "change": -29,
-        "theaters": 2005,
-        "poster": "https://image.tmdb.org/t/p/w500/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg",
-        "rating": "PG",
-        "genre": "Animation / Adventure",
-        "rt": {
-          "critics": 42,
-          "audience": 88
-        },
-        "imdb": "https://www.imdb.com/title/tt28650488/",
-        "boxofficemojo": "https://www.boxofficemojo.com/release/rl3344662529/",
-        "rottentomatoes": "https://www.rottentomatoes.com/m/the_super_mario_galaxy_movie",
-        "reviews": [
-          {
-            "source": "San Francisco Chronicle",
-            "quote": "Given the first film's success and the fanbase it helped build for this sequel, you can't help but wonder why ..."
-          },
-          {
-            "source": "MovieFreak.com",
-            "quote": "I found it all deeply annoying."
-          },
-          {
-            "source": "Mashable",
-            "quote": "We all have a finite amount of time on this Earth, and I cannot think of a single reason why you should spend any of you..."
-          }
-        ]
-      },
-      {
-        "rank": 10,
-        "title": "Project Hail Mary",
-        "runtime": 157,
-        "studio": "Amazon MGM Studios",
-        "weekend": 2717000,
-        "total": 339609690,
-        "worldwide": 675759690,
-        "weeks": 10,
-        "change": -33,
-        "theaters": 1321,
-        "poster": "https://image.tmdb.org/t/p/w500/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
-        "rating": "PG-13",
-        "genre": "Science Fiction / Adventure",
-        "rt": {
-          "critics": 94,
-          "audience": 95
-        },
-        "imdb": "https://www.imdb.com/title/tt12042730/",
-        "boxofficemojo": "https://www.boxofficemojo.com/release/rl1993768961/",
-        "rottentomatoes": "https://www.rottentomatoes.com/m/project_hail_mary",
-        "reviews": [
-          {
-            "source": "The Atlantic",
-            "quote": "This film is not quite the masterpiece its grand visual scale sometimes suggests it’s shooting for."
-          },
-          {
-            "source": "TIME Magazine",
-            "quote": "This is the most ambitious picture, in terms of structure and spectacle, that the filmmaking duo of Lord and Miller have..."
-          },
-          {
-            "source": "MovieFreak.com",
-            "quote": "As far as rousing, interstellar science fiction pulp adventures are concerned, directors Phil Lord and Christopher Mille..."
           }
         ]
       }
