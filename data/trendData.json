@@ -1233,7 +1233,8 @@
       31.5,
       23.2,
       19.5,
-      14.3
+      14.3,
+      13
     ],
     "worldwide": [
       264.1,
@@ -1242,7 +1243,8 @@
       1104.8,
       1290.9,
       1446.2,
-      1552.6
+      1552.6,
+      1631.5
     ]
   },
   "Hadestown: The Musical": {
@@ -1269,14 +1271,16 @@
       145,
       70,
       39,
-      22.2
+      22.2,
+      18
     ],
     "worldwide": [
       927,
       1665.1,
       2021.8,
       2219.9,
-      2332.5
+      2332.5,
+      2408.1
     ]
   },
   "I Want Your Sex": {
@@ -1325,24 +1329,28 @@
     "domestic": [
       21,
       9,
-      5
+      5,
+      2.9
     ],
     "worldwide": [
       47,
       86,
-      105
+      105,
+      115.2
     ]
   },
   "PAW Patrol: The Dino Movie": {
     "domestic": [
       20.5,
       9.1,
-      4.9
+      4.9,
+      3.3
     ],
     "worldwide": [
       69,
       103.4,
-      124.6
+      124.6,
+      138.3
     ]
   },
   "Katseye: Wild Hearts": {
@@ -1380,11 +1388,13 @@
   "Insidious: Out of the Further": {
     "domestic": [
       25.3,
-      10.1
+      10.1,
+      6.5
     ],
     "worldwide": [
       60.3,
-      110.2
+      110.2,
+      139.2
     ]
   },
   "Mutiny": {
@@ -1439,26 +1449,48 @@
   },
   "Coyote vs. Acme": {
     "domestic": [
-      15.5
+      15.5,
+      11.3
     ],
     "worldwide": [
-      15.5
+      15.5,
+      44.3
     ]
   },
   "The Dog Stars": {
     "domestic": [
-      8
+      8,
+      2.7
     ],
     "worldwide": [
-      19.3
+      19.3,
+      33
     ]
   },
   "Buddy": {
     "domestic": [
-      5.4
+      5.4,
+      5.7
     ],
     "worldwide": [
-      5.4
+      5.4,
+      15.7
+    ]
+  },
+  "By Any Means": {
+    "domestic": [
+      7.4
+    ],
+    "worldwide": [
+      9.2
+    ]
+  },
+  "Cars": {
+    "domestic": [
+      6.1
+    ],
+    "worldwide": [
+      9.5
     ]
   }
 }
