@@ -1,5 +1,371 @@
 [
   {
+    "id": "2026-09-11",
+    "label": "September 11–13, 2026",
+    "movies": [
+      {
+        "rank": 1,
+        "title": "Practical Magic 2",
+        "runtime": 130,
+        "studio": "Warner Bros.",
+        "weekend": 30000000,
+        "total": 30000000,
+        "worldwide": 46000000,
+        "weeks": 1,
+        "change": null,
+        "theaters": 4146,
+        "poster": "https://resizing.flixster.com/VsZDRbZKA1bM8L6rjP-u8draqI0=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzI2ZTMwMDMzLWJkMjMtNDE3ZS05NThjLTRmZTJlZGExODA5OC5qcGc=",
+        "rating": "PG-13",
+        "genre": "Comedy / Fantasy",
+        "rt": {
+          "critics": 39,
+          "audience": 92
+        },
+        "imdb": null,
+        "boxofficemojo": "https://www.boxofficemojo.com/release/rl3888283649/",
+        "rottentomatoes": "https://www.rottentomatoes.com/m/practical_magic_2",
+        "reviews": [
+          {
+            "source": "Tribune News Service",
+            "quote": "Is it a bit cheesy? It wouldn’t be \"Practical Magic 2\" if it weren’t."
+          },
+          {
+            "source": "The Australian",
+            "quote": "Fans will still be fans. They’ll be flocking and they’ll leave satisfied."
+          },
+          {
+            "source": "Seattle Times",
+            "quote": "Other than Bullock, there just isn’t much here"
+          }
+        ]
+      },
+      {
+        "rank": 2,
+        "title": "Spider-Man: Brand New Day",
+        "runtime": 145,
+        "studio": "Sony Pictures Releasing",
+        "weekend": 8400000,
+        "total": 935170888,
+        "worldwide": 2451170888,
+        "weeks": 7,
+        "change": -54,
+        "theaters": 3303,
+        "poster": "https://resizing.flixster.com/A0AhY7vcoHLlqwO6nfwnyOB6wZA=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2E1NWUwMWJhLWI5OTUtNDZkMy04NmE4LWU5Y2I5NTQ2NTE4OC5qcGc=",
+        "rating": "PG-13",
+        "genre": "Action / Adventure",
+        "rt": {
+          "critics": 90,
+          "audience": 97
+        },
+        "imdb": null,
+        "boxofficemojo": "https://www.boxofficemojo.com/release/rl2299756545/",
+        "rottentomatoes": "https://www.rottentomatoes.com/m/spider_man_brand_new_day",
+        "reviews": [
+          {
+            "source": "Washington Post",
+            "quote": "Brand New Day is a messy but largely successful attempt at remembering what makes Spider-Man special: that his greatest ..."
+          },
+          {
+            "source": "Salon.com",
+            "quote": "What is the plot of “Brand New Day?” You may be asking yourself this regardless of whether you’ve already seen the film ..."
+          },
+          {
+            "source": "Filmspotting",
+            "quote": "Beneath the MCU obligations and superhero spectacle lies something surprisingly heartfelt: a Spider-Man movie about lone..."
+          }
+        ]
+      },
+      {
+        "rank": 3,
+        "title": "The Odyssey",
+        "runtime": 172,
+        "studio": "Universal Pictures",
+        "weekend": 7400000,
+        "total": 600507275,
+        "worldwide": 1684432275,
+        "weeks": 9,
+        "change": -43,
+        "theaters": 1983,
+        "poster": "https://resizing.flixster.com/A6I9ex8FRe7tDW-mI3eP3tx_HmE=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzkyOGVlMzAxLThhN2ItNGYyMy04NzdjLTYyNTEyMDRmYTQzOS5qcGc=",
+        "rating": "R",
+        "genre": "Adventure / Action",
+        "rt": {
+          "critics": 94,
+          "audience": 96
+        },
+        "imdb": null,
+        "boxofficemojo": "https://www.boxofficemojo.com/release/rl170295297/",
+        "rottentomatoes": "https://www.rottentomatoes.com/m/the_odyssey_2026",
+        "reviews": [
+          {
+            "source": "Los Angeles Times",
+            "quote": "What you really need to do is keep your eyes wide open while enjoying a titanic film that may not be perfect but will ke..."
+          },
+          {
+            "source": "DwightBrownInk.com",
+            "quote": "Audiences who start this sojourn will finish it. Like Odysseus, they won’t stop."
+          },
+          {
+            "source": "Decent Films",
+            "quote": "Like the filmmaker’s last work, ‘Oppenheimer,’ ‘The Odyssey’ has a downbeat, apocalyptic bent—but, unlike ‘Oppenheimer,’..."
+          }
+        ]
+      },
+      {
+        "rank": 4,
+        "title": "Runner",
+        "runtime": 97,
+        "studio": "Angel",
+        "weekend": 6432956,
+        "total": 6432956,
+        "worldwide": 6432956,
+        "weeks": 1,
+        "change": null,
+        "theaters": 2568,
+        "poster": "https://resizing.flixster.com/SqeO7biIEgLsJcRFZu3CLJw4JCM=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2E4NjJlZGY0LTE4ODYtNGI1Ni1hOGM1LThkZjM0NmEyNDFkZi5qcGc=",
+        "rating": "PG-13",
+        "genre": "Action / Mystery & Thriller",
+        "rt": {
+          "critics": 71,
+          "audience": 88
+        },
+        "imdb": null,
+        "boxofficemojo": "https://www.boxofficemojo.com/release/rl3955130369/",
+        "rottentomatoes": "https://www.rottentomatoes.com/m/runner_2026",
+        "reviews": [
+          {
+            "source": "RogerEbert.com",
+            "quote": "[It] has a certain weirdo charm that makes it far more watchable than it has any right to be."
+          },
+          {
+            "source": "The Travers Take",
+            "quote": "Alan Ritchson and Owen Wilson go through the action-comedy motions without leaving much of an impression."
+          },
+          {
+            "source": "HeyUGuys",
+            "quote": "There's something about Ritchson's performance that makes it hard not to get on board with the whole ridiculous thing."
+          }
+        ]
+      },
+      {
+        "rank": 5,
+        "title": "Coyote vs. Acme",
+        "runtime": 101,
+        "studio": "Ketchup Entertainment",
+        "weekend": 6239384,
+        "total": 47764302,
+        "worldwide": 64997869,
+        "weeks": 3,
+        "change": -48,
+        "theaters": 3355,
+        "poster": "https://resizing.flixster.com/2tWOVnwNoN3mVPGeTtFxCACoAPM=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2UwMjUzNTNmLWNkZWQtNDVmNS1iZWI3LTY4MjQ4OTc5NGNlZi5qcGc=",
+        "rating": "PG",
+        "genre": "Kids & Family / Comedy",
+        "rt": {
+          "critics": 96,
+          "audience": 95
+        },
+        "imdb": null,
+        "boxofficemojo": "https://www.boxofficemojo.com/release/rl409240321/",
+        "rottentomatoes": "https://www.rottentomatoes.com/m/coyote_vs_acme",
+        "reviews": [
+          {
+            "source": "The Ringer",
+            "quote": "The self-reflexive satire of Coyote vs. Acme is complemented by the quality of its craftsmanship -- the live-action cine..."
+          },
+          {
+            "source": "Tribune News Service",
+            "quote": "a sharp, satirical and silly excavation of the some of the ills that plague our culture, while paying loving tribute to ..."
+          },
+          {
+            "source": "AARP Movies for Grownups",
+            "quote": "Not since Who Framed Roger Rabbit in 1988 has there been such a funny, shrewd and entertaining movie weaving live action..."
+          }
+        ]
+      },
+      {
+        "rank": 6,
+        "title": "Buddy",
+        "runtime": 95,
+        "studio": "Roadside AttractionsSee full company information\n        \n    /Saban Films",
+        "weekend": 3524387,
+        "total": 21291635,
+        "worldwide": 21291635,
+        "weeks": 3,
+        "change": -39,
+        "theaters": 1720,
+        "poster": "https://resizing.flixster.com/yl5JN7R8Zb7ZuFbu4xFCxx-Npzs=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2Y5N2E5Yjc2LTEzNjEtNDhiYi05MWQ5LWQ3ODg4YzY2NzRhYi5qcGc=",
+        "rating": "R",
+        "genre": "Horror / Comedy",
+        "rt": {
+          "critics": 88,
+          "audience": 76
+        },
+        "imdb": null,
+        "boxofficemojo": "https://www.boxofficemojo.com/release/rl1101299713/",
+        "rottentomatoes": "https://www.rottentomatoes.com/m/buddy_2026",
+        "reviews": [
+          {
+            "source": "RogerEbert.com",
+            "quote": "It’s a trippy, ballsy, and genuinely entertaining package that shouldn’t work at all."
+          },
+          {
+            "source": "San Jose Mercury News",
+            "quote": "The voice cast — Keegan-Michael Key freaked me out as Buddy — is almost too good, and the young cast is strong, too."
+          },
+          {
+            "source": "New York Times",
+            "quote": "Look past some logical holes and desultory messages, and there’s a playfully twisted and unsparingly gory horror romp he..."
+          }
+        ]
+      },
+      {
+        "rank": 7,
+        "title": "Insidious: Out of the Further",
+        "runtime": 106,
+        "studio": "Sony Pictures Releasing",
+        "weekend": 3350000,
+        "total": 60529771,
+        "worldwide": 155229771,
+        "weeks": 4,
+        "change": -49,
+        "theaters": 2353,
+        "poster": "https://resizing.flixster.com/Lv7PBdDa3y9tPMgQQtTD143WPpo=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2U1MTA2NTUwLTEzZGEtNGY0ZC1iZjZmLTZmYjFhMjg0MWJhZC5qcGc=",
+        "rating": "PG-13",
+        "genre": "Horror / Mystery & Thriller",
+        "rt": {
+          "critics": 58,
+          "audience": 69
+        },
+        "imdb": null,
+        "boxofficemojo": "https://www.boxofficemojo.com/release/rl141197313/",
+        "rottentomatoes": "https://www.rottentomatoes.com/m/insidious_out_of_the_further",
+        "reviews": [
+          {
+            "source": "The Hollywood Reporter",
+            "quote": "After a while the film’s sustained creepiness gives way to self-parody, with all the grotesquely made-up performers port..."
+          },
+          {
+            "source": "Empire Magazine",
+            "quote": "The Insidious films may have offered diminishing returns since the original, but Out Of The Further is a decent instalme..."
+          },
+          {
+            "source": "New York Magazine/Vulture",
+            "quote": "Insidious: Out of the Further might be dumb and predictable in its broad strokes, but as a shock engine it’s occasionall..."
+          }
+        ]
+      },
+      {
+        "rank": 8,
+        "title": "Hope",
+        "runtime": 160,
+        "studio": "Neon",
+        "weekend": 3315000,
+        "total": 5010000,
+        "worldwide": 41258665,
+        "weeks": 1,
+        "change": null,
+        "theaters": 1560,
+        "poster": "https://resizing.flixster.com/RwjjB3RtYxPrTBa--yN1TmEWEiM=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzExNzBlYTg1LTA0ZmMtNGE4MS1iOTVmLWYxYzExNzRlZWYyZS5qcGc=",
+        "rating": "R",
+        "genre": "Horror / Action",
+        "rt": {
+          "critics": 80,
+          "audience": 79
+        },
+        "imdb": null,
+        "boxofficemojo": "https://www.boxofficemojo.com/release/rl3552477185/",
+        "rottentomatoes": "https://www.rottentomatoes.com/m/hope_2026",
+        "reviews": [
+          {
+            "source": "Chicago Reader",
+            "quote": "The fact that the movie barely ever slows down also helps it avoid feeling like a lesson that’s been taught a million ti..."
+          },
+          {
+            "source": "The Travers Take",
+            "quote": "Though you never really see them, Michael Fassbender and Alicia Vikander star in this blast of K terror that doesn’t lan..."
+          },
+          {
+            "source": "Empire Magazine",
+            "quote": "Do yourself a favour and surrender to this entertaining, unwieldy and goofy spectacle."
+          }
+        ]
+      },
+      {
+        "rank": 9,
+        "title": "The Uprising",
+        "runtime": 128,
+        "studio": "Focus Features",
+        "weekend": 3250000,
+        "total": 3250000,
+        "worldwide": 3250000,
+        "weeks": 1,
+        "change": null,
+        "theaters": 2068,
+        "poster": "https://resizing.flixster.com/xF71IwXWLu-_cx1dd_ZI_0BoSTo=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzNhMjI4ODljLTg2NjQtNDQxMy05MGQ5LWY3NjE5YmE4NGM3ZS5qcGc=",
+        "rating": "R",
+        "genre": "History / Drama",
+        "rt": {
+          "critics": 51,
+          "audience": 63
+        },
+        "imdb": null,
+        "boxofficemojo": "https://www.boxofficemojo.com/release/rl2644869121/",
+        "rottentomatoes": "https://www.rottentomatoes.com/m/the_uprising_2026",
+        "reviews": [
+          {
+            "source": "The New Yorker",
+            "quote": "Whatever Greengrass’s flaws as a spinner of historical tales, an uncertainty about exactly what story he’s telling has n..."
+          },
+          {
+            "source": "Globe and Mail",
+            "quote": "The Uprising is a morbid curiosity of a movie that makes one very bad decision right at the start and then keeps adding ..."
+          },
+          {
+            "source": "Chicago Reader",
+            "quote": "A movie that is as ideologically confused as it is dramatically inert."
+          }
+        ]
+      },
+      {
+        "rank": 10,
+        "title": "By Any Means",
+        "runtime": 107,
+        "studio": "Paramount Pictures",
+        "weekend": 2500000,
+        "total": 13487764,
+        "worldwide": 13980789,
+        "weeks": 2,
+        "change": -67,
+        "theaters": 2903,
+        "poster": "https://resizing.flixster.com/6-BZHALWpsZ3w364WY6BqIr-7C0=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzEyYjE0N2E3LTczN2EtNDExZi04ZmQ5LTFmOGU4MmQ0YmNmOC5qcGc=",
+        "rating": "R",
+        "genre": "Mystery & Thriller / Crime",
+        "rt": {
+          "critics": 47,
+          "audience": 88
+        },
+        "imdb": null,
+        "boxofficemojo": "https://www.boxofficemojo.com/release/rl564363265/",
+        "rottentomatoes": "https://www.rottentomatoes.com/m/by_any_means_2026",
+        "reviews": [
+          {
+            "source": "Mashable",
+            "quote": "By Any Means misses the mark as a movie with a mission."
+          },
+          {
+            "source": "The New Yorker",
+            "quote": "There's a tendency all too common in crime dramas that I'm tempted to call convenient incompetence..."
+          },
+          {
+            "source": "The Travers Take",
+            "quote": "This true-life crime story with more than a few Hollywood trimmings has Mark Whalberg and Yahya Abdul-Mateen II fighting..."
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": "2026-09-04",
     "label": "September 4–6, 2026",
     "movies": [
@@ -4752,372 +5118,6 @@
           {
             "source": "Irish Times",
             "quote": "The performers keep this peculiar train moving."
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": "2026-06-05",
-    "label": "June 5–7, 2026",
-    "movies": [
-      {
-        "rank": 1,
-        "title": "Scary Movie",
-        "runtime": 96,
-        "studio": "Paramount Pictures",
-        "weekend": 55000000,
-        "total": 55000000,
-        "worldwide": 105500000,
-        "weeks": 1,
-        "change": null,
-        "theaters": 3490,
-        "poster": "https://resizing.flixster.com/zCdAQoqRDqC8T6W4nTYy0HiVubs=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2VhNzk3ZjNiLTJhMmYtNGI5MC05MTMwLTdiNmRkYzRiN2RkMC5qcGc=",
-        "rating": "R",
-        "genre": "Comedy / Horror",
-        "rt": {
-          "critics": 24,
-          "audience": 65
-        },
-        "imdb": null,
-        "boxofficemojo": "https://www.boxofficemojo.com/release/rl4163403777/",
-        "rottentomatoes": "https://www.rottentomatoes.com/m/scary_movie_2026",
-        "reviews": [
-          {
-            "source": "The Ringer",
-            "quote": "The gentrification of genre is a real and consequential development, and yet the prevailing feeling watching the latest ..."
-          },
-          {
-            "source": "Salon.com",
-            "quote": "The new “Scary Movie” is stuck somewhere between then and now, with one foot in the early-millennial absurdism that spaw..."
-          },
-          {
-            "source": "New York Magazine/Vulture",
-            "quote": "We laugh because we’re defeated. That requires more effort than Scary Movie is usually willing to expend, but every once..."
-          }
-        ]
-      },
-      {
-        "rank": 2,
-        "title": "Masters of the Universe",
-        "runtime": 140,
-        "studio": "Amazon MGM Studios",
-        "weekend": 29308000,
-        "total": 29308000,
-        "worldwide": 54308000,
-        "weeks": 1,
-        "change": null,
-        "theaters": 3677,
-        "poster": "https://resizing.flixster.com/iu4y9SO5Ddzvr1YzqxQZAMC0lL4=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2Q4ZmQ0NDU5LTdlZjItNDc1My1iOTg3LWRlMmZkZDJlOTcxZC5qcGc=",
-        "rating": "PG-13",
-        "genre": "Adventure / Action",
-        "rt": {
-          "critics": 68,
-          "audience": 86
-        },
-        "imdb": null,
-        "boxofficemojo": "https://www.boxofficemojo.com/release/rl973309441/",
-        "rottentomatoes": "https://www.rottentomatoes.com/m/masters_of_the_universe_2026",
-        "reviews": [
-          {
-            "source": "San Jose Mercury News",
-            "quote": "It’s got the right cast and the right director; now it just needs to surrender to its cheesy outrageousness."
-          },
-          {
-            "source": "Observer (UK)",
-            "quote": "Hear that? That’s the sound of a barrel being scraped over in Hollywood."
-          },
-          {
-            "source": "New York Magazine/Vulture",
-            "quote": "Masters of the Universe belongs to no one — a project engineered at enormous cost from the needs of IP."
-          }
-        ]
-      },
-      {
-        "rank": 3,
-        "title": "Backrooms",
-        "runtime": 110,
-        "studio": "A24",
-        "weekend": 25942933,
-        "total": 135057858,
-        "worldwide": 212657858,
-        "weeks": 2,
-        "change": -68,
-        "theaters": 3565,
-        "poster": "https://resizing.flixster.com/rhgxSrAD0DJLjAa7CXGBQU5h81E=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2U3YzFlM2U0LWM1NzctNDg5Yy05M2Y4LTVmYWYxOTQyMDEyMy5qcGc=",
-        "rating": "R",
-        "genre": "Horror / Sci-Fi",
-        "rt": {
-          "critics": 88,
-          "audience": 74
-        },
-        "imdb": null,
-        "boxofficemojo": "https://www.boxofficemojo.com/release/rl747929601/",
-        "rottentomatoes": "https://www.rottentomatoes.com/m/backrooms",
-        "reviews": [
-          {
-            "source": "Slate",
-            "quote": "The Backrooms part of Backrooms is great, well-rendered, and incredibly unsettling."
-          },
-          {
-            "source": "DwightBrownInk.com",
-            "quote": "Scare the weak. Rattle the strong. Leave no one behind. This fright fest is a credit to the genre."
-          },
-          {
-            "source": "Ty Burr's Watch List (Substack)",
-            "quote": "The movie’s grip holds, even past the point where it’s clear no traditional explanation is coming to save the characters..."
-          }
-        ]
-      },
-      {
-        "rank": 4,
-        "title": "Obsession",
-        "runtime": 67,
-        "studio": "Focus Features",
-        "weekend": 25600000,
-        "total": 152131930,
-        "worldwide": 224795930,
-        "weeks": 4,
-        "change": -7,
-        "theaters": 2900,
-        "poster": "https://resizing.flixster.com/wciPMzUm5zbBhWKN24eGdoRfK8I=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzBlZDNhZmI5LTM3N2EtNGIyZC1iZTA5LTU0NzUyY2M2ZGYyYi5qcGc=",
-        "rating": "R",
-        "genre": "Mystery & Thriller",
-        "rt": {
-          "critics": 94,
-          "audience": 94
-        },
-        "imdb": null,
-        "boxofficemojo": "https://www.boxofficemojo.com/release/rl1660846081/",
-        "rottentomatoes": "https://www.rottentomatoes.com/m/obsession_2025",
-        "reviews": [
-          {
-            "source": "The Atlantic",
-            "quote": "At 26 years old, Barker is speaking directly to his own generation -- the moviegoing Zoomers -- by making a meal out of ..."
-          },
-          {
-            "source": "Filmspotting",
-            "quote": "That’s the whole concept and Barker’s insight. If you want to make someone love you above all else..."
-          },
-          {
-            "source": "Salon.com",
-            "quote": "Obsession desperately wants to be a modern film, but can’t do anything more bold than gesturing to the bleakness and inc..."
-          }
-        ]
-      },
-      {
-        "rank": 5,
-        "title": "The Amazing Digital Circus: The Last Act",
-        "runtime": 95,
-        "studio": "Fathom Entertainment",
-        "weekend": 11580000,
-        "total": 19470000,
-        "worldwide": 19470000,
-        "weeks": 1,
-        "change": null,
-        "theaters": 2221,
-        "poster": "https://resizing.flixster.com/SovMVfhLK4907zh63MxS6UCtE_s=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2RjYmQ2NzMwLTE1MTEtNDQ2Ny04OTRiLTdkNjVlYWE3NDA4My5wbmc=",
-        "rating": null,
-        "genre": "Kids & Family / Adventure",
-        "rt": {
-          "critics": 94,
-          "audience": 94
-        },
-        "imdb": null,
-        "boxofficemojo": "https://www.boxofficemojo.com/release/rl3903881217/",
-        "rottentomatoes": "https://www.rottentomatoes.com/m/the_amazing_digital_circus_the_last_act",
-        "reviews": [
-          {
-            "source": "TheWrap",
-            "quote": "A funny and frightening, heartwarming and heartbreaking, confrontational masterwork that explores our shared experience ..."
-          },
-          {
-            "source": "The Cosmic Circus",
-            "quote": "The Amazing Digital Circus‘s closing scenes exhibit the loveliness of remembering our roots."
-          },
-          {
-            "source": "Rachel's Reviews (YouTube)",
-            "quote": "Experimental and creative"
-          }
-        ]
-      },
-      {
-        "rank": 6,
-        "title": "Star Wars: The Mandalorian and Grogu",
-        "runtime": 132,
-        "studio": "Walt Disney Studios Motion Pictures",
-        "weekend": 10000000,
-        "total": 155822349,
-        "worldwide": 293622349,
-        "weeks": 3,
-        "change": -59,
-        "theaters": 3355,
-        "poster": "https://resizing.flixster.com/7VbCcCm-b4yZ4xnk-SAvyAUifVU=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzIxY2E4ZWVmLWE1MWEtNDk4Yi04YjkzLTgzN2VlYmM4MzQwYy5qcGc=",
-        "rating": "PG-13",
-        "genre": "Sci-Fi / Adventure",
-        "rt": {
-          "critics": 62,
-          "audience": 87
-        },
-        "imdb": null,
-        "boxofficemojo": "https://www.boxofficemojo.com/release/rl3294527489/",
-        "rottentomatoes": "https://www.rottentomatoes.com/m/star_wars_the_mandalorian_and_grogu",
-        "reviews": [
-          {
-            "source": "Los Angeles Times",
-            "quote": "If even the greatest master of contemporary cinema succumbed to the charms of the intergalactic mainstream, who are we t..."
-          },
-          {
-            "source": "Filmspotting",
-            "quote": "…offers gobs of heart, but is as soulless as Mandalorian steel."
-          },
-          {
-            "source": "Chicago Reader",
-            "quote": "The Mandalorian and Grogu is the first Star Wars movie to bring a Disney+ TV show to the big screen, and you can tell."
-          }
-        ]
-      },
-      {
-        "rank": 7,
-        "title": "Michael",
-        "runtime": 127,
-        "studio": "Lionsgate",
-        "weekend": 7700000,
-        "total": 354281424,
-        "worldwide": 888066424,
-        "weeks": 7,
-        "change": -35,
-        "theaters": 2636,
-        "poster": "https://resizing.flixster.com/hcHFyHYxNIIgMilY0mC2JoIhggk=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2JlYTIxNGM2LTkyZmEtNDJlMC05ODA4LWQ3YTBjYzE2MzQzNi5qcGc=",
-        "rating": "PG-13",
-        "genre": "Biography / Drama",
-        "rt": {
-          "critics": 39,
-          "audience": 97
-        },
-        "imdb": null,
-        "boxofficemojo": "https://www.boxofficemojo.com/release/rl1246593025/",
-        "rottentomatoes": "https://www.rottentomatoes.com/m/michael",
-        "reviews": [
-          {
-            "source": "Los Angeles Times",
-            "quote": "Michael is a work with high production values ​​whose ability to entertain makes it susceptible to being watched several..."
-          },
-          {
-            "source": "DwightBrownInk.com",
-            "quote": "You feel his presence, joy and music. Does the footage push biofilm genre boundaries? No."
-          },
-          {
-            "source": "FilmWeek (LAist)",
-            "quote": "A hokey, corny, safe, clichéd, sanitized look at Michael Jackson."
-          }
-        ]
-      },
-      {
-        "rank": 8,
-        "title": "The Breadwinner",
-        "runtime": 99,
-        "studio": "Sony Pictures Releasing",
-        "weekend": 3400000,
-        "total": 13838057,
-        "worldwide": 13838057,
-        "weeks": 2,
-        "change": -54,
-        "theaters": 3252,
-        "poster": "https://resizing.flixster.com/7U4YNl7cDO8mw5SNRnF6cpf0pRo=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2I1ZWY4YjMyLTAxNGMtNGJjNC1hYjVhLTBjMGI5MjFmOGM0MS5qcGc=",
-        "rating": "PG",
-        "genre": "Kids & Family / Comedy",
-        "rt": {
-          "critics": 20,
-          "audience": 86
-        },
-        "imdb": null,
-        "boxofficemojo": "https://www.boxofficemojo.com/release/rl4181426177/",
-        "rottentomatoes": "https://www.rottentomatoes.com/m/the_breadwinner_2026",
-        "reviews": [
-          {
-            "source": "The Atlantic",
-            "quote": "It’s as flat, simple, and static as possible."
-          },
-          {
-            "source": "Guardian",
-            "quote": "Regardless of the wisdom it tries to impart, no one here (save Forte) seems to be working very hard."
-          },
-          {
-            "source": "AARP Movies for Grownups",
-            "quote": "Silly, sincere and safe for the entire family, The Breadwinner is Mr. Mom for the smartphone generation."
-          }
-        ]
-      },
-      {
-        "rank": 9,
-        "title": "Pressure",
-        "runtime": 100,
-        "studio": "Focus Features",
-        "weekend": 3000000,
-        "total": 11152540,
-        "worldwide": 11204250,
-        "weeks": 2,
-        "change": -48,
-        "theaters": 1855,
-        "poster": "https://resizing.flixster.com/vSoBhL9C3wLF2sF4vN6nFkkT6RE=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzk2MTViZTc0LWM4MWQtNDYyYi05MWJkLWJjY2E2YWMwYThkYi5qcGc=",
-        "rating": "PG-13",
-        "genre": "History / Drama",
-        "rt": {
-          "critics": 87,
-          "audience": 95
-        },
-        "imdb": null,
-        "boxofficemojo": "https://www.boxofficemojo.com/release/rl1418493953/",
-        "rottentomatoes": "https://www.rottentomatoes.com/m/pressure_2026",
-        "reviews": [
-          {
-            "source": "Time Out",
-            "quote": "Pressure is less of a traditional war flick than a satisfying chamber piece about how people use and communicate informa..."
-          },
-          {
-            "source": "AARP Movies for Grownups",
-            "quote": "We all know how it turned out, but Pressure cranks up the dramatic stress in a character-driven saga that retells a less..."
-          },
-          {
-            "source": "Tribune News Service",
-            "quote": "\"Pressure\" is skillfully directed, sweeping us into this world with a kind of addictive immediacy."
-          }
-        ]
-      },
-      {
-        "rank": 10,
-        "title": "The Devil Wears Prada 2",
-        "runtime": 119,
-        "studio": "Walt Disney Studios Motion Pictures",
-        "weekend": 2800000,
-        "total": 214970934,
-        "worldwide": 663570934,
-        "weeks": 6,
-        "change": -52,
-        "theaters": 1800,
-        "poster": "https://resizing.flixster.com/nDyeWG-KIXjAvnuOzKB2sLzbaNI=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzZiNzQyMTM3LWMwMWEtNDcwZS1hYTNmLWIwZTRlOWU1ODcyOC5qcGc=",
-        "rating": "PG-13",
-        "genre": "Comedy / Drama",
-        "rt": {
-          "critics": 78,
-          "audience": 84
-        },
-        "imdb": null,
-        "boxofficemojo": "https://www.boxofficemojo.com/release/rl365461505/",
-        "rottentomatoes": "https://www.rottentomatoes.com/m/the_devil_wears_prada_2",
-        "reviews": [
-          {
-            "source": "Los Angeles Times",
-            "quote": "It's certainly a pleasure to see a cast back in action who, despite the passage of two decades, remain in top form and a..."
-          },
-          {
-            "source": "Sight & Sound",
-            "quote": "The film can’t pull off its wishful combination of an industry’s existential crisis, and a fairytale ending."
-          },
-          {
-            "source": "Filmspotting",
-            "quote": "Streep is stuck playing a de-fanged Miranda Priestly."
           }
         ]
       }
