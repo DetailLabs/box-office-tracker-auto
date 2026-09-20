@@ -1235,7 +1235,8 @@
       19.5,
       14.3,
       13,
-      7.4
+      7.4,
+      4.9
     ],
     "worldwide": [
       264.1,
@@ -1246,7 +1247,8 @@
       1446.2,
       1552.6,
       1631.5,
-      1684.4
+      1684.4,
+      1721.3
     ]
   },
   "Hadestown: The Musical": {
@@ -1275,7 +1277,8 @@
       39,
       22.2,
       18,
-      8.4
+      8.4,
+      6.5
     ],
     "worldwide": [
       927,
@@ -1284,7 +1287,8 @@
       2219.9,
       2332.5,
       2408.1,
-      2451.2
+      2451.2,
+      2478.5
     ]
   },
   "I Want Your Sex": {
@@ -1457,12 +1461,14 @@
     "domestic": [
       15.5,
       11.3,
-      6.2
+      6.2,
+      4.5
     ],
     "worldwide": [
       15.5,
       44.3,
-      65
+      65,
+      79.8
     ]
   },
   "The Dog Stars": {
@@ -1479,12 +1485,14 @@
     "domestic": [
       5.4,
       5.7,
-      3.5
+      3.5,
+      1.9
     ],
     "worldwide": [
       5.4,
       15.7,
-      21.3
+      21.3,
+      24.8
     ]
   },
   "By Any Means": {
@@ -1507,18 +1515,22 @@
   },
   "Practical Magic 2": {
     "domestic": [
-      30
+      30,
+      12.2
     ],
     "worldwide": [
-      46
+      46,
+      76.8
     ]
   },
   "Runner": {
     "domestic": [
-      6.4
+      6.4,
+      3.2
     ],
     "worldwide": [
-      6.4
+      6.4,
+      13.1
     ]
   },
   "Hope": {
@@ -1535,6 +1547,38 @@
     ],
     "worldwide": [
       3.3
+    ]
+  },
+  "Resident Evil": {
+    "domestic": [
+      60
+    ],
+    "worldwide": [
+      108.3
+    ]
+  },
+  "Daniel and the Fiery Furnace": {
+    "domestic": [
+      3.1
+    ],
+    "worldwide": [
+      3.1
+    ]
+  },
+  "The Transformers: The Movie": {
+    "domestic": [
+      3.1
+    ],
+    "worldwide": [
+      4.2
+    ]
+  },
+  "The Weight": {
+    "domestic": [
+      2.3
+    ],
+    "worldwide": [
+      2.3
     ]
   }
 }
