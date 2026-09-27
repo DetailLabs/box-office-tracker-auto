@@ -1236,7 +1236,8 @@
       14.3,
       13,
       7.4,
-      4.9
+      4.9,
+      3.7
     ],
     "worldwide": [
       264.1,
@@ -1248,7 +1249,8 @@
       1552.6,
       1631.5,
       1684.4,
-      1721.3
+      1721.3,
+      1751.2
     ]
   },
   "Hadestown: The Musical": {
@@ -1278,7 +1280,8 @@
       22.2,
       18,
       8.4,
-      6.5
+      6.5,
+      4.1
     ],
     "worldwide": [
       927,
@@ -1288,7 +1291,8 @@
       2332.5,
       2408.1,
       2451.2,
-      2478.5
+      2478.5,
+      2495.7
     ]
   },
   "I Want Your Sex": {
@@ -1462,13 +1466,15 @@
       15.5,
       11.3,
       6.2,
-      4.5
+      4.5,
+      1.9
     ],
     "worldwide": [
       15.5,
       44.3,
       65,
-      79.8
+      79.8,
+      88
     ]
   },
   "The Dog Stars": {
@@ -1516,11 +1522,13 @@
   "Practical Magic 2": {
     "domestic": [
       30,
-      12.2
+      12.2,
+      5.7
     ],
     "worldwide": [
       46,
-      76.8
+      76.8,
+      92.4
     ]
   },
   "Runner": {
@@ -1551,18 +1559,22 @@
   },
   "Resident Evil": {
     "domestic": [
-      60
+      60,
+      23.3
     ],
     "worldwide": [
-      108.3
+      108.3,
+      196.5
     ]
   },
   "Daniel and the Fiery Furnace": {
     "domestic": [
-      3.1
+      3.1,
+      1.5
     ],
     "worldwide": [
-      3.1
+      3.1,
+      6.2
     ]
   },
   "The Transformers: The Movie": {
@@ -1579,6 +1591,38 @@
     ],
     "worldwide": [
       2.3
+    ]
+  },
+  "Avengers Endgame: Encore": {
+    "domestic": [
+      26
+    ],
+    "worldwide": [
+      86
+    ]
+  },
+  "Heart of the Beast": {
+    "domestic": [
+      20
+    ],
+    "worldwide": [
+      50.1
+    ]
+  },
+  "Primetime": {
+    "domestic": [
+      19.2
+    ],
+    "worldwide": [
+      19.2
+    ]
+  },
+  "Forgotten Island": {
+    "domestic": [
+      12.8
+    ],
+    "worldwide": [
+      20.6
     ]
   }
 }
