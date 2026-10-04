@@ -1281,7 +1281,8 @@
       18,
       8.4,
       6.5,
-      4.1
+      4.1,
+      2.5
     ],
     "worldwide": [
       927,
@@ -1292,7 +1293,8 @@
       2408.1,
       2451.2,
       2478.5,
-      2495.7
+      2495.7,
+      2505.5
     ]
   },
   "I Want Your Sex": {
@@ -1523,12 +1525,14 @@
     "domestic": [
       30,
       12.2,
-      5.7
+      5.7,
+      2.7
     ],
     "worldwide": [
       46,
       76.8,
-      92.4
+      92.4,
+      100
     ]
   },
   "Runner": {
@@ -1560,11 +1564,13 @@
   "Resident Evil": {
     "domestic": [
       60,
-      23.3
+      23.3,
+      12.5
     ],
     "worldwide": [
       108.3,
-      196.5
+      196.5,
+      245.4
     ]
   },
   "Daniel and the Fiery Furnace": {
@@ -1595,34 +1601,66 @@
   },
   "Avengers Endgame: Encore": {
     "domestic": [
-      26
+      26,
+      4.4
     ],
     "worldwide": [
-      86
+      86,
+      126
     ]
   },
   "Heart of the Beast": {
     "domestic": [
-      20
+      20,
+      11
     ],
     "worldwide": [
-      50.1
+      50.1,
+      98.7
     ]
   },
   "Primetime": {
     "domestic": [
-      19.2
+      19.2,
+      8
     ],
     "worldwide": [
-      19.2
+      19.2,
+      34.1
     ]
   },
   "Forgotten Island": {
     "domestic": [
-      12.8
+      12.8,
+      7.2
     ],
     "worldwide": [
-      20.6
+      20.6,
+      38.5
+    ]
+  },
+  "Verity": {
+    "domestic": [
+      32.6
+    ],
+    "worldwide": [
+      62.6
+    ]
+  },
+  "Digger": {
+    "domestic": [
+      8
+    ],
+    "worldwide": [
+      20
+    ]
+  },
+  "Drishyam: The Conclusion": {
+    "domestic": [
+      2.7
+    ],
+    "worldwide": [
+      2.7
     ]
   }
 }
