@@ -1570,13 +1570,15 @@
       60,
       23.3,
       12.5,
-      8.3
+      8.3,
+      5.5
     ],
     "worldwide": [
       108.3,
       196.5,
       245.4,
-      320.2
+      320.2,
+      361.2
     ]
   },
   "Daniel and the Fiery Furnace": {
@@ -1619,12 +1621,14 @@
     "domestic": [
       20,
       11,
-      7.1
+      7.1,
+      4.8
     ],
     "worldwide": [
       50.1,
       98.7,
-      131.4
+      131.4,
+      155.5
     ]
   },
   "Primetime": {
@@ -1643,22 +1647,26 @@
     "domestic": [
       12.8,
       7.2,
-      4.5
+      4.5,
+      2.3
     ],
     "worldwide": [
       20.6,
       38.5,
-      50.2
+      50.2,
+      60.3
     ]
   },
   "Verity": {
     "domestic": [
       32.6,
-      11.5
+      11.5,
+      6.2
     ],
     "worldwide": [
       62.6,
-      114
+      114,
+      145.3
     ]
   },
   "Digger": {
@@ -1681,10 +1689,12 @@
   },
   "Other Mommy": {
     "domestic": [
-      27.5
+      27.5,
+      8.3
     ],
     "worldwide": [
-      45.2
+      45.2,
+      78.8
     ]
   },
   "The Social Reckoning": {
@@ -1701,6 +1711,46 @@
     ],
     "worldwide": [
       2.1
+    ]
+  },
+  "Street Fighter": {
+    "domestic": [
+      31
+    ],
+    "worldwide": [
+      51.1
+    ]
+  },
+  "You Can See Everything": {
+    "domestic": [
+      15
+    ],
+    "worldwide": [
+      15
+    ]
+  },
+  "Whalefall": {
+    "domestic": [
+      8
+    ],
+    "worldwide": [
+      17.5
+    ]
+  },
+  "Sense and Sensibility": {
+    "domestic": [
+      7.3
+    ],
+    "worldwide": [
+      18.5
+    ]
+  },
+  "Jailer 2": {
+    "domestic": [
+      3.3
+    ],
+    "worldwide": [
+      3.3
     ]
   }
 }
