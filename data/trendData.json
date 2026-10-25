@@ -1661,12 +1661,14 @@
     "domestic": [
       32.6,
       11.5,
-      6.2
+      6.2,
+      3.1
     ],
     "worldwide": [
       62.6,
       114,
-      145.3
+      145.3,
+      162.7
     ]
   },
   "Digger": {
@@ -1690,11 +1692,13 @@
   "Other Mommy": {
     "domestic": [
       27.5,
-      8.3
+      8.3,
+      3.9
     ],
     "worldwide": [
       45.2,
-      78.8
+      78.8,
+      94.9
     ]
   },
   "The Social Reckoning": {
@@ -1715,34 +1719,42 @@
   },
   "Street Fighter": {
     "domestic": [
-      31
+      31,
+      8.6
     ],
     "worldwide": [
-      51.1
+      51.1,
+      79.6
     ]
   },
   "You Can See Everything": {
     "domestic": [
-      15
+      15,
+      19.5
     ],
     "worldwide": [
-      15
+      15,
+      45.1
     ]
   },
   "Whalefall": {
     "domestic": [
-      8
+      8,
+      3.2
     ],
     "worldwide": [
-      17.5
+      17.5,
+      31.3
     ]
   },
   "Sense and Sensibility": {
     "domestic": [
-      7.3
+      7.3,
+      3.4
     ],
     "worldwide": [
-      18.5
+      18.5,
+      29.4
     ]
   },
   "Jailer 2": {
@@ -1751,6 +1763,38 @@
     ],
     "worldwide": [
       3.3
+    ]
+  },
+  "Clayface": {
+    "domestic": [
+      24
+    ],
+    "worldwide": [
+      43
+    ]
+  },
+  "Wildwood": {
+    "domestic": [
+      11.6
+    ],
+    "worldwide": [
+      11.6
+    ]
+  },
+  "Wicker": {
+    "domestic": [
+      5.8
+    ],
+    "worldwide": [
+      5.8
+    ]
+  },
+  "HYBE Cine Fest 2026": {
+    "domestic": [
+      4.5
+    ],
+    "worldwide": [
+      4.5
     ]
   }
 }
